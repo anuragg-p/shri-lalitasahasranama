@@ -19,17 +19,30 @@ function extractNamesFromSanskrit(sanskritText) {
   const lines = sanskritText.split('\n');
   const names = [];
   let nameNumber = 1;
+  let isFirstLine = true;
+
+  // Function to check if a token contains only numerals (Devanagari or Arabic)
+  /**
+   * @param {string} token
+   * @returns {boolean}
+   */
+  function isOnlyNumerals(token) {
+    const cleaned = token.trim();
+    if (!cleaned) return true;
+    // Check if all characters are either Devanagari or Arabic numerals
+    return /^[०-९\d]+$/.test(cleaned);
+  }
 
   for (const line of lines) {
     const trimmed = line.trim();
-    if (!trimmed || trimmed.startsWith('॥') || /^इति/.test(trimmed)) {
+    // Skip empty lines
+    if (!trimmed) {
       continue;
     }
 
-    // Remove verse numbers and dandas
+    // Remove all content in parentheses (both alternate readings and verse numbers like (1), (दशनच्छदा))
     const cleaned = trimmed
-      .replace(/॥\s*\d+\s*॥/g, '')
-      .replace(/[।]/g, ' ')
+      .replace(/\([^)]*\)/g, '')  // Remove all parenthetical content
       .replace(/\s+/g, ' ')
       .trim();
 
@@ -39,8 +52,20 @@ function extractNamesFromSanskrit(sanskritText) {
     const tokens = cleaned.split(/\s+/).filter(t => t && t.length > 0);
 
     for (const token of tokens) {
+      // Special case: Skip the first word "ॐ" (Om)
+      if (isFirstLine && token === 'ॐ') {
+        isFirstLine = false;
+        continue;
+      }
+      
+      // Mark that we've processed the first line
+      if (isFirstLine) {
+        isFirstLine = false;
+      }
+
       // Skip very short tokens that are likely punctuation
-      if (token.length >= 2) {
+      // Skip tokens that are only numerals (Devanagari or Arabic)
+      if (token.length >= 2 && !isOnlyNumerals(token)) {
         names.push({
           number: nameNumber++,
           devanagari: token,
@@ -174,6 +199,13 @@ async function main() {
     const names = extractNamesFromSanskrit(sanskritText);
 
     console.log(`Extracted ${names.length} names from sanskrit.txt`);
+    
+    // Verify we have exactly 1000 names
+    if (names.length === 1000) {
+      console.log('✅ Verified: Exactly 1000 names extracted');
+    } else {
+      console.warn(`⚠️  Warning: Expected 1000 names, but found ${names.length}`);
+    }
 
     // Read all JSON files from commentaries-json directory
     /** @type {Record<string, Record<string, string>>} */

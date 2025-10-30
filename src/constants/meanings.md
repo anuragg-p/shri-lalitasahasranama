@@ -235,56 +235,9 @@ This name [needs composition summary].
 
 # NAME 6
 
-> १॥  
-> १॥  
+> उद्यद्भानु-सहस्राभा  
+> उद्यद्भानु-सहस्राभा  
 > ॥ 6 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १॥
-- **Breakdown**: `१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 7
-
-> उद्यद्भानु-सहस्राभा  
-> उद्यद्भानु-सहस्राभा  
-> ॥ 7 ॥
 
 ---
 
@@ -327,11 +280,11 @@ This name [needs composition summary].
 
 
 
-# NAME 8
+# NAME 7
 
 > चतुर्बाहु-समन्विता  
 > चतुर्बाहु-समन्विता  
-> ॥ 8 ॥
+> ॥ 7 ॥
 
 ---
 
@@ -374,11 +327,11 @@ This name [needs composition summary].
 
 
 
-# NAME 9
+# NAME 8
 
 > रागस्वरूप-पाशाढ्या  
 > रागस्वरूप-पाशाढ्या  
-> ॥ 9 ॥
+> ॥ 8 ॥
 
 ---
 
@@ -421,11 +374,11 @@ This name [needs composition summary].
 
 
 
-# NAME 10
+# NAME 9
 
 > क्रोधाकाराङ्कुशोज्ज्वला  
 > क्रोधाकाराङ्कुशोज्ज्वला  
-> ॥ 10 ॥
+> ॥ 9 ॥
 
 ---
 
@@ -468,58 +421,11 @@ This name [needs composition summary].
 
 
 
-# NAME 11
-
-> २॥  
-> २॥  
-> ॥ 11 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| २॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### २॥
-- **Breakdown**: `२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 12
+# NAME 10
 
 > मनोरूपेक्षु-कोदण्डा  
 > मनोरूपेक्षु-कोदण्डा  
-> ॥ 12 ॥
+> ॥ 10 ॥
 
 ---
 
@@ -562,11 +468,11 @@ This name [needs composition summary].
 
 
 
-# NAME 13
+# NAME 11
 
 > पञ्चतन्मात्र-सायका  
 > पञ्चतन्मात्र-सायका  
-> ॥ 13 ॥
+> ॥ 11 ॥
 
 ---
 
@@ -609,11 +515,11 @@ This name [needs composition summary].
 
 
 
-# NAME 14
+# NAME 12
 
 > निजारुण-प्रभापूर-मज्जद्ब्रह्माण्ड-मण्डला  
 > निजारुण-प्रभापूर-मज्जद्ब्रह्माण्ड-मण्डला  
-> ॥ 14 ॥
+> ॥ 12 ॥
 
 ---
 
@@ -656,58 +562,11 @@ This name [needs composition summary].
 
 
 
-# NAME 15
-
-> ३॥  
-> ३॥  
-> ॥ 15 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ३॥
-- **Breakdown**: `३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 16
+# NAME 13
 
 > चम्पकाशोक-पुन्नाग-सौगन्धिक-लसत्कचा  
 > चम्पकाशोक-पुन्नाग-सौगन्धिक-लसत्कचा  
-> ॥ 16 ॥
+> ॥ 13 ॥
 
 ---
 
@@ -750,11 +609,11 @@ This name [needs composition summary].
 
 
 
-# NAME 17
+# NAME 14
 
 > कुरुविन्दमणि-श्रेणी-कनत्कोटीर-मण्डिता  
 > कुरुविन्दमणि-श्रेणी-कनत्कोटीर-मण्डिता  
-> ॥ 17 ॥
+> ॥ 14 ॥
 
 ---
 
@@ -797,58 +656,11 @@ This name [needs composition summary].
 
 
 
-# NAME 18
-
-> ४॥  
-> ४॥  
-> ॥ 18 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ४॥
-- **Breakdown**: `४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 19
+# NAME 15
 
 > अष्टमीचन्द्र-विभ्राज-दलिकस्थल-शोभिता  
 > अष्टमीचन्द्र-विभ्राज-दलिकस्थल-शोभिता  
-> ॥ 19 ॥
+> ॥ 15 ॥
 
 ---
 
@@ -891,11 +703,11 @@ This name [needs composition summary].
 
 
 
-# NAME 20
+# NAME 16
 
 > मुखचन्द्र-कलङ्काभ-मृगनाभि-विशेषका  
 > मुखचन्द्र-कलङ्काभ-मृगनाभि-विशेषका  
-> ॥ 20 ॥
+> ॥ 16 ॥
 
 ---
 
@@ -938,58 +750,11 @@ This name [needs composition summary].
 
 
 
-# NAME 21
-
-> ५॥  
-> ५॥  
-> ॥ 21 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ५॥
-- **Breakdown**: `५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 22
+# NAME 17
 
 > वदनस्मर-माङ्गल्य-गृहतोरण-चिल्लिका  
 > वदनस्मर-माङ्गल्य-गृहतोरण-चिल्लिका  
-> ॥ 22 ॥
+> ॥ 17 ॥
 
 ---
 
@@ -1032,11 +797,11 @@ This name [needs composition summary].
 
 
 
-# NAME 23
+# NAME 18
 
 > वक्त्रलक्ष्मी-परीवाह-चलन्मीनाभ-लोचना  
 > वक्त्रलक्ष्मी-परीवाह-चलन्मीनाभ-लोचना  
-> ॥ 23 ॥
+> ॥ 18 ॥
 
 ---
 
@@ -1079,58 +844,11 @@ This name [needs composition summary].
 
 
 
-# NAME 24
-
-> ६॥  
-> ६॥  
-> ॥ 24 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ६॥
-- **Breakdown**: `६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 25
+# NAME 19
 
 > नवचम्पक-पुष्पाभ-नासादण्ड-विराजिता  
 > नवचम्पक-पुष्पाभ-नासादण्ड-विराजिता  
-> ॥ 25 ॥
+> ॥ 19 ॥
 
 ---
 
@@ -1173,11 +891,11 @@ This name [needs composition summary].
 
 
 
-# NAME 26
+# NAME 20
 
 > ताराकान्ति-तिरस्कारि-नासाभरण-भासुरा  
 > ताराकान्ति-तिरस्कारि-नासाभरण-भासुरा  
-> ॥ 26 ॥
+> ॥ 20 ॥
 
 ---
 
@@ -1220,58 +938,11 @@ This name [needs composition summary].
 
 
 
-# NAME 27
-
-> ७॥  
-> ७॥  
-> ॥ 27 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ७॥
-- **Breakdown**: `७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 28
+# NAME 21
 
 > कदम्बमञ्जरी-कॢप्त-कर्णपूर-मनोहरा  
 > कदम्बमञ्जरी-कॢप्त-कर्णपूर-मनोहरा  
-> ॥ 28 ॥
+> ॥ 21 ॥
 
 ---
 
@@ -1314,11 +985,11 @@ This name [needs composition summary].
 
 
 
-# NAME 29
+# NAME 22
 
 > ताटङ्क-युगली-भूत-तपनोडुप-मण्डला  
 > ताटङ्क-युगली-भूत-तपनोडुप-मण्डला  
-> ॥ 29 ॥
+> ॥ 22 ॥
 
 ---
 
@@ -1361,58 +1032,11 @@ This name [needs composition summary].
 
 
 
-# NAME 30
-
-> ८॥  
-> ८॥  
-> ॥ 30 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ८॥
-- **Breakdown**: `८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 31
+# NAME 23
 
 > पद्मराग-शिलादर्श-परिभावि-कपोलभूः  
 > पद्मराग-शिलादर्श-परिभावि-कपोलभूः  
-> ॥ 31 ॥
+> ॥ 23 ॥
 
 ---
 
@@ -1455,11 +1079,11 @@ This name [needs composition summary].
 
 
 
-# NAME 32
+# NAME 24
 
 > नवविद्रुम-बिम्बश्री-न्यक्कारि-रदनच्छदा  
 > नवविद्रुम-बिम्बश्री-न्यक्कारि-रदनच्छदा  
-> ॥ 32 ॥
+> ॥ 24 ॥
 
 ---
 
@@ -1502,105 +1126,11 @@ This name [needs composition summary].
 
 
 
-# NAME 33
-
-> ९॥  
-> ९॥  
-> ॥ 33 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ९॥
-- **Breakdown**: `९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 34
-
-> (दशनच्छदा)  
-> (दशनच्छदा)  
-> ॥ 34 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| (दशनच्छदा) | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### (दशनच्छदा)
-- **Breakdown**: `(दशनच्छदा)`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **(दशनच्छदा)** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 35
+# NAME 25
 
 > शुद्ध-विद्याङ्कुराकार-द्विजपङ्क्ति-द्वयोज्ज्वला  
 > शुद्ध-विद्याङ्कुराकार-द्विजपङ्क्ति-द्वयोज्ज्वला  
-> ॥ 35 ॥
+> ॥ 25 ॥
 
 ---
 
@@ -1643,11 +1173,11 @@ This name [needs composition summary].
 
 
 
-# NAME 36
+# NAME 26
 
 > कर्पूर-वीटिकामोद-समाकर्षि-दिगन्तरा  
 > कर्पूर-वीटिकामोद-समाकर्षि-दिगन्तरा  
-> ॥ 36 ॥
+> ॥ 26 ॥
 
 ---
 
@@ -1690,58 +1220,11 @@ This name [needs composition summary].
 
 
 
-# NAME 37
-
-> १०॥  
-> १०॥  
-> ॥ 37 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १०॥
-- **Breakdown**: `१०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 38
+# NAME 27
 
 > निज-सल्लाप-माधुर्य-विनिर्भर्त्सित-कच्छपी  
 > निज-सल्लाप-माधुर्य-विनिर्भर्त्सित-कच्छपी  
-> ॥ 38 ॥
+> ॥ 27 ॥
 
 ---
 
@@ -1784,58 +1267,11 @@ This name [needs composition summary].
 
 
 
-# NAME 39
-
-> (निज-संलाप)  
-> (निज-संलाप)  
-> ॥ 39 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| (निज-संलाप) | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### (निज-संलाप)
-- **Breakdown**: `(निज-संलाप)`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **(निज-संलाप)** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 40
+# NAME 28
 
 > मन्दस्मित-प्रभापूर-मज्जत्कामेश-मानसा  
 > मन्दस्मित-प्रभापूर-मज्जत्कामेश-मानसा  
-> ॥ 40 ॥
+> ॥ 28 ॥
 
 ---
 
@@ -1878,58 +1314,11 @@ This name [needs composition summary].
 
 
 
-# NAME 41
-
-> ११॥  
-> ११॥  
-> ॥ 41 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ११॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ११॥
-- **Breakdown**: `११॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **११॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 42
+# NAME 29
 
 > अनाकलित-सादृश्य-चिबुकश्री-विराजिता  
 > अनाकलित-सादृश्य-चिबुकश्री-विराजिता  
-> ॥ 42 ॥
+> ॥ 29 ॥
 
 ---
 
@@ -1972,58 +1361,11 @@ This name [needs composition summary].
 
 
 
-# NAME 43
-
-> (चुबुकश्री)  
-> (चुबुकश्री)  
-> ॥ 43 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| (चुबुकश्री) | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### (चुबुकश्री)
-- **Breakdown**: `(चुबुकश्री)`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **(चुबुकश्री)** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 44
+# NAME 30
 
 > कामेश-बद्ध-माङ्गल्य-सूत्र-शोभित-कन्धरा  
 > कामेश-बद्ध-माङ्गल्य-सूत्र-शोभित-कन्धरा  
-> ॥ 44 ॥
+> ॥ 30 ॥
 
 ---
 
@@ -2066,58 +1408,11 @@ This name [needs composition summary].
 
 
 
-# NAME 45
-
-> १२॥  
-> १२॥  
-> ॥ 45 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १२॥
-- **Breakdown**: `१२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 46
+# NAME 31
 
 > कनकाङ्गद-केयूर-कमनीय-भुजान्विता  
 > कनकाङ्गद-केयूर-कमनीय-भुजान्विता  
-> ॥ 46 ॥
+> ॥ 31 ॥
 
 ---
 
@@ -2160,11 +1455,11 @@ This name [needs composition summary].
 
 
 
-# NAME 47
+# NAME 32
 
 > रत्नग्रैवेय-चिन्ताक-लोल-मुक्ता-फलान्विता  
 > रत्नग्रैवेय-चिन्ताक-लोल-मुक्ता-फलान्विता  
-> ॥ 47 ॥
+> ॥ 32 ॥
 
 ---
 
@@ -2207,58 +1502,11 @@ This name [needs composition summary].
 
 
 
-# NAME 48
-
-> १३॥  
-> १३॥  
-> ॥ 48 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १३॥
-- **Breakdown**: `१३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 49
+# NAME 33
 
 > कामेश्वर-प्रेमरत्न-मणि-प्रतिपण-स्तनी  
 > कामेश्वर-प्रेमरत्न-मणि-प्रतिपण-स्तनी  
-> ॥ 49 ॥
+> ॥ 33 ॥
 
 ---
 
@@ -2301,11 +1549,11 @@ This name [needs composition summary].
 
 
 
-# NAME 50
+# NAME 34
 
 > नाभ्यालवाल-रोमालि-लता-फल-कुचद्वयी  
 > नाभ्यालवाल-रोमालि-लता-फल-कुचद्वयी  
-> ॥ 50 ॥
+> ॥ 34 ॥
 
 ---
 
@@ -2348,58 +1596,11 @@ This name [needs composition summary].
 
 
 
-# NAME 51
-
-> १४॥  
-> १४॥  
-> ॥ 51 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १४॥
-- **Breakdown**: `१४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 52
+# NAME 35
 
 > लक्ष्यरोम-लताधारता-समुन्नेय-मध्यमा  
 > लक्ष्यरोम-लताधारता-समुन्नेय-मध्यमा  
-> ॥ 52 ॥
+> ॥ 35 ॥
 
 ---
 
@@ -2442,11 +1643,11 @@ This name [needs composition summary].
 
 
 
-# NAME 53
+# NAME 36
 
 > स्तनभार-दलन्मध्य-पट्टबन्ध-वलित्रया  
 > स्तनभार-दलन्मध्य-पट्टबन्ध-वलित्रया  
-> ॥ 53 ॥
+> ॥ 36 ॥
 
 ---
 
@@ -2489,58 +1690,11 @@ This name [needs composition summary].
 
 
 
-# NAME 54
-
-> १५॥  
-> १५॥  
-> ॥ 54 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १५॥
-- **Breakdown**: `१५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 55
+# NAME 37
 
 > अरुणारुण-कौसुम्भ-वस्त्र-भास्वत्-कटीतटी  
 > अरुणारुण-कौसुम्भ-वस्त्र-भास्वत्-कटीतटी  
-> ॥ 55 ॥
+> ॥ 37 ॥
 
 ---
 
@@ -2583,11 +1737,11 @@ This name [needs composition summary].
 
 
 
-# NAME 56
+# NAME 38
 
 > रत्न-किङ्किणिका-रम्य-रशना-दाम-भूषिता  
 > रत्न-किङ्किणिका-रम्य-रशना-दाम-भूषिता  
-> ॥ 56 ॥
+> ॥ 38 ॥
 
 ---
 
@@ -2630,58 +1784,11 @@ This name [needs composition summary].
 
 
 
-# NAME 57
-
-> १६॥  
-> १६॥  
-> ॥ 57 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १६॥
-- **Breakdown**: `१६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 58
+# NAME 39
 
 > कामेश-ज्ञात-सौभाग्य-मार्दवोरु-द्वयान्विता  
 > कामेश-ज्ञात-सौभाग्य-मार्दवोरु-द्वयान्विता  
-> ॥ 58 ॥
+> ॥ 39 ॥
 
 ---
 
@@ -2724,11 +1831,11 @@ This name [needs composition summary].
 
 
 
-# NAME 59
+# NAME 40
 
 > माणिक्य-मुकुटाकार-जानुद्वय-विराजिता  
 > माणिक्य-मुकुटाकार-जानुद्वय-विराजिता  
-> ॥ 59 ॥
+> ॥ 40 ॥
 
 ---
 
@@ -2771,58 +1878,11 @@ This name [needs composition summary].
 
 
 
-# NAME 60
-
-> १७॥  
-> १७॥  
-> ॥ 60 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १७॥
-- **Breakdown**: `१७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 61
+# NAME 41
 
 > इन्द्रगोप-परिक्षिप्त-स्मरतूणाभ-जङ्घिका  
 > इन्द्रगोप-परिक्षिप्त-स्मरतूणाभ-जङ्घिका  
-> ॥ 61 ॥
+> ॥ 41 ॥
 
 ---
 
@@ -2865,11 +1925,11 @@ This name [needs composition summary].
 
 
 
-# NAME 62
+# NAME 42
 
 > गूढगुल्फा  
 > गूढगुल्फा  
-> ॥ 62 ॥
+> ॥ 42 ॥
 
 ---
 
@@ -2912,11 +1972,11 @@ This name [needs composition summary].
 
 
 
-# NAME 63
+# NAME 43
 
 > कूर्मपृष्ठ-जयिष्णु-प्रपदान्विता  
 > कूर्मपृष्ठ-जयिष्णु-प्रपदान्विता  
-> ॥ 63 ॥
+> ॥ 43 ॥
 
 ---
 
@@ -2959,58 +2019,11 @@ This name [needs composition summary].
 
 
 
-# NAME 64
-
-> १८॥  
-> १८॥  
-> ॥ 64 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १८॥
-- **Breakdown**: `१८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 65
+# NAME 44
 
 > नख-दीधिति-संछन्न-नमज्जन-तमोगुणा  
 > नख-दीधिति-संछन्न-नमज्जन-तमोगुणा  
-> ॥ 65 ॥
+> ॥ 44 ॥
 
 ---
 
@@ -3053,11 +2066,11 @@ This name [needs composition summary].
 
 
 
-# NAME 66
+# NAME 45
 
 > पदद्वय-प्रभाजाल-पराकृत-सरोरुहा  
 > पदद्वय-प्रभाजाल-पराकृत-सरोरुहा  
-> ॥ 66 ॥
+> ॥ 45 ॥
 
 ---
 
@@ -3100,58 +2113,11 @@ This name [needs composition summary].
 
 
 
-# NAME 67
-
-> १९॥  
-> १९॥  
-> ॥ 67 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १९॥
-- **Breakdown**: `१९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 68
+# NAME 46
 
 > सिञ्जान-मणिमञ्जीर-मण्डित-श्री-पदाम्बुजा  
 > सिञ्जान-मणिमञ्जीर-मण्डित-श्री-पदाम्बुजा  
-> ॥ 68 ॥
+> ॥ 46 ॥
 
 ---
 
@@ -3194,58 +2160,11 @@ This name [needs composition summary].
 
 
 
-# NAME 69
-
-> (शिञ्जान)  
-> (शिञ्जान)  
-> ॥ 69 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| (शिञ्जान) | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### (शिञ्जान)
-- **Breakdown**: `(शिञ्जान)`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **(शिञ्जान)** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 70
+# NAME 47
 
 > मराली-मन्दगमना  
 > मराली-मन्दगमना  
-> ॥ 70 ॥
+> ॥ 47 ॥
 
 ---
 
@@ -3288,11 +2207,11 @@ This name [needs composition summary].
 
 
 
-# NAME 71
+# NAME 48
 
 > महालावण्य-शेवधिः  
 > महालावण्य-शेवधिः  
-> ॥ 71 ॥
+> ॥ 48 ॥
 
 ---
 
@@ -3335,58 +2254,11 @@ This name [needs composition summary].
 
 
 
-# NAME 72
-
-> २०॥  
-> २०॥  
-> ॥ 72 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| २०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### २०॥
-- **Breakdown**: `२०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **२०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 73
+# NAME 49
 
 > सर्वारुणाऽनवद्याङ्गी  
 > सर्वारुणाऽनवद्याङ्गी  
-> ॥ 73 ॥
+> ॥ 49 ॥
 
 ---
 
@@ -3429,11 +2301,11 @@ This name [needs composition summary].
 
 
 
-# NAME 74
+# NAME 50
 
 > सर्वाभरण-भूषिता  
 > सर्वाभरण-भूषिता  
-> ॥ 74 ॥
+> ॥ 50 ॥
 
 ---
 
@@ -3476,11 +2348,11 @@ This name [needs composition summary].
 
 
 
-# NAME 75
+# NAME 51
 
 > शिव-कामेश्वराङ्कस्था  
 > शिव-कामेश्वराङ्कस्था  
-> ॥ 75 ॥
+> ॥ 51 ॥
 
 ---
 
@@ -3523,11 +2395,11 @@ This name [needs composition summary].
 
 
 
-# NAME 76
+# NAME 52
 
 > शिवा  
 > शिवा  
-> ॥ 76 ॥
+> ॥ 52 ॥
 
 ---
 
@@ -3570,11 +2442,11 @@ This name [needs composition summary].
 
 
 
-# NAME 77
+# NAME 53
 
 > स्वाधीन-वल्लभा  
 > स्वाधीन-वल्लभा  
-> ॥ 77 ॥
+> ॥ 53 ॥
 
 ---
 
@@ -3617,58 +2489,11 @@ This name [needs composition summary].
 
 
 
-# NAME 78
-
-> २१॥  
-> २१॥  
-> ॥ 78 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| २१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### २१॥
-- **Breakdown**: `२१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **२१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 79
+# NAME 54
 
 > सुमेरु-मध्य-श‍ृङ्गस्था  
 > सुमेरु-मध्य-श‍ृङ्गस्था  
-> ॥ 79 ॥
+> ॥ 54 ॥
 
 ---
 
@@ -3711,11 +2536,11 @@ This name [needs composition summary].
 
 
 
-# NAME 80
+# NAME 55
 
 > श्रीमन्नगर-नायिका  
 > श्रीमन्नगर-नायिका  
-> ॥ 80 ॥
+> ॥ 55 ॥
 
 ---
 
@@ -3758,11 +2583,11 @@ This name [needs composition summary].
 
 
 
-# NAME 81
+# NAME 56
 
 > चिन्तामणि-गृहान्तस्था  
 > चिन्तामणि-गृहान्तस्था  
-> ॥ 81 ॥
+> ॥ 56 ॥
 
 ---
 
@@ -3805,11 +2630,11 @@ This name [needs composition summary].
 
 
 
-# NAME 82
+# NAME 57
 
 > पञ्च-ब्रह्मासन-स्थिता  
 > पञ्च-ब्रह्मासन-स्थिता  
-> ॥ 82 ॥
+> ॥ 57 ॥
 
 ---
 
@@ -3852,58 +2677,11 @@ This name [needs composition summary].
 
 
 
-# NAME 83
-
-> २२॥  
-> २२॥  
-> ॥ 83 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| २२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### २२॥
-- **Breakdown**: `२२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **२२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 84
+# NAME 58
 
 > महापद्माटवी-संस्था  
 > महापद्माटवी-संस्था  
-> ॥ 84 ॥
+> ॥ 58 ॥
 
 ---
 
@@ -3946,11 +2724,11 @@ This name [needs composition summary].
 
 
 
-# NAME 85
+# NAME 59
 
 > कदम्बवन-वासिनी  
 > कदम्बवन-वासिनी  
-> ॥ 85 ॥
+> ॥ 59 ॥
 
 ---
 
@@ -3993,11 +2771,11 @@ This name [needs composition summary].
 
 
 
-# NAME 86
+# NAME 60
 
 > सुधासागर-मध्यस्था  
 > सुधासागर-मध्यस्था  
-> ॥ 86 ॥
+> ॥ 60 ॥
 
 ---
 
@@ -4040,11 +2818,11 @@ This name [needs composition summary].
 
 
 
-# NAME 87
+# NAME 61
 
 > कामाक्षी  
 > कामाक्षी  
-> ॥ 87 ॥
+> ॥ 61 ॥
 
 ---
 
@@ -4087,11 +2865,11 @@ This name [needs composition summary].
 
 
 
-# NAME 88
+# NAME 62
 
 > कामदायिनी  
 > कामदायिनी  
-> ॥ 88 ॥
+> ॥ 62 ॥
 
 ---
 
@@ -4134,58 +2912,11 @@ This name [needs composition summary].
 
 
 
-# NAME 89
-
-> २३॥  
-> २३॥  
-> ॥ 89 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| २३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### २३॥
-- **Breakdown**: `२३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **२३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 90
+# NAME 63
 
 > देवर्षि-गण-संघात-स्तूयमानात्म-वैभवा  
 > देवर्षि-गण-संघात-स्तूयमानात्म-वैभवा  
-> ॥ 90 ॥
+> ॥ 63 ॥
 
 ---
 
@@ -4228,11 +2959,11 @@ This name [needs composition summary].
 
 
 
-# NAME 91
+# NAME 64
 
 > भण्डासुर-वधोद्युक्त-शक्तिसेना-समन्विता  
 > भण्डासुर-वधोद्युक्त-शक्तिसेना-समन्विता  
-> ॥ 91 ॥
+> ॥ 64 ॥
 
 ---
 
@@ -4275,58 +3006,11 @@ This name [needs composition summary].
 
 
 
-# NAME 92
-
-> २४॥  
-> २४॥  
-> ॥ 92 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| २४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### २४॥
-- **Breakdown**: `२४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **२४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 93
+# NAME 65
 
 > सम्पत्करी-समारूढ-सिन्धुर-व्रज-सेविता  
 > सम्पत्करी-समारूढ-सिन्धुर-व्रज-सेविता  
-> ॥ 93 ॥
+> ॥ 65 ॥
 
 ---
 
@@ -4369,11 +3053,11 @@ This name [needs composition summary].
 
 
 
-# NAME 94
+# NAME 66
 
 > अश्वारूढाधिष्ठिताश्व-कोटि-कोटिभिरावृता  
 > अश्वारूढाधिष्ठिताश्व-कोटि-कोटिभिरावृता  
-> ॥ 94 ॥
+> ॥ 66 ॥
 
 ---
 
@@ -4416,58 +3100,11 @@ This name [needs composition summary].
 
 
 
-# NAME 95
-
-> २५॥  
-> २५॥  
-> ॥ 95 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| २५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### २५॥
-- **Breakdown**: `२५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **२५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 96
+# NAME 67
 
 > चक्रराज-रथारूढ-सर्वायुध-परिष्कृता  
 > चक्रराज-रथारूढ-सर्वायुध-परिष्कृता  
-> ॥ 96 ॥
+> ॥ 67 ॥
 
 ---
 
@@ -4510,11 +3147,11 @@ This name [needs composition summary].
 
 
 
-# NAME 97
+# NAME 68
 
 > गेयचक्र-रथारूढ-मन्त्रिणी-परिसेविता  
 > गेयचक्र-रथारूढ-मन्त्रिणी-परिसेविता  
-> ॥ 97 ॥
+> ॥ 68 ॥
 
 ---
 
@@ -4557,58 +3194,11 @@ This name [needs composition summary].
 
 
 
-# NAME 98
-
-> २६॥  
-> २६॥  
-> ॥ 98 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| २६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### २६॥
-- **Breakdown**: `२६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **२६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 99
+# NAME 69
 
 > किरिचक्र-रथारूढ-दण्डनाथा-पुरस्कृता  
 > किरिचक्र-रथारूढ-दण्डनाथा-पुरस्कृता  
-> ॥ 99 ॥
+> ॥ 69 ॥
 
 ---
 
@@ -4651,11 +3241,11 @@ This name [needs composition summary].
 
 
 
-# NAME 100
+# NAME 70
 
 > ज्वाला-मालिनिकाक्षिप्त-वह्निप्राकार-मध्यगा  
 > ज्वाला-मालिनिकाक्षिप्त-वह्निप्राकार-मध्यगा  
-> ॥ 100 ॥
+> ॥ 70 ॥
 
 ---
 
@@ -4698,58 +3288,11 @@ This name [needs composition summary].
 
 
 
-# NAME 101
-
-> २७॥  
-> २७॥  
-> ॥ 101 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| २७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### २७॥
-- **Breakdown**: `२७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **२७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 102
+# NAME 71
 
 > भण्डसैन्य-वधोद्युक्त-शक्ति-विक्रम-हर्षिता  
 > भण्डसैन्य-वधोद्युक्त-शक्ति-विक्रम-हर्षिता  
-> ॥ 102 ॥
+> ॥ 71 ॥
 
 ---
 
@@ -4792,11 +3335,11 @@ This name [needs composition summary].
 
 
 
-# NAME 103
+# NAME 72
 
 > नित्या-पराक्रमाटोप-निरीक्षण-समुत्सुका  
 > नित्या-पराक्रमाटोप-निरीक्षण-समुत्सुका  
-> ॥ 103 ॥
+> ॥ 72 ॥
 
 ---
 
@@ -4839,58 +3382,11 @@ This name [needs composition summary].
 
 
 
-# NAME 104
-
-> २८॥  
-> २८॥  
-> ॥ 104 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| २८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### २८॥
-- **Breakdown**: `२८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **२८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 105
+# NAME 73
 
 > भण्डपुत्र-वधोद्युक्त-बाला-विक्रम-नन्दिता  
 > भण्डपुत्र-वधोद्युक्त-बाला-विक्रम-नन्दिता  
-> ॥ 105 ॥
+> ॥ 73 ॥
 
 ---
 
@@ -4933,11 +3429,11 @@ This name [needs composition summary].
 
 
 
-# NAME 106
+# NAME 74
 
 > मन्त्रिण्यम्बा-विरचित-विषङ्ग-वध-तोषिता  
 > मन्त्रिण्यम्बा-विरचित-विषङ्ग-वध-तोषिता  
-> ॥ 106 ॥
+> ॥ 74 ॥
 
 ---
 
@@ -4980,58 +3476,11 @@ This name [needs composition summary].
 
 
 
-# NAME 107
-
-> २९॥  
-> २९॥  
-> ॥ 107 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| २९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### २९॥
-- **Breakdown**: `२९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **२९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 108
+# NAME 75
 
 > विशुक्र-प्राणहरण-वाराही-वीर्य-नन्दिता  
 > विशुक्र-प्राणहरण-वाराही-वीर्य-नन्दिता  
-> ॥ 108 ॥
+> ॥ 75 ॥
 
 ---
 
@@ -5074,11 +3523,11 @@ This name [needs composition summary].
 
 
 
-# NAME 109
+# NAME 76
 
 > कामेश्वर-मुखालोक-कल्पित-श्रीगणेश्वरा  
 > कामेश्वर-मुखालोक-कल्पित-श्रीगणेश्वरा  
-> ॥ 109 ॥
+> ॥ 76 ॥
 
 ---
 
@@ -5121,58 +3570,11 @@ This name [needs composition summary].
 
 
 
-# NAME 110
-
-> ३०॥  
-> ३०॥  
-> ॥ 110 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ३०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ३०॥
-- **Breakdown**: `३०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **३०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 111
+# NAME 77
 
 > महागणेश-निर्भिन्न-विघ्नयन्त्र-प्रहर्षिता  
 > महागणेश-निर्भिन्न-विघ्नयन्त्र-प्रहर्षिता  
-> ॥ 111 ॥
+> ॥ 77 ॥
 
 ---
 
@@ -5215,11 +3617,11 @@ This name [needs composition summary].
 
 
 
-# NAME 112
+# NAME 78
 
 > भण्डासुरेन्द्र-निर्मुक्त-शस्त्र-प्रत्यस्त्र-वर्षिणी  
 > भण्डासुरेन्द्र-निर्मुक्त-शस्त्र-प्रत्यस्त्र-वर्षिणी  
-> ॥ 112 ॥
+> ॥ 78 ॥
 
 ---
 
@@ -5262,58 +3664,11 @@ This name [needs composition summary].
 
 
 
-# NAME 113
-
-> ३१॥  
-> ३१॥  
-> ॥ 113 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ३१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ३१॥
-- **Breakdown**: `३१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **३१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 114
+# NAME 79
 
 > कराङ्गुलि-नखोत्पन्न-नारायण-दशाकृतिः  
 > कराङ्गुलि-नखोत्पन्न-नारायण-दशाकृतिः  
-> ॥ 114 ॥
+> ॥ 79 ॥
 
 ---
 
@@ -5356,11 +3711,11 @@ This name [needs composition summary].
 
 
 
-# NAME 115
+# NAME 80
 
 > महा-पाशुपतास्त्राग्नि-निर्दग्धासुर-सैनिका  
 > महा-पाशुपतास्त्राग्नि-निर्दग्धासुर-सैनिका  
-> ॥ 115 ॥
+> ॥ 80 ॥
 
 ---
 
@@ -5403,58 +3758,11 @@ This name [needs composition summary].
 
 
 
-# NAME 116
-
-> ३२॥  
-> ३२॥  
-> ॥ 116 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ३२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ३२॥
-- **Breakdown**: `३२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **३२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 117
+# NAME 81
 
 > कामेश्वरास्त्र-निर्दग्ध-सभण्डासुर-शून्यका  
 > कामेश्वरास्त्र-निर्दग्ध-सभण्डासुर-शून्यका  
-> ॥ 117 ॥
+> ॥ 81 ॥
 
 ---
 
@@ -5497,11 +3805,11 @@ This name [needs composition summary].
 
 
 
-# NAME 118
+# NAME 82
 
 > ब्रह्मोपेन्द्र-महेन्द्रादि-देव-संस्तुत-वैभवा  
 > ब्रह्मोपेन्द्र-महेन्द्रादि-देव-संस्तुत-वैभवा  
-> ॥ 118 ॥
+> ॥ 82 ॥
 
 ---
 
@@ -5544,58 +3852,11 @@ This name [needs composition summary].
 
 
 
-# NAME 119
-
-> ३३॥  
-> ३३॥  
-> ॥ 119 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ३३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ३३॥
-- **Breakdown**: `३३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **३३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 120
+# NAME 83
 
 > हर-नेत्राग्नि-संदग्ध-काम-सञ्जीवनौषधिः  
 > हर-नेत्राग्नि-संदग्ध-काम-सञ्जीवनौषधिः  
-> ॥ 120 ॥
+> ॥ 83 ॥
 
 ---
 
@@ -5638,11 +3899,11 @@ This name [needs composition summary].
 
 
 
-# NAME 121
+# NAME 84
 
 > श्रीमद्वाग्भव-कूटैक-स्वरूप-मुख-पङ्कजा  
 > श्रीमद्वाग्भव-कूटैक-स्वरूप-मुख-पङ्कजा  
-> ॥ 121 ॥
+> ॥ 84 ॥
 
 ---
 
@@ -5685,58 +3946,11 @@ This name [needs composition summary].
 
 
 
-# NAME 122
-
-> ३४॥  
-> ३४॥  
-> ॥ 122 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ३४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ३४॥
-- **Breakdown**: `३४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **३४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 123
+# NAME 85
 
 > कण्ठाधः-कटि-पर्यन्त-मध्यकूट-स्वरूपिणी  
 > कण्ठाधः-कटि-पर्यन्त-मध्यकूट-स्वरूपिणी  
-> ॥ 123 ॥
+> ॥ 85 ॥
 
 ---
 
@@ -5779,11 +3993,11 @@ This name [needs composition summary].
 
 
 
-# NAME 124
+# NAME 86
 
 > शक्ति-कूटैकतापन्न-कट्यधोभाग-धारिणी  
 > शक्ति-कूटैकतापन्न-कट्यधोभाग-धारिणी  
-> ॥ 124 ॥
+> ॥ 86 ॥
 
 ---
 
@@ -5826,58 +4040,11 @@ This name [needs composition summary].
 
 
 
-# NAME 125
-
-> ३५॥  
-> ३५॥  
-> ॥ 125 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ३५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ३५॥
-- **Breakdown**: `३५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **३५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 126
+# NAME 87
 
 > मूल-मन्त्रात्मिका  
 > मूल-मन्त्रात्मिका  
-> ॥ 126 ॥
+> ॥ 87 ॥
 
 ---
 
@@ -5920,11 +4087,11 @@ This name [needs composition summary].
 
 
 
-# NAME 127
+# NAME 88
 
 > मूलकूटत्रय-कलेवरा  
 > मूलकूटत्रय-कलेवरा  
-> ॥ 127 ॥
+> ॥ 88 ॥
 
 ---
 
@@ -5967,11 +4134,11 @@ This name [needs composition summary].
 
 
 
-# NAME 128
+# NAME 89
 
 > कुलामृतैक-रसिका  
 > कुलामृतैक-रसिका  
-> ॥ 128 ॥
+> ॥ 89 ॥
 
 ---
 
@@ -6014,11 +4181,11 @@ This name [needs composition summary].
 
 
 
-# NAME 129
+# NAME 90
 
 > कुलसंकेत-पालिनी  
 > कुलसंकेत-पालिनी  
-> ॥ 129 ॥
+> ॥ 90 ॥
 
 ---
 
@@ -6061,58 +4228,11 @@ This name [needs composition summary].
 
 
 
-# NAME 130
-
-> ३६॥  
-> ३६॥  
-> ॥ 130 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ३६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ३६॥
-- **Breakdown**: `३६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **३६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 131
+# NAME 91
 
 > कुलाङ्गना  
 > कुलाङ्गना  
-> ॥ 131 ॥
+> ॥ 91 ॥
 
 ---
 
@@ -6155,11 +4275,11 @@ This name [needs composition summary].
 
 
 
-# NAME 132
+# NAME 92
 
 > कुलान्तस्था  
 > कुलान्तस्था  
-> ॥ 132 ॥
+> ॥ 92 ॥
 
 ---
 
@@ -6202,11 +4322,11 @@ This name [needs composition summary].
 
 
 
-# NAME 133
+# NAME 93
 
 > कौलिनी  
 > कौलिनी  
-> ॥ 133 ॥
+> ॥ 93 ॥
 
 ---
 
@@ -6249,11 +4369,11 @@ This name [needs composition summary].
 
 
 
-# NAME 134
+# NAME 94
 
 > कुलयोगिनी  
 > कुलयोगिनी  
-> ॥ 134 ॥
+> ॥ 94 ॥
 
 ---
 
@@ -6296,11 +4416,11 @@ This name [needs composition summary].
 
 
 
-# NAME 135
+# NAME 95
 
 > अकुला  
 > अकुला  
-> ॥ 135 ॥
+> ॥ 95 ॥
 
 ---
 
@@ -6343,11 +4463,11 @@ This name [needs composition summary].
 
 
 
-# NAME 136
+# NAME 96
 
 > समयान्तस्था  
 > समयान्तस्था  
-> ॥ 136 ॥
+> ॥ 96 ॥
 
 ---
 
@@ -6390,11 +4510,11 @@ This name [needs composition summary].
 
 
 
-# NAME 137
+# NAME 97
 
 > समयाचार-तत्परा  
 > समयाचार-तत्परा  
-> ॥ 137 ॥
+> ॥ 97 ॥
 
 ---
 
@@ -6437,58 +4557,11 @@ This name [needs composition summary].
 
 
 
-# NAME 138
-
-> ३७॥  
-> ३७॥  
-> ॥ 138 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ३७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ३७॥
-- **Breakdown**: `३७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **३७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 139
+# NAME 98
 
 > मूलाधारैक-निलया  
 > मूलाधारैक-निलया  
-> ॥ 139 ॥
+> ॥ 98 ॥
 
 ---
 
@@ -6531,11 +4604,11 @@ This name [needs composition summary].
 
 
 
-# NAME 140
+# NAME 99
 
 > ब्रह्मग्रन्थि-विभेदिनी  
 > ब्रह्मग्रन्थि-विभेदिनी  
-> ॥ 140 ॥
+> ॥ 99 ॥
 
 ---
 
@@ -6578,11 +4651,11 @@ This name [needs composition summary].
 
 
 
-# NAME 141
+# NAME 100
 
 > मणि-पूरान्तरुदिता  
 > मणि-पूरान्तरुदिता  
-> ॥ 141 ॥
+> ॥ 100 ॥
 
 ---
 
@@ -6625,11 +4698,11 @@ This name [needs composition summary].
 
 
 
-# NAME 142
+# NAME 101
 
 > विष्णुग्रन्थि-विभेदिनी  
 > विष्णुग्रन्थि-विभेदिनी  
-> ॥ 142 ॥
+> ॥ 101 ॥
 
 ---
 
@@ -6672,58 +4745,11 @@ This name [needs composition summary].
 
 
 
-# NAME 143
-
-> ३८॥  
-> ३८॥  
-> ॥ 143 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ३८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ३८॥
-- **Breakdown**: `३८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **३८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 144
+# NAME 102
 
 > आज्ञा-चक्रान्तरालस्था  
 > आज्ञा-चक्रान्तरालस्था  
-> ॥ 144 ॥
+> ॥ 102 ॥
 
 ---
 
@@ -6766,11 +4792,11 @@ This name [needs composition summary].
 
 
 
-# NAME 145
+# NAME 103
 
 > रुद्रग्रन्थि-विभेदिनी  
 > रुद्रग्रन्थि-विभेदिनी  
-> ॥ 145 ॥
+> ॥ 103 ॥
 
 ---
 
@@ -6813,11 +4839,11 @@ This name [needs composition summary].
 
 
 
-# NAME 146
+# NAME 104
 
 > सहस्राराम्बुजारूढा  
 > सहस्राराम्बुजारूढा  
-> ॥ 146 ॥
+> ॥ 104 ॥
 
 ---
 
@@ -6860,11 +4886,11 @@ This name [needs composition summary].
 
 
 
-# NAME 147
+# NAME 105
 
 > सुधा-साराभिवर्षिणी  
 > सुधा-साराभिवर्षिणी  
-> ॥ 147 ॥
+> ॥ 105 ॥
 
 ---
 
@@ -6907,58 +4933,11 @@ This name [needs composition summary].
 
 
 
-# NAME 148
-
-> ३९॥  
-> ३९॥  
-> ॥ 148 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ३९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ३९॥
-- **Breakdown**: `३९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **३९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 149
+# NAME 106
 
 > तडिल्लता-समरुचिः  
 > तडिल्लता-समरुचिः  
-> ॥ 149 ॥
+> ॥ 106 ॥
 
 ---
 
@@ -7001,11 +4980,11 @@ This name [needs composition summary].
 
 
 
-# NAME 150
+# NAME 107
 
 > षट्चक्रोपरि-संस्थिता  
 > षट्चक्रोपरि-संस्थिता  
-> ॥ 150 ॥
+> ॥ 107 ॥
 
 ---
 
@@ -7048,11 +5027,11 @@ This name [needs composition summary].
 
 
 
-# NAME 151
+# NAME 108
 
 > महासक्तिः  
 > महासक्तिः  
-> ॥ 151 ॥
+> ॥ 108 ॥
 
 ---
 
@@ -7095,11 +5074,11 @@ This name [needs composition summary].
 
 
 
-# NAME 152
+# NAME 109
 
 > कुण्डलिनी  
 > कुण्डलिनी  
-> ॥ 152 ॥
+> ॥ 109 ॥
 
 ---
 
@@ -7142,11 +5121,11 @@ This name [needs composition summary].
 
 
 
-# NAME 153
+# NAME 110
 
 > बिसतन्तु-तनीयसी  
 > बिसतन्तु-तनीयसी  
-> ॥ 153 ॥
+> ॥ 110 ॥
 
 ---
 
@@ -7189,58 +5168,11 @@ This name [needs composition summary].
 
 
 
-# NAME 154
-
-> ४०॥  
-> ४०॥  
-> ॥ 154 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ४०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ४०॥
-- **Breakdown**: `४०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **४०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 155
+# NAME 111
 
 > भवानी  
 > भवानी  
-> ॥ 155 ॥
+> ॥ 111 ॥
 
 ---
 
@@ -7283,11 +5215,11 @@ This name [needs composition summary].
 
 
 
-# NAME 156
+# NAME 112
 
 > भावनागम्या  
 > भावनागम्या  
-> ॥ 156 ॥
+> ॥ 112 ॥
 
 ---
 
@@ -7330,11 +5262,11 @@ This name [needs composition summary].
 
 
 
-# NAME 157
+# NAME 113
 
 > भवारण्य-कुठारिका  
 > भवारण्य-कुठारिका  
-> ॥ 157 ॥
+> ॥ 113 ॥
 
 ---
 
@@ -7377,11 +5309,11 @@ This name [needs composition summary].
 
 
 
-# NAME 158
+# NAME 114
 
 > भद्रप्रिया  
 > भद्रप्रिया  
-> ॥ 158 ॥
+> ॥ 114 ॥
 
 ---
 
@@ -7424,11 +5356,11 @@ This name [needs composition summary].
 
 
 
-# NAME 159
+# NAME 115
 
 > भद्रमूर्तिर्भक्त-सौभाग्यदायिनी  
 > भद्रमूर्तिर्भक्त-सौभाग्यदायिनी  
-> ॥ 159 ॥
+> ॥ 115 ॥
 
 ---
 
@@ -7471,58 +5403,11 @@ This name [needs composition summary].
 
 
 
-# NAME 160
-
-> ४१॥  
-> ४१॥  
-> ॥ 160 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ४१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ४१॥
-- **Breakdown**: `४१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **४१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 161
+# NAME 116
 
 > भक्तिप्रिया  
 > भक्तिप्रिया  
-> ॥ 161 ॥
+> ॥ 116 ॥
 
 ---
 
@@ -7565,11 +5450,11 @@ This name [needs composition summary].
 
 
 
-# NAME 162
+# NAME 117
 
 > भक्तिगम्या  
 > भक्तिगम्या  
-> ॥ 162 ॥
+> ॥ 117 ॥
 
 ---
 
@@ -7612,11 +5497,11 @@ This name [needs composition summary].
 
 
 
-# NAME 163
+# NAME 118
 
 > भक्तिवश्या  
 > भक्तिवश्या  
-> ॥ 163 ॥
+> ॥ 118 ॥
 
 ---
 
@@ -7659,11 +5544,11 @@ This name [needs composition summary].
 
 
 
-# NAME 164
+# NAME 119
 
 > भयापहा  
 > भयापहा  
-> ॥ 164 ॥
+> ॥ 119 ॥
 
 ---
 
@@ -7706,11 +5591,11 @@ This name [needs composition summary].
 
 
 
-# NAME 165
+# NAME 120
 
 > शाम्भवी  
 > शाम्भवी  
-> ॥ 165 ॥
+> ॥ 120 ॥
 
 ---
 
@@ -7753,11 +5638,11 @@ This name [needs composition summary].
 
 
 
-# NAME 166
+# NAME 121
 
 > शारदाराध्या  
 > शारदाराध्या  
-> ॥ 166 ॥
+> ॥ 121 ॥
 
 ---
 
@@ -7800,11 +5685,11 @@ This name [needs composition summary].
 
 
 
-# NAME 167
+# NAME 122
 
 > शर्वाणी  
 > शर्वाणी  
-> ॥ 167 ॥
+> ॥ 122 ॥
 
 ---
 
@@ -7847,11 +5732,11 @@ This name [needs composition summary].
 
 
 
-# NAME 168
+# NAME 123
 
 > शर्मदायिनी  
 > शर्मदायिनी  
-> ॥ 168 ॥
+> ॥ 123 ॥
 
 ---
 
@@ -7894,58 +5779,11 @@ This name [needs composition summary].
 
 
 
-# NAME 169
-
-> ४२॥  
-> ४२॥  
-> ॥ 169 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ४२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ४२॥
-- **Breakdown**: `४२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **४२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 170
+# NAME 124
 
 > शाङ्करी  
 > शाङ्करी  
-> ॥ 170 ॥
+> ॥ 124 ॥
 
 ---
 
@@ -7988,11 +5826,11 @@ This name [needs composition summary].
 
 
 
-# NAME 171
+# NAME 125
 
 > श्रीकरी  
 > श्रीकरी  
-> ॥ 171 ॥
+> ॥ 125 ॥
 
 ---
 
@@ -8035,11 +5873,11 @@ This name [needs composition summary].
 
 
 
-# NAME 172
+# NAME 126
 
 > साध्वी  
 > साध्वी  
-> ॥ 172 ॥
+> ॥ 126 ॥
 
 ---
 
@@ -8082,11 +5920,11 @@ This name [needs composition summary].
 
 
 
-# NAME 173
+# NAME 127
 
 > शरच्चन्द्र-निभानना  
 > शरच्चन्द्र-निभानना  
-> ॥ 173 ॥
+> ॥ 127 ॥
 
 ---
 
@@ -8129,11 +5967,11 @@ This name [needs composition summary].
 
 
 
-# NAME 174
+# NAME 128
 
 > शातोदरी  
 > शातोदरी  
-> ॥ 174 ॥
+> ॥ 128 ॥
 
 ---
 
@@ -8176,11 +6014,11 @@ This name [needs composition summary].
 
 
 
-# NAME 175
+# NAME 129
 
 > शान्तिमती  
 > शान्तिमती  
-> ॥ 175 ॥
+> ॥ 129 ॥
 
 ---
 
@@ -8223,11 +6061,11 @@ This name [needs composition summary].
 
 
 
-# NAME 176
+# NAME 130
 
 > निराधारा  
 > निराधारा  
-> ॥ 176 ॥
+> ॥ 130 ॥
 
 ---
 
@@ -8270,11 +6108,11 @@ This name [needs composition summary].
 
 
 
-# NAME 177
+# NAME 131
 
 > निरञ्जना  
 > निरञ्जना  
-> ॥ 177 ॥
+> ॥ 131 ॥
 
 ---
 
@@ -8317,58 +6155,11 @@ This name [needs composition summary].
 
 
 
-# NAME 178
-
-> ४३॥  
-> ४३॥  
-> ॥ 178 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ४३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ४३॥
-- **Breakdown**: `४३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **४३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 179
+# NAME 132
 
 > निर्लेपा  
 > निर्लेपा  
-> ॥ 179 ॥
+> ॥ 132 ॥
 
 ---
 
@@ -8411,11 +6202,11 @@ This name [needs composition summary].
 
 
 
-# NAME 180
+# NAME 133
 
 > निर्मला  
 > निर्मला  
-> ॥ 180 ॥
+> ॥ 133 ॥
 
 ---
 
@@ -8458,11 +6249,11 @@ This name [needs composition summary].
 
 
 
-# NAME 181
+# NAME 134
 
 > नित्या  
 > नित्या  
-> ॥ 181 ॥
+> ॥ 134 ॥
 
 ---
 
@@ -8505,11 +6296,11 @@ This name [needs composition summary].
 
 
 
-# NAME 182
+# NAME 135
 
 > निराकारा  
 > निराकारा  
-> ॥ 182 ॥
+> ॥ 135 ॥
 
 ---
 
@@ -8552,11 +6343,11 @@ This name [needs composition summary].
 
 
 
-# NAME 183
+# NAME 136
 
 > निराकुला  
 > निराकुला  
-> ॥ 183 ॥
+> ॥ 136 ॥
 
 ---
 
@@ -8599,11 +6390,11 @@ This name [needs composition summary].
 
 
 
-# NAME 184
+# NAME 137
 
 > निर्गुणा  
 > निर्गुणा  
-> ॥ 184 ॥
+> ॥ 137 ॥
 
 ---
 
@@ -8646,11 +6437,11 @@ This name [needs composition summary].
 
 
 
-# NAME 185
+# NAME 138
 
 > निष्कला  
 > निष्कला  
-> ॥ 185 ॥
+> ॥ 138 ॥
 
 ---
 
@@ -8693,11 +6484,11 @@ This name [needs composition summary].
 
 
 
-# NAME 186
+# NAME 139
 
 > शान्ता  
 > शान्ता  
-> ॥ 186 ॥
+> ॥ 139 ॥
 
 ---
 
@@ -8740,11 +6531,11 @@ This name [needs composition summary].
 
 
 
-# NAME 187
+# NAME 140
 
 > निष्कामा  
 > निष्कामा  
-> ॥ 187 ॥
+> ॥ 140 ॥
 
 ---
 
@@ -8787,11 +6578,11 @@ This name [needs composition summary].
 
 
 
-# NAME 188
+# NAME 141
 
 > निरुपप्लवा  
 > निरुपप्लवा  
-> ॥ 188 ॥
+> ॥ 141 ॥
 
 ---
 
@@ -8834,58 +6625,11 @@ This name [needs composition summary].
 
 
 
-# NAME 189
-
-> ४४॥  
-> ४४॥  
-> ॥ 189 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ४४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ४४॥
-- **Breakdown**: `४४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **४४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 190
+# NAME 142
 
 > नित्यमुक्ता  
 > नित्यमुक्ता  
-> ॥ 190 ॥
+> ॥ 142 ॥
 
 ---
 
@@ -8928,11 +6672,11 @@ This name [needs composition summary].
 
 
 
-# NAME 191
+# NAME 143
 
 > निर्विकारा  
 > निर्विकारा  
-> ॥ 191 ॥
+> ॥ 143 ॥
 
 ---
 
@@ -8975,11 +6719,11 @@ This name [needs composition summary].
 
 
 
-# NAME 192
+# NAME 144
 
 > निष्प्रपञ्चा  
 > निष्प्रपञ्चा  
-> ॥ 192 ॥
+> ॥ 144 ॥
 
 ---
 
@@ -9022,11 +6766,11 @@ This name [needs composition summary].
 
 
 
-# NAME 193
+# NAME 145
 
 > निराश्रया  
 > निराश्रया  
-> ॥ 193 ॥
+> ॥ 145 ॥
 
 ---
 
@@ -9069,11 +6813,11 @@ This name [needs composition summary].
 
 
 
-# NAME 194
+# NAME 146
 
 > नित्यशुद्धा  
 > नित्यशुद्धा  
-> ॥ 194 ॥
+> ॥ 146 ॥
 
 ---
 
@@ -9116,11 +6860,11 @@ This name [needs composition summary].
 
 
 
-# NAME 195
+# NAME 147
 
 > नित्यबुद्धा  
 > नित्यबुद्धा  
-> ॥ 195 ॥
+> ॥ 147 ॥
 
 ---
 
@@ -9163,11 +6907,11 @@ This name [needs composition summary].
 
 
 
-# NAME 196
+# NAME 148
 
 > निरवद्या  
 > निरवद्या  
-> ॥ 196 ॥
+> ॥ 148 ॥
 
 ---
 
@@ -9210,11 +6954,11 @@ This name [needs composition summary].
 
 
 
-# NAME 197
+# NAME 149
 
 > निरन्तरा  
 > निरन्तरा  
-> ॥ 197 ॥
+> ॥ 149 ॥
 
 ---
 
@@ -9257,58 +7001,11 @@ This name [needs composition summary].
 
 
 
-# NAME 198
-
-> ४५॥  
-> ४५॥  
-> ॥ 198 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ४५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ४५॥
-- **Breakdown**: `४५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **४५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 199
+# NAME 150
 
 > निष्कारणा  
 > निष्कारणा  
-> ॥ 199 ॥
+> ॥ 150 ॥
 
 ---
 
@@ -9351,11 +7048,11 @@ This name [needs composition summary].
 
 
 
-# NAME 200
+# NAME 151
 
 > निष्कलङ्का  
 > निष्कलङ्का  
-> ॥ 200 ॥
+> ॥ 151 ॥
 
 ---
 
@@ -9398,11 +7095,11 @@ This name [needs composition summary].
 
 
 
-# NAME 201
+# NAME 152
 
 > निरुपाधिर्निरीश्वरा  
 > निरुपाधिर्निरीश्वरा  
-> ॥ 201 ॥
+> ॥ 152 ॥
 
 ---
 
@@ -9445,11 +7142,11 @@ This name [needs composition summary].
 
 
 
-# NAME 202
+# NAME 153
 
 > नीरागा  
 > नीरागा  
-> ॥ 202 ॥
+> ॥ 153 ॥
 
 ---
 
@@ -9492,11 +7189,11 @@ This name [needs composition summary].
 
 
 
-# NAME 203
+# NAME 154
 
 > रागमथनी  
 > रागमथनी  
-> ॥ 203 ॥
+> ॥ 154 ॥
 
 ---
 
@@ -9539,11 +7236,11 @@ This name [needs composition summary].
 
 
 
-# NAME 204
+# NAME 155
 
 > निर्मदा  
 > निर्मदा  
-> ॥ 204 ॥
+> ॥ 155 ॥
 
 ---
 
@@ -9586,11 +7283,11 @@ This name [needs composition summary].
 
 
 
-# NAME 205
+# NAME 156
 
 > मदनाशिनी  
 > मदनाशिनी  
-> ॥ 205 ॥
+> ॥ 156 ॥
 
 ---
 
@@ -9633,58 +7330,11 @@ This name [needs composition summary].
 
 
 
-# NAME 206
-
-> ४६॥  
-> ४६॥  
-> ॥ 206 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ४६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ४६॥
-- **Breakdown**: `४६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **४६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 207
+# NAME 157
 
 > निश्चिन्ता  
 > निश्चिन्ता  
-> ॥ 207 ॥
+> ॥ 157 ॥
 
 ---
 
@@ -9727,11 +7377,11 @@ This name [needs composition summary].
 
 
 
-# NAME 208
+# NAME 158
 
 > निरहंकारा  
 > निरहंकारा  
-> ॥ 208 ॥
+> ॥ 158 ॥
 
 ---
 
@@ -9774,11 +7424,11 @@ This name [needs composition summary].
 
 
 
-# NAME 209
+# NAME 159
 
 > निर्मोहा  
 > निर्मोहा  
-> ॥ 209 ॥
+> ॥ 159 ॥
 
 ---
 
@@ -9821,11 +7471,11 @@ This name [needs composition summary].
 
 
 
-# NAME 210
+# NAME 160
 
 > मोहनाशिनी  
 > मोहनाशिनी  
-> ॥ 210 ॥
+> ॥ 160 ॥
 
 ---
 
@@ -9868,11 +7518,11 @@ This name [needs composition summary].
 
 
 
-# NAME 211
+# NAME 161
 
 > निर्ममा  
 > निर्ममा  
-> ॥ 211 ॥
+> ॥ 161 ॥
 
 ---
 
@@ -9915,11 +7565,11 @@ This name [needs composition summary].
 
 
 
-# NAME 212
+# NAME 162
 
 > ममताहन्त्री  
 > ममताहन्त्री  
-> ॥ 212 ॥
+> ॥ 162 ॥
 
 ---
 
@@ -9962,11 +7612,11 @@ This name [needs composition summary].
 
 
 
-# NAME 213
+# NAME 163
 
 > निष्पापा  
 > निष्पापा  
-> ॥ 213 ॥
+> ॥ 163 ॥
 
 ---
 
@@ -10009,11 +7659,11 @@ This name [needs composition summary].
 
 
 
-# NAME 214
+# NAME 164
 
 > पापनाशिनी  
 > पापनाशिनी  
-> ॥ 214 ॥
+> ॥ 164 ॥
 
 ---
 
@@ -10056,58 +7706,11 @@ This name [needs composition summary].
 
 
 
-# NAME 215
-
-> ४७॥  
-> ४७॥  
-> ॥ 215 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ४७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ४७॥
-- **Breakdown**: `४७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **४७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 216
+# NAME 165
 
 > निष्क्रोधा  
 > निष्क्रोधा  
-> ॥ 216 ॥
+> ॥ 165 ॥
 
 ---
 
@@ -10150,11 +7753,11 @@ This name [needs composition summary].
 
 
 
-# NAME 217
+# NAME 166
 
 > क्रोधशमनी  
 > क्रोधशमनी  
-> ॥ 217 ॥
+> ॥ 166 ॥
 
 ---
 
@@ -10197,11 +7800,11 @@ This name [needs composition summary].
 
 
 
-# NAME 218
+# NAME 167
 
 > निर्लोभा  
 > निर्लोभा  
-> ॥ 218 ॥
+> ॥ 167 ॥
 
 ---
 
@@ -10244,11 +7847,11 @@ This name [needs composition summary].
 
 
 
-# NAME 219
+# NAME 168
 
 > लोभनाशिनी  
 > लोभनाशिनी  
-> ॥ 219 ॥
+> ॥ 168 ॥
 
 ---
 
@@ -10291,11 +7894,11 @@ This name [needs composition summary].
 
 
 
-# NAME 220
+# NAME 169
 
 > निःसंशया  
 > निःसंशया  
-> ॥ 220 ॥
+> ॥ 169 ॥
 
 ---
 
@@ -10338,11 +7941,11 @@ This name [needs composition summary].
 
 
 
-# NAME 221
+# NAME 170
 
 > संशयघ्नी  
 > संशयघ्नी  
-> ॥ 221 ॥
+> ॥ 170 ॥
 
 ---
 
@@ -10385,11 +7988,11 @@ This name [needs composition summary].
 
 
 
-# NAME 222
+# NAME 171
 
 > निर्भवा  
 > निर्भवा  
-> ॥ 222 ॥
+> ॥ 171 ॥
 
 ---
 
@@ -10432,11 +8035,11 @@ This name [needs composition summary].
 
 
 
-# NAME 223
+# NAME 172
 
 > भवनाशिनी  
 > भवनाशिनी  
-> ॥ 223 ॥
+> ॥ 172 ॥
 
 ---
 
@@ -10479,105 +8082,11 @@ This name [needs composition summary].
 
 
 
-# NAME 224
-
-> ४८॥  
-> ४८॥  
-> ॥ 224 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ४८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ४८॥
-- **Breakdown**: `४८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **४८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 225
-
-> (निस्संशया)  
-> (निस्संशया)  
-> ॥ 225 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| (निस्संशया) | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### (निस्संशया)
-- **Breakdown**: `(निस्संशया)`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **(निस्संशया)** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 226
+# NAME 173
 
 > निर्विकल्पा  
 > निर्विकल्पा  
-> ॥ 226 ॥
+> ॥ 173 ॥
 
 ---
 
@@ -10620,11 +8129,11 @@ This name [needs composition summary].
 
 
 
-# NAME 227
+# NAME 174
 
 > निराबाधा  
 > निराबाधा  
-> ॥ 227 ॥
+> ॥ 174 ॥
 
 ---
 
@@ -10667,11 +8176,11 @@ This name [needs composition summary].
 
 
 
-# NAME 228
+# NAME 175
 
 > निर्भेदा  
 > निर्भेदा  
-> ॥ 228 ॥
+> ॥ 175 ॥
 
 ---
 
@@ -10714,11 +8223,11 @@ This name [needs composition summary].
 
 
 
-# NAME 229
+# NAME 176
 
 > भेदनाशिनी  
 > भेदनाशिनी  
-> ॥ 229 ॥
+> ॥ 176 ॥
 
 ---
 
@@ -10761,11 +8270,11 @@ This name [needs composition summary].
 
 
 
-# NAME 230
+# NAME 177
 
 > निर्नाशा  
 > निर्नाशा  
-> ॥ 230 ॥
+> ॥ 177 ॥
 
 ---
 
@@ -10808,11 +8317,11 @@ This name [needs composition summary].
 
 
 
-# NAME 231
+# NAME 178
 
 > मृत्युमथनी  
 > मृत्युमथनी  
-> ॥ 231 ॥
+> ॥ 178 ॥
 
 ---
 
@@ -10855,11 +8364,11 @@ This name [needs composition summary].
 
 
 
-# NAME 232
+# NAME 179
 
 > निष्क्रिया  
 > निष्क्रिया  
-> ॥ 232 ॥
+> ॥ 179 ॥
 
 ---
 
@@ -10902,11 +8411,11 @@ This name [needs composition summary].
 
 
 
-# NAME 233
+# NAME 180
 
 > निष्परिग्रहा  
 > निष्परिग्रहा  
-> ॥ 233 ॥
+> ॥ 180 ॥
 
 ---
 
@@ -10949,58 +8458,11 @@ This name [needs composition summary].
 
 
 
-# NAME 234
-
-> ४९॥  
-> ४९॥  
-> ॥ 234 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ४९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ४९॥
-- **Breakdown**: `४९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **४९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 235
+# NAME 181
 
 > निस्तुला  
 > निस्तुला  
-> ॥ 235 ॥
+> ॥ 181 ॥
 
 ---
 
@@ -11043,11 +8505,11 @@ This name [needs composition summary].
 
 
 
-# NAME 236
+# NAME 182
 
 > नीलचिकुरा  
 > नीलचिकुरा  
-> ॥ 236 ॥
+> ॥ 182 ॥
 
 ---
 
@@ -11090,11 +8552,11 @@ This name [needs composition summary].
 
 
 
-# NAME 237
+# NAME 183
 
 > निरपाया  
 > निरपाया  
-> ॥ 237 ॥
+> ॥ 183 ॥
 
 ---
 
@@ -11137,11 +8599,11 @@ This name [needs composition summary].
 
 
 
-# NAME 238
+# NAME 184
 
 > निरत्यया  
 > निरत्यया  
-> ॥ 238 ॥
+> ॥ 184 ॥
 
 ---
 
@@ -11184,11 +8646,11 @@ This name [needs composition summary].
 
 
 
-# NAME 239
+# NAME 185
 
 > दुर्लभा  
 > दुर्लभा  
-> ॥ 239 ॥
+> ॥ 185 ॥
 
 ---
 
@@ -11231,11 +8693,11 @@ This name [needs composition summary].
 
 
 
-# NAME 240
+# NAME 186
 
 > दुर्गमा  
 > दुर्गमा  
-> ॥ 240 ॥
+> ॥ 186 ॥
 
 ---
 
@@ -11278,11 +8740,11 @@ This name [needs composition summary].
 
 
 
-# NAME 241
+# NAME 187
 
 > दुर्गा  
 > दुर्गा  
-> ॥ 241 ॥
+> ॥ 187 ॥
 
 ---
 
@@ -11325,11 +8787,11 @@ This name [needs composition summary].
 
 
 
-# NAME 242
+# NAME 188
 
 > दुःखहन्त्री  
 > दुःखहन्त्री  
-> ॥ 242 ॥
+> ॥ 188 ॥
 
 ---
 
@@ -11372,11 +8834,11 @@ This name [needs composition summary].
 
 
 
-# NAME 243
+# NAME 189
 
 > सुखप्रदा  
 > सुखप्रदा  
-> ॥ 243 ॥
+> ॥ 189 ॥
 
 ---
 
@@ -11419,58 +8881,11 @@ This name [needs composition summary].
 
 
 
-# NAME 244
-
-> ५०॥  
-> ५०॥  
-> ॥ 244 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ५०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ५०॥
-- **Breakdown**: `५०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **५०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 245
+# NAME 190
 
 > दुष्टदूरा  
 > दुष्टदूरा  
-> ॥ 245 ॥
+> ॥ 190 ॥
 
 ---
 
@@ -11513,11 +8928,11 @@ This name [needs composition summary].
 
 
 
-# NAME 246
+# NAME 191
 
 > दुराचार-शमनी  
 > दुराचार-शमनी  
-> ॥ 246 ॥
+> ॥ 191 ॥
 
 ---
 
@@ -11560,11 +8975,11 @@ This name [needs composition summary].
 
 
 
-# NAME 247
+# NAME 192
 
 > दोषवर्जिता  
 > दोषवर्जिता  
-> ॥ 247 ॥
+> ॥ 192 ॥
 
 ---
 
@@ -11607,11 +9022,11 @@ This name [needs composition summary].
 
 
 
-# NAME 248
+# NAME 193
 
 > सर्वज्ञा  
 > सर्वज्ञा  
-> ॥ 248 ॥
+> ॥ 193 ॥
 
 ---
 
@@ -11654,11 +9069,11 @@ This name [needs composition summary].
 
 
 
-# NAME 249
+# NAME 194
 
 > सान्द्रकरुणा  
 > सान्द्रकरुणा  
-> ॥ 249 ॥
+> ॥ 194 ॥
 
 ---
 
@@ -11701,11 +9116,11 @@ This name [needs composition summary].
 
 
 
-# NAME 250
+# NAME 195
 
 > समानाधिक-वर्जिता  
 > समानाधिक-वर्जिता  
-> ॥ 250 ॥
+> ॥ 195 ॥
 
 ---
 
@@ -11748,58 +9163,11 @@ This name [needs composition summary].
 
 
 
-# NAME 251
-
-> ५१॥  
-> ५१॥  
-> ॥ 251 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ५१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ५१॥
-- **Breakdown**: `५१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **५१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 252
+# NAME 196
 
 > सर्वशक्तिमयी  
 > सर्वशक्तिमयी  
-> ॥ 252 ॥
+> ॥ 196 ॥
 
 ---
 
@@ -11842,11 +9210,11 @@ This name [needs composition summary].
 
 
 
-# NAME 253
+# NAME 197
 
 > सर्व-मङ्गला  
 > सर्व-मङ्गला  
-> ॥ 253 ॥
+> ॥ 197 ॥
 
 ---
 
@@ -11889,11 +9257,11 @@ This name [needs composition summary].
 
 
 
-# NAME 254
+# NAME 198
 
 > सद्गतिप्रदा  
 > सद्गतिप्रदा  
-> ॥ 254 ॥
+> ॥ 198 ॥
 
 ---
 
@@ -11936,11 +9304,11 @@ This name [needs composition summary].
 
 
 
-# NAME 255
+# NAME 199
 
 > सर्वेश्वरी  
 > सर्वेश्वरी  
-> ॥ 255 ॥
+> ॥ 199 ॥
 
 ---
 
@@ -11983,11 +9351,11 @@ This name [needs composition summary].
 
 
 
-# NAME 256
+# NAME 200
 
 > सर्वमयी  
 > सर्वमयी  
-> ॥ 256 ॥
+> ॥ 200 ॥
 
 ---
 
@@ -12030,11 +9398,11 @@ This name [needs composition summary].
 
 
 
-# NAME 257
+# NAME 201
 
 > सर्वमन्त्र-स्वरूपिणी  
 > सर्वमन्त्र-स्वरूपिणी  
-> ॥ 257 ॥
+> ॥ 201 ॥
 
 ---
 
@@ -12077,58 +9445,11 @@ This name [needs composition summary].
 
 
 
-# NAME 258
-
-> ५२॥  
-> ५२॥  
-> ॥ 258 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ५२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ५२॥
-- **Breakdown**: `५२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **५२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 259
+# NAME 202
 
 > सर्व-यन्त्रात्मिका  
 > सर्व-यन्त्रात्मिका  
-> ॥ 259 ॥
+> ॥ 202 ॥
 
 ---
 
@@ -12171,11 +9492,11 @@ This name [needs composition summary].
 
 
 
-# NAME 260
+# NAME 203
 
 > सर्व-तन्त्ररूपा  
 > सर्व-तन्त्ररूपा  
-> ॥ 260 ॥
+> ॥ 203 ॥
 
 ---
 
@@ -12218,11 +9539,11 @@ This name [needs composition summary].
 
 
 
-# NAME 261
+# NAME 204
 
 > मनोन्मनी  
 > मनोन्मनी  
-> ॥ 261 ॥
+> ॥ 204 ॥
 
 ---
 
@@ -12265,11 +9586,11 @@ This name [needs composition summary].
 
 
 
-# NAME 262
+# NAME 205
 
 > माहेश्वरी  
 > माहेश्वरी  
-> ॥ 262 ॥
+> ॥ 205 ॥
 
 ---
 
@@ -12312,11 +9633,11 @@ This name [needs composition summary].
 
 
 
-# NAME 263
+# NAME 206
 
 > महादेवी  
 > महादेवी  
-> ॥ 263 ॥
+> ॥ 206 ॥
 
 ---
 
@@ -12359,11 +9680,11 @@ This name [needs composition summary].
 
 
 
-# NAME 264
+# NAME 207
 
 > महालक्ष्मीर्मृडप्रिया  
 > महालक्ष्मीर्मृडप्रिया  
-> ॥ 264 ॥
+> ॥ 207 ॥
 
 ---
 
@@ -12406,58 +9727,11 @@ This name [needs composition summary].
 
 
 
-# NAME 265
-
-> ५३॥  
-> ५३॥  
-> ॥ 265 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ५३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ५३॥
-- **Breakdown**: `५३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **५३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 266
+# NAME 208
 
 > महारूपा  
 > महारूपा  
-> ॥ 266 ॥
+> ॥ 208 ॥
 
 ---
 
@@ -12500,11 +9774,11 @@ This name [needs composition summary].
 
 
 
-# NAME 267
+# NAME 209
 
 > महापूज्या  
 > महापूज्या  
-> ॥ 267 ॥
+> ॥ 209 ॥
 
 ---
 
@@ -12547,11 +9821,11 @@ This name [needs composition summary].
 
 
 
-# NAME 268
+# NAME 210
 
 > महापातक-नाशिनी  
 > महापातक-नाशिनी  
-> ॥ 268 ॥
+> ॥ 210 ॥
 
 ---
 
@@ -12594,11 +9868,11 @@ This name [needs composition summary].
 
 
 
-# NAME 269
+# NAME 211
 
 > महामाया  
 > महामाया  
-> ॥ 269 ॥
+> ॥ 211 ॥
 
 ---
 
@@ -12641,11 +9915,11 @@ This name [needs composition summary].
 
 
 
-# NAME 270
+# NAME 212
 
 > महासत्त्वा  
 > महासत्त्वा  
-> ॥ 270 ॥
+> ॥ 212 ॥
 
 ---
 
@@ -12688,11 +9962,11 @@ This name [needs composition summary].
 
 
 
-# NAME 271
+# NAME 213
 
 > महाशक्तिर्महारतिः  
 > महाशक्तिर्महारतिः  
-> ॥ 271 ॥
+> ॥ 213 ॥
 
 ---
 
@@ -12735,58 +10009,11 @@ This name [needs composition summary].
 
 
 
-# NAME 272
-
-> ५४॥  
-> ५४॥  
-> ॥ 272 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ५४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ५४॥
-- **Breakdown**: `५४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **५४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 273
+# NAME 214
 
 > महाभोगा  
 > महाभोगा  
-> ॥ 273 ॥
+> ॥ 214 ॥
 
 ---
 
@@ -12829,11 +10056,11 @@ This name [needs composition summary].
 
 
 
-# NAME 274
+# NAME 215
 
 > महैश्वर्या  
 > महैश्वर्या  
-> ॥ 274 ॥
+> ॥ 215 ॥
 
 ---
 
@@ -12876,11 +10103,11 @@ This name [needs composition summary].
 
 
 
-# NAME 275
+# NAME 216
 
 > महावीर्या  
 > महावीर्या  
-> ॥ 275 ॥
+> ॥ 216 ॥
 
 ---
 
@@ -12923,11 +10150,11 @@ This name [needs composition summary].
 
 
 
-# NAME 276
+# NAME 217
 
 > महाबला  
 > महाबला  
-> ॥ 276 ॥
+> ॥ 217 ॥
 
 ---
 
@@ -12970,11 +10197,11 @@ This name [needs composition summary].
 
 
 
-# NAME 277
+# NAME 218
 
 > महाबुद्धिर्महासिद्धिर्महायोगेश्वरेश्वरी  
 > महाबुद्धिर्महासिद्धिर्महायोगेश्वरेश्वरी  
-> ॥ 277 ॥
+> ॥ 218 ॥
 
 ---
 
@@ -13017,58 +10244,11 @@ This name [needs composition summary].
 
 
 
-# NAME 278
-
-> ५५॥  
-> ५५॥  
-> ॥ 278 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ५५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ५५॥
-- **Breakdown**: `५५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **५५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 279
+# NAME 219
 
 > महातन्त्रा  
 > महातन्त्रा  
-> ॥ 279 ॥
+> ॥ 219 ॥
 
 ---
 
@@ -13111,11 +10291,11 @@ This name [needs composition summary].
 
 
 
-# NAME 280
+# NAME 220
 
 > महामन्त्रा  
 > महामन्त्रा  
-> ॥ 280 ॥
+> ॥ 220 ॥
 
 ---
 
@@ -13158,11 +10338,11 @@ This name [needs composition summary].
 
 
 
-# NAME 281
+# NAME 221
 
 > महायन्त्रा  
 > महायन्त्रा  
-> ॥ 281 ॥
+> ॥ 221 ॥
 
 ---
 
@@ -13205,11 +10385,11 @@ This name [needs composition summary].
 
 
 
-# NAME 282
+# NAME 222
 
 > महासना  
 > महासना  
-> ॥ 282 ॥
+> ॥ 222 ॥
 
 ---
 
@@ -13252,11 +10432,11 @@ This name [needs composition summary].
 
 
 
-# NAME 283
+# NAME 223
 
 > महायाग-क्रमाराध्या  
 > महायाग-क्रमाराध्या  
-> ॥ 283 ॥
+> ॥ 223 ॥
 
 ---
 
@@ -13299,11 +10479,11 @@ This name [needs composition summary].
 
 
 
-# NAME 284
+# NAME 224
 
 > महाभैरव-पूजिता  
 > महाभैरव-पूजिता  
-> ॥ 284 ॥
+> ॥ 224 ॥
 
 ---
 
@@ -13346,58 +10526,11 @@ This name [needs composition summary].
 
 
 
-# NAME 285
-
-> ५६॥  
-> ५६॥  
-> ॥ 285 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ५६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ५६॥
-- **Breakdown**: `५६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **५६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 286
+# NAME 225
 
 > महेश्वर-महाकल्प-महाताण्डव-साक्षिणी  
 > महेश्वर-महाकल्प-महाताण्डव-साक्षिणी  
-> ॥ 286 ॥
+> ॥ 225 ॥
 
 ---
 
@@ -13440,11 +10573,11 @@ This name [needs composition summary].
 
 
 
-# NAME 287
+# NAME 226
 
 > महाकामेश-महिषी  
 > महाकामेश-महिषी  
-> ॥ 287 ॥
+> ॥ 226 ॥
 
 ---
 
@@ -13487,11 +10620,11 @@ This name [needs composition summary].
 
 
 
-# NAME 288
+# NAME 227
 
 > महात्रिपुर-सुन्दरी  
 > महात्रिपुर-सुन्दरी  
-> ॥ 288 ॥
+> ॥ 227 ॥
 
 ---
 
@@ -13534,58 +10667,11 @@ This name [needs composition summary].
 
 
 
-# NAME 289
-
-> ५७॥  
-> ५७॥  
-> ॥ 289 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ५७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ५७॥
-- **Breakdown**: `५७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **५७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 290
+# NAME 228
 
 > चतुःषष्ट्युपचाराढ्या  
 > चतुःषष्ट्युपचाराढ्या  
-> ॥ 290 ॥
+> ॥ 228 ॥
 
 ---
 
@@ -13628,11 +10714,11 @@ This name [needs composition summary].
 
 
 
-# NAME 291
+# NAME 229
 
 > चतुःषष्टिकलामयी  
 > चतुःषष्टिकलामयी  
-> ॥ 291 ॥
+> ॥ 229 ॥
 
 ---
 
@@ -13675,11 +10761,11 @@ This name [needs composition summary].
 
 
 
-# NAME 292
+# NAME 230
 
 > महाचतुः-षष्टिकोटि-योगिनी-गणसेविता  
 > महाचतुः-षष्टिकोटि-योगिनी-गणसेविता  
-> ॥ 292 ॥
+> ॥ 230 ॥
 
 ---
 
@@ -13722,58 +10808,11 @@ This name [needs composition summary].
 
 
 
-# NAME 293
-
-> ५८॥  
-> ५८॥  
-> ॥ 293 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ५८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ५८॥
-- **Breakdown**: `५८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **५८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 294
+# NAME 231
 
 > मनुविद्या  
 > मनुविद्या  
-> ॥ 294 ॥
+> ॥ 231 ॥
 
 ---
 
@@ -13816,11 +10855,11 @@ This name [needs composition summary].
 
 
 
-# NAME 295
+# NAME 232
 
 > चन्द्रविद्या  
 > चन्द्रविद्या  
-> ॥ 295 ॥
+> ॥ 232 ॥
 
 ---
 
@@ -13863,11 +10902,11 @@ This name [needs composition summary].
 
 
 
-# NAME 296
+# NAME 233
 
 > चन्द्रमण्डल-मध्यगा  
 > चन्द्रमण्डल-मध्यगा  
-> ॥ 296 ॥
+> ॥ 233 ॥
 
 ---
 
@@ -13910,11 +10949,11 @@ This name [needs composition summary].
 
 
 
-# NAME 297
+# NAME 234
 
 > चारुरूपा  
 > चारुरूपा  
-> ॥ 297 ॥
+> ॥ 234 ॥
 
 ---
 
@@ -13957,11 +10996,11 @@ This name [needs composition summary].
 
 
 
-# NAME 298
+# NAME 235
 
 > चारुहासा  
 > चारुहासा  
-> ॥ 298 ॥
+> ॥ 235 ॥
 
 ---
 
@@ -14004,11 +11043,11 @@ This name [needs composition summary].
 
 
 
-# NAME 299
+# NAME 236
 
 > चारुचन्द्र-कलाधरा  
 > चारुचन्द्र-कलाधरा  
-> ॥ 299 ॥
+> ॥ 236 ॥
 
 ---
 
@@ -14051,58 +11090,11 @@ This name [needs composition summary].
 
 
 
-# NAME 300
-
-> ५९॥  
-> ५९॥  
-> ॥ 300 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ५९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ५९॥
-- **Breakdown**: `५९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **५९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 301
+# NAME 237
 
 > चराचर-जगन्नाथा  
 > चराचर-जगन्नाथा  
-> ॥ 301 ॥
+> ॥ 237 ॥
 
 ---
 
@@ -14145,11 +11137,11 @@ This name [needs composition summary].
 
 
 
-# NAME 302
+# NAME 238
 
 > चक्रराज-निकेतना  
 > चक्रराज-निकेतना  
-> ॥ 302 ॥
+> ॥ 238 ॥
 
 ---
 
@@ -14192,11 +11184,11 @@ This name [needs composition summary].
 
 
 
-# NAME 303
+# NAME 239
 
 > पार्वती  
 > पार्वती  
-> ॥ 303 ॥
+> ॥ 239 ॥
 
 ---
 
@@ -14239,11 +11231,11 @@ This name [needs composition summary].
 
 
 
-# NAME 304
+# NAME 240
 
 > पद्मनयना  
 > पद्मनयना  
-> ॥ 304 ॥
+> ॥ 240 ॥
 
 ---
 
@@ -14286,11 +11278,11 @@ This name [needs composition summary].
 
 
 
-# NAME 305
+# NAME 241
 
 > पद्मराग-समप्रभा  
 > पद्मराग-समप्रभा  
-> ॥ 305 ॥
+> ॥ 241 ॥
 
 ---
 
@@ -14333,58 +11325,11 @@ This name [needs composition summary].
 
 
 
-# NAME 306
-
-> ६०॥  
-> ६०॥  
-> ॥ 306 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ६०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ६०॥
-- **Breakdown**: `६०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **६०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 307
+# NAME 242
 
 > पञ्च-प्रेतासनासीना  
 > पञ्च-प्रेतासनासीना  
-> ॥ 307 ॥
+> ॥ 242 ॥
 
 ---
 
@@ -14427,11 +11372,11 @@ This name [needs composition summary].
 
 
 
-# NAME 308
+# NAME 243
 
 > पञ्चब्रह्म-स्वरूपिणी  
 > पञ्चब्रह्म-स्वरूपिणी  
-> ॥ 308 ॥
+> ॥ 243 ॥
 
 ---
 
@@ -14474,11 +11419,11 @@ This name [needs composition summary].
 
 
 
-# NAME 309
+# NAME 244
 
 > चिन्मयी  
 > चिन्मयी  
-> ॥ 309 ॥
+> ॥ 244 ॥
 
 ---
 
@@ -14521,11 +11466,11 @@ This name [needs composition summary].
 
 
 
-# NAME 310
+# NAME 245
 
 > परमानन्दा  
 > परमानन्दा  
-> ॥ 310 ॥
+> ॥ 245 ॥
 
 ---
 
@@ -14568,11 +11513,11 @@ This name [needs composition summary].
 
 
 
-# NAME 311
+# NAME 246
 
 > विज्ञान-घनरूपिणी  
 > विज्ञान-घनरूपिणी  
-> ॥ 311 ॥
+> ॥ 246 ॥
 
 ---
 
@@ -14615,58 +11560,11 @@ This name [needs composition summary].
 
 
 
-# NAME 312
-
-> ६१॥  
-> ६१॥  
-> ॥ 312 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ६१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ६१॥
-- **Breakdown**: `६१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **६१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 313
+# NAME 247
 
 > ध्यान-ध्यातृ-ध्येयरूपा  
 > ध्यान-ध्यातृ-ध्येयरूपा  
-> ॥ 313 ॥
+> ॥ 247 ॥
 
 ---
 
@@ -14709,11 +11607,11 @@ This name [needs composition summary].
 
 
 
-# NAME 314
+# NAME 248
 
 > धर्माधर्म-विवर्जिता  
 > धर्माधर्म-विवर्जिता  
-> ॥ 314 ॥
+> ॥ 248 ॥
 
 ---
 
@@ -14756,11 +11654,11 @@ This name [needs composition summary].
 
 
 
-# NAME 315
+# NAME 249
 
 > विश्वरूपा  
 > विश्वरूपा  
-> ॥ 315 ॥
+> ॥ 249 ॥
 
 ---
 
@@ -14803,11 +11701,11 @@ This name [needs composition summary].
 
 
 
-# NAME 316
+# NAME 250
 
 > जागरिणी  
 > जागरिणी  
-> ॥ 316 ॥
+> ॥ 250 ॥
 
 ---
 
@@ -14850,11 +11748,11 @@ This name [needs composition summary].
 
 
 
-# NAME 317
+# NAME 251
 
 > स्वपन्ती  
 > स्वपन्ती  
-> ॥ 317 ॥
+> ॥ 251 ॥
 
 ---
 
@@ -14897,11 +11795,11 @@ This name [needs composition summary].
 
 
 
-# NAME 318
+# NAME 252
 
 > तैजसात्मिका  
 > तैजसात्मिका  
-> ॥ 318 ॥
+> ॥ 252 ॥
 
 ---
 
@@ -14944,58 +11842,11 @@ This name [needs composition summary].
 
 
 
-# NAME 319
-
-> ६२॥  
-> ६२॥  
-> ॥ 319 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ६२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ६२॥
-- **Breakdown**: `६२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **६२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 320
+# NAME 253
 
 > सुप्ता  
 > सुप्ता  
-> ॥ 320 ॥
+> ॥ 253 ॥
 
 ---
 
@@ -15038,11 +11889,11 @@ This name [needs composition summary].
 
 
 
-# NAME 321
+# NAME 254
 
 > प्राज्ञात्मिका  
 > प्राज्ञात्मिका  
-> ॥ 321 ॥
+> ॥ 254 ॥
 
 ---
 
@@ -15085,11 +11936,11 @@ This name [needs composition summary].
 
 
 
-# NAME 322
+# NAME 255
 
 > तुर्या  
 > तुर्या  
-> ॥ 322 ॥
+> ॥ 255 ॥
 
 ---
 
@@ -15132,11 +11983,11 @@ This name [needs composition summary].
 
 
 
-# NAME 323
+# NAME 256
 
 > सर्वावस्था-विवर्जिता  
 > सर्वावस्था-विवर्जिता  
-> ॥ 323 ॥
+> ॥ 256 ॥
 
 ---
 
@@ -15179,11 +12030,11 @@ This name [needs composition summary].
 
 
 
-# NAME 324
+# NAME 257
 
 > सृष्टिकर्त्री  
 > सृष्टिकर्त्री  
-> ॥ 324 ॥
+> ॥ 257 ॥
 
 ---
 
@@ -15226,11 +12077,11 @@ This name [needs composition summary].
 
 
 
-# NAME 325
+# NAME 258
 
 > ब्रह्मरूपा  
 > ब्रह्मरूपा  
-> ॥ 325 ॥
+> ॥ 258 ॥
 
 ---
 
@@ -15273,11 +12124,11 @@ This name [needs composition summary].
 
 
 
-# NAME 326
+# NAME 259
 
 > गोप्त्री  
 > गोप्त्री  
-> ॥ 326 ॥
+> ॥ 259 ॥
 
 ---
 
@@ -15320,11 +12171,11 @@ This name [needs composition summary].
 
 
 
-# NAME 327
+# NAME 260
 
 > गोविन्दरूपिणी  
 > गोविन्दरूपिणी  
-> ॥ 327 ॥
+> ॥ 260 ॥
 
 ---
 
@@ -15367,58 +12218,11 @@ This name [needs composition summary].
 
 
 
-# NAME 328
-
-> ६३॥  
-> ६३॥  
-> ॥ 328 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ६३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ६३॥
-- **Breakdown**: `६३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **६३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 329
+# NAME 261
 
 > संहारिणी  
 > संहारिणी  
-> ॥ 329 ॥
+> ॥ 261 ॥
 
 ---
 
@@ -15461,11 +12265,11 @@ This name [needs composition summary].
 
 
 
-# NAME 330
+# NAME 262
 
 > रुद्ररूपा  
 > रुद्ररूपा  
-> ॥ 330 ॥
+> ॥ 262 ॥
 
 ---
 
@@ -15508,11 +12312,11 @@ This name [needs composition summary].
 
 
 
-# NAME 331
+# NAME 263
 
 > तिरोधान-करीश्वरी  
 > तिरोधान-करीश्वरी  
-> ॥ 331 ॥
+> ॥ 263 ॥
 
 ---
 
@@ -15555,11 +12359,11 @@ This name [needs composition summary].
 
 
 
-# NAME 332
+# NAME 264
 
 > सदाशिवाऽनुग्रहदा  
 > सदाशिवाऽनुग्रहदा  
-> ॥ 332 ॥
+> ॥ 264 ॥
 
 ---
 
@@ -15602,11 +12406,11 @@ This name [needs composition summary].
 
 
 
-# NAME 333
+# NAME 265
 
 > पञ्चकृत्य-परायणा  
 > पञ्चकृत्य-परायणा  
-> ॥ 333 ॥
+> ॥ 265 ॥
 
 ---
 
@@ -15649,58 +12453,11 @@ This name [needs composition summary].
 
 
 
-# NAME 334
-
-> ६४॥  
-> ६४॥  
-> ॥ 334 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ६४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ६४॥
-- **Breakdown**: `६४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **६४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 335
+# NAME 266
 
 > भानुमण्डल-मध्यस्था  
 > भानुमण्डल-मध्यस्था  
-> ॥ 335 ॥
+> ॥ 266 ॥
 
 ---
 
@@ -15743,11 +12500,11 @@ This name [needs composition summary].
 
 
 
-# NAME 336
+# NAME 267
 
 > भैरवी  
 > भैरवी  
-> ॥ 336 ॥
+> ॥ 267 ॥
 
 ---
 
@@ -15790,11 +12547,11 @@ This name [needs composition summary].
 
 
 
-# NAME 337
+# NAME 268
 
 > भगमालिनी  
 > भगमालिनी  
-> ॥ 337 ॥
+> ॥ 268 ॥
 
 ---
 
@@ -15837,11 +12594,11 @@ This name [needs composition summary].
 
 
 
-# NAME 338
+# NAME 269
 
 > पद्मासना  
 > पद्मासना  
-> ॥ 338 ॥
+> ॥ 269 ॥
 
 ---
 
@@ -15884,11 +12641,11 @@ This name [needs composition summary].
 
 
 
-# NAME 339
+# NAME 270
 
 > भगवती  
 > भगवती  
-> ॥ 339 ॥
+> ॥ 270 ॥
 
 ---
 
@@ -15931,11 +12688,11 @@ This name [needs composition summary].
 
 
 
-# NAME 340
+# NAME 271
 
 > पद्मनाभ-सहोदरी  
 > पद्मनाभ-सहोदरी  
-> ॥ 340 ॥
+> ॥ 271 ॥
 
 ---
 
@@ -15978,58 +12735,11 @@ This name [needs composition summary].
 
 
 
-# NAME 341
-
-> ६५॥  
-> ६५॥  
-> ॥ 341 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ६५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ६५॥
-- **Breakdown**: `६५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **६५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 342
+# NAME 272
 
 > उन्मेष-निमिषोत्पन्न-विपन्न-भुवनावली  
 > उन्मेष-निमिषोत्पन्न-विपन्न-भुवनावली  
-> ॥ 342 ॥
+> ॥ 272 ॥
 
 ---
 
@@ -16072,11 +12782,11 @@ This name [needs composition summary].
 
 
 
-# NAME 343
+# NAME 273
 
 > सहस्र-शीर्षवदना  
 > सहस्र-शीर्षवदना  
-> ॥ 343 ॥
+> ॥ 273 ॥
 
 ---
 
@@ -16119,11 +12829,11 @@ This name [needs composition summary].
 
 
 
-# NAME 344
+# NAME 274
 
 > सहस्राक्षी  
 > सहस्राक्षी  
-> ॥ 344 ॥
+> ॥ 274 ॥
 
 ---
 
@@ -16166,11 +12876,11 @@ This name [needs composition summary].
 
 
 
-# NAME 345
+# NAME 275
 
 > सहस्रपात्  
 > सहस्रपात्  
-> ॥ 345 ॥
+> ॥ 275 ॥
 
 ---
 
@@ -16213,58 +12923,11 @@ This name [needs composition summary].
 
 
 
-# NAME 346
-
-> ६६॥  
-> ६६॥  
-> ॥ 346 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ६६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ६६॥
-- **Breakdown**: `६६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **६६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 347
+# NAME 276
 
 > आब्रह्म-कीट-जननी  
 > आब्रह्म-कीट-जननी  
-> ॥ 347 ॥
+> ॥ 276 ॥
 
 ---
 
@@ -16307,11 +12970,11 @@ This name [needs composition summary].
 
 
 
-# NAME 348
+# NAME 277
 
 > वर्णाश्रम-विधायिनी  
 > वर्णाश्रम-विधायिनी  
-> ॥ 348 ॥
+> ॥ 277 ॥
 
 ---
 
@@ -16354,11 +13017,11 @@ This name [needs composition summary].
 
 
 
-# NAME 349
+# NAME 278
 
 > निजाज्ञारूप-निगमा  
 > निजाज्ञारूप-निगमा  
-> ॥ 349 ॥
+> ॥ 278 ॥
 
 ---
 
@@ -16401,11 +13064,11 @@ This name [needs composition summary].
 
 
 
-# NAME 350
+# NAME 279
 
 > पुण्यापुण्य-फलप्रदा  
 > पुण्यापुण्य-फलप्रदा  
-> ॥ 350 ॥
+> ॥ 279 ॥
 
 ---
 
@@ -16448,58 +13111,11 @@ This name [needs composition summary].
 
 
 
-# NAME 351
-
-> ६७॥  
-> ६७॥  
-> ॥ 351 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ६७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ६७॥
-- **Breakdown**: `६७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **६७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 352
+# NAME 280
 
 > श्रुति-सीमन्त-सिन्दूरी-कृत-पादाब्ज-धूलिका  
 > श्रुति-सीमन्त-सिन्दूरी-कृत-पादाब्ज-धूलिका  
-> ॥ 352 ॥
+> ॥ 280 ॥
 
 ---
 
@@ -16542,11 +13158,11 @@ This name [needs composition summary].
 
 
 
-# NAME 353
+# NAME 281
 
 > सकलागम-सन्दोह-शुक्ति-सम्पुट-मौक्तिका  
 > सकलागम-सन्दोह-शुक्ति-सम्पुट-मौक्तिका  
-> ॥ 353 ॥
+> ॥ 281 ॥
 
 ---
 
@@ -16589,58 +13205,11 @@ This name [needs composition summary].
 
 
 
-# NAME 354
-
-> ६८॥  
-> ६८॥  
-> ॥ 354 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ६८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ६८॥
-- **Breakdown**: `६८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **६८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 355
+# NAME 282
 
 > पुरुषार्थप्रदा  
 > पुरुषार्थप्रदा  
-> ॥ 355 ॥
+> ॥ 282 ॥
 
 ---
 
@@ -16683,11 +13252,11 @@ This name [needs composition summary].
 
 
 
-# NAME 356
+# NAME 283
 
 > पूर्णा  
 > पूर्णा  
-> ॥ 356 ॥
+> ॥ 283 ॥
 
 ---
 
@@ -16730,11 +13299,11 @@ This name [needs composition summary].
 
 
 
-# NAME 357
+# NAME 284
 
 > भोगिनी  
 > भोगिनी  
-> ॥ 357 ॥
+> ॥ 284 ॥
 
 ---
 
@@ -16777,11 +13346,11 @@ This name [needs composition summary].
 
 
 
-# NAME 358
+# NAME 285
 
 > भुवनेश्वरी  
 > भुवनेश्वरी  
-> ॥ 358 ॥
+> ॥ 285 ॥
 
 ---
 
@@ -16824,11 +13393,11 @@ This name [needs composition summary].
 
 
 
-# NAME 359
+# NAME 286
 
 > अम्बिकाऽनादि-निधना  
 > अम्बिकाऽनादि-निधना  
-> ॥ 359 ॥
+> ॥ 286 ॥
 
 ---
 
@@ -16871,11 +13440,11 @@ This name [needs composition summary].
 
 
 
-# NAME 360
+# NAME 287
 
 > हरिब्रह्मेन्द्र-सेविता  
 > हरिब्रह्मेन्द्र-सेविता  
-> ॥ 360 ॥
+> ॥ 287 ॥
 
 ---
 
@@ -16918,58 +13487,11 @@ This name [needs composition summary].
 
 
 
-# NAME 361
-
-> ६९॥  
-> ६९॥  
-> ॥ 361 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ६९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ६९॥
-- **Breakdown**: `६९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **६९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 362
+# NAME 288
 
 > नारायणी  
 > नारायणी  
-> ॥ 362 ॥
+> ॥ 288 ॥
 
 ---
 
@@ -17012,11 +13534,11 @@ This name [needs composition summary].
 
 
 
-# NAME 363
+# NAME 289
 
 > नादरूपा  
 > नादरूपा  
-> ॥ 363 ॥
+> ॥ 289 ॥
 
 ---
 
@@ -17059,11 +13581,11 @@ This name [needs composition summary].
 
 
 
-# NAME 364
+# NAME 290
 
 > नामरूप-विवर्जिता  
 > नामरूप-विवर्जिता  
-> ॥ 364 ॥
+> ॥ 290 ॥
 
 ---
 
@@ -17106,11 +13628,11 @@ This name [needs composition summary].
 
 
 
-# NAME 365
+# NAME 291
 
 > ह्रींकारी  
 > ह्रींकारी  
-> ॥ 365 ॥
+> ॥ 291 ॥
 
 ---
 
@@ -17153,11 +13675,11 @@ This name [needs composition summary].
 
 
 
-# NAME 366
+# NAME 292
 
 > ह्रीमती  
 > ह्रीमती  
-> ॥ 366 ॥
+> ॥ 292 ॥
 
 ---
 
@@ -17200,11 +13722,11 @@ This name [needs composition summary].
 
 
 
-# NAME 367
+# NAME 293
 
 > हृद्या  
 > हृद्या  
-> ॥ 367 ॥
+> ॥ 293 ॥
 
 ---
 
@@ -17247,11 +13769,11 @@ This name [needs composition summary].
 
 
 
-# NAME 368
+# NAME 294
 
 > हेयोपादेय-वर्जिता  
 > हेयोपादेय-वर्जिता  
-> ॥ 368 ॥
+> ॥ 294 ॥
 
 ---
 
@@ -17294,58 +13816,11 @@ This name [needs composition summary].
 
 
 
-# NAME 369
-
-> ७०॥  
-> ७०॥  
-> ॥ 369 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ७०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ७०॥
-- **Breakdown**: `७०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **७०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 370
+# NAME 295
 
 > राजराजार्चिता  
 > राजराजार्चिता  
-> ॥ 370 ॥
+> ॥ 295 ॥
 
 ---
 
@@ -17388,11 +13863,11 @@ This name [needs composition summary].
 
 
 
-# NAME 371
+# NAME 296
 
 > राज्ञी  
 > राज्ञी  
-> ॥ 371 ॥
+> ॥ 296 ॥
 
 ---
 
@@ -17435,11 +13910,11 @@ This name [needs composition summary].
 
 
 
-# NAME 372
+# NAME 297
 
 > रम्या  
 > रम्या  
-> ॥ 372 ॥
+> ॥ 297 ॥
 
 ---
 
@@ -17482,11 +13957,11 @@ This name [needs composition summary].
 
 
 
-# NAME 373
+# NAME 298
 
 > राजीवलोचना  
 > राजीवलोचना  
-> ॥ 373 ॥
+> ॥ 298 ॥
 
 ---
 
@@ -17529,11 +14004,11 @@ This name [needs composition summary].
 
 
 
-# NAME 374
+# NAME 299
 
 > रञ्जनी  
 > रञ्जनी  
-> ॥ 374 ॥
+> ॥ 299 ॥
 
 ---
 
@@ -17576,11 +14051,11 @@ This name [needs composition summary].
 
 
 
-# NAME 375
+# NAME 300
 
 > रमणी  
 > रमणी  
-> ॥ 375 ॥
+> ॥ 300 ॥
 
 ---
 
@@ -17623,11 +14098,11 @@ This name [needs composition summary].
 
 
 
-# NAME 376
+# NAME 301
 
 > रस्या  
 > रस्या  
-> ॥ 376 ॥
+> ॥ 301 ॥
 
 ---
 
@@ -17670,11 +14145,11 @@ This name [needs composition summary].
 
 
 
-# NAME 377
+# NAME 302
 
 > रणत्किङ्किणि-मेखला  
 > रणत्किङ्किणि-मेखला  
-> ॥ 377 ॥
+> ॥ 302 ॥
 
 ---
 
@@ -17717,58 +14192,11 @@ This name [needs composition summary].
 
 
 
-# NAME 378
-
-> ७१॥  
-> ७१॥  
-> ॥ 378 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ७१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ७१॥
-- **Breakdown**: `७१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **७१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 379
+# NAME 303
 
 > रमा  
 > रमा  
-> ॥ 379 ॥
+> ॥ 303 ॥
 
 ---
 
@@ -17811,11 +14239,11 @@ This name [needs composition summary].
 
 
 
-# NAME 380
+# NAME 304
 
 > राकेन्दुवदना  
 > राकेन्दुवदना  
-> ॥ 380 ॥
+> ॥ 304 ॥
 
 ---
 
@@ -17858,11 +14286,11 @@ This name [needs composition summary].
 
 
 
-# NAME 381
+# NAME 305
 
 > रतिरूपा  
 > रतिरूपा  
-> ॥ 381 ॥
+> ॥ 305 ॥
 
 ---
 
@@ -17905,11 +14333,11 @@ This name [needs composition summary].
 
 
 
-# NAME 382
+# NAME 306
 
 > रतिप्रिया  
 > रतिप्रिया  
-> ॥ 382 ॥
+> ॥ 306 ॥
 
 ---
 
@@ -17952,11 +14380,11 @@ This name [needs composition summary].
 
 
 
-# NAME 383
+# NAME 307
 
 > रक्षाकरी  
 > रक्षाकरी  
-> ॥ 383 ॥
+> ॥ 307 ॥
 
 ---
 
@@ -17999,11 +14427,11 @@ This name [needs composition summary].
 
 
 
-# NAME 384
+# NAME 308
 
 > राक्षसघ्नी  
 > राक्षसघ्नी  
-> ॥ 384 ॥
+> ॥ 308 ॥
 
 ---
 
@@ -18046,11 +14474,11 @@ This name [needs composition summary].
 
 
 
-# NAME 385
+# NAME 309
 
 > रामा  
 > रामा  
-> ॥ 385 ॥
+> ॥ 309 ॥
 
 ---
 
@@ -18093,11 +14521,11 @@ This name [needs composition summary].
 
 
 
-# NAME 386
+# NAME 310
 
 > रमणलम्पटा  
 > रमणलम्पटा  
-> ॥ 386 ॥
+> ॥ 310 ॥
 
 ---
 
@@ -18140,58 +14568,11 @@ This name [needs composition summary].
 
 
 
-# NAME 387
-
-> ७२॥  
-> ७२॥  
-> ॥ 387 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ७२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ७२॥
-- **Breakdown**: `७२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **७२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 388
+# NAME 311
 
 > काम्या  
 > काम्या  
-> ॥ 388 ॥
+> ॥ 311 ॥
 
 ---
 
@@ -18234,11 +14615,11 @@ This name [needs composition summary].
 
 
 
-# NAME 389
+# NAME 312
 
 > कामकलारूपा  
 > कामकलारूपा  
-> ॥ 389 ॥
+> ॥ 312 ॥
 
 ---
 
@@ -18281,11 +14662,11 @@ This name [needs composition summary].
 
 
 
-# NAME 390
+# NAME 313
 
 > कदम्ब-कुसुम-प्रिया  
 > कदम्ब-कुसुम-प्रिया  
-> ॥ 390 ॥
+> ॥ 313 ॥
 
 ---
 
@@ -18328,11 +14709,11 @@ This name [needs composition summary].
 
 
 
-# NAME 391
+# NAME 314
 
 > कल्याणी  
 > कल्याणी  
-> ॥ 391 ॥
+> ॥ 314 ॥
 
 ---
 
@@ -18375,11 +14756,11 @@ This name [needs composition summary].
 
 
 
-# NAME 392
+# NAME 315
 
 > जगतीकन्दा  
 > जगतीकन्दा  
-> ॥ 392 ॥
+> ॥ 315 ॥
 
 ---
 
@@ -18422,11 +14803,11 @@ This name [needs composition summary].
 
 
 
-# NAME 393
+# NAME 316
 
 > करुणा-रस-सागरा  
 > करुणा-रस-सागरा  
-> ॥ 393 ॥
+> ॥ 316 ॥
 
 ---
 
@@ -18469,58 +14850,11 @@ This name [needs composition summary].
 
 
 
-# NAME 394
-
-> ७३॥  
-> ७३॥  
-> ॥ 394 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ७३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ७३॥
-- **Breakdown**: `७३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **७३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 395
+# NAME 317
 
 > कलावती  
 > कलावती  
-> ॥ 395 ॥
+> ॥ 317 ॥
 
 ---
 
@@ -18563,11 +14897,11 @@ This name [needs composition summary].
 
 
 
-# NAME 396
+# NAME 318
 
 > कलालापा  
 > कलालापा  
-> ॥ 396 ॥
+> ॥ 318 ॥
 
 ---
 
@@ -18610,11 +14944,11 @@ This name [needs composition summary].
 
 
 
-# NAME 397
+# NAME 319
 
 > कान्ता  
 > कान्ता  
-> ॥ 397 ॥
+> ॥ 319 ॥
 
 ---
 
@@ -18657,11 +14991,11 @@ This name [needs composition summary].
 
 
 
-# NAME 398
+# NAME 320
 
 > कादम्बरीप्रिया  
 > कादम्बरीप्रिया  
-> ॥ 398 ॥
+> ॥ 320 ॥
 
 ---
 
@@ -18704,11 +15038,11 @@ This name [needs composition summary].
 
 
 
-# NAME 399
+# NAME 321
 
 > वरदा  
 > वरदा  
-> ॥ 399 ॥
+> ॥ 321 ॥
 
 ---
 
@@ -18751,11 +15085,11 @@ This name [needs composition summary].
 
 
 
-# NAME 400
+# NAME 322
 
 > वामनयना  
 > वामनयना  
-> ॥ 400 ॥
+> ॥ 322 ॥
 
 ---
 
@@ -18798,11 +15132,11 @@ This name [needs composition summary].
 
 
 
-# NAME 401
+# NAME 323
 
 > वारुणी-मद-विह्वला  
 > वारुणी-मद-विह्वला  
-> ॥ 401 ॥
+> ॥ 323 ॥
 
 ---
 
@@ -18845,58 +15179,11 @@ This name [needs composition summary].
 
 
 
-# NAME 402
-
-> ७४॥  
-> ७४॥  
-> ॥ 402 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ७४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ७४॥
-- **Breakdown**: `७४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **७४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 403
+# NAME 324
 
 > विश्वाधिका  
 > विश्वाधिका  
-> ॥ 403 ॥
+> ॥ 324 ॥
 
 ---
 
@@ -18939,11 +15226,11 @@ This name [needs composition summary].
 
 
 
-# NAME 404
+# NAME 325
 
 > वेदवेद्या  
 > वेदवेद्या  
-> ॥ 404 ॥
+> ॥ 325 ॥
 
 ---
 
@@ -18986,11 +15273,11 @@ This name [needs composition summary].
 
 
 
-# NAME 405
+# NAME 326
 
 > विन्ध्याचल-निवासिनी  
 > विन्ध्याचल-निवासिनी  
-> ॥ 405 ॥
+> ॥ 326 ॥
 
 ---
 
@@ -19033,11 +15320,11 @@ This name [needs composition summary].
 
 
 
-# NAME 406
+# NAME 327
 
 > विधात्री  
 > विधात्री  
-> ॥ 406 ॥
+> ॥ 327 ॥
 
 ---
 
@@ -19080,11 +15367,11 @@ This name [needs composition summary].
 
 
 
-# NAME 407
+# NAME 328
 
 > वेदजननी  
 > वेदजननी  
-> ॥ 407 ॥
+> ॥ 328 ॥
 
 ---
 
@@ -19127,11 +15414,11 @@ This name [needs composition summary].
 
 
 
-# NAME 408
+# NAME 329
 
 > विष्णुमाया  
 > विष्णुमाया  
-> ॥ 408 ॥
+> ॥ 329 ॥
 
 ---
 
@@ -19174,11 +15461,11 @@ This name [needs composition summary].
 
 
 
-# NAME 409
+# NAME 330
 
 > विलासिनी  
 > विलासिनी  
-> ॥ 409 ॥
+> ॥ 330 ॥
 
 ---
 
@@ -19221,58 +15508,11 @@ This name [needs composition summary].
 
 
 
-# NAME 410
-
-> ७५॥  
-> ७५॥  
-> ॥ 410 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ७५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ७५॥
-- **Breakdown**: `७५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **७५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 411
+# NAME 331
 
 > क्षेत्रस्वरूपा  
 > क्षेत्रस्वरूपा  
-> ॥ 411 ॥
+> ॥ 331 ॥
 
 ---
 
@@ -19315,11 +15555,11 @@ This name [needs composition summary].
 
 
 
-# NAME 412
+# NAME 332
 
 > क्षेत्रेशी  
 > क्षेत्रेशी  
-> ॥ 412 ॥
+> ॥ 332 ॥
 
 ---
 
@@ -19362,11 +15602,11 @@ This name [needs composition summary].
 
 
 
-# NAME 413
+# NAME 333
 
 > क्षेत्र-क्षेत्रज्ञ-पालिनी  
 > क्षेत्र-क्षेत्रज्ञ-पालिनी  
-> ॥ 413 ॥
+> ॥ 333 ॥
 
 ---
 
@@ -19409,11 +15649,11 @@ This name [needs composition summary].
 
 
 
-# NAME 414
+# NAME 334
 
 > क्षयवृद्धि-विनिर्मुक्ता  
 > क्षयवृद्धि-विनिर्मुक्ता  
-> ॥ 414 ॥
+> ॥ 334 ॥
 
 ---
 
@@ -19456,11 +15696,11 @@ This name [needs composition summary].
 
 
 
-# NAME 415
+# NAME 335
 
 > क्षेत्रपाल-समर्चिता  
 > क्षेत्रपाल-समर्चिता  
-> ॥ 415 ॥
+> ॥ 335 ॥
 
 ---
 
@@ -19503,58 +15743,11 @@ This name [needs composition summary].
 
 
 
-# NAME 416
-
-> ७६॥  
-> ७६॥  
-> ॥ 416 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ७६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ७६॥
-- **Breakdown**: `७६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **७६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 417
+# NAME 336
 
 > विजया  
 > विजया  
-> ॥ 417 ॥
+> ॥ 336 ॥
 
 ---
 
@@ -19597,11 +15790,11 @@ This name [needs composition summary].
 
 
 
-# NAME 418
+# NAME 337
 
 > विमला  
 > विमला  
-> ॥ 418 ॥
+> ॥ 337 ॥
 
 ---
 
@@ -19644,11 +15837,11 @@ This name [needs composition summary].
 
 
 
-# NAME 419
+# NAME 338
 
 > वन्द्या  
 > वन्द्या  
-> ॥ 419 ॥
+> ॥ 338 ॥
 
 ---
 
@@ -19691,11 +15884,11 @@ This name [needs composition summary].
 
 
 
-# NAME 420
+# NAME 339
 
 > वन्दारु-जन-वत्सला  
 > वन्दारु-जन-वत्सला  
-> ॥ 420 ॥
+> ॥ 339 ॥
 
 ---
 
@@ -19738,11 +15931,11 @@ This name [needs composition summary].
 
 
 
-# NAME 421
+# NAME 340
 
 > वाग्वादिनी  
 > वाग्वादिनी  
-> ॥ 421 ॥
+> ॥ 340 ॥
 
 ---
 
@@ -19785,11 +15978,11 @@ This name [needs composition summary].
 
 
 
-# NAME 422
+# NAME 341
 
 > वामकेशी  
 > वामकेशी  
-> ॥ 422 ॥
+> ॥ 341 ॥
 
 ---
 
@@ -19832,11 +16025,11 @@ This name [needs composition summary].
 
 
 
-# NAME 423
+# NAME 342
 
 > वह्निमण्डल-वासिनी  
 > वह्निमण्डल-वासिनी  
-> ॥ 423 ॥
+> ॥ 342 ॥
 
 ---
 
@@ -19879,58 +16072,11 @@ This name [needs composition summary].
 
 
 
-# NAME 424
-
-> ७७॥  
-> ७७॥  
-> ॥ 424 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ७७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ७७॥
-- **Breakdown**: `७७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **७७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 425
+# NAME 343
 
 > भक्तिमत्-कल्पलतिका  
 > भक्तिमत्-कल्पलतिका  
-> ॥ 425 ॥
+> ॥ 343 ॥
 
 ---
 
@@ -19973,11 +16119,11 @@ This name [needs composition summary].
 
 
 
-# NAME 426
+# NAME 344
 
 > पशुपाश-विमोचिनी  
 > पशुपाश-विमोचिनी  
-> ॥ 426 ॥
+> ॥ 344 ॥
 
 ---
 
@@ -20020,11 +16166,11 @@ This name [needs composition summary].
 
 
 
-# NAME 427
+# NAME 345
 
 > संहृताशेष-पाषण्डा  
 > संहृताशेष-पाषण्डा  
-> ॥ 427 ॥
+> ॥ 345 ॥
 
 ---
 
@@ -20067,11 +16213,11 @@ This name [needs composition summary].
 
 
 
-# NAME 428
+# NAME 346
 
 > सदाचार-प्रवर्तिका  
 > सदाचार-प्रवर्तिका  
-> ॥ 428 ॥
+> ॥ 346 ॥
 
 ---
 
@@ -20114,105 +16260,11 @@ This name [needs composition summary].
 
 
 
-# NAME 429
-
-> ७८॥  
-> ७८॥  
-> ॥ 429 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ७८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ७८॥
-- **Breakdown**: `७८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **७८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 430
-
-> (पाखण्डा)  
-> (पाखण्डा)  
-> ॥ 430 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| (पाखण्डा) | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### (पाखण्डा)
-- **Breakdown**: `(पाखण्डा)`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **(पाखण्डा)** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 431
+# NAME 347
 
 > तापत्रयाग्नि-सन्तप्त-समाह्लादन-चन्द्रिका  
 > तापत्रयाग्नि-सन्तप्त-समाह्लादन-चन्द्रिका  
-> ॥ 431 ॥
+> ॥ 347 ॥
 
 ---
 
@@ -20255,11 +16307,11 @@ This name [needs composition summary].
 
 
 
-# NAME 432
+# NAME 348
 
 > तरुणी  
 > तरुणी  
-> ॥ 432 ॥
+> ॥ 348 ॥
 
 ---
 
@@ -20302,11 +16354,11 @@ This name [needs composition summary].
 
 
 
-# NAME 433
+# NAME 349
 
 > तापसाराध्या  
 > तापसाराध्या  
-> ॥ 433 ॥
+> ॥ 349 ॥
 
 ---
 
@@ -20349,11 +16401,11 @@ This name [needs composition summary].
 
 
 
-# NAME 434
+# NAME 350
 
 > तनुमध्या  
 > तनुमध्या  
-> ॥ 434 ॥
+> ॥ 350 ॥
 
 ---
 
@@ -20396,11 +16448,11 @@ This name [needs composition summary].
 
 
 
-# NAME 435
+# NAME 351
 
 > तमोऽपहा  
 > तमोऽपहा  
-> ॥ 435 ॥
+> ॥ 351 ॥
 
 ---
 
@@ -20443,58 +16495,11 @@ This name [needs composition summary].
 
 
 
-# NAME 436
-
-> ७९॥  
-> ७९॥  
-> ॥ 436 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ७९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ७९॥
-- **Breakdown**: `७९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **७९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 437
+# NAME 352
 
 > चितिस्तत्पद-लक्ष्यार्था  
 > चितिस्तत्पद-लक्ष्यार्था  
-> ॥ 437 ॥
+> ॥ 352 ॥
 
 ---
 
@@ -20537,11 +16542,11 @@ This name [needs composition summary].
 
 
 
-# NAME 438
+# NAME 353
 
 > चिदेकरस-रूपिणी  
 > चिदेकरस-रूपिणी  
-> ॥ 438 ॥
+> ॥ 353 ॥
 
 ---
 
@@ -20584,11 +16589,11 @@ This name [needs composition summary].
 
 
 
-# NAME 439
+# NAME 354
 
 > स्वात्मानन्द-लवीभूत-ब्रह्माद्यानन्द-सन्ततिः  
 > स्वात्मानन्द-लवीभूत-ब्रह्माद्यानन्द-सन्ततिः  
-> ॥ 439 ॥
+> ॥ 354 ॥
 
 ---
 
@@ -20631,58 +16636,11 @@ This name [needs composition summary].
 
 
 
-# NAME 440
-
-> ८०॥  
-> ८०॥  
-> ॥ 440 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ८०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ८०॥
-- **Breakdown**: `८०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **८०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 441
+# NAME 355
 
 > परा  
 > परा  
-> ॥ 441 ॥
+> ॥ 355 ॥
 
 ---
 
@@ -20725,11 +16683,11 @@ This name [needs composition summary].
 
 
 
-# NAME 442
+# NAME 356
 
 > प्रत्यक्चितीरूपा  
 > प्रत्यक्चितीरूपा  
-> ॥ 442 ॥
+> ॥ 356 ॥
 
 ---
 
@@ -20772,11 +16730,11 @@ This name [needs composition summary].
 
 
 
-# NAME 443
+# NAME 357
 
 > पश्यन्ती  
 > पश्यन्ती  
-> ॥ 443 ॥
+> ॥ 357 ॥
 
 ---
 
@@ -20819,11 +16777,11 @@ This name [needs composition summary].
 
 
 
-# NAME 444
+# NAME 358
 
 > परदेवता  
 > परदेवता  
-> ॥ 444 ॥
+> ॥ 358 ॥
 
 ---
 
@@ -20866,11 +16824,11 @@ This name [needs composition summary].
 
 
 
-# NAME 445
+# NAME 359
 
 > मध्यमा  
 > मध्यमा  
-> ॥ 445 ॥
+> ॥ 359 ॥
 
 ---
 
@@ -20913,11 +16871,11 @@ This name [needs composition summary].
 
 
 
-# NAME 446
+# NAME 360
 
 > वैखरीरूपा  
 > वैखरीरूपा  
-> ॥ 446 ॥
+> ॥ 360 ॥
 
 ---
 
@@ -20960,11 +16918,11 @@ This name [needs composition summary].
 
 
 
-# NAME 447
+# NAME 361
 
 > भक्त-मानस-हंसिका  
 > भक्त-मानस-हंसिका  
-> ॥ 447 ॥
+> ॥ 361 ॥
 
 ---
 
@@ -21007,58 +16965,11 @@ This name [needs composition summary].
 
 
 
-# NAME 448
-
-> ८१॥  
-> ८१॥  
-> ॥ 448 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ८१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ८१॥
-- **Breakdown**: `८१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **८१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 449
+# NAME 362
 
 > कामेश्वर-प्राणनाडी  
 > कामेश्वर-प्राणनाडी  
-> ॥ 449 ॥
+> ॥ 362 ॥
 
 ---
 
@@ -21101,11 +17012,11 @@ This name [needs composition summary].
 
 
 
-# NAME 450
+# NAME 363
 
 > कृतज्ञा  
 > कृतज्ञा  
-> ॥ 450 ॥
+> ॥ 363 ॥
 
 ---
 
@@ -21148,11 +17059,11 @@ This name [needs composition summary].
 
 
 
-# NAME 451
+# NAME 364
 
 > कामपूजिता  
 > कामपूजिता  
-> ॥ 451 ॥
+> ॥ 364 ॥
 
 ---
 
@@ -21195,11 +17106,11 @@ This name [needs composition summary].
 
 
 
-# NAME 452
+# NAME 365
 
 > श‍ृङ्गार-रस-सम्पूर्णा  
 > श‍ृङ्गार-रस-सम्पूर्णा  
-> ॥ 452 ॥
+> ॥ 365 ॥
 
 ---
 
@@ -21242,11 +17153,11 @@ This name [needs composition summary].
 
 
 
-# NAME 453
+# NAME 366
 
 > जया  
 > जया  
-> ॥ 453 ॥
+> ॥ 366 ॥
 
 ---
 
@@ -21289,11 +17200,11 @@ This name [needs composition summary].
 
 
 
-# NAME 454
+# NAME 367
 
 > जालन्धर-स्थिता  
 > जालन्धर-स्थिता  
-> ॥ 454 ॥
+> ॥ 367 ॥
 
 ---
 
@@ -21336,58 +17247,11 @@ This name [needs composition summary].
 
 
 
-# NAME 455
-
-> ८२॥  
-> ८२॥  
-> ॥ 455 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ८२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ८२॥
-- **Breakdown**: `८२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **८२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 456
+# NAME 368
 
 > ओड्याणपीठ-निलया  
 > ओड्याणपीठ-निलया  
-> ॥ 456 ॥
+> ॥ 368 ॥
 
 ---
 
@@ -21430,11 +17294,11 @@ This name [needs composition summary].
 
 
 
-# NAME 457
+# NAME 369
 
 > बिन्दु-मण्डलवासिनी  
 > बिन्दु-मण्डलवासिनी  
-> ॥ 457 ॥
+> ॥ 369 ॥
 
 ---
 
@@ -21477,11 +17341,11 @@ This name [needs composition summary].
 
 
 
-# NAME 458
+# NAME 370
 
 > रहोयाग-क्रमाराध्या  
 > रहोयाग-क्रमाराध्या  
-> ॥ 458 ॥
+> ॥ 370 ॥
 
 ---
 
@@ -21524,11 +17388,11 @@ This name [needs composition summary].
 
 
 
-# NAME 459
+# NAME 371
 
 > रहस्तर्पण-तर्पिता  
 > रहस्तर्पण-तर्पिता  
-> ॥ 459 ॥
+> ॥ 371 ॥
 
 ---
 
@@ -21571,58 +17435,11 @@ This name [needs composition summary].
 
 
 
-# NAME 460
-
-> ८३॥  
-> ८३॥  
-> ॥ 460 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ८३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ८३॥
-- **Breakdown**: `८३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **८३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 461
+# NAME 372
 
 > सद्यःप्रसादिनी  
 > सद्यःप्रसादिनी  
-> ॥ 461 ॥
+> ॥ 372 ॥
 
 ---
 
@@ -21665,11 +17482,11 @@ This name [needs composition summary].
 
 
 
-# NAME 462
+# NAME 373
 
 > विश्व-साक्षिणी  
 > विश्व-साक्षिणी  
-> ॥ 462 ॥
+> ॥ 373 ॥
 
 ---
 
@@ -21712,11 +17529,11 @@ This name [needs composition summary].
 
 
 
-# NAME 463
+# NAME 374
 
 > साक्षिवर्जिता  
 > साक्षिवर्जिता  
-> ॥ 463 ॥
+> ॥ 374 ॥
 
 ---
 
@@ -21759,11 +17576,11 @@ This name [needs composition summary].
 
 
 
-# NAME 464
+# NAME 375
 
 > षडङ्गदेवता-युक्ता  
 > षडङ्गदेवता-युक्ता  
-> ॥ 464 ॥
+> ॥ 375 ॥
 
 ---
 
@@ -21806,11 +17623,11 @@ This name [needs composition summary].
 
 
 
-# NAME 465
+# NAME 376
 
 > षाड्गुण्य-परिपूरिता  
 > षाड्गुण्य-परिपूरिता  
-> ॥ 465 ॥
+> ॥ 376 ॥
 
 ---
 
@@ -21853,58 +17670,11 @@ This name [needs composition summary].
 
 
 
-# NAME 466
-
-> ८४॥  
-> ८४॥  
-> ॥ 466 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ८४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ८४॥
-- **Breakdown**: `८४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **८४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 467
+# NAME 377
 
 > नित्यक्लिन्ना  
 > नित्यक्लिन्ना  
-> ॥ 467 ॥
+> ॥ 377 ॥
 
 ---
 
@@ -21947,11 +17717,11 @@ This name [needs composition summary].
 
 
 
-# NAME 468
+# NAME 378
 
 > निरुपमा  
 > निरुपमा  
-> ॥ 468 ॥
+> ॥ 378 ॥
 
 ---
 
@@ -21994,11 +17764,11 @@ This name [needs composition summary].
 
 
 
-# NAME 469
+# NAME 379
 
 > निर्वाण-सुख-दायिनी  
 > निर्वाण-सुख-दायिनी  
-> ॥ 469 ॥
+> ॥ 379 ॥
 
 ---
 
@@ -22041,11 +17811,11 @@ This name [needs composition summary].
 
 
 
-# NAME 470
+# NAME 380
 
 > नित्या-षोडशिका-रूपा  
 > नित्या-षोडशिका-रूपा  
-> ॥ 470 ॥
+> ॥ 380 ॥
 
 ---
 
@@ -22088,11 +17858,11 @@ This name [needs composition summary].
 
 
 
-# NAME 471
+# NAME 381
 
 > श्रीकण्ठार्ध-शरीरिणी  
 > श्रीकण्ठार्ध-शरीरिणी  
-> ॥ 471 ॥
+> ॥ 381 ॥
 
 ---
 
@@ -22135,58 +17905,11 @@ This name [needs composition summary].
 
 
 
-# NAME 472
-
-> ८५॥  
-> ८५॥  
-> ॥ 472 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ८५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ८५॥
-- **Breakdown**: `८५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **८५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 473
+# NAME 382
 
 > प्रभावती  
 > प्रभावती  
-> ॥ 473 ॥
+> ॥ 382 ॥
 
 ---
 
@@ -22229,11 +17952,11 @@ This name [needs composition summary].
 
 
 
-# NAME 474
+# NAME 383
 
 > प्रभारूपा  
 > प्रभारूपा  
-> ॥ 474 ॥
+> ॥ 383 ॥
 
 ---
 
@@ -22276,11 +17999,11 @@ This name [needs composition summary].
 
 
 
-# NAME 475
+# NAME 384
 
 > प्रसिद्धा  
 > प्रसिद्धा  
-> ॥ 475 ॥
+> ॥ 384 ॥
 
 ---
 
@@ -22323,11 +18046,11 @@ This name [needs composition summary].
 
 
 
-# NAME 476
+# NAME 385
 
 > परमेश्वरी  
 > परमेश्वरी  
-> ॥ 476 ॥
+> ॥ 385 ॥
 
 ---
 
@@ -22370,11 +18093,11 @@ This name [needs composition summary].
 
 
 
-# NAME 477
+# NAME 386
 
 > मूलप्रकृतिरव्यक्ता  
 > मूलप्रकृतिरव्यक्ता  
-> ॥ 477 ॥
+> ॥ 386 ॥
 
 ---
 
@@ -22417,11 +18140,11 @@ This name [needs composition summary].
 
 
 
-# NAME 478
+# NAME 387
 
 > व्यक्ताव्यक्त-स्वरूपिणी  
 > व्यक्ताव्यक्त-स्वरूपिणी  
-> ॥ 478 ॥
+> ॥ 387 ॥
 
 ---
 
@@ -22464,58 +18187,11 @@ This name [needs composition summary].
 
 
 
-# NAME 479
-
-> ८६॥  
-> ८६॥  
-> ॥ 479 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ८६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ८६॥
-- **Breakdown**: `८६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **८६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 480
+# NAME 388
 
 > व्यापिनी  
 > व्यापिनी  
-> ॥ 480 ॥
+> ॥ 388 ॥
 
 ---
 
@@ -22558,11 +18234,11 @@ This name [needs composition summary].
 
 
 
-# NAME 481
+# NAME 389
 
 > विविधाकारा  
 > विविधाकारा  
-> ॥ 481 ॥
+> ॥ 389 ॥
 
 ---
 
@@ -22605,11 +18281,11 @@ This name [needs composition summary].
 
 
 
-# NAME 482
+# NAME 390
 
 > विद्याविद्या-स्वरूपिणी  
 > विद्याविद्या-स्वरूपिणी  
-> ॥ 482 ॥
+> ॥ 390 ॥
 
 ---
 
@@ -22652,11 +18328,11 @@ This name [needs composition summary].
 
 
 
-# NAME 483
+# NAME 391
 
 > महाकामेश-नयन-कुमुदाह्लाद-कौमुदी  
 > महाकामेश-नयन-कुमुदाह्लाद-कौमुदी  
-> ॥ 483 ॥
+> ॥ 391 ॥
 
 ---
 
@@ -22699,58 +18375,11 @@ This name [needs composition summary].
 
 
 
-# NAME 484
-
-> ८७॥  
-> ८७॥  
-> ॥ 484 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ८७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ८७॥
-- **Breakdown**: `८७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **८७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 485
+# NAME 392
 
 > भक्त-हार्द-तमोभेद-भानुमद्भानु-सन्ततिः  
 > भक्त-हार्द-तमोभेद-भानुमद्भानु-सन्ततिः  
-> ॥ 485 ॥
+> ॥ 392 ॥
 
 ---
 
@@ -22793,11 +18422,11 @@ This name [needs composition summary].
 
 
 
-# NAME 486
+# NAME 393
 
 > शिवदूती  
 > शिवदूती  
-> ॥ 486 ॥
+> ॥ 393 ॥
 
 ---
 
@@ -22840,11 +18469,11 @@ This name [needs composition summary].
 
 
 
-# NAME 487
+# NAME 394
 
 > शिवाराध्या  
 > शिवाराध्या  
-> ॥ 487 ॥
+> ॥ 394 ॥
 
 ---
 
@@ -22887,11 +18516,11 @@ This name [needs composition summary].
 
 
 
-# NAME 488
+# NAME 395
 
 > शिवमूर्तिः  
 > शिवमूर्तिः  
-> ॥ 488 ॥
+> ॥ 395 ॥
 
 ---
 
@@ -22934,11 +18563,11 @@ This name [needs composition summary].
 
 
 
-# NAME 489
+# NAME 396
 
 > शिवङ्करी  
 > शिवङ्करी  
-> ॥ 489 ॥
+> ॥ 396 ॥
 
 ---
 
@@ -22981,58 +18610,11 @@ This name [needs composition summary].
 
 
 
-# NAME 490
-
-> ८८॥  
-> ८८॥  
-> ॥ 490 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ८८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ८८॥
-- **Breakdown**: `८८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **८८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 491
+# NAME 397
 
 > शिवप्रिया  
 > शिवप्रिया  
-> ॥ 491 ॥
+> ॥ 397 ॥
 
 ---
 
@@ -23075,11 +18657,11 @@ This name [needs composition summary].
 
 
 
-# NAME 492
+# NAME 398
 
 > शिवपरा  
 > शिवपरा  
-> ॥ 492 ॥
+> ॥ 398 ॥
 
 ---
 
@@ -23122,11 +18704,11 @@ This name [needs composition summary].
 
 
 
-# NAME 493
+# NAME 399
 
 > शिष्टेष्टा  
 > शिष्टेष्टा  
-> ॥ 493 ॥
+> ॥ 399 ॥
 
 ---
 
@@ -23169,11 +18751,11 @@ This name [needs composition summary].
 
 
 
-# NAME 494
+# NAME 400
 
 > शिष्टपूजिता  
 > शिष्टपूजिता  
-> ॥ 494 ॥
+> ॥ 400 ॥
 
 ---
 
@@ -23216,11 +18798,11 @@ This name [needs composition summary].
 
 
 
-# NAME 495
+# NAME 401
 
 > अप्रमेया  
 > अप्रमेया  
-> ॥ 495 ॥
+> ॥ 401 ॥
 
 ---
 
@@ -23263,11 +18845,11 @@ This name [needs composition summary].
 
 
 
-# NAME 496
+# NAME 402
 
 > स्वप्रकाशा  
 > स्वप्रकाशा  
-> ॥ 496 ॥
+> ॥ 402 ॥
 
 ---
 
@@ -23310,11 +18892,11 @@ This name [needs composition summary].
 
 
 
-# NAME 497
+# NAME 403
 
 > मनोवाचामगोचरा  
 > मनोवाचामगोचरा  
-> ॥ 497 ॥
+> ॥ 403 ॥
 
 ---
 
@@ -23357,58 +18939,11 @@ This name [needs composition summary].
 
 
 
-# NAME 498
-
-> ८९॥  
-> ८९॥  
-> ॥ 498 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ८९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ८९॥
-- **Breakdown**: `८९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **८९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 499
+# NAME 404
 
 > चिच्छक्तिश्  
 > चिच्छक्तिश्  
-> ॥ 499 ॥
+> ॥ 404 ॥
 
 ---
 
@@ -23451,11 +18986,11 @@ This name [needs composition summary].
 
 
 
-# NAME 500
+# NAME 405
 
 > चेतनारूपा  
 > चेतनारूपा  
-> ॥ 500 ॥
+> ॥ 405 ॥
 
 ---
 
@@ -23498,11 +19033,11 @@ This name [needs composition summary].
 
 
 
-# NAME 501
+# NAME 406
 
 > जडशक्तिर्जडात्मिका  
 > जडशक्तिर्जडात्मिका  
-> ॥ 501 ॥
+> ॥ 406 ॥
 
 ---
 
@@ -23545,11 +19080,11 @@ This name [needs composition summary].
 
 
 
-# NAME 502
+# NAME 407
 
 > गायत्री  
 > गायत्री  
-> ॥ 502 ॥
+> ॥ 407 ॥
 
 ---
 
@@ -23592,11 +19127,11 @@ This name [needs composition summary].
 
 
 
-# NAME 503
+# NAME 408
 
 > व्याहृतिः  
 > व्याहृतिः  
-> ॥ 503 ॥
+> ॥ 408 ॥
 
 ---
 
@@ -23639,11 +19174,11 @@ This name [needs composition summary].
 
 
 
-# NAME 504
+# NAME 409
 
 > सन्ध्या  
 > सन्ध्या  
-> ॥ 504 ॥
+> ॥ 409 ॥
 
 ---
 
@@ -23686,11 +19221,11 @@ This name [needs composition summary].
 
 
 
-# NAME 505
+# NAME 410
 
 > द्विजवृन्द-निषेविता  
 > द्विजवृन्द-निषेविता  
-> ॥ 505 ॥
+> ॥ 410 ॥
 
 ---
 
@@ -23733,58 +19268,11 @@ This name [needs composition summary].
 
 
 
-# NAME 506
-
-> ९०॥  
-> ९०॥  
-> ॥ 506 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ९०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ९०॥
-- **Breakdown**: `९०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **९०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 507
+# NAME 411
 
 > तत्त्वासना  
 > तत्त्वासना  
-> ॥ 507 ॥
+> ॥ 411 ॥
 
 ---
 
@@ -23827,11 +19315,11 @@ This name [needs composition summary].
 
 
 
-# NAME 508
+# NAME 412
 
 > तत्त्वमयी  
 > तत्त्वमयी  
-> ॥ 508 ॥
+> ॥ 412 ॥
 
 ---
 
@@ -23874,11 +19362,11 @@ This name [needs composition summary].
 
 
 
-# NAME 509
+# NAME 413
 
 > पञ्च-कोशान्तर-स्थिता  
 > पञ्च-कोशान्तर-स्थिता  
-> ॥ 509 ॥
+> ॥ 413 ॥
 
 ---
 
@@ -23921,11 +19409,11 @@ This name [needs composition summary].
 
 
 
-# NAME 510
+# NAME 414
 
 > निःसीम-महिमा  
 > निःसीम-महिमा  
-> ॥ 510 ॥
+> ॥ 414 ॥
 
 ---
 
@@ -23968,11 +19456,11 @@ This name [needs composition summary].
 
 
 
-# NAME 511
+# NAME 415
 
 > नित्य-यौवना  
 > नित्य-यौवना  
-> ॥ 511 ॥
+> ॥ 415 ॥
 
 ---
 
@@ -24015,11 +19503,11 @@ This name [needs composition summary].
 
 
 
-# NAME 512
+# NAME 416
 
 > मदशालिनी  
 > मदशालिनी  
-> ॥ 512 ॥
+> ॥ 416 ॥
 
 ---
 
@@ -24062,105 +19550,11 @@ This name [needs composition summary].
 
 
 
-# NAME 513
-
-> ९१॥  
-> ९१॥  
-> ॥ 513 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ९१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ९१॥
-- **Breakdown**: `९१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **९१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 514
-
-> (निस्सीम)  
-> (निस्सीम)  
-> ॥ 514 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| (निस्सीम) | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### (निस्सीम)
-- **Breakdown**: `(निस्सीम)`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **(निस्सीम)** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 515
+# NAME 417
 
 > मदघूर्णित-रक्ताक्षी  
 > मदघूर्णित-रक्ताक्षी  
-> ॥ 515 ॥
+> ॥ 417 ॥
 
 ---
 
@@ -24203,11 +19597,11 @@ This name [needs composition summary].
 
 
 
-# NAME 516
+# NAME 418
 
 > मदपाटल-गण्डभूः  
 > मदपाटल-गण्डभूः  
-> ॥ 516 ॥
+> ॥ 418 ॥
 
 ---
 
@@ -24250,11 +19644,11 @@ This name [needs composition summary].
 
 
 
-# NAME 517
+# NAME 419
 
 > चन्दन-द्रव-दिग्धाङ्गी  
 > चन्दन-द्रव-दिग्धाङ्गी  
-> ॥ 517 ॥
+> ॥ 419 ॥
 
 ---
 
@@ -24297,11 +19691,11 @@ This name [needs composition summary].
 
 
 
-# NAME 518
+# NAME 420
 
 > चाम्पेय-कुसुम-प्रिया  
 > चाम्पेय-कुसुम-प्रिया  
-> ॥ 518 ॥
+> ॥ 420 ॥
 
 ---
 
@@ -24344,58 +19738,11 @@ This name [needs composition summary].
 
 
 
-# NAME 519
-
-> ९२॥  
-> ९२॥  
-> ॥ 519 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ९२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ९२॥
-- **Breakdown**: `९२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **९२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 520
+# NAME 421
 
 > कुशला  
 > कुशला  
-> ॥ 520 ॥
+> ॥ 421 ॥
 
 ---
 
@@ -24438,11 +19785,11 @@ This name [needs composition summary].
 
 
 
-# NAME 521
+# NAME 422
 
 > कोमलाकारा  
 > कोमलाकारा  
-> ॥ 521 ॥
+> ॥ 422 ॥
 
 ---
 
@@ -24485,11 +19832,11 @@ This name [needs composition summary].
 
 
 
-# NAME 522
+# NAME 423
 
 > कुरुकुल्ला  
 > कुरुकुल्ला  
-> ॥ 522 ॥
+> ॥ 423 ॥
 
 ---
 
@@ -24532,11 +19879,11 @@ This name [needs composition summary].
 
 
 
-# NAME 523
+# NAME 424
 
 > कुलेश्वरी  
 > कुलेश्वरी  
-> ॥ 523 ॥
+> ॥ 424 ॥
 
 ---
 
@@ -24579,11 +19926,11 @@ This name [needs composition summary].
 
 
 
-# NAME 524
+# NAME 425
 
 > कुलकुण्डालया  
 > कुलकुण्डालया  
-> ॥ 524 ॥
+> ॥ 425 ॥
 
 ---
 
@@ -24626,11 +19973,11 @@ This name [needs composition summary].
 
 
 
-# NAME 525
+# NAME 426
 
 > कौल-मार्ग-तत्पर-सेविता  
 > कौल-मार्ग-तत्पर-सेविता  
-> ॥ 525 ॥
+> ॥ 426 ॥
 
 ---
 
@@ -24673,58 +20020,11 @@ This name [needs composition summary].
 
 
 
-# NAME 526
-
-> ९३॥  
-> ९३॥  
-> ॥ 526 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ९३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ९३॥
-- **Breakdown**: `९३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **९३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 527
+# NAME 427
 
 > कुमार-गणनाथाम्बा  
 > कुमार-गणनाथाम्बा  
-> ॥ 527 ॥
+> ॥ 427 ॥
 
 ---
 
@@ -24767,11 +20067,11 @@ This name [needs composition summary].
 
 
 
-# NAME 528
+# NAME 428
 
 > तुष्टिः  
 > तुष्टिः  
-> ॥ 528 ॥
+> ॥ 428 ॥
 
 ---
 
@@ -24814,11 +20114,11 @@ This name [needs composition summary].
 
 
 
-# NAME 529
+# NAME 429
 
 > पुष्टिर्मतिर्धृतिः  
 > पुष्टिर्मतिर्धृतिः  
-> ॥ 529 ॥
+> ॥ 429 ॥
 
 ---
 
@@ -24861,11 +20161,11 @@ This name [needs composition summary].
 
 
 
-# NAME 530
+# NAME 430
 
 > शान्तिः  
 > शान्तिः  
-> ॥ 530 ॥
+> ॥ 430 ॥
 
 ---
 
@@ -24908,11 +20208,11 @@ This name [needs composition summary].
 
 
 
-# NAME 531
+# NAME 431
 
 > स्वस्तिमती  
 > स्वस्तिमती  
-> ॥ 531 ॥
+> ॥ 431 ॥
 
 ---
 
@@ -24955,11 +20255,11 @@ This name [needs composition summary].
 
 
 
-# NAME 532
+# NAME 432
 
 > कान्तिर्नन्दिनी  
 > कान्तिर्नन्दिनी  
-> ॥ 532 ॥
+> ॥ 432 ॥
 
 ---
 
@@ -25002,11 +20302,11 @@ This name [needs composition summary].
 
 
 
-# NAME 533
+# NAME 433
 
 > विघ्ननाशिनी  
 > विघ्ननाशिनी  
-> ॥ 533 ॥
+> ॥ 433 ॥
 
 ---
 
@@ -25049,58 +20349,11 @@ This name [needs composition summary].
 
 
 
-# NAME 534
-
-> ९४॥  
-> ९४॥  
-> ॥ 534 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ९४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ९४॥
-- **Breakdown**: `९४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **९४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 535
+# NAME 434
 
 > तेजोवती  
 > तेजोवती  
-> ॥ 535 ॥
+> ॥ 434 ॥
 
 ---
 
@@ -25143,11 +20396,11 @@ This name [needs composition summary].
 
 
 
-# NAME 536
+# NAME 435
 
 > त्रिनयना  
 > त्रिनयना  
-> ॥ 536 ॥
+> ॥ 435 ॥
 
 ---
 
@@ -25190,11 +20443,11 @@ This name [needs composition summary].
 
 
 
-# NAME 537
+# NAME 436
 
 > लोलाक्षी-कामरूपिणी  
 > लोलाक्षी-कामरूपिणी  
-> ॥ 537 ॥
+> ॥ 436 ॥
 
 ---
 
@@ -25237,11 +20490,11 @@ This name [needs composition summary].
 
 
 
-# NAME 538
+# NAME 437
 
 > मालिनी  
 > मालिनी  
-> ॥ 538 ॥
+> ॥ 437 ॥
 
 ---
 
@@ -25284,11 +20537,11 @@ This name [needs composition summary].
 
 
 
-# NAME 539
+# NAME 438
 
 > हंसिनी  
 > हंसिनी  
-> ॥ 539 ॥
+> ॥ 438 ॥
 
 ---
 
@@ -25331,11 +20584,11 @@ This name [needs composition summary].
 
 
 
-# NAME 540
+# NAME 439
 
 > माता  
 > माता  
-> ॥ 540 ॥
+> ॥ 439 ॥
 
 ---
 
@@ -25378,11 +20631,11 @@ This name [needs composition summary].
 
 
 
-# NAME 541
+# NAME 440
 
 > मलयाचल-वासिनी  
 > मलयाचल-वासिनी  
-> ॥ 541 ॥
+> ॥ 440 ॥
 
 ---
 
@@ -25425,58 +20678,11 @@ This name [needs composition summary].
 
 
 
-# NAME 542
-
-> ९५॥  
-> ९५॥  
-> ॥ 542 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ९५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ९५॥
-- **Breakdown**: `९५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **९५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 543
+# NAME 441
 
 > सुमुखी  
 > सुमुखी  
-> ॥ 543 ॥
+> ॥ 441 ॥
 
 ---
 
@@ -25519,11 +20725,11 @@ This name [needs composition summary].
 
 
 
-# NAME 544
+# NAME 442
 
 > नलिनी  
 > नलिनी  
-> ॥ 544 ॥
+> ॥ 442 ॥
 
 ---
 
@@ -25566,11 +20772,11 @@ This name [needs composition summary].
 
 
 
-# NAME 545
+# NAME 443
 
 > सुभ्रूः  
 > सुभ्रूः  
-> ॥ 545 ॥
+> ॥ 443 ॥
 
 ---
 
@@ -25613,11 +20819,11 @@ This name [needs composition summary].
 
 
 
-# NAME 546
+# NAME 444
 
 > शोभना  
 > शोभना  
-> ॥ 546 ॥
+> ॥ 444 ॥
 
 ---
 
@@ -25660,11 +20866,11 @@ This name [needs composition summary].
 
 
 
-# NAME 547
+# NAME 445
 
 > सुरनायिका  
 > सुरनायिका  
-> ॥ 547 ॥
+> ॥ 445 ॥
 
 ---
 
@@ -25707,11 +20913,11 @@ This name [needs composition summary].
 
 
 
-# NAME 548
+# NAME 446
 
 > कालकण्ठी  
 > कालकण्ठी  
-> ॥ 548 ॥
+> ॥ 446 ॥
 
 ---
 
@@ -25754,11 +20960,11 @@ This name [needs composition summary].
 
 
 
-# NAME 549
+# NAME 447
 
 > कान्तिमती  
 > कान्तिमती  
-> ॥ 549 ॥
+> ॥ 447 ॥
 
 ---
 
@@ -25801,11 +21007,11 @@ This name [needs composition summary].
 
 
 
-# NAME 550
+# NAME 448
 
 > क्षोभिणी  
 > क्षोभिणी  
-> ॥ 550 ॥
+> ॥ 448 ॥
 
 ---
 
@@ -25848,11 +21054,11 @@ This name [needs composition summary].
 
 
 
-# NAME 551
+# NAME 449
 
 > सूक्ष्मरूपिणी  
 > सूक्ष्मरूपिणी  
-> ॥ 551 ॥
+> ॥ 449 ॥
 
 ---
 
@@ -25895,58 +21101,11 @@ This name [needs composition summary].
 
 
 
-# NAME 552
-
-> ९६॥  
-> ९६॥  
-> ॥ 552 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ९६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ९६॥
-- **Breakdown**: `९६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **९६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 553
+# NAME 450
 
 > वज्रेश्वरी  
 > वज्रेश्वरी  
-> ॥ 553 ॥
+> ॥ 450 ॥
 
 ---
 
@@ -25989,11 +21148,11 @@ This name [needs composition summary].
 
 
 
-# NAME 554
+# NAME 451
 
 > वामदेवी  
 > वामदेवी  
-> ॥ 554 ॥
+> ॥ 451 ॥
 
 ---
 
@@ -26036,11 +21195,11 @@ This name [needs composition summary].
 
 
 
-# NAME 555
+# NAME 452
 
 > वयोऽवस्था-विवर्जिता  
 > वयोऽवस्था-विवर्जिता  
-> ॥ 555 ॥
+> ॥ 452 ॥
 
 ---
 
@@ -26083,11 +21242,11 @@ This name [needs composition summary].
 
 
 
-# NAME 556
+# NAME 453
 
 > सिद्धेश्वरी  
 > सिद्धेश्वरी  
-> ॥ 556 ॥
+> ॥ 453 ॥
 
 ---
 
@@ -26130,11 +21289,11 @@ This name [needs composition summary].
 
 
 
-# NAME 557
+# NAME 454
 
 > सिद्धविद्या  
 > सिद्धविद्या  
-> ॥ 557 ॥
+> ॥ 454 ॥
 
 ---
 
@@ -26177,11 +21336,11 @@ This name [needs composition summary].
 
 
 
-# NAME 558
+# NAME 455
 
 > सिद्धमाता  
 > सिद्धमाता  
-> ॥ 558 ॥
+> ॥ 455 ॥
 
 ---
 
@@ -26224,11 +21383,11 @@ This name [needs composition summary].
 
 
 
-# NAME 559
+# NAME 456
 
 > यशस्विनी  
 > यशस्विनी  
-> ॥ 559 ॥
+> ॥ 456 ॥
 
 ---
 
@@ -26271,58 +21430,11 @@ This name [needs composition summary].
 
 
 
-# NAME 560
-
-> ९७॥  
-> ९७॥  
-> ॥ 560 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ९७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ९७॥
-- **Breakdown**: `९७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **९७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 561
+# NAME 457
 
 > विशुद्धिचक्र-निलयाऽऽरक्तवर्णा  
 > विशुद्धिचक्र-निलयाऽऽरक्तवर्णा  
-> ॥ 561 ॥
+> ॥ 457 ॥
 
 ---
 
@@ -26365,11 +21477,11 @@ This name [needs composition summary].
 
 
 
-# NAME 562
+# NAME 458
 
 > त्रिलोचना  
 > त्रिलोचना  
-> ॥ 562 ॥
+> ॥ 458 ॥
 
 ---
 
@@ -26412,11 +21524,11 @@ This name [needs composition summary].
 
 
 
-# NAME 563
+# NAME 459
 
 > खट्वाङ्गादि-प्रहरणा  
 > खट्वाङ्गादि-प्रहरणा  
-> ॥ 563 ॥
+> ॥ 459 ॥
 
 ---
 
@@ -26459,11 +21571,11 @@ This name [needs composition summary].
 
 
 
-# NAME 564
+# NAME 460
 
 > वदनैक-समन्विता  
 > वदनैक-समन्विता  
-> ॥ 564 ॥
+> ॥ 460 ॥
 
 ---
 
@@ -26506,58 +21618,11 @@ This name [needs composition summary].
 
 
 
-# NAME 565
-
-> ९८॥  
-> ९८॥  
-> ॥ 565 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ९८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ९८॥
-- **Breakdown**: `९८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **९८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 566
+# NAME 461
 
 > पायसान्नप्रिया  
 > पायसान्नप्रिया  
-> ॥ 566 ॥
+> ॥ 461 ॥
 
 ---
 
@@ -26600,11 +21665,11 @@ This name [needs composition summary].
 
 
 
-# NAME 567
+# NAME 462
 
 > त्वक्स्था  
 > त्वक्स्था  
-> ॥ 567 ॥
+> ॥ 462 ॥
 
 ---
 
@@ -26647,11 +21712,11 @@ This name [needs composition summary].
 
 
 
-# NAME 568
+# NAME 463
 
 > पशुलोक-भयङ्करी  
 > पशुलोक-भयङ्करी  
-> ॥ 568 ॥
+> ॥ 463 ॥
 
 ---
 
@@ -26694,11 +21759,11 @@ This name [needs composition summary].
 
 
 
-# NAME 569
+# NAME 464
 
 > अमृतादि-महाशक्ति-संवृता  
 > अमृतादि-महाशक्ति-संवृता  
-> ॥ 569 ॥
+> ॥ 464 ॥
 
 ---
 
@@ -26741,11 +21806,11 @@ This name [needs composition summary].
 
 
 
-# NAME 570
+# NAME 465
 
 > डाकिनीश्वरी  
 > डाकिनीश्वरी  
-> ॥ 570 ॥
+> ॥ 465 ॥
 
 ---
 
@@ -26788,58 +21853,11 @@ This name [needs composition summary].
 
 
 
-# NAME 571
-
-> ९९॥  
-> ९९॥  
-> ॥ 571 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ९९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ९९॥
-- **Breakdown**: `९९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **९९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 572
+# NAME 466
 
 > अनाहताब्ज-निलया  
 > अनाहताब्ज-निलया  
-> ॥ 572 ॥
+> ॥ 466 ॥
 
 ---
 
@@ -26882,11 +21900,11 @@ This name [needs composition summary].
 
 
 
-# NAME 573
+# NAME 467
 
 > श्यामाभा  
 > श्यामाभा  
-> ॥ 573 ॥
+> ॥ 467 ॥
 
 ---
 
@@ -26929,11 +21947,11 @@ This name [needs composition summary].
 
 
 
-# NAME 574
+# NAME 468
 
 > वदनद्वया  
 > वदनद्वया  
-> ॥ 574 ॥
+> ॥ 468 ॥
 
 ---
 
@@ -26976,11 +21994,11 @@ This name [needs composition summary].
 
 
 
-# NAME 575
+# NAME 469
 
 > दंष्ट्रोज्ज्वलाऽक्ष-मालादि-धरा  
 > दंष्ट्रोज्ज्वलाऽक्ष-मालादि-धरा  
-> ॥ 575 ॥
+> ॥ 469 ॥
 
 ---
 
@@ -27023,11 +22041,11 @@ This name [needs composition summary].
 
 
 
-# NAME 576
+# NAME 470
 
 > रुधिरसंस्थिता  
 > रुधिरसंस्थिता  
-> ॥ 576 ॥
+> ॥ 470 ॥
 
 ---
 
@@ -27070,58 +22088,11 @@ This name [needs composition summary].
 
 
 
-# NAME 577
-
-> १००॥  
-> १००॥  
-> ॥ 577 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १००॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १००॥
-- **Breakdown**: `१००॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१००॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 578
+# NAME 471
 
 > कालरात्र्यादि-शक्त्यौघ-वृता  
 > कालरात्र्यादि-शक्त्यौघ-वृता  
-> ॥ 578 ॥
+> ॥ 471 ॥
 
 ---
 
@@ -27164,11 +22135,11 @@ This name [needs composition summary].
 
 
 
-# NAME 579
+# NAME 472
 
 > स्निग्धौदनप्रिया  
 > स्निग्धौदनप्रिया  
-> ॥ 579 ॥
+> ॥ 472 ॥
 
 ---
 
@@ -27211,11 +22182,11 @@ This name [needs composition summary].
 
 
 
-# NAME 580
+# NAME 473
 
 > महावीरेन्द्र-वरदा  
 > महावीरेन्द्र-वरदा  
-> ॥ 580 ॥
+> ॥ 473 ॥
 
 ---
 
@@ -27258,11 +22229,11 @@ This name [needs composition summary].
 
 
 
-# NAME 581
+# NAME 474
 
 > राकिण्यम्बा-स्वरूपिणी  
 > राकिण्यम्बा-स्वरूपिणी  
-> ॥ 581 ॥
+> ॥ 474 ॥
 
 ---
 
@@ -27305,58 +22276,11 @@ This name [needs composition summary].
 
 
 
-# NAME 582
-
-> १०१॥  
-> १०१॥  
-> ॥ 582 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १०१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १०१॥
-- **Breakdown**: `१०१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१०१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 583
+# NAME 475
 
 > मणिपूराब्ज-निलया  
 > मणिपूराब्ज-निलया  
-> ॥ 583 ॥
+> ॥ 475 ॥
 
 ---
 
@@ -27399,11 +22323,11 @@ This name [needs composition summary].
 
 
 
-# NAME 584
+# NAME 476
 
 > वदनत्रय-संयुता  
 > वदनत्रय-संयुता  
-> ॥ 584 ॥
+> ॥ 476 ॥
 
 ---
 
@@ -27446,11 +22370,11 @@ This name [needs composition summary].
 
 
 
-# NAME 585
+# NAME 477
 
 > वज्रादिकायुधोपेता  
 > वज्रादिकायुधोपेता  
-> ॥ 585 ॥
+> ॥ 477 ॥
 
 ---
 
@@ -27493,11 +22417,11 @@ This name [needs composition summary].
 
 
 
-# NAME 586
+# NAME 478
 
 > डामर्यादिभिरावृता  
 > डामर्यादिभिरावृता  
-> ॥ 586 ॥
+> ॥ 478 ॥
 
 ---
 
@@ -27540,58 +22464,11 @@ This name [needs composition summary].
 
 
 
-# NAME 587
-
-> १०२॥  
-> १०२॥  
-> ॥ 587 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १०२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १०२॥
-- **Breakdown**: `१०२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१०२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 588
+# NAME 479
 
 > रक्तवर्णा  
 > रक्तवर्णा  
-> ॥ 588 ॥
+> ॥ 479 ॥
 
 ---
 
@@ -27634,11 +22511,11 @@ This name [needs composition summary].
 
 
 
-# NAME 589
+# NAME 480
 
 > मांसनिष्ठा  
 > मांसनिष्ठा  
-> ॥ 589 ॥
+> ॥ 480 ॥
 
 ---
 
@@ -27681,11 +22558,11 @@ This name [needs composition summary].
 
 
 
-# NAME 590
+# NAME 481
 
 > गुडान्न-प्रीत-मानसा  
 > गुडान्न-प्रीत-मानसा  
-> ॥ 590 ॥
+> ॥ 481 ॥
 
 ---
 
@@ -27728,11 +22605,11 @@ This name [needs composition summary].
 
 
 
-# NAME 591
+# NAME 482
 
 > समस्तभक्त-सुखदा  
 > समस्तभक्त-सुखदा  
-> ॥ 591 ॥
+> ॥ 482 ॥
 
 ---
 
@@ -27775,11 +22652,11 @@ This name [needs composition summary].
 
 
 
-# NAME 592
+# NAME 483
 
 > लाकिन्यम्बा-स्वरूपिणी  
 > लाकिन्यम्बा-स्वरूपिणी  
-> ॥ 592 ॥
+> ॥ 483 ॥
 
 ---
 
@@ -27822,58 +22699,11 @@ This name [needs composition summary].
 
 
 
-# NAME 593
-
-> १०३॥  
-> १०३॥  
-> ॥ 593 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १०३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १०३॥
-- **Breakdown**: `१०३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१०३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 594
+# NAME 484
 
 > स्वाधिष्ठानाम्बुज-गता  
 > स्वाधिष्ठानाम्बुज-गता  
-> ॥ 594 ॥
+> ॥ 484 ॥
 
 ---
 
@@ -27916,11 +22746,11 @@ This name [needs composition summary].
 
 
 
-# NAME 595
+# NAME 485
 
 > चतुर्वक्त्र-मनोहरा  
 > चतुर्वक्त्र-मनोहरा  
-> ॥ 595 ॥
+> ॥ 485 ॥
 
 ---
 
@@ -27963,11 +22793,11 @@ This name [needs composition summary].
 
 
 
-# NAME 596
+# NAME 486
 
 > शूलाद्यायुध-सम्पन्ना  
 > शूलाद्यायुध-सम्पन्ना  
-> ॥ 596 ॥
+> ॥ 486 ॥
 
 ---
 
@@ -28010,11 +22840,11 @@ This name [needs composition summary].
 
 
 
-# NAME 597
+# NAME 487
 
 > पीतवर्णाऽतिगर्विता  
 > पीतवर्णाऽतिगर्विता  
-> ॥ 597 ॥
+> ॥ 487 ॥
 
 ---
 
@@ -28057,58 +22887,11 @@ This name [needs composition summary].
 
 
 
-# NAME 598
-
-> १०४॥  
-> १०४॥  
-> ॥ 598 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १०४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १०४॥
-- **Breakdown**: `१०४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१०४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 599
+# NAME 488
 
 > मेदोनिष्ठा  
 > मेदोनिष्ठा  
-> ॥ 599 ॥
+> ॥ 488 ॥
 
 ---
 
@@ -28151,11 +22934,11 @@ This name [needs composition summary].
 
 
 
-# NAME 600
+# NAME 489
 
 > मधुप्रीता  
 > मधुप्रीता  
-> ॥ 600 ॥
+> ॥ 489 ॥
 
 ---
 
@@ -28198,11 +22981,11 @@ This name [needs composition summary].
 
 
 
-# NAME 601
+# NAME 490
 
 > बन्धिन्यादि-समन्विता  
 > बन्धिन्यादि-समन्विता  
-> ॥ 601 ॥
+> ॥ 490 ॥
 
 ---
 
@@ -28245,11 +23028,11 @@ This name [needs composition summary].
 
 
 
-# NAME 602
+# NAME 491
 
 > दध्यन्नासक्त-हृदया  
 > दध्यन्नासक्त-हृदया  
-> ॥ 602 ॥
+> ॥ 491 ॥
 
 ---
 
@@ -28292,11 +23075,11 @@ This name [needs composition summary].
 
 
 
-# NAME 603
+# NAME 492
 
 > काकिनी-रूप-धारिणी  
 > काकिनी-रूप-धारिणी  
-> ॥ 603 ॥
+> ॥ 492 ॥
 
 ---
 
@@ -28339,58 +23122,11 @@ This name [needs composition summary].
 
 
 
-# NAME 604
-
-> १०५॥  
-> १०५॥  
-> ॥ 604 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १०५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १०५॥
-- **Breakdown**: `१०५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१०५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 605
+# NAME 493
 
 > मूलाधाराम्बुजारूढा  
 > मूलाधाराम्बुजारूढा  
-> ॥ 605 ॥
+> ॥ 493 ॥
 
 ---
 
@@ -28433,11 +23169,11 @@ This name [needs composition summary].
 
 
 
-# NAME 606
+# NAME 494
 
 > पञ्च-वक्त्राऽस्थि-संस्थिता  
 > पञ्च-वक्त्राऽस्थि-संस्थिता  
-> ॥ 606 ॥
+> ॥ 494 ॥
 
 ---
 
@@ -28480,11 +23216,11 @@ This name [needs composition summary].
 
 
 
-# NAME 607
+# NAME 495
 
 > अङ्कुशादि-प्रहरणा  
 > अङ्कुशादि-प्रहरणा  
-> ॥ 607 ॥
+> ॥ 495 ॥
 
 ---
 
@@ -28527,11 +23263,11 @@ This name [needs composition summary].
 
 
 
-# NAME 608
+# NAME 496
 
 > वरदादि-निषेविता  
 > वरदादि-निषेविता  
-> ॥ 608 ॥
+> ॥ 496 ॥
 
 ---
 
@@ -28574,58 +23310,11 @@ This name [needs composition summary].
 
 
 
-# NAME 609
-
-> १०६॥  
-> १०६॥  
-> ॥ 609 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १०६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १०६॥
-- **Breakdown**: `१०६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१०६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 610
+# NAME 497
 
 > मुद्गौदनासक्त-चित्ता  
 > मुद्गौदनासक्त-चित्ता  
-> ॥ 610 ॥
+> ॥ 497 ॥
 
 ---
 
@@ -28668,11 +23357,11 @@ This name [needs composition summary].
 
 
 
-# NAME 611
+# NAME 498
 
 > साकिन्यम्बा-स्वरूपिणी  
 > साकिन्यम्बा-स्वरूपिणी  
-> ॥ 611 ॥
+> ॥ 498 ॥
 
 ---
 
@@ -28715,11 +23404,11 @@ This name [needs composition summary].
 
 
 
-# NAME 612
+# NAME 499
 
 > आज्ञा-चक्राब्ज-निलया  
 > आज्ञा-चक्राब्ज-निलया  
-> ॥ 612 ॥
+> ॥ 499 ॥
 
 ---
 
@@ -28762,11 +23451,11 @@ This name [needs composition summary].
 
 
 
-# NAME 613
+# NAME 500
 
 > शुक्लवर्णा  
 > शुक्लवर्णा  
-> ॥ 613 ॥
+> ॥ 500 ॥
 
 ---
 
@@ -28809,11 +23498,11 @@ This name [needs composition summary].
 
 
 
-# NAME 614
+# NAME 501
 
 > षडानना  
 > षडानना  
-> ॥ 614 ॥
+> ॥ 501 ॥
 
 ---
 
@@ -28856,58 +23545,11 @@ This name [needs composition summary].
 
 
 
-# NAME 615
-
-> १०७॥  
-> १०७॥  
-> ॥ 615 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १०७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १०७॥
-- **Breakdown**: `१०७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१०७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 616
+# NAME 502
 
 > मज्जासंस्था  
 > मज्जासंस्था  
-> ॥ 616 ॥
+> ॥ 502 ॥
 
 ---
 
@@ -28950,11 +23592,11 @@ This name [needs composition summary].
 
 
 
-# NAME 617
+# NAME 503
 
 > हंसवती-मुख्य-शक्ति-समन्विता  
 > हंसवती-मुख्य-शक्ति-समन्विता  
-> ॥ 617 ॥
+> ॥ 503 ॥
 
 ---
 
@@ -28997,11 +23639,11 @@ This name [needs composition summary].
 
 
 
-# NAME 618
+# NAME 504
 
 > हरिद्रान्नैक-रसिका  
 > हरिद्रान्नैक-रसिका  
-> ॥ 618 ॥
+> ॥ 504 ॥
 
 ---
 
@@ -29044,11 +23686,11 @@ This name [needs composition summary].
 
 
 
-# NAME 619
+# NAME 505
 
 > हाकिनी-रूप-धारिणी  
 > हाकिनी-रूप-धारिणी  
-> ॥ 619 ॥
+> ॥ 505 ॥
 
 ---
 
@@ -29091,58 +23733,11 @@ This name [needs composition summary].
 
 
 
-# NAME 620
-
-> १०८॥  
-> १०८॥  
-> ॥ 620 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १०८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १०८॥
-- **Breakdown**: `१०८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१०८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 621
+# NAME 506
 
 > सहस्रदल-पद्मस्था  
 > सहस्रदल-पद्मस्था  
-> ॥ 621 ॥
+> ॥ 506 ॥
 
 ---
 
@@ -29185,11 +23780,11 @@ This name [needs composition summary].
 
 
 
-# NAME 622
+# NAME 507
 
 > सर्व-वर्णोप-शोभिता  
 > सर्व-वर्णोप-शोभिता  
-> ॥ 622 ॥
+> ॥ 507 ॥
 
 ---
 
@@ -29232,11 +23827,11 @@ This name [needs composition summary].
 
 
 
-# NAME 623
+# NAME 508
 
 > सर्वायुधधरा  
 > सर्वायुधधरा  
-> ॥ 623 ॥
+> ॥ 508 ॥
 
 ---
 
@@ -29279,11 +23874,11 @@ This name [needs composition summary].
 
 
 
-# NAME 624
+# NAME 509
 
 > शुक्ल-संस्थिता  
 > शुक्ल-संस्थिता  
-> ॥ 624 ॥
+> ॥ 509 ॥
 
 ---
 
@@ -29326,11 +23921,11 @@ This name [needs composition summary].
 
 
 
-# NAME 625
+# NAME 510
 
 > सर्वतोमुखी  
 > सर्वतोमुखी  
-> ॥ 625 ॥
+> ॥ 510 ॥
 
 ---
 
@@ -29373,58 +23968,11 @@ This name [needs composition summary].
 
 
 
-# NAME 626
-
-> १०९॥  
-> १०९॥  
-> ॥ 626 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १०९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १०९॥
-- **Breakdown**: `१०९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१०९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 627
+# NAME 511
 
 > सर्वौदन-प्रीतचित्ता  
 > सर्वौदन-प्रीतचित्ता  
-> ॥ 627 ॥
+> ॥ 511 ॥
 
 ---
 
@@ -29467,11 +24015,11 @@ This name [needs composition summary].
 
 
 
-# NAME 628
+# NAME 512
 
 > याकिन्यम्बा-स्वरूपिणी  
 > याकिन्यम्बा-स्वरूपिणी  
-> ॥ 628 ॥
+> ॥ 512 ॥
 
 ---
 
@@ -29514,11 +24062,11 @@ This name [needs composition summary].
 
 
 
-# NAME 629
+# NAME 513
 
 > स्वाहा  
 > स्वाहा  
-> ॥ 629 ॥
+> ॥ 513 ॥
 
 ---
 
@@ -29561,11 +24109,11 @@ This name [needs composition summary].
 
 
 
-# NAME 630
+# NAME 514
 
 > स्वधाऽमतिर्मेधा  
 > स्वधाऽमतिर्मेधा  
-> ॥ 630 ॥
+> ॥ 514 ॥
 
 ---
 
@@ -29608,11 +24156,11 @@ This name [needs composition summary].
 
 
 
-# NAME 631
+# NAME 515
 
 > श्रुतिः  
 > श्रुतिः  
-> ॥ 631 ॥
+> ॥ 515 ॥
 
 ---
 
@@ -29655,11 +24203,11 @@ This name [needs composition summary].
 
 
 
-# NAME 632
+# NAME 516
 
 > स्मृतिरनुत्तमा  
 > स्मृतिरनुत्तमा  
-> ॥ 632 ॥
+> ॥ 516 ॥
 
 ---
 
@@ -29702,58 +24250,11 @@ This name [needs composition summary].
 
 
 
-# NAME 633
-
-> ११०॥  
-> ११०॥  
-> ॥ 633 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ११०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ११०॥
-- **Breakdown**: `११०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **११०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 634
+# NAME 517
 
 > पुण्यकीर्तिः  
 > पुण्यकीर्तिः  
-> ॥ 634 ॥
+> ॥ 517 ॥
 
 ---
 
@@ -29796,11 +24297,11 @@ This name [needs composition summary].
 
 
 
-# NAME 635
+# NAME 518
 
 > पुण्यलभ्या  
 > पुण्यलभ्या  
-> ॥ 635 ॥
+> ॥ 518 ॥
 
 ---
 
@@ -29843,11 +24344,11 @@ This name [needs composition summary].
 
 
 
-# NAME 636
+# NAME 519
 
 > पुण्यश्रवण-कीर्तना  
 > पुण्यश्रवण-कीर्तना  
-> ॥ 636 ॥
+> ॥ 519 ॥
 
 ---
 
@@ -29890,11 +24391,11 @@ This name [needs composition summary].
 
 
 
-# NAME 637
+# NAME 520
 
 > पुलोमजार्चिता  
 > पुलोमजार्चिता  
-> ॥ 637 ॥
+> ॥ 520 ॥
 
 ---
 
@@ -29937,11 +24438,11 @@ This name [needs composition summary].
 
 
 
-# NAME 638
+# NAME 521
 
 > बन्ध-मोचनी  
 > बन्ध-मोचनी  
-> ॥ 638 ॥
+> ॥ 521 ॥
 
 ---
 
@@ -29984,11 +24485,11 @@ This name [needs composition summary].
 
 
 
-# NAME 639
+# NAME 522
 
 > बन्धुरालका  
 > बन्धुरालका  
-> ॥ 639 ॥
+> ॥ 522 ॥
 
 ---
 
@@ -30031,152 +24532,11 @@ This name [needs composition summary].
 
 
 
-# NAME 640
-
-> १११॥  
-> १११॥  
-> ॥ 640 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १११॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १११॥
-- **Breakdown**: `१११॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१११॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 641
-
-> (मोचनी  
-> (मोचनी  
-> ॥ 641 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| (मोचनी | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### (मोचनी
-- **Breakdown**: `(मोचनी`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **(मोचनी** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 642
-
-> बर्बरालका)  
-> बर्बरालका)  
-> ॥ 642 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| बर्बरालका) | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### बर्बरालका)
-- **Breakdown**: `बर्बरालका)`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **बर्बरालका)** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 643
+# NAME 523
 
 > विमर्शरूपिणी  
 > विमर्शरूपिणी  
-> ॥ 643 ॥
+> ॥ 523 ॥
 
 ---
 
@@ -30219,11 +24579,11 @@ This name [needs composition summary].
 
 
 
-# NAME 644
+# NAME 524
 
 > विद्या  
 > विद्या  
-> ॥ 644 ॥
+> ॥ 524 ॥
 
 ---
 
@@ -30266,11 +24626,11 @@ This name [needs composition summary].
 
 
 
-# NAME 645
+# NAME 525
 
 > वियदादि-जगत्प्रसूः  
 > वियदादि-जगत्प्रसूः  
-> ॥ 645 ॥
+> ॥ 525 ॥
 
 ---
 
@@ -30313,11 +24673,11 @@ This name [needs composition summary].
 
 
 
-# NAME 646
+# NAME 526
 
 > सर्वव्याधि-प्रशमनी  
 > सर्वव्याधि-प्रशमनी  
-> ॥ 646 ॥
+> ॥ 526 ॥
 
 ---
 
@@ -30360,11 +24720,11 @@ This name [needs composition summary].
 
 
 
-# NAME 647
+# NAME 527
 
 > सर्वमृत्यु-निवारिणी  
 > सर्वमृत्यु-निवारिणी  
-> ॥ 647 ॥
+> ॥ 527 ॥
 
 ---
 
@@ -30407,58 +24767,11 @@ This name [needs composition summary].
 
 
 
-# NAME 648
-
-> ११२॥  
-> ११२॥  
-> ॥ 648 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ११२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ११२॥
-- **Breakdown**: `११२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **११२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 649
+# NAME 528
 
 > अग्रगण्याऽचिन्त्यरूपा  
 > अग्रगण्याऽचिन्त्यरूपा  
-> ॥ 649 ॥
+> ॥ 528 ॥
 
 ---
 
@@ -30501,11 +24814,11 @@ This name [needs composition summary].
 
 
 
-# NAME 650
+# NAME 529
 
 > कलिकल्मष-नाशिनी  
 > कलिकल्मष-नाशिनी  
-> ॥ 650 ॥
+> ॥ 529 ॥
 
 ---
 
@@ -30548,11 +24861,11 @@ This name [needs composition summary].
 
 
 
-# NAME 651
+# NAME 530
 
 > कात्यायनी  
 > कात्यायनी  
-> ॥ 651 ॥
+> ॥ 530 ॥
 
 ---
 
@@ -30595,11 +24908,11 @@ This name [needs composition summary].
 
 
 
-# NAME 652
+# NAME 531
 
 > कालहन्त्री  
 > कालहन्त्री  
-> ॥ 652 ॥
+> ॥ 531 ॥
 
 ---
 
@@ -30642,11 +24955,11 @@ This name [needs composition summary].
 
 
 
-# NAME 653
+# NAME 532
 
 > कमलाक्ष-निषेविता  
 > कमलाक्ष-निषेविता  
-> ॥ 653 ॥
+> ॥ 532 ॥
 
 ---
 
@@ -30689,58 +25002,11 @@ This name [needs composition summary].
 
 
 
-# NAME 654
-
-> ११३॥  
-> ११३॥  
-> ॥ 654 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ११३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ११३॥
-- **Breakdown**: `११३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **११३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 655
+# NAME 533
 
 > ताम्बूल-पूरित-मुखी  
 > ताम्बूल-पूरित-मुखी  
-> ॥ 655 ॥
+> ॥ 533 ॥
 
 ---
 
@@ -30783,11 +25049,11 @@ This name [needs composition summary].
 
 
 
-# NAME 656
+# NAME 534
 
 > दाडिमी-कुसुम-प्रभा  
 > दाडिमी-कुसुम-प्रभा  
-> ॥ 656 ॥
+> ॥ 534 ॥
 
 ---
 
@@ -30830,11 +25096,11 @@ This name [needs composition summary].
 
 
 
-# NAME 657
+# NAME 535
 
 > मृगाक्षी  
 > मृगाक्षी  
-> ॥ 657 ॥
+> ॥ 535 ॥
 
 ---
 
@@ -30877,11 +25143,11 @@ This name [needs composition summary].
 
 
 
-# NAME 658
+# NAME 536
 
 > मोहिनी  
 > मोहिनी  
-> ॥ 658 ॥
+> ॥ 536 ॥
 
 ---
 
@@ -30924,11 +25190,11 @@ This name [needs composition summary].
 
 
 
-# NAME 659
+# NAME 537
 
 > मुख्या  
 > मुख्या  
-> ॥ 659 ॥
+> ॥ 537 ॥
 
 ---
 
@@ -30971,11 +25237,11 @@ This name [needs composition summary].
 
 
 
-# NAME 660
+# NAME 538
 
 > मृडानी  
 > मृडानी  
-> ॥ 660 ॥
+> ॥ 538 ॥
 
 ---
 
@@ -31018,11 +25284,11 @@ This name [needs composition summary].
 
 
 
-# NAME 661
+# NAME 539
 
 > मित्ररूपिणी  
 > मित्ररूपिणी  
-> ॥ 661 ॥
+> ॥ 539 ॥
 
 ---
 
@@ -31065,58 +25331,11 @@ This name [needs composition summary].
 
 
 
-# NAME 662
-
-> ११४॥  
-> ११४॥  
-> ॥ 662 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ११४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ११४॥
-- **Breakdown**: `११४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **११४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 663
+# NAME 540
 
 > नित्यतृप्ता  
 > नित्यतृप्ता  
-> ॥ 663 ॥
+> ॥ 540 ॥
 
 ---
 
@@ -31159,11 +25378,11 @@ This name [needs composition summary].
 
 
 
-# NAME 664
+# NAME 541
 
 > भक्तनिधिर्नियन्त्री  
 > भक्तनिधिर्नियन्त्री  
-> ॥ 664 ॥
+> ॥ 541 ॥
 
 ---
 
@@ -31206,11 +25425,11 @@ This name [needs composition summary].
 
 
 
-# NAME 665
+# NAME 542
 
 > निखिलेश्वरी  
 > निखिलेश्वरी  
-> ॥ 665 ॥
+> ॥ 542 ॥
 
 ---
 
@@ -31253,11 +25472,11 @@ This name [needs composition summary].
 
 
 
-# NAME 666
+# NAME 543
 
 > मैत्र्यादि-वासनालभ्या  
 > मैत्र्यादि-वासनालभ्या  
-> ॥ 666 ॥
+> ॥ 543 ॥
 
 ---
 
@@ -31300,11 +25519,11 @@ This name [needs composition summary].
 
 
 
-# NAME 667
+# NAME 544
 
 > महाप्रलय-साक्षिणी  
 > महाप्रलय-साक्षिणी  
-> ॥ 667 ॥
+> ॥ 544 ॥
 
 ---
 
@@ -31347,58 +25566,11 @@ This name [needs composition summary].
 
 
 
-# NAME 668
-
-> ११५॥  
-> ११५॥  
-> ॥ 668 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ११५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ११५॥
-- **Breakdown**: `११५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **११५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 669
+# NAME 545
 
 > परा  
 > परा  
-> ॥ 669 ॥
+> ॥ 545 ॥
 
 ---
 
@@ -31441,11 +25613,11 @@ This name [needs composition summary].
 
 
 
-# NAME 670
+# NAME 546
 
 > शक्तिः  
 > शक्तिः  
-> ॥ 670 ॥
+> ॥ 546 ॥
 
 ---
 
@@ -31488,11 +25660,11 @@ This name [needs composition summary].
 
 
 
-# NAME 671
+# NAME 547
 
 > परा  
 > परा  
-> ॥ 671 ॥
+> ॥ 547 ॥
 
 ---
 
@@ -31535,11 +25707,11 @@ This name [needs composition summary].
 
 
 
-# NAME 672
+# NAME 548
 
 > निष्ठा  
 > निष्ठा  
-> ॥ 672 ॥
+> ॥ 548 ॥
 
 ---
 
@@ -31582,11 +25754,11 @@ This name [needs composition summary].
 
 
 
-# NAME 673
+# NAME 549
 
 > प्रज्ञानघन-रूपिणी  
 > प्रज्ञानघन-रूपिणी  
-> ॥ 673 ॥
+> ॥ 549 ॥
 
 ---
 
@@ -31629,11 +25801,11 @@ This name [needs composition summary].
 
 
 
-# NAME 674
+# NAME 550
 
 > माध्वीपानालसा  
 > माध्वीपानालसा  
-> ॥ 674 ॥
+> ॥ 550 ॥
 
 ---
 
@@ -31676,11 +25848,11 @@ This name [needs composition summary].
 
 
 
-# NAME 675
+# NAME 551
 
 > मत्ता  
 > मत्ता  
-> ॥ 675 ॥
+> ॥ 551 ॥
 
 ---
 
@@ -31723,11 +25895,11 @@ This name [needs composition summary].
 
 
 
-# NAME 676
+# NAME 552
 
 > मातृका-वर्ण-रूपिणी  
 > मातृका-वर्ण-रूपिणी  
-> ॥ 676 ॥
+> ॥ 552 ॥
 
 ---
 
@@ -31770,58 +25942,11 @@ This name [needs composition summary].
 
 
 
-# NAME 677
-
-> ११६॥  
-> ११६॥  
-> ॥ 677 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ११६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ११६॥
-- **Breakdown**: `११६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **११६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 678
+# NAME 553
 
 > महाकैलास-निलया  
 > महाकैलास-निलया  
-> ॥ 678 ॥
+> ॥ 553 ॥
 
 ---
 
@@ -31864,11 +25989,11 @@ This name [needs composition summary].
 
 
 
-# NAME 679
+# NAME 554
 
 > मृणाल-मृदु-दोर्लता  
 > मृणाल-मृदु-दोर्लता  
-> ॥ 679 ॥
+> ॥ 554 ॥
 
 ---
 
@@ -31911,11 +26036,11 @@ This name [needs composition summary].
 
 
 
-# NAME 680
+# NAME 555
 
 > महनीया  
 > महनीया  
-> ॥ 680 ॥
+> ॥ 555 ॥
 
 ---
 
@@ -31958,11 +26083,11 @@ This name [needs composition summary].
 
 
 
-# NAME 681
+# NAME 556
 
 > दयामूर्तिर्महासाम्राज्य-शालिनी  
 > दयामूर्तिर्महासाम्राज्य-शालिनी  
-> ॥ 681 ॥
+> ॥ 556 ॥
 
 ---
 
@@ -32005,58 +26130,11 @@ This name [needs composition summary].
 
 
 
-# NAME 682
-
-> ११७॥  
-> ११७॥  
-> ॥ 682 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ११७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ११७॥
-- **Breakdown**: `११७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **११७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 683
+# NAME 557
 
 > आत्मविद्या  
 > आत्मविद्या  
-> ॥ 683 ॥
+> ॥ 557 ॥
 
 ---
 
@@ -32099,11 +26177,11 @@ This name [needs composition summary].
 
 
 
-# NAME 684
+# NAME 558
 
 > महाविद्या  
 > महाविद्या  
-> ॥ 684 ॥
+> ॥ 558 ॥
 
 ---
 
@@ -32146,11 +26224,11 @@ This name [needs composition summary].
 
 
 
-# NAME 685
+# NAME 559
 
 > श्रीविद्या  
 > श्रीविद्या  
-> ॥ 685 ॥
+> ॥ 559 ॥
 
 ---
 
@@ -32193,11 +26271,11 @@ This name [needs composition summary].
 
 
 
-# NAME 686
+# NAME 560
 
 > कामसेविता  
 > कामसेविता  
-> ॥ 686 ॥
+> ॥ 560 ॥
 
 ---
 
@@ -32240,11 +26318,11 @@ This name [needs composition summary].
 
 
 
-# NAME 687
+# NAME 561
 
 > श्री-षोडशाक्षरी-विद्या  
 > श्री-षोडशाक्षरी-विद्या  
-> ॥ 687 ॥
+> ॥ 561 ॥
 
 ---
 
@@ -32287,11 +26365,11 @@ This name [needs composition summary].
 
 
 
-# NAME 688
+# NAME 562
 
 > त्रिकूटा  
 > त्रिकूटा  
-> ॥ 688 ॥
+> ॥ 562 ॥
 
 ---
 
@@ -32334,11 +26412,11 @@ This name [needs composition summary].
 
 
 
-# NAME 689
+# NAME 563
 
 > कामकोटिका  
 > कामकोटिका  
-> ॥ 689 ॥
+> ॥ 563 ॥
 
 ---
 
@@ -32381,58 +26459,11 @@ This name [needs composition summary].
 
 
 
-# NAME 690
-
-> ११८॥  
-> ११८॥  
-> ॥ 690 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ११८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ११८॥
-- **Breakdown**: `११८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **११८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 691
+# NAME 564
 
 > कटाक्ष-किङ्करी-भूत-कमला-कोटि-सेविता  
 > कटाक्ष-किङ्करी-भूत-कमला-कोटि-सेविता  
-> ॥ 691 ॥
+> ॥ 564 ॥
 
 ---
 
@@ -32475,11 +26506,11 @@ This name [needs composition summary].
 
 
 
-# NAME 692
+# NAME 565
 
 > शिरःस्थिता  
 > शिरःस्थिता  
-> ॥ 692 ॥
+> ॥ 565 ॥
 
 ---
 
@@ -32522,11 +26553,11 @@ This name [needs composition summary].
 
 
 
-# NAME 693
+# NAME 566
 
 > चन्द्रनिभा  
 > चन्द्रनिभा  
-> ॥ 693 ॥
+> ॥ 566 ॥
 
 ---
 
@@ -32569,11 +26600,11 @@ This name [needs composition summary].
 
 
 
-# NAME 694
+# NAME 567
 
 > भालस्थेन्द्र-धनुःप्रभा  
 > भालस्थेन्द्र-धनुःप्रभा  
-> ॥ 694 ॥
+> ॥ 567 ॥
 
 ---
 
@@ -32616,58 +26647,11 @@ This name [needs composition summary].
 
 
 
-# NAME 695
-
-> ११९॥  
-> ११९॥  
-> ॥ 695 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ११९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### ११९॥
-- **Breakdown**: `११९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **११९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 696
+# NAME 568
 
 > हृदयस्था  
 > हृदयस्था  
-> ॥ 696 ॥
+> ॥ 568 ॥
 
 ---
 
@@ -32710,11 +26694,11 @@ This name [needs composition summary].
 
 
 
-# NAME 697
+# NAME 569
 
 > रविप्रख्या  
 > रविप्रख्या  
-> ॥ 697 ॥
+> ॥ 569 ॥
 
 ---
 
@@ -32757,11 +26741,11 @@ This name [needs composition summary].
 
 
 
-# NAME 698
+# NAME 570
 
 > त्रिकोणान्तर-दीपिका  
 > त्रिकोणान्तर-दीपिका  
-> ॥ 698 ॥
+> ॥ 570 ॥
 
 ---
 
@@ -32804,11 +26788,11 @@ This name [needs composition summary].
 
 
 
-# NAME 699
+# NAME 571
 
 > दाक्षायणी  
 > दाक्षायणी  
-> ॥ 699 ॥
+> ॥ 571 ॥
 
 ---
 
@@ -32851,11 +26835,11 @@ This name [needs composition summary].
 
 
 
-# NAME 700
+# NAME 572
 
 > दैत्यहन्त्री  
 > दैत्यहन्त्री  
-> ॥ 700 ॥
+> ॥ 572 ॥
 
 ---
 
@@ -32898,11 +26882,11 @@ This name [needs composition summary].
 
 
 
-# NAME 701
+# NAME 573
 
 > दक्षयज्ञ-विनाशिनी  
 > दक्षयज्ञ-विनाशिनी  
-> ॥ 701 ॥
+> ॥ 573 ॥
 
 ---
 
@@ -32945,58 +26929,11 @@ This name [needs composition summary].
 
 
 
-# NAME 702
-
-> १२०॥  
-> १२०॥  
-> ॥ 702 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १२०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १२०॥
-- **Breakdown**: `१२०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१२०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 703
+# NAME 574
 
 > दरान्दोलित-दीर्घाक्षी  
 > दरान्दोलित-दीर्घाक्षी  
-> ॥ 703 ॥
+> ॥ 574 ॥
 
 ---
 
@@ -33039,11 +26976,11 @@ This name [needs composition summary].
 
 
 
-# NAME 704
+# NAME 575
 
 > दर-हासोज्ज्वलन्-मुखी  
 > दर-हासोज्ज्वलन्-मुखी  
-> ॥ 704 ॥
+> ॥ 575 ॥
 
 ---
 
@@ -33086,11 +27023,11 @@ This name [needs composition summary].
 
 
 
-# NAME 705
+# NAME 576
 
 > गुरुमूर्तिर्गुणनिधिर्गोमाता  
 > गुरुमूर्तिर्गुणनिधिर्गोमाता  
-> ॥ 705 ॥
+> ॥ 576 ॥
 
 ---
 
@@ -33133,11 +27070,11 @@ This name [needs composition summary].
 
 
 
-# NAME 706
+# NAME 577
 
 > गुहजन्मभूः  
 > गुहजन्मभूः  
-> ॥ 706 ॥
+> ॥ 577 ॥
 
 ---
 
@@ -33180,58 +27117,11 @@ This name [needs composition summary].
 
 
 
-# NAME 707
-
-> १२१॥  
-> १२१॥  
-> ॥ 707 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १२१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १२१॥
-- **Breakdown**: `१२१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१२१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 708
+# NAME 578
 
 > देवेशी  
 > देवेशी  
-> ॥ 708 ॥
+> ॥ 578 ॥
 
 ---
 
@@ -33274,11 +27164,11 @@ This name [needs composition summary].
 
 
 
-# NAME 709
+# NAME 579
 
 > दण्डनीतिस्था  
 > दण्डनीतिस्था  
-> ॥ 709 ॥
+> ॥ 579 ॥
 
 ---
 
@@ -33321,11 +27211,11 @@ This name [needs composition summary].
 
 
 
-# NAME 710
+# NAME 580
 
 > दहराकाश-रूपिणी  
 > दहराकाश-रूपिणी  
-> ॥ 710 ॥
+> ॥ 580 ॥
 
 ---
 
@@ -33368,11 +27258,11 @@ This name [needs composition summary].
 
 
 
-# NAME 711
+# NAME 581
 
 > प्रतिपन्मुख्य-राकान्त-तिथि-मण्डल-पूजिता  
 > प्रतिपन्मुख्य-राकान्त-तिथि-मण्डल-पूजिता  
-> ॥ 711 ॥
+> ॥ 581 ॥
 
 ---
 
@@ -33415,58 +27305,11 @@ This name [needs composition summary].
 
 
 
-# NAME 712
-
-> १२२॥  
-> १२२॥  
-> ॥ 712 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १२२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १२२॥
-- **Breakdown**: `१२२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१२२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 713
+# NAME 582
 
 > कलात्मिका  
 > कलात्मिका  
-> ॥ 713 ॥
+> ॥ 582 ॥
 
 ---
 
@@ -33509,11 +27352,11 @@ This name [needs composition summary].
 
 
 
-# NAME 714
+# NAME 583
 
 > कलानाथा  
 > कलानाथा  
-> ॥ 714 ॥
+> ॥ 583 ॥
 
 ---
 
@@ -33556,11 +27399,11 @@ This name [needs composition summary].
 
 
 
-# NAME 715
+# NAME 584
 
 > काव्यालाप-विनोदिनी  
 > काव्यालाप-विनोदिनी  
-> ॥ 715 ॥
+> ॥ 584 ॥
 
 ---
 
@@ -33603,58 +27446,11 @@ This name [needs composition summary].
 
 
 
-# NAME 716
-
-> (विमोदिनी)  
-> (विमोदिनी)  
-> ॥ 716 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| (विमोदिनी) | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### (विमोदिनी)
-- **Breakdown**: `(विमोदिनी)`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **(विमोदिनी)** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 717
+# NAME 585
 
 > सचामर-रमा-वाणी-सव्य-दक्षिण-सेविता  
 > सचामर-रमा-वाणी-सव्य-दक्षिण-सेविता  
-> ॥ 717 ॥
+> ॥ 585 ॥
 
 ---
 
@@ -33697,58 +27493,11 @@ This name [needs composition summary].
 
 
 
-# NAME 718
-
-> १२३॥  
-> १२३॥  
-> ॥ 718 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १२३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १२३॥
-- **Breakdown**: `१२३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१२३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 719
+# NAME 586
 
 > आदिशक्तिरमेयाऽऽत्मा  
 > आदिशक्तिरमेयाऽऽत्मा  
-> ॥ 719 ॥
+> ॥ 586 ॥
 
 ---
 
@@ -33791,11 +27540,11 @@ This name [needs composition summary].
 
 
 
-# NAME 720
+# NAME 587
 
 > परमा  
 > परमा  
-> ॥ 720 ॥
+> ॥ 587 ॥
 
 ---
 
@@ -33838,11 +27587,11 @@ This name [needs composition summary].
 
 
 
-# NAME 721
+# NAME 588
 
 > पावनाकृतिः  
 > पावनाकृतिः  
-> ॥ 721 ॥
+> ॥ 588 ॥
 
 ---
 
@@ -33885,11 +27634,11 @@ This name [needs composition summary].
 
 
 
-# NAME 722
+# NAME 589
 
 > अनेककोटि-ब्रह्माण्ड-जननी  
 > अनेककोटि-ब्रह्माण्ड-जननी  
-> ॥ 722 ॥
+> ॥ 589 ॥
 
 ---
 
@@ -33932,11 +27681,11 @@ This name [needs composition summary].
 
 
 
-# NAME 723
+# NAME 590
 
 > दिव्यविग्रहा  
 > दिव्यविग्रहा  
-> ॥ 723 ॥
+> ॥ 590 ॥
 
 ---
 
@@ -33979,58 +27728,11 @@ This name [needs composition summary].
 
 
 
-# NAME 724
-
-> १२४॥  
-> १२४॥  
-> ॥ 724 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १२४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १२४॥
-- **Breakdown**: `१२४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१२४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 725
+# NAME 591
 
 > क्लींकारी  
 > क्लींकारी  
-> ॥ 725 ॥
+> ॥ 591 ॥
 
 ---
 
@@ -34073,11 +27775,11 @@ This name [needs composition summary].
 
 
 
-# NAME 726
+# NAME 592
 
 > केवला  
 > केवला  
-> ॥ 726 ॥
+> ॥ 592 ॥
 
 ---
 
@@ -34120,11 +27822,11 @@ This name [needs composition summary].
 
 
 
-# NAME 727
+# NAME 593
 
 > गुह्या  
 > गुह्या  
-> ॥ 727 ॥
+> ॥ 593 ॥
 
 ---
 
@@ -34167,11 +27869,11 @@ This name [needs composition summary].
 
 
 
-# NAME 728
+# NAME 594
 
 > कैवल्य-पददायिनी  
 > कैवल्य-पददायिनी  
-> ॥ 728 ॥
+> ॥ 594 ॥
 
 ---
 
@@ -34214,11 +27916,11 @@ This name [needs composition summary].
 
 
 
-# NAME 729
+# NAME 595
 
 > त्रिपुरा  
 > त्रिपुरा  
-> ॥ 729 ॥
+> ॥ 595 ॥
 
 ---
 
@@ -34261,11 +27963,11 @@ This name [needs composition summary].
 
 
 
-# NAME 730
+# NAME 596
 
 > त्रिजगद्वन्द्या  
 > त्रिजगद्वन्द्या  
-> ॥ 730 ॥
+> ॥ 596 ॥
 
 ---
 
@@ -34308,11 +28010,11 @@ This name [needs composition summary].
 
 
 
-# NAME 731
+# NAME 597
 
 > त्रिमूर्तिस्त्रिदशेश्वरी  
 > त्रिमूर्तिस्त्रिदशेश्वरी  
-> ॥ 731 ॥
+> ॥ 597 ॥
 
 ---
 
@@ -34355,58 +28057,11 @@ This name [needs composition summary].
 
 
 
-# NAME 732
-
-> १२५॥  
-> १२५॥  
-> ॥ 732 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १२५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १२५॥
-- **Breakdown**: `१२५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१२५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 733
+# NAME 598
 
 > त्र्यक्षरी  
 > त्र्यक्षरी  
-> ॥ 733 ॥
+> ॥ 598 ॥
 
 ---
 
@@ -34449,11 +28104,11 @@ This name [needs composition summary].
 
 
 
-# NAME 734
+# NAME 599
 
 > दिव्य-गन्धाढ्या  
 > दिव्य-गन्धाढ्या  
-> ॥ 734 ॥
+> ॥ 599 ॥
 
 ---
 
@@ -34496,11 +28151,11 @@ This name [needs composition summary].
 
 
 
-# NAME 735
+# NAME 600
 
 > सिन्दूर-तिलकाञ्चिता  
 > सिन्दूर-तिलकाञ्चिता  
-> ॥ 735 ॥
+> ॥ 600 ॥
 
 ---
 
@@ -34543,11 +28198,11 @@ This name [needs composition summary].
 
 
 
-# NAME 736
+# NAME 601
 
 > उमा  
 > उमा  
-> ॥ 736 ॥
+> ॥ 601 ॥
 
 ---
 
@@ -34590,11 +28245,11 @@ This name [needs composition summary].
 
 
 
-# NAME 737
+# NAME 602
 
 > शैलेन्द्रतनया  
 > शैलेन्द्रतनया  
-> ॥ 737 ॥
+> ॥ 602 ॥
 
 ---
 
@@ -34637,11 +28292,11 @@ This name [needs composition summary].
 
 
 
-# NAME 738
+# NAME 603
 
 > गौरी  
 > गौरी  
-> ॥ 738 ॥
+> ॥ 603 ॥
 
 ---
 
@@ -34684,11 +28339,11 @@ This name [needs composition summary].
 
 
 
-# NAME 739
+# NAME 604
 
 > गन्धर्व-सेविता  
 > गन्धर्व-सेविता  
-> ॥ 739 ॥
+> ॥ 604 ॥
 
 ---
 
@@ -34731,58 +28386,11 @@ This name [needs composition summary].
 
 
 
-# NAME 740
-
-> १२६॥  
-> १२६॥  
-> ॥ 740 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १२६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १२६॥
-- **Breakdown**: `१२६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१२६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 741
+# NAME 605
 
 > विश्वगर्भा  
 > विश्वगर्भा  
-> ॥ 741 ॥
+> ॥ 605 ॥
 
 ---
 
@@ -34825,11 +28433,11 @@ This name [needs composition summary].
 
 
 
-# NAME 742
+# NAME 606
 
 > स्वर्णगर्भाऽवरदा  
 > स्वर्णगर्भाऽवरदा  
-> ॥ 742 ॥
+> ॥ 606 ॥
 
 ---
 
@@ -34872,11 +28480,11 @@ This name [needs composition summary].
 
 
 
-# NAME 743
+# NAME 607
 
 > वागधीश्वरी  
 > वागधीश्वरी  
-> ॥ 743 ॥
+> ॥ 607 ॥
 
 ---
 
@@ -34919,11 +28527,11 @@ This name [needs composition summary].
 
 
 
-# NAME 744
+# NAME 608
 
 > ध्यानगम्याऽपरिच्छेद्या  
 > ध्यानगम्याऽपरिच्छेद्या  
-> ॥ 744 ॥
+> ॥ 608 ॥
 
 ---
 
@@ -34966,11 +28574,11 @@ This name [needs composition summary].
 
 
 
-# NAME 745
+# NAME 609
 
 > ज्ञानदा  
 > ज्ञानदा  
-> ॥ 745 ॥
+> ॥ 609 ॥
 
 ---
 
@@ -35013,11 +28621,11 @@ This name [needs composition summary].
 
 
 
-# NAME 746
+# NAME 610
 
 > ज्ञानविग्रहा  
 > ज्ञानविग्रहा  
-> ॥ 746 ॥
+> ॥ 610 ॥
 
 ---
 
@@ -35060,58 +28668,11 @@ This name [needs composition summary].
 
 
 
-# NAME 747
-
-> १२७॥  
-> १२७॥  
-> ॥ 747 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १२७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १२७॥
-- **Breakdown**: `१२७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१२७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 748
+# NAME 611
 
 > सर्ववेदान्त-संवेद्या  
 > सर्ववेदान्त-संवेद्या  
-> ॥ 748 ॥
+> ॥ 611 ॥
 
 ---
 
@@ -35154,11 +28715,11 @@ This name [needs composition summary].
 
 
 
-# NAME 749
+# NAME 612
 
 > सत्यानन्द-स्वरूपिणी  
 > सत्यानन्द-स्वरूपिणी  
-> ॥ 749 ॥
+> ॥ 612 ॥
 
 ---
 
@@ -35201,11 +28762,11 @@ This name [needs composition summary].
 
 
 
-# NAME 750
+# NAME 613
 
 > लोपामुद्रार्चिता  
 > लोपामुद्रार्चिता  
-> ॥ 750 ॥
+> ॥ 613 ॥
 
 ---
 
@@ -35248,11 +28809,11 @@ This name [needs composition summary].
 
 
 
-# NAME 751
+# NAME 614
 
 > लीला-कॢप्त-ब्रह्माण्ड-मण्डला  
 > लीला-कॢप्त-ब्रह्माण्ड-मण्डला  
-> ॥ 751 ॥
+> ॥ 614 ॥
 
 ---
 
@@ -35295,58 +28856,11 @@ This name [needs composition summary].
 
 
 
-# NAME 752
-
-> १२८॥  
-> १२८॥  
-> ॥ 752 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १२८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १२८॥
-- **Breakdown**: `१२८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१२८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 753
+# NAME 615
 
 > अदृश्या  
 > अदृश्या  
-> ॥ 753 ॥
+> ॥ 615 ॥
 
 ---
 
@@ -35389,11 +28903,11 @@ This name [needs composition summary].
 
 
 
-# NAME 754
+# NAME 616
 
 > दृश्यरहिता  
 > दृश्यरहिता  
-> ॥ 754 ॥
+> ॥ 616 ॥
 
 ---
 
@@ -35436,11 +28950,11 @@ This name [needs composition summary].
 
 
 
-# NAME 755
+# NAME 617
 
 > विज्ञात्री  
 > विज्ञात्री  
-> ॥ 755 ॥
+> ॥ 617 ॥
 
 ---
 
@@ -35483,11 +28997,11 @@ This name [needs composition summary].
 
 
 
-# NAME 756
+# NAME 618
 
 > वेद्यवर्जिता  
 > वेद्यवर्जिता  
-> ॥ 756 ॥
+> ॥ 618 ॥
 
 ---
 
@@ -35530,11 +29044,11 @@ This name [needs composition summary].
 
 
 
-# NAME 757
+# NAME 619
 
 > योगिनी  
 > योगिनी  
-> ॥ 757 ॥
+> ॥ 619 ॥
 
 ---
 
@@ -35577,11 +29091,11 @@ This name [needs composition summary].
 
 
 
-# NAME 758
+# NAME 620
 
 > योगदा  
 > योगदा  
-> ॥ 758 ॥
+> ॥ 620 ॥
 
 ---
 
@@ -35624,11 +29138,11 @@ This name [needs composition summary].
 
 
 
-# NAME 759
+# NAME 621
 
 > योग्या  
 > योग्या  
-> ॥ 759 ॥
+> ॥ 621 ॥
 
 ---
 
@@ -35671,11 +29185,11 @@ This name [needs composition summary].
 
 
 
-# NAME 760
+# NAME 622
 
 > योगानन्दा  
 > योगानन्दा  
-> ॥ 760 ॥
+> ॥ 622 ॥
 
 ---
 
@@ -35718,11 +29232,11 @@ This name [needs composition summary].
 
 
 
-# NAME 761
+# NAME 623
 
 > युगन्धरा  
 > युगन्धरा  
-> ॥ 761 ॥
+> ॥ 623 ॥
 
 ---
 
@@ -35765,58 +29279,11 @@ This name [needs composition summary].
 
 
 
-# NAME 762
-
-> १२९॥  
-> १२९॥  
-> ॥ 762 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १२९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १२९॥
-- **Breakdown**: `१२९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१२९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 763
+# NAME 624
 
 > इच्छाशक्ति-ज्ञानशक्ति-क्रियाशक्ति-स्वरूपिणी  
 > इच्छाशक्ति-ज्ञानशक्ति-क्रियाशक्ति-स्वरूपिणी  
-> ॥ 763 ॥
+> ॥ 624 ॥
 
 ---
 
@@ -35859,11 +29326,11 @@ This name [needs composition summary].
 
 
 
-# NAME 764
+# NAME 625
 
 > सर्वाधारा  
 > सर्वाधारा  
-> ॥ 764 ॥
+> ॥ 625 ॥
 
 ---
 
@@ -35906,11 +29373,11 @@ This name [needs composition summary].
 
 
 
-# NAME 765
+# NAME 626
 
 > सुप्रतिष्ठा  
 > सुप्रतिष्ठा  
-> ॥ 765 ॥
+> ॥ 626 ॥
 
 ---
 
@@ -35953,11 +29420,11 @@ This name [needs composition summary].
 
 
 
-# NAME 766
+# NAME 627
 
 > सदसद्रूप-धारिणी  
 > सदसद्रूप-धारिणी  
-> ॥ 766 ॥
+> ॥ 627 ॥
 
 ---
 
@@ -36000,58 +29467,11 @@ This name [needs composition summary].
 
 
 
-# NAME 767
-
-> १३०॥  
-> १३०॥  
-> ॥ 767 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १३०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १३०॥
-- **Breakdown**: `१३०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१३०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 768
+# NAME 628
 
 > अष्टमूर्तिरजाजैत्री  
 > अष्टमूर्तिरजाजैत्री  
-> ॥ 768 ॥
+> ॥ 628 ॥
 
 ---
 
@@ -36094,11 +29514,11 @@ This name [needs composition summary].
 
 
 
-# NAME 769
+# NAME 629
 
 > लोकयात्रा-विधायिनी  
 > लोकयात्रा-विधायिनी  
-> ॥ 769 ॥
+> ॥ 629 ॥
 
 ---
 
@@ -36141,58 +29561,11 @@ This name [needs composition summary].
 
 
 
-# NAME 770
-
-> (अजाजेत्री)  
-> (अजाजेत्री)  
-> ॥ 770 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| (अजाजेत्री) | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### (अजाजेत्री)
-- **Breakdown**: `(अजाजेत्री)`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **(अजाजेत्री)** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 771
+# NAME 630
 
 > एकाकिनी  
 > एकाकिनी  
-> ॥ 771 ॥
+> ॥ 630 ॥
 
 ---
 
@@ -36235,11 +29608,11 @@ This name [needs composition summary].
 
 
 
-# NAME 772
+# NAME 631
 
 > भूमरूपा  
 > भूमरूपा  
-> ॥ 772 ॥
+> ॥ 631 ॥
 
 ---
 
@@ -36282,11 +29655,11 @@ This name [needs composition summary].
 
 
 
-# NAME 773
+# NAME 632
 
 > निर्द्वैता  
 > निर्द्वैता  
-> ॥ 773 ॥
+> ॥ 632 ॥
 
 ---
 
@@ -36329,11 +29702,11 @@ This name [needs composition summary].
 
 
 
-# NAME 774
+# NAME 633
 
 > द्वैतवर्जिता  
 > द्वैतवर्जिता  
-> ॥ 774 ॥
+> ॥ 633 ॥
 
 ---
 
@@ -36376,58 +29749,11 @@ This name [needs composition summary].
 
 
 
-# NAME 775
-
-> १३१॥  
-> १३१॥  
-> ॥ 775 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १३१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १३१॥
-- **Breakdown**: `१३१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१३१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 776
+# NAME 634
 
 > अन्नदा  
 > अन्नदा  
-> ॥ 776 ॥
+> ॥ 634 ॥
 
 ---
 
@@ -36470,11 +29796,11 @@ This name [needs composition summary].
 
 
 
-# NAME 777
+# NAME 635
 
 > वसुदा  
 > वसुदा  
-> ॥ 777 ॥
+> ॥ 635 ॥
 
 ---
 
@@ -36517,11 +29843,11 @@ This name [needs composition summary].
 
 
 
-# NAME 778
+# NAME 636
 
 > वृद्धा  
 > वृद्धा  
-> ॥ 778 ॥
+> ॥ 636 ॥
 
 ---
 
@@ -36564,11 +29890,11 @@ This name [needs composition summary].
 
 
 
-# NAME 779
+# NAME 637
 
 > ब्रह्मात्मैक्य-स्वरूपिणी  
 > ब्रह्मात्मैक्य-स्वरूपिणी  
-> ॥ 779 ॥
+> ॥ 637 ॥
 
 ---
 
@@ -36611,11 +29937,11 @@ This name [needs composition summary].
 
 
 
-# NAME 780
+# NAME 638
 
 > बृहती  
 > बृहती  
-> ॥ 780 ॥
+> ॥ 638 ॥
 
 ---
 
@@ -36658,11 +29984,11 @@ This name [needs composition summary].
 
 
 
-# NAME 781
+# NAME 639
 
 > ब्राह्मणी  
 > ब्राह्मणी  
-> ॥ 781 ॥
+> ॥ 639 ॥
 
 ---
 
@@ -36705,11 +30031,11 @@ This name [needs composition summary].
 
 
 
-# NAME 782
+# NAME 640
 
 > ब्राह्मी  
 > ब्राह्मी  
-> ॥ 782 ॥
+> ॥ 640 ॥
 
 ---
 
@@ -36752,11 +30078,11 @@ This name [needs composition summary].
 
 
 
-# NAME 783
+# NAME 641
 
 > ब्रह्मानन्दा  
 > ब्रह्मानन्दा  
-> ॥ 783 ॥
+> ॥ 641 ॥
 
 ---
 
@@ -36799,11 +30125,11 @@ This name [needs composition summary].
 
 
 
-# NAME 784
+# NAME 642
 
 > बलिप्रिया  
 > बलिप्रिया  
-> ॥ 784 ॥
+> ॥ 642 ॥
 
 ---
 
@@ -36846,58 +30172,11 @@ This name [needs composition summary].
 
 
 
-# NAME 785
-
-> १३२॥  
-> १३२॥  
-> ॥ 785 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १३२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १३२॥
-- **Breakdown**: `१३२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१३२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 786
+# NAME 643
 
 > भाषारूपा  
 > भाषारूपा  
-> ॥ 786 ॥
+> ॥ 643 ॥
 
 ---
 
@@ -36940,11 +30219,11 @@ This name [needs composition summary].
 
 
 
-# NAME 787
+# NAME 644
 
 > बृहत्सेना  
 > बृहत्सेना  
-> ॥ 787 ॥
+> ॥ 644 ॥
 
 ---
 
@@ -36987,11 +30266,11 @@ This name [needs composition summary].
 
 
 
-# NAME 788
+# NAME 645
 
 > भावाभाव-विवर्जिता  
 > भावाभाव-विवर्जिता  
-> ॥ 788 ॥
+> ॥ 645 ॥
 
 ---
 
@@ -37034,11 +30313,11 @@ This name [needs composition summary].
 
 
 
-# NAME 789
+# NAME 646
 
 > सुखाराध्या  
 > सुखाराध्या  
-> ॥ 789 ॥
+> ॥ 646 ॥
 
 ---
 
@@ -37081,11 +30360,11 @@ This name [needs composition summary].
 
 
 
-# NAME 790
+# NAME 647
 
 > शुभकरी  
 > शुभकरी  
-> ॥ 790 ॥
+> ॥ 647 ॥
 
 ---
 
@@ -37128,11 +30407,11 @@ This name [needs composition summary].
 
 
 
-# NAME 791
+# NAME 648
 
 > शोभना  
 > शोभना  
-> ॥ 791 ॥
+> ॥ 648 ॥
 
 ---
 
@@ -37175,11 +30454,11 @@ This name [needs composition summary].
 
 
 
-# NAME 792
+# NAME 649
 
 > सुलभा  
 > सुलभा  
-> ॥ 792 ॥
+> ॥ 649 ॥
 
 ---
 
@@ -37222,11 +30501,11 @@ This name [needs composition summary].
 
 
 
-# NAME 793
+# NAME 650
 
 > गतिः  
 > गतिः  
-> ॥ 793 ॥
+> ॥ 650 ॥
 
 ---
 
@@ -37269,58 +30548,11 @@ This name [needs composition summary].
 
 
 
-# NAME 794
-
-> १३३॥  
-> १३३॥  
-> ॥ 794 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १३३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १३३॥
-- **Breakdown**: `१३३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१३३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 795
+# NAME 651
 
 > राज-राजेश्वरी  
 > राज-राजेश्वरी  
-> ॥ 795 ॥
+> ॥ 651 ॥
 
 ---
 
@@ -37363,11 +30595,11 @@ This name [needs composition summary].
 
 
 
-# NAME 796
+# NAME 652
 
 > राज्य-दायिनी  
 > राज्य-दायिनी  
-> ॥ 796 ॥
+> ॥ 652 ॥
 
 ---
 
@@ -37410,11 +30642,11 @@ This name [needs composition summary].
 
 
 
-# NAME 797
+# NAME 653
 
 > राज्य-वल्लभा  
 > राज्य-वल्लभा  
-> ॥ 797 ॥
+> ॥ 653 ॥
 
 ---
 
@@ -37457,11 +30689,11 @@ This name [needs composition summary].
 
 
 
-# NAME 798
+# NAME 654
 
 > राजत्कृपा  
 > राजत्कृपा  
-> ॥ 798 ॥
+> ॥ 654 ॥
 
 ---
 
@@ -37504,11 +30736,11 @@ This name [needs composition summary].
 
 
 
-# NAME 799
+# NAME 655
 
 > राजपीठ-निवेशित-निजाश्रिता  
 > राजपीठ-निवेशित-निजाश्रिता  
-> ॥ 799 ॥
+> ॥ 655 ॥
 
 ---
 
@@ -37551,58 +30783,11 @@ This name [needs composition summary].
 
 
 
-# NAME 800
-
-> १३४॥  
-> १३४॥  
-> ॥ 800 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १३४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १३४॥
-- **Breakdown**: `१३४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१३४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 801
+# NAME 656
 
 > राज्यलक्ष्मीः  
 > राज्यलक्ष्मीः  
-> ॥ 801 ॥
+> ॥ 656 ॥
 
 ---
 
@@ -37645,11 +30830,11 @@ This name [needs composition summary].
 
 
 
-# NAME 802
+# NAME 657
 
 > कोशनाथा  
 > कोशनाथा  
-> ॥ 802 ॥
+> ॥ 657 ॥
 
 ---
 
@@ -37692,11 +30877,11 @@ This name [needs composition summary].
 
 
 
-# NAME 803
+# NAME 658
 
 > चतुरङ्ग-बलेश्वरी  
 > चतुरङ्ग-बलेश्वरी  
-> ॥ 803 ॥
+> ॥ 658 ॥
 
 ---
 
@@ -37739,11 +30924,11 @@ This name [needs composition summary].
 
 
 
-# NAME 804
+# NAME 659
 
 > साम्राज्य-दायिनी  
 > साम्राज्य-दायिनी  
-> ॥ 804 ॥
+> ॥ 659 ॥
 
 ---
 
@@ -37786,11 +30971,11 @@ This name [needs composition summary].
 
 
 
-# NAME 805
+# NAME 660
 
 > सत्यसन्धा  
 > सत्यसन्धा  
-> ॥ 805 ॥
+> ॥ 660 ॥
 
 ---
 
@@ -37833,11 +31018,11 @@ This name [needs composition summary].
 
 
 
-# NAME 806
+# NAME 661
 
 > सागरमेखला  
 > सागरमेखला  
-> ॥ 806 ॥
+> ॥ 661 ॥
 
 ---
 
@@ -37880,58 +31065,11 @@ This name [needs composition summary].
 
 
 
-# NAME 807
-
-> १३५॥  
-> १३५॥  
-> ॥ 807 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १३५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १३५॥
-- **Breakdown**: `१३५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१३५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 808
+# NAME 662
 
 > दीक्षिता  
 > दीक्षिता  
-> ॥ 808 ॥
+> ॥ 662 ॥
 
 ---
 
@@ -37974,11 +31112,11 @@ This name [needs composition summary].
 
 
 
-# NAME 809
+# NAME 663
 
 > दैत्यशमनी  
 > दैत्यशमनी  
-> ॥ 809 ॥
+> ॥ 663 ॥
 
 ---
 
@@ -38021,11 +31159,11 @@ This name [needs composition summary].
 
 
 
-# NAME 810
+# NAME 664
 
 > सर्वलोक-वशङ्करी  
 > सर्वलोक-वशङ्करी  
-> ॥ 810 ॥
+> ॥ 664 ॥
 
 ---
 
@@ -38068,11 +31206,11 @@ This name [needs composition summary].
 
 
 
-# NAME 811
+# NAME 665
 
 > सर्वार्थदात्री  
 > सर्वार्थदात्री  
-> ॥ 811 ॥
+> ॥ 665 ॥
 
 ---
 
@@ -38115,11 +31253,11 @@ This name [needs composition summary].
 
 
 
-# NAME 812
+# NAME 666
 
 > सावित्री  
 > सावित्री  
-> ॥ 812 ॥
+> ॥ 666 ॥
 
 ---
 
@@ -38162,11 +31300,11 @@ This name [needs composition summary].
 
 
 
-# NAME 813
+# NAME 667
 
 > सच्चिदानन्द-रूपिणी  
 > सच्चिदानन्द-रूपिणी  
-> ॥ 813 ॥
+> ॥ 667 ॥
 
 ---
 
@@ -38209,58 +31347,11 @@ This name [needs composition summary].
 
 
 
-# NAME 814
-
-> १३६॥  
-> १३६॥  
-> ॥ 814 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १३६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १३६॥
-- **Breakdown**: `१३६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१३६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 815
+# NAME 668
 
 > देश-कालापरिच्छिन्ना  
 > देश-कालापरिच्छिन्ना  
-> ॥ 815 ॥
+> ॥ 668 ॥
 
 ---
 
@@ -38303,11 +31394,11 @@ This name [needs composition summary].
 
 
 
-# NAME 816
+# NAME 669
 
 > सर्वगा  
 > सर्वगा  
-> ॥ 816 ॥
+> ॥ 669 ॥
 
 ---
 
@@ -38350,11 +31441,11 @@ This name [needs composition summary].
 
 
 
-# NAME 817
+# NAME 670
 
 > सर्वमोहिनी  
 > सर्वमोहिनी  
-> ॥ 817 ॥
+> ॥ 670 ॥
 
 ---
 
@@ -38397,11 +31488,11 @@ This name [needs composition summary].
 
 
 
-# NAME 818
+# NAME 671
 
 > सरस्वती  
 > सरस्वती  
-> ॥ 818 ॥
+> ॥ 671 ॥
 
 ---
 
@@ -38444,11 +31535,11 @@ This name [needs composition summary].
 
 
 
-# NAME 819
+# NAME 672
 
 > शास्त्रमयी  
 > शास्त्रमयी  
-> ॥ 819 ॥
+> ॥ 672 ॥
 
 ---
 
@@ -38491,11 +31582,11 @@ This name [needs composition summary].
 
 
 
-# NAME 820
+# NAME 673
 
 > गुहाम्बा  
 > गुहाम्बा  
-> ॥ 820 ॥
+> ॥ 673 ॥
 
 ---
 
@@ -38538,11 +31629,11 @@ This name [needs composition summary].
 
 
 
-# NAME 821
+# NAME 674
 
 > गुह्यरूपिणी  
 > गुह्यरूपिणी  
-> ॥ 821 ॥
+> ॥ 674 ॥
 
 ---
 
@@ -38585,58 +31676,11 @@ This name [needs composition summary].
 
 
 
-# NAME 822
-
-> १३७॥  
-> १३७॥  
-> ॥ 822 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १३७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १३७॥
-- **Breakdown**: `१३७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१३७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 823
+# NAME 675
 
 > सर्वोपाधि-विनिर्मुक्ता  
 > सर्वोपाधि-विनिर्मुक्ता  
-> ॥ 823 ॥
+> ॥ 675 ॥
 
 ---
 
@@ -38679,11 +31723,11 @@ This name [needs composition summary].
 
 
 
-# NAME 824
+# NAME 676
 
 > सदाशिव-पतिव्रता  
 > सदाशिव-पतिव्रता  
-> ॥ 824 ॥
+> ॥ 676 ॥
 
 ---
 
@@ -38726,11 +31770,11 @@ This name [needs composition summary].
 
 
 
-# NAME 825
+# NAME 677
 
 > सम्प्रदायेश्वरी  
 > सम्प्रदायेश्वरी  
-> ॥ 825 ॥
+> ॥ 677 ॥
 
 ---
 
@@ -38773,11 +31817,11 @@ This name [needs composition summary].
 
 
 
-# NAME 826
+# NAME 678
 
 > साध्वी  
 > साध्वी  
-> ॥ 826 ॥
+> ॥ 678 ॥
 
 ---
 
@@ -38820,11 +31864,11 @@ This name [needs composition summary].
 
 
 
-# NAME 827
+# NAME 679
 
 > गुरुमण्डल-रूपिणी  
 > गुरुमण्डल-रूपिणी  
-> ॥ 827 ॥
+> ॥ 679 ॥
 
 ---
 
@@ -38867,58 +31911,11 @@ This name [needs composition summary].
 
 
 
-# NAME 828
-
-> १३८॥  
-> १३८॥  
-> ॥ 828 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १३८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १३८॥
-- **Breakdown**: `१३८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१३८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 829
+# NAME 680
 
 > कुलोत्तीर्णा  
 > कुलोत्तीर्णा  
-> ॥ 829 ॥
+> ॥ 680 ॥
 
 ---
 
@@ -38961,11 +31958,11 @@ This name [needs composition summary].
 
 
 
-# NAME 830
+# NAME 681
 
 > भगाराध्या  
 > भगाराध्या  
-> ॥ 830 ॥
+> ॥ 681 ॥
 
 ---
 
@@ -39008,11 +32005,11 @@ This name [needs composition summary].
 
 
 
-# NAME 831
+# NAME 682
 
 > माया  
 > माया  
-> ॥ 831 ॥
+> ॥ 682 ॥
 
 ---
 
@@ -39055,11 +32052,11 @@ This name [needs composition summary].
 
 
 
-# NAME 832
+# NAME 683
 
 > मधुमती  
 > मधुमती  
-> ॥ 832 ॥
+> ॥ 683 ॥
 
 ---
 
@@ -39102,11 +32099,11 @@ This name [needs composition summary].
 
 
 
-# NAME 833
+# NAME 684
 
 > मही  
 > मही  
-> ॥ 833 ॥
+> ॥ 684 ॥
 
 ---
 
@@ -39149,11 +32146,11 @@ This name [needs composition summary].
 
 
 
-# NAME 834
+# NAME 685
 
 > गणाम्बा  
 > गणाम्बा  
-> ॥ 834 ॥
+> ॥ 685 ॥
 
 ---
 
@@ -39196,11 +32193,11 @@ This name [needs composition summary].
 
 
 
-# NAME 835
+# NAME 686
 
 > गुह्यकाराध्या  
 > गुह्यकाराध्या  
-> ॥ 835 ॥
+> ॥ 686 ॥
 
 ---
 
@@ -39243,11 +32240,11 @@ This name [needs composition summary].
 
 
 
-# NAME 836
+# NAME 687
 
 > कोमलाङ्गी  
 > कोमलाङ्गी  
-> ॥ 836 ॥
+> ॥ 687 ॥
 
 ---
 
@@ -39290,11 +32287,11 @@ This name [needs composition summary].
 
 
 
-# NAME 837
+# NAME 688
 
 > गुरुप्रिया  
 > गुरुप्रिया  
-> ॥ 837 ॥
+> ॥ 688 ॥
 
 ---
 
@@ -39337,58 +32334,11 @@ This name [needs composition summary].
 
 
 
-# NAME 838
-
-> १३९॥  
-> १३९॥  
-> ॥ 838 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १३९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १३९॥
-- **Breakdown**: `१३९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१३९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 839
+# NAME 689
 
 > स्वतन्त्रा  
 > स्वतन्त्रा  
-> ॥ 839 ॥
+> ॥ 689 ॥
 
 ---
 
@@ -39431,11 +32381,11 @@ This name [needs composition summary].
 
 
 
-# NAME 840
+# NAME 690
 
 > सर्वतन्त्रेशी  
 > सर्वतन्त्रेशी  
-> ॥ 840 ॥
+> ॥ 690 ॥
 
 ---
 
@@ -39478,11 +32428,11 @@ This name [needs composition summary].
 
 
 
-# NAME 841
+# NAME 691
 
 > दक्षिणामूर्ति-रूपिणी  
 > दक्षिणामूर्ति-रूपिणी  
-> ॥ 841 ॥
+> ॥ 691 ॥
 
 ---
 
@@ -39525,11 +32475,11 @@ This name [needs composition summary].
 
 
 
-# NAME 842
+# NAME 692
 
 > सनकादि-समाराध्या  
 > सनकादि-समाराध्या  
-> ॥ 842 ॥
+> ॥ 692 ॥
 
 ---
 
@@ -39572,11 +32522,11 @@ This name [needs composition summary].
 
 
 
-# NAME 843
+# NAME 693
 
 > शिवज्ञान-प्रदायिनी  
 > शिवज्ञान-प्रदायिनी  
-> ॥ 843 ॥
+> ॥ 693 ॥
 
 ---
 
@@ -39619,58 +32569,11 @@ This name [needs composition summary].
 
 
 
-# NAME 844
-
-> १४०॥  
-> १४०॥  
-> ॥ 844 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १४०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १४०॥
-- **Breakdown**: `१४०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१४०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 845
+# NAME 694
 
 > चित्कलाऽऽनन्द-कलिका  
 > चित्कलाऽऽनन्द-कलिका  
-> ॥ 845 ॥
+> ॥ 694 ॥
 
 ---
 
@@ -39713,11 +32616,11 @@ This name [needs composition summary].
 
 
 
-# NAME 846
+# NAME 695
 
 > प्रेमरूपा  
 > प्रेमरूपा  
-> ॥ 846 ॥
+> ॥ 695 ॥
 
 ---
 
@@ -39760,11 +32663,11 @@ This name [needs composition summary].
 
 
 
-# NAME 847
+# NAME 696
 
 > प्रियङ्करी  
 > प्रियङ्करी  
-> ॥ 847 ॥
+> ॥ 696 ॥
 
 ---
 
@@ -39807,11 +32710,11 @@ This name [needs composition summary].
 
 
 
-# NAME 848
+# NAME 697
 
 > नामपारायण-प्रीता  
 > नामपारायण-प्रीता  
-> ॥ 848 ॥
+> ॥ 697 ॥
 
 ---
 
@@ -39854,11 +32757,11 @@ This name [needs composition summary].
 
 
 
-# NAME 849
+# NAME 698
 
 > नन्दिविद्या  
 > नन्दिविद्या  
-> ॥ 849 ॥
+> ॥ 698 ॥
 
 ---
 
@@ -39901,11 +32804,11 @@ This name [needs composition summary].
 
 
 
-# NAME 850
+# NAME 699
 
 > नटेश्वरी  
 > नटेश्वरी  
-> ॥ 850 ॥
+> ॥ 699 ॥
 
 ---
 
@@ -39948,58 +32851,11 @@ This name [needs composition summary].
 
 
 
-# NAME 851
-
-> १४१॥  
-> १४१॥  
-> ॥ 851 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १४१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १४१॥
-- **Breakdown**: `१४१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१४१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 852
+# NAME 700
 
 > मिथ्या-जगदधिष्ठाना  
 > मिथ्या-जगदधिष्ठाना  
-> ॥ 852 ॥
+> ॥ 700 ॥
 
 ---
 
@@ -40042,11 +32898,11 @@ This name [needs composition summary].
 
 
 
-# NAME 853
+# NAME 701
 
 > मुक्तिदा  
 > मुक्तिदा  
-> ॥ 853 ॥
+> ॥ 701 ॥
 
 ---
 
@@ -40089,11 +32945,11 @@ This name [needs composition summary].
 
 
 
-# NAME 854
+# NAME 702
 
 > मुक्तिरूपिणी  
 > मुक्तिरूपिणी  
-> ॥ 854 ॥
+> ॥ 702 ॥
 
 ---
 
@@ -40136,11 +32992,11 @@ This name [needs composition summary].
 
 
 
-# NAME 855
+# NAME 703
 
 > लास्यप्रिया  
 > लास्यप्रिया  
-> ॥ 855 ॥
+> ॥ 703 ॥
 
 ---
 
@@ -40183,11 +33039,11 @@ This name [needs composition summary].
 
 
 
-# NAME 856
+# NAME 704
 
 > लयकरी  
 > लयकरी  
-> ॥ 856 ॥
+> ॥ 704 ॥
 
 ---
 
@@ -40230,11 +33086,11 @@ This name [needs composition summary].
 
 
 
-# NAME 857
+# NAME 705
 
 > लज्जा  
 > लज्जा  
-> ॥ 857 ॥
+> ॥ 705 ॥
 
 ---
 
@@ -40277,11 +33133,11 @@ This name [needs composition summary].
 
 
 
-# NAME 858
+# NAME 706
 
 > रम्भादिवन्दिता  
 > रम्भादिवन्दिता  
-> ॥ 858 ॥
+> ॥ 706 ॥
 
 ---
 
@@ -40324,58 +33180,11 @@ This name [needs composition summary].
 
 
 
-# NAME 859
-
-> १४२॥  
-> १४२॥  
-> ॥ 859 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १४२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १४२॥
-- **Breakdown**: `१४२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१४२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 860
+# NAME 707
 
 > भवदाव-सुधावृष्टिः  
 > भवदाव-सुधावृष्टिः  
-> ॥ 860 ॥
+> ॥ 707 ॥
 
 ---
 
@@ -40418,11 +33227,11 @@ This name [needs composition summary].
 
 
 
-# NAME 861
+# NAME 708
 
 > पापारण्य-दवानला  
 > पापारण्य-दवानला  
-> ॥ 861 ॥
+> ॥ 708 ॥
 
 ---
 
@@ -40465,11 +33274,11 @@ This name [needs composition summary].
 
 
 
-# NAME 862
+# NAME 709
 
 > दौर्भाग्य-तूलवातूला  
 > दौर्भाग्य-तूलवातूला  
-> ॥ 862 ॥
+> ॥ 709 ॥
 
 ---
 
@@ -40512,11 +33321,11 @@ This name [needs composition summary].
 
 
 
-# NAME 863
+# NAME 710
 
 > जराध्वान्त-रविप्रभा  
 > जराध्वान्त-रविप्रभा  
-> ॥ 863 ॥
+> ॥ 710 ॥
 
 ---
 
@@ -40559,58 +33368,11 @@ This name [needs composition summary].
 
 
 
-# NAME 864
-
-> १४३॥  
-> १४३॥  
-> ॥ 864 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १४३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १४३॥
-- **Breakdown**: `१४३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१४३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 865
+# NAME 711
 
 > भाग्याब्धि-चन्द्रिका  
 > भाग्याब्धि-चन्द्रिका  
-> ॥ 865 ॥
+> ॥ 711 ॥
 
 ---
 
@@ -40653,11 +33415,11 @@ This name [needs composition summary].
 
 
 
-# NAME 866
+# NAME 712
 
 > भक्त-चित्तकेकि-घनाघना  
 > भक्त-चित्तकेकि-घनाघना  
-> ॥ 866 ॥
+> ॥ 712 ॥
 
 ---
 
@@ -40700,11 +33462,11 @@ This name [needs composition summary].
 
 
 
-# NAME 867
+# NAME 713
 
 > रोगपर्वत-दम्भोलिर्मृत्युदारु-कुठारिका  
 > रोगपर्वत-दम्भोलिर्मृत्युदारु-कुठारिका  
-> ॥ 867 ॥
+> ॥ 713 ॥
 
 ---
 
@@ -40747,58 +33509,11 @@ This name [needs composition summary].
 
 
 
-# NAME 868
-
-> १४४॥  
-> १४४॥  
-> ॥ 868 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १४४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १४४॥
-- **Breakdown**: `१४४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१४४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 869
+# NAME 714
 
 > महेश्वरी  
 > महेश्वरी  
-> ॥ 869 ॥
+> ॥ 714 ॥
 
 ---
 
@@ -40841,11 +33556,11 @@ This name [needs composition summary].
 
 
 
-# NAME 870
+# NAME 715
 
 > महाकाली  
 > महाकाली  
-> ॥ 870 ॥
+> ॥ 715 ॥
 
 ---
 
@@ -40888,11 +33603,11 @@ This name [needs composition summary].
 
 
 
-# NAME 871
+# NAME 716
 
 > महाग्रासा  
 > महाग्रासा  
-> ॥ 871 ॥
+> ॥ 716 ॥
 
 ---
 
@@ -40935,11 +33650,11 @@ This name [needs composition summary].
 
 
 
-# NAME 872
+# NAME 717
 
 > महाशना  
 > महाशना  
-> ॥ 872 ॥
+> ॥ 717 ॥
 
 ---
 
@@ -40982,11 +33697,11 @@ This name [needs composition summary].
 
 
 
-# NAME 873
+# NAME 718
 
 > अपर्णा  
 > अपर्णा  
-> ॥ 873 ॥
+> ॥ 718 ॥
 
 ---
 
@@ -41029,11 +33744,11 @@ This name [needs composition summary].
 
 
 
-# NAME 874
+# NAME 719
 
 > चण्डिका  
 > चण्डिका  
-> ॥ 874 ॥
+> ॥ 719 ॥
 
 ---
 
@@ -41076,11 +33791,11 @@ This name [needs composition summary].
 
 
 
-# NAME 875
+# NAME 720
 
 > चण्डमुण्डासुर-निषूदिनी  
 > चण्डमुण्डासुर-निषूदिनी  
-> ॥ 875 ॥
+> ॥ 720 ॥
 
 ---
 
@@ -41123,58 +33838,11 @@ This name [needs composition summary].
 
 
 
-# NAME 876
-
-> १४५॥  
-> १४५॥  
-> ॥ 876 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १४५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १४५॥
-- **Breakdown**: `१४५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१४५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 877
+# NAME 721
 
 > क्षराक्षरात्मिका  
 > क्षराक्षरात्मिका  
-> ॥ 877 ॥
+> ॥ 721 ॥
 
 ---
 
@@ -41217,11 +33885,11 @@ This name [needs composition summary].
 
 
 
-# NAME 878
+# NAME 722
 
 > सर्व-लोकेशी  
 > सर्व-लोकेशी  
-> ॥ 878 ॥
+> ॥ 722 ॥
 
 ---
 
@@ -41264,11 +33932,11 @@ This name [needs composition summary].
 
 
 
-# NAME 879
+# NAME 723
 
 > विश्वधारिणी  
 > विश्वधारिणी  
-> ॥ 879 ॥
+> ॥ 723 ॥
 
 ---
 
@@ -41311,11 +33979,11 @@ This name [needs composition summary].
 
 
 
-# NAME 880
+# NAME 724
 
 > त्रिवर्गदात्री  
 > त्रिवर्गदात्री  
-> ॥ 880 ॥
+> ॥ 724 ॥
 
 ---
 
@@ -41358,11 +34026,11 @@ This name [needs composition summary].
 
 
 
-# NAME 881
+# NAME 725
 
 > सुभगा  
 > सुभगा  
-> ॥ 881 ॥
+> ॥ 725 ॥
 
 ---
 
@@ -41405,11 +34073,11 @@ This name [needs composition summary].
 
 
 
-# NAME 882
+# NAME 726
 
 > त्र्यम्बका  
 > त्र्यम्बका  
-> ॥ 882 ॥
+> ॥ 726 ॥
 
 ---
 
@@ -41452,11 +34120,11 @@ This name [needs composition summary].
 
 
 
-# NAME 883
+# NAME 727
 
 > त्रिगुणात्मिका  
 > त्रिगुणात्मिका  
-> ॥ 883 ॥
+> ॥ 727 ॥
 
 ---
 
@@ -41499,58 +34167,11 @@ This name [needs composition summary].
 
 
 
-# NAME 884
-
-> १४६॥  
-> १४६॥  
-> ॥ 884 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १४६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १४६॥
-- **Breakdown**: `१४६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१४६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 885
+# NAME 728
 
 > स्वर्गापवर्गदा  
 > स्वर्गापवर्गदा  
-> ॥ 885 ॥
+> ॥ 728 ॥
 
 ---
 
@@ -41593,11 +34214,11 @@ This name [needs composition summary].
 
 
 
-# NAME 886
+# NAME 729
 
 > शुद्धा  
 > शुद्धा  
-> ॥ 886 ॥
+> ॥ 729 ॥
 
 ---
 
@@ -41640,11 +34261,11 @@ This name [needs composition summary].
 
 
 
-# NAME 887
+# NAME 730
 
 > जपापुष्प-निभाकृतिः  
 > जपापुष्प-निभाकृतिः  
-> ॥ 887 ॥
+> ॥ 730 ॥
 
 ---
 
@@ -41687,11 +34308,11 @@ This name [needs composition summary].
 
 
 
-# NAME 888
+# NAME 731
 
 > ओजोवती  
 > ओजोवती  
-> ॥ 888 ॥
+> ॥ 731 ॥
 
 ---
 
@@ -41734,11 +34355,11 @@ This name [needs composition summary].
 
 
 
-# NAME 889
+# NAME 732
 
 > द्युतिधरा  
 > द्युतिधरा  
-> ॥ 889 ॥
+> ॥ 732 ॥
 
 ---
 
@@ -41781,11 +34402,11 @@ This name [needs composition summary].
 
 
 
-# NAME 890
+# NAME 733
 
 > यज्ञरूपा  
 > यज्ञरूपा  
-> ॥ 890 ॥
+> ॥ 733 ॥
 
 ---
 
@@ -41828,11 +34449,11 @@ This name [needs composition summary].
 
 
 
-# NAME 891
+# NAME 734
 
 > प्रियव्रता  
 > प्रियव्रता  
-> ॥ 891 ॥
+> ॥ 734 ॥
 
 ---
 
@@ -41875,58 +34496,11 @@ This name [needs composition summary].
 
 
 
-# NAME 892
-
-> १४७॥  
-> १४७॥  
-> ॥ 892 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १४७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १४७॥
-- **Breakdown**: `१४७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१४७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 893
+# NAME 735
 
 > दुराराध्या  
 > दुराराध्या  
-> ॥ 893 ॥
+> ॥ 735 ॥
 
 ---
 
@@ -41969,11 +34543,11 @@ This name [needs composition summary].
 
 
 
-# NAME 894
+# NAME 736
 
 > दुराधर्षा  
 > दुराधर्षा  
-> ॥ 894 ॥
+> ॥ 736 ॥
 
 ---
 
@@ -42016,11 +34590,11 @@ This name [needs composition summary].
 
 
 
-# NAME 895
+# NAME 737
 
 > पाटली-कुसुम-प्रिया  
 > पाटली-कुसुम-प्रिया  
-> ॥ 895 ॥
+> ॥ 737 ॥
 
 ---
 
@@ -42063,11 +34637,11 @@ This name [needs composition summary].
 
 
 
-# NAME 896
+# NAME 738
 
 > महती  
 > महती  
-> ॥ 896 ॥
+> ॥ 738 ॥
 
 ---
 
@@ -42110,11 +34684,11 @@ This name [needs composition summary].
 
 
 
-# NAME 897
+# NAME 739
 
 > मेरुनिलया  
 > मेरुनिलया  
-> ॥ 897 ॥
+> ॥ 739 ॥
 
 ---
 
@@ -42157,11 +34731,11 @@ This name [needs composition summary].
 
 
 
-# NAME 898
+# NAME 740
 
 > मन्दार-कुसुम-प्रिया  
 > मन्दार-कुसुम-प्रिया  
-> ॥ 898 ॥
+> ॥ 740 ॥
 
 ---
 
@@ -42204,58 +34778,11 @@ This name [needs composition summary].
 
 
 
-# NAME 899
-
-> १४८॥  
-> १४८॥  
-> ॥ 899 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १४८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १४८॥
-- **Breakdown**: `१४८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१४८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 900
+# NAME 741
 
 > वीराराध्या  
 > वीराराध्या  
-> ॥ 900 ॥
+> ॥ 741 ॥
 
 ---
 
@@ -42298,11 +34825,11 @@ This name [needs composition summary].
 
 
 
-# NAME 901
+# NAME 742
 
 > विराड्रूपा  
 > विराड्रूपा  
-> ॥ 901 ॥
+> ॥ 742 ॥
 
 ---
 
@@ -42345,11 +34872,11 @@ This name [needs composition summary].
 
 
 
-# NAME 902
+# NAME 743
 
 > विरजा  
 > विरजा  
-> ॥ 902 ॥
+> ॥ 743 ॥
 
 ---
 
@@ -42392,11 +34919,11 @@ This name [needs composition summary].
 
 
 
-# NAME 903
+# NAME 744
 
 > विश्वतोमुखी  
 > विश्वतोमुखी  
-> ॥ 903 ॥
+> ॥ 744 ॥
 
 ---
 
@@ -42439,11 +34966,11 @@ This name [needs composition summary].
 
 
 
-# NAME 904
+# NAME 745
 
 > प्रत्यग्रूपा  
 > प्रत्यग्रूपा  
-> ॥ 904 ॥
+> ॥ 745 ॥
 
 ---
 
@@ -42486,11 +35013,11 @@ This name [needs composition summary].
 
 
 
-# NAME 905
+# NAME 746
 
 > पराकाशा  
 > पराकाशा  
-> ॥ 905 ॥
+> ॥ 746 ॥
 
 ---
 
@@ -42533,11 +35060,11 @@ This name [needs composition summary].
 
 
 
-# NAME 906
+# NAME 747
 
 > प्राणदा  
 > प्राणदा  
-> ॥ 906 ॥
+> ॥ 747 ॥
 
 ---
 
@@ -42580,11 +35107,11 @@ This name [needs composition summary].
 
 
 
-# NAME 907
+# NAME 748
 
 > प्राणरूपिणी  
 > प्राणरूपिणी  
-> ॥ 907 ॥
+> ॥ 748 ॥
 
 ---
 
@@ -42627,58 +35154,11 @@ This name [needs composition summary].
 
 
 
-# NAME 908
-
-> १४९॥  
-> १४९॥  
-> ॥ 908 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १४९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १४९॥
-- **Breakdown**: `१४९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१४९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 909
+# NAME 749
 
 > मार्ताण्ड-भैरवाराध्या  
 > मार्ताण्ड-भैरवाराध्या  
-> ॥ 909 ॥
+> ॥ 749 ॥
 
 ---
 
@@ -42721,11 +35201,11 @@ This name [needs composition summary].
 
 
 
-# NAME 910
+# NAME 750
 
 > मन्त्रिणीन्यस्त-राज्यधूः  
 > मन्त्रिणीन्यस्त-राज्यधूः  
-> ॥ 910 ॥
+> ॥ 750 ॥
 
 ---
 
@@ -42768,58 +35248,11 @@ This name [needs composition summary].
 
 
 
-# NAME 911
-
-> (मार्तण्ड)  
-> (मार्तण्ड)  
-> ॥ 911 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| (मार्तण्ड) | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### (मार्तण्ड)
-- **Breakdown**: `(मार्तण्ड)`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **(मार्तण्ड)** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 912
+# NAME 751
 
 > त्रिपुरेशी  
 > त्रिपुरेशी  
-> ॥ 912 ॥
+> ॥ 751 ॥
 
 ---
 
@@ -42862,11 +35295,11 @@ This name [needs composition summary].
 
 
 
-# NAME 913
+# NAME 752
 
 > जयत्सेना  
 > जयत्सेना  
-> ॥ 913 ॥
+> ॥ 752 ॥
 
 ---
 
@@ -42909,11 +35342,11 @@ This name [needs composition summary].
 
 
 
-# NAME 914
+# NAME 753
 
 > निस्त्रैगुण्या  
 > निस्त्रैगुण्या  
-> ॥ 914 ॥
+> ॥ 753 ॥
 
 ---
 
@@ -42956,11 +35389,11 @@ This name [needs composition summary].
 
 
 
-# NAME 915
+# NAME 754
 
 > परापरा  
 > परापरा  
-> ॥ 915 ॥
+> ॥ 754 ॥
 
 ---
 
@@ -43003,58 +35436,11 @@ This name [needs composition summary].
 
 
 
-# NAME 916
-
-> १५०॥  
-> १५०॥  
-> ॥ 916 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १५०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १५०॥
-- **Breakdown**: `१५०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१५०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 917
+# NAME 755
 
 > सत्य-ज्ञानानन्द-रूपा  
 > सत्य-ज्ञानानन्द-रूपा  
-> ॥ 917 ॥
+> ॥ 755 ॥
 
 ---
 
@@ -43097,11 +35483,11 @@ This name [needs composition summary].
 
 
 
-# NAME 918
+# NAME 756
 
 > सामरस्य-परायणा  
 > सामरस्य-परायणा  
-> ॥ 918 ॥
+> ॥ 756 ॥
 
 ---
 
@@ -43144,11 +35530,11 @@ This name [needs composition summary].
 
 
 
-# NAME 919
+# NAME 757
 
 > कपर्दिनी  
 > कपर्दिनी  
-> ॥ 919 ॥
+> ॥ 757 ॥
 
 ---
 
@@ -43191,11 +35577,11 @@ This name [needs composition summary].
 
 
 
-# NAME 920
+# NAME 758
 
 > कलामाला  
 > कलामाला  
-> ॥ 920 ॥
+> ॥ 758 ॥
 
 ---
 
@@ -43238,11 +35624,11 @@ This name [needs composition summary].
 
 
 
-# NAME 921
+# NAME 759
 
 > कामधुक्  
 > कामधुक्  
-> ॥ 921 ॥
+> ॥ 759 ॥
 
 ---
 
@@ -43285,11 +35671,11 @@ This name [needs composition summary].
 
 
 
-# NAME 922
+# NAME 760
 
 > कामरूपिणी  
 > कामरूपिणी  
-> ॥ 922 ॥
+> ॥ 760 ॥
 
 ---
 
@@ -43332,58 +35718,11 @@ This name [needs composition summary].
 
 
 
-# NAME 923
-
-> १५१॥  
-> १५१॥  
-> ॥ 923 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १५१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १५१॥
-- **Breakdown**: `१५१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१५१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 924
+# NAME 761
 
 > कलानिधिः  
 > कलानिधिः  
-> ॥ 924 ॥
+> ॥ 761 ॥
 
 ---
 
@@ -43426,11 +35765,11 @@ This name [needs composition summary].
 
 
 
-# NAME 925
+# NAME 762
 
 > काव्यकला  
 > काव्यकला  
-> ॥ 925 ॥
+> ॥ 762 ॥
 
 ---
 
@@ -43473,11 +35812,11 @@ This name [needs composition summary].
 
 
 
-# NAME 926
+# NAME 763
 
 > रसज्ञा  
 > रसज्ञा  
-> ॥ 926 ॥
+> ॥ 763 ॥
 
 ---
 
@@ -43520,11 +35859,11 @@ This name [needs composition summary].
 
 
 
-# NAME 927
+# NAME 764
 
 > रसशेवधिः  
 > रसशेवधिः  
-> ॥ 927 ॥
+> ॥ 764 ॥
 
 ---
 
@@ -43567,11 +35906,11 @@ This name [needs composition summary].
 
 
 
-# NAME 928
+# NAME 765
 
 > पुष्टा  
 > पुष्टा  
-> ॥ 928 ॥
+> ॥ 765 ॥
 
 ---
 
@@ -43614,11 +35953,11 @@ This name [needs composition summary].
 
 
 
-# NAME 929
+# NAME 766
 
 > पुरातना  
 > पुरातना  
-> ॥ 929 ॥
+> ॥ 766 ॥
 
 ---
 
@@ -43661,11 +36000,11 @@ This name [needs composition summary].
 
 
 
-# NAME 930
+# NAME 767
 
 > पूज्या  
 > पूज्या  
-> ॥ 930 ॥
+> ॥ 767 ॥
 
 ---
 
@@ -43708,11 +36047,11 @@ This name [needs composition summary].
 
 
 
-# NAME 931
+# NAME 768
 
 > पुष्करा  
 > पुष्करा  
-> ॥ 931 ॥
+> ॥ 768 ॥
 
 ---
 
@@ -43755,11 +36094,11 @@ This name [needs composition summary].
 
 
 
-# NAME 932
+# NAME 769
 
 > पुष्करेक्षणा  
 > पुष्करेक्षणा  
-> ॥ 932 ॥
+> ॥ 769 ॥
 
 ---
 
@@ -43802,58 +36141,11 @@ This name [needs composition summary].
 
 
 
-# NAME 933
-
-> १५२॥  
-> १५२॥  
-> ॥ 933 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १५२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १५२॥
-- **Breakdown**: `१५२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१५२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 934
+# NAME 770
 
 > परंज्योतिः  
 > परंज्योतिः  
-> ॥ 934 ॥
+> ॥ 770 ॥
 
 ---
 
@@ -43896,11 +36188,11 @@ This name [needs composition summary].
 
 
 
-# NAME 935
+# NAME 771
 
 > परंधाम  
 > परंधाम  
-> ॥ 935 ॥
+> ॥ 771 ॥
 
 ---
 
@@ -43943,11 +36235,11 @@ This name [needs composition summary].
 
 
 
-# NAME 936
+# NAME 772
 
 > परमाणुः  
 > परमाणुः  
-> ॥ 936 ॥
+> ॥ 772 ॥
 
 ---
 
@@ -43990,11 +36282,11 @@ This name [needs composition summary].
 
 
 
-# NAME 937
+# NAME 773
 
 > परात्परा  
 > परात्परा  
-> ॥ 937 ॥
+> ॥ 773 ॥
 
 ---
 
@@ -44037,11 +36329,11 @@ This name [needs composition summary].
 
 
 
-# NAME 938
+# NAME 774
 
 > पाशहस्ता  
 > पाशहस्ता  
-> ॥ 938 ॥
+> ॥ 774 ॥
 
 ---
 
@@ -44084,11 +36376,11 @@ This name [needs composition summary].
 
 
 
-# NAME 939
+# NAME 775
 
 > पाशहन्त्री  
 > पाशहन्त्री  
-> ॥ 939 ॥
+> ॥ 775 ॥
 
 ---
 
@@ -44131,11 +36423,11 @@ This name [needs composition summary].
 
 
 
-# NAME 940
+# NAME 776
 
 > परमन्त्र-विभेदिनी  
 > परमन्त्र-विभेदिनी  
-> ॥ 940 ॥
+> ॥ 776 ॥
 
 ---
 
@@ -44178,58 +36470,11 @@ This name [needs composition summary].
 
 
 
-# NAME 941
-
-> १५३॥  
-> १५३॥  
-> ॥ 941 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १५३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १५३॥
-- **Breakdown**: `१५३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१५३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 942
+# NAME 777
 
 > मूर्ताऽमूर्ताऽनित्यतृप्ता  
 > मूर्ताऽमूर्ताऽनित्यतृप्ता  
-> ॥ 942 ॥
+> ॥ 777 ॥
 
 ---
 
@@ -44272,11 +36517,11 @@ This name [needs composition summary].
 
 
 
-# NAME 943
+# NAME 778
 
 > मुनिमानस-हंसिका  
 > मुनिमानस-हंसिका  
-> ॥ 943 ॥
+> ॥ 778 ॥
 
 ---
 
@@ -44319,11 +36564,11 @@ This name [needs composition summary].
 
 
 
-# NAME 944
+# NAME 779
 
 > सत्यव्रता  
 > सत्यव्रता  
-> ॥ 944 ॥
+> ॥ 779 ॥
 
 ---
 
@@ -44366,11 +36611,11 @@ This name [needs composition summary].
 
 
 
-# NAME 945
+# NAME 780
 
 > सत्यरूपा  
 > सत्यरूपा  
-> ॥ 945 ॥
+> ॥ 780 ॥
 
 ---
 
@@ -44413,11 +36658,11 @@ This name [needs composition summary].
 
 
 
-# NAME 946
+# NAME 781
 
 > सर्वान्तर्यामिनी  
 > सर्वान्तर्यामिनी  
-> ॥ 946 ॥
+> ॥ 781 ॥
 
 ---
 
@@ -44460,11 +36705,11 @@ This name [needs composition summary].
 
 
 
-# NAME 947
+# NAME 782
 
 > सती  
 > सती  
-> ॥ 947 ॥
+> ॥ 782 ॥
 
 ---
 
@@ -44507,58 +36752,11 @@ This name [needs composition summary].
 
 
 
-# NAME 948
-
-> १५४॥  
-> १५४॥  
-> ॥ 948 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १५४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १५४॥
-- **Breakdown**: `१५४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१५४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 949
+# NAME 783
 
 > ब्रह्माणी  
 > ब्रह्माणी  
-> ॥ 949 ॥
+> ॥ 783 ॥
 
 ---
 
@@ -44601,11 +36799,11 @@ This name [needs composition summary].
 
 
 
-# NAME 950
+# NAME 784
 
 > ब्रह्मजननी  
 > ब्रह्मजननी  
-> ॥ 950 ॥
+> ॥ 784 ॥
 
 ---
 
@@ -44648,11 +36846,11 @@ This name [needs composition summary].
 
 
 
-# NAME 951
+# NAME 785
 
 > बहुरूपा  
 > बहुरूपा  
-> ॥ 951 ॥
+> ॥ 785 ॥
 
 ---
 
@@ -44695,11 +36893,11 @@ This name [needs composition summary].
 
 
 
-# NAME 952
+# NAME 786
 
 > बुधार्चिता  
 > बुधार्चिता  
-> ॥ 952 ॥
+> ॥ 786 ॥
 
 ---
 
@@ -44742,11 +36940,11 @@ This name [needs composition summary].
 
 
 
-# NAME 953
+# NAME 787
 
 > प्रसवित्री  
 > प्रसवित्री  
-> ॥ 953 ॥
+> ॥ 787 ॥
 
 ---
 
@@ -44789,11 +36987,11 @@ This name [needs composition summary].
 
 
 
-# NAME 954
+# NAME 788
 
 > प्रचण्डाऽऽज्ञा  
 > प्रचण्डाऽऽज्ञा  
-> ॥ 954 ॥
+> ॥ 788 ॥
 
 ---
 
@@ -44836,11 +37034,11 @@ This name [needs composition summary].
 
 
 
-# NAME 955
+# NAME 789
 
 > प्रतिष्ठा  
 > प्रतिष्ठा  
-> ॥ 955 ॥
+> ॥ 789 ॥
 
 ---
 
@@ -44883,11 +37081,11 @@ This name [needs composition summary].
 
 
 
-# NAME 956
+# NAME 790
 
 > प्रकटाकृतिः  
 > प्रकटाकृतिः  
-> ॥ 956 ॥
+> ॥ 790 ॥
 
 ---
 
@@ -44930,58 +37128,11 @@ This name [needs composition summary].
 
 
 
-# NAME 957
-
-> १५५॥  
-> १५५॥  
-> ॥ 957 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १५५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १५५॥
-- **Breakdown**: `१५५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१५५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 958
+# NAME 791
 
 > प्राणेश्वरी  
 > प्राणेश्वरी  
-> ॥ 958 ॥
+> ॥ 791 ॥
 
 ---
 
@@ -45024,11 +37175,11 @@ This name [needs composition summary].
 
 
 
-# NAME 959
+# NAME 792
 
 > प्राणदात्री  
 > प्राणदात्री  
-> ॥ 959 ॥
+> ॥ 792 ॥
 
 ---
 
@@ -45071,11 +37222,11 @@ This name [needs composition summary].
 
 
 
-# NAME 960
+# NAME 793
 
 > पञ्चाशत्पीठ-रूपिणी  
 > पञ्चाशत्पीठ-रूपिणी  
-> ॥ 960 ॥
+> ॥ 793 ॥
 
 ---
 
@@ -45118,11 +37269,11 @@ This name [needs composition summary].
 
 
 
-# NAME 961
+# NAME 794
 
 > विश‍ृङ्खला  
 > विश‍ृङ्खला  
-> ॥ 961 ॥
+> ॥ 794 ॥
 
 ---
 
@@ -45165,11 +37316,11 @@ This name [needs composition summary].
 
 
 
-# NAME 962
+# NAME 795
 
 > विविक्तस्था  
 > विविक्तस्था  
-> ॥ 962 ॥
+> ॥ 795 ॥
 
 ---
 
@@ -45212,11 +37363,11 @@ This name [needs composition summary].
 
 
 
-# NAME 963
+# NAME 796
 
 > वीरमाता  
 > वीरमाता  
-> ॥ 963 ॥
+> ॥ 796 ॥
 
 ---
 
@@ -45259,11 +37410,11 @@ This name [needs composition summary].
 
 
 
-# NAME 964
+# NAME 797
 
 > वियत्प्रसूः  
 > वियत्प्रसूः  
-> ॥ 964 ॥
+> ॥ 797 ॥
 
 ---
 
@@ -45306,58 +37457,11 @@ This name [needs composition summary].
 
 
 
-# NAME 965
-
-> १५६॥  
-> १५६॥  
-> ॥ 965 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १५६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १५६॥
-- **Breakdown**: `१५६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१५६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 966
+# NAME 798
 
 > मुकुन्दा  
 > मुकुन्दा  
-> ॥ 966 ॥
+> ॥ 798 ॥
 
 ---
 
@@ -45400,11 +37504,11 @@ This name [needs composition summary].
 
 
 
-# NAME 967
+# NAME 799
 
 > मुक्तिनिलया  
 > मुक्तिनिलया  
-> ॥ 967 ॥
+> ॥ 799 ॥
 
 ---
 
@@ -45447,11 +37551,11 @@ This name [needs composition summary].
 
 
 
-# NAME 968
+# NAME 800
 
 > मूलविग्रह-रूपिणी  
 > मूलविग्रह-रूपिणी  
-> ॥ 968 ॥
+> ॥ 800 ॥
 
 ---
 
@@ -45494,11 +37598,11 @@ This name [needs composition summary].
 
 
 
-# NAME 969
+# NAME 801
 
 > भावज्ञा  
 > भावज्ञा  
-> ॥ 969 ॥
+> ॥ 801 ॥
 
 ---
 
@@ -45541,11 +37645,11 @@ This name [needs composition summary].
 
 
 
-# NAME 970
+# NAME 802
 
 > भवरोगघ्नी  
 > भवरोगघ्नी  
-> ॥ 970 ॥
+> ॥ 802 ॥
 
 ---
 
@@ -45588,11 +37692,11 @@ This name [needs composition summary].
 
 
 
-# NAME 971
+# NAME 803
 
 > भवचक्र-प्रवर्तिनी  
 > भवचक्र-प्रवर्तिनी  
-> ॥ 971 ॥
+> ॥ 803 ॥
 
 ---
 
@@ -45635,58 +37739,11 @@ This name [needs composition summary].
 
 
 
-# NAME 972
-
-> १५७॥  
-> १५७॥  
-> ॥ 972 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १५७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १५७॥
-- **Breakdown**: `१५७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१५७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 973
+# NAME 804
 
 > छन्दःसारा  
 > छन्दःसारा  
-> ॥ 973 ॥
+> ॥ 804 ॥
 
 ---
 
@@ -45729,11 +37786,11 @@ This name [needs composition summary].
 
 
 
-# NAME 974
+# NAME 805
 
 > शास्त्रसारा  
 > शास्त्रसारा  
-> ॥ 974 ॥
+> ॥ 805 ॥
 
 ---
 
@@ -45776,11 +37833,11 @@ This name [needs composition summary].
 
 
 
-# NAME 975
+# NAME 806
 
 > मन्त्रसारा  
 > मन्त्रसारा  
-> ॥ 975 ॥
+> ॥ 806 ॥
 
 ---
 
@@ -45823,11 +37880,11 @@ This name [needs composition summary].
 
 
 
-# NAME 976
+# NAME 807
 
 > तलोदरी  
 > तलोदरी  
-> ॥ 976 ॥
+> ॥ 807 ॥
 
 ---
 
@@ -45870,11 +37927,11 @@ This name [needs composition summary].
 
 
 
-# NAME 977
+# NAME 808
 
 > उदारकीर्तिरुद्दामवैभवा  
 > उदारकीर्तिरुद्दामवैभवा  
-> ॥ 977 ॥
+> ॥ 808 ॥
 
 ---
 
@@ -45917,11 +37974,11 @@ This name [needs composition summary].
 
 
 
-# NAME 978
+# NAME 809
 
 > वर्णरूपिणी  
 > वर्णरूपिणी  
-> ॥ 978 ॥
+> ॥ 809 ॥
 
 ---
 
@@ -45964,58 +38021,11 @@ This name [needs composition summary].
 
 
 
-# NAME 979
-
-> १५८॥  
-> १५८॥  
-> ॥ 979 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १५८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १५८॥
-- **Breakdown**: `१५८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१५८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 980
+# NAME 810
 
 > जन्ममृत्यु-जरातप्त-जनविश्रान्ति-दायिनी  
 > जन्ममृत्यु-जरातप्त-जनविश्रान्ति-दायिनी  
-> ॥ 980 ॥
+> ॥ 810 ॥
 
 ---
 
@@ -46058,11 +38068,11 @@ This name [needs composition summary].
 
 
 
-# NAME 981
+# NAME 811
 
 > सर्वोपनिष-दुद्-घुष्टा  
 > सर्वोपनिष-दुद्-घुष्टा  
-> ॥ 981 ॥
+> ॥ 811 ॥
 
 ---
 
@@ -46105,11 +38115,11 @@ This name [needs composition summary].
 
 
 
-# NAME 982
+# NAME 812
 
 > शान्त्यतीत-कलात्मिका  
 > शान्त्यतीत-कलात्मिका  
-> ॥ 982 ॥
+> ॥ 812 ॥
 
 ---
 
@@ -46152,58 +38162,11 @@ This name [needs composition summary].
 
 
 
-# NAME 983
-
-> १५९॥  
-> १५९॥  
-> ॥ 983 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १५९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १५९॥
-- **Breakdown**: `१५९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१५९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 984
+# NAME 813
 
 > गम्भीरा  
 > गम्भीरा  
-> ॥ 984 ॥
+> ॥ 813 ॥
 
 ---
 
@@ -46246,11 +38209,11 @@ This name [needs composition summary].
 
 
 
-# NAME 985
+# NAME 814
 
 > गगनान्तस्था  
 > गगनान्तस्था  
-> ॥ 985 ॥
+> ॥ 814 ॥
 
 ---
 
@@ -46293,11 +38256,11 @@ This name [needs composition summary].
 
 
 
-# NAME 986
+# NAME 815
 
 > गर्विता  
 > गर्विता  
-> ॥ 986 ॥
+> ॥ 815 ॥
 
 ---
 
@@ -46340,11 +38303,11 @@ This name [needs composition summary].
 
 
 
-# NAME 987
+# NAME 816
 
 > गानलोलुपा  
 > गानलोलुपा  
-> ॥ 987 ॥
+> ॥ 816 ॥
 
 ---
 
@@ -46387,11 +38350,11 @@ This name [needs composition summary].
 
 
 
-# NAME 988
+# NAME 817
 
 > कल्पना-रहिता  
 > कल्पना-रहिता  
-> ॥ 988 ॥
+> ॥ 817 ॥
 
 ---
 
@@ -46434,11 +38397,11 @@ This name [needs composition summary].
 
 
 
-# NAME 989
+# NAME 818
 
 > काष्ठाऽकान्ता  
 > काष्ठाऽकान्ता  
-> ॥ 989 ॥
+> ॥ 818 ॥
 
 ---
 
@@ -46481,11 +38444,11 @@ This name [needs composition summary].
 
 
 
-# NAME 990
+# NAME 819
 
 > कान्तार्ध-विग्रहा  
 > कान्तार्ध-विग्रहा  
-> ॥ 990 ॥
+> ॥ 819 ॥
 
 ---
 
@@ -46528,58 +38491,11 @@ This name [needs composition summary].
 
 
 
-# NAME 991
-
-> १६०॥  
-> १६०॥  
-> ॥ 991 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १६०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १६०॥
-- **Breakdown**: `१६०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१६०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 992
+# NAME 820
 
 > कार्यकारण-निर्मुक्ता  
 > कार्यकारण-निर्मुक्ता  
-> ॥ 992 ॥
+> ॥ 820 ॥
 
 ---
 
@@ -46622,11 +38538,11 @@ This name [needs composition summary].
 
 
 
-# NAME 993
+# NAME 821
 
 > कामकेलि-तरङ्गिता  
 > कामकेलि-तरङ्गिता  
-> ॥ 993 ॥
+> ॥ 821 ॥
 
 ---
 
@@ -46669,11 +38585,11 @@ This name [needs composition summary].
 
 
 
-# NAME 994
+# NAME 822
 
 > कनत्कनकता-टङ्का  
 > कनत्कनकता-टङ्का  
-> ॥ 994 ॥
+> ॥ 822 ॥
 
 ---
 
@@ -46716,11 +38632,11 @@ This name [needs composition summary].
 
 
 
-# NAME 995
+# NAME 823
 
 > लीला-विग्रह-धारिणी  
 > लीला-विग्रह-धारिणी  
-> ॥ 995 ॥
+> ॥ 823 ॥
 
 ---
 
@@ -46763,58 +38679,11 @@ This name [needs composition summary].
 
 
 
-# NAME 996
-
-> १६१॥  
-> १६१॥  
-> ॥ 996 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १६१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १६१॥
-- **Breakdown**: `१६१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१६१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 997
+# NAME 824
 
 > अजा  
 > अजा  
-> ॥ 997 ॥
+> ॥ 824 ॥
 
 ---
 
@@ -46857,11 +38726,11 @@ This name [needs composition summary].
 
 
 
-# NAME 998
+# NAME 825
 
 > क्षयविनिर्मुक्ता  
 > क्षयविनिर्मुक्ता  
-> ॥ 998 ॥
+> ॥ 825 ॥
 
 ---
 
@@ -46904,11 +38773,11 @@ This name [needs composition summary].
 
 
 
-# NAME 999
+# NAME 826
 
 > मुग्धा  
 > मुग्धा  
-> ॥ 999 ॥
+> ॥ 826 ॥
 
 ---
 
@@ -46951,11 +38820,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1000
+# NAME 827
 
 > क्षिप्र-प्रसादिनी  
 > क्षिप्र-प्रसादिनी  
-> ॥ 1000 ॥
+> ॥ 827 ॥
 
 ---
 
@@ -46998,11 +38867,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1001
+# NAME 828
 
 > अन्तर्मुख-समाराध्या  
 > अन्तर्मुख-समाराध्या  
-> ॥ 1001 ॥
+> ॥ 828 ॥
 
 ---
 
@@ -47045,11 +38914,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1002
+# NAME 829
 
 > बहिर्मुख-सुदुर्लभा  
 > बहिर्मुख-सुदुर्लभा  
-> ॥ 1002 ॥
+> ॥ 829 ॥
 
 ---
 
@@ -47092,58 +38961,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1003
-
-> १६२॥  
-> १६२॥  
-> ॥ 1003 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १६२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १६२॥
-- **Breakdown**: `१६२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१६२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1004
+# NAME 830
 
 > त्रयी  
 > त्रयी  
-> ॥ 1004 ॥
+> ॥ 830 ॥
 
 ---
 
@@ -47186,11 +39008,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1005
+# NAME 831
 
 > त्रिवर्गनिलया  
 > त्रिवर्गनिलया  
-> ॥ 1005 ॥
+> ॥ 831 ॥
 
 ---
 
@@ -47233,11 +39055,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1006
+# NAME 832
 
 > त्रिस्था  
 > त्रिस्था  
-> ॥ 1006 ॥
+> ॥ 832 ॥
 
 ---
 
@@ -47280,11 +39102,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1007
+# NAME 833
 
 > त्रिपुरमालिनी  
 > त्रिपुरमालिनी  
-> ॥ 1007 ॥
+> ॥ 833 ॥
 
 ---
 
@@ -47327,11 +39149,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1008
+# NAME 834
 
 > निरामया  
 > निरामया  
-> ॥ 1008 ॥
+> ॥ 834 ॥
 
 ---
 
@@ -47374,11 +39196,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1009
+# NAME 835
 
 > निरालम्बा  
 > निरालम्बा  
-> ॥ 1009 ॥
+> ॥ 835 ॥
 
 ---
 
@@ -47421,11 +39243,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1010
+# NAME 836
 
 > स्वात्मारामा  
 > स्वात्मारामा  
-> ॥ 1010 ॥
+> ॥ 836 ॥
 
 ---
 
@@ -47468,11 +39290,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1011
+# NAME 837
 
 > सुधासृतिः  
 > सुधासृतिः  
-> ॥ 1011 ॥
+> ॥ 837 ॥
 
 ---
 
@@ -47515,105 +39337,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1012
-
-> १६३॥  
-> १६३॥  
-> ॥ 1012 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १६३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १६३॥
-- **Breakdown**: `१६३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१६३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1013
-
-> (सुधास्रुतिः)  
-> (सुधास्रुतिः)  
-> ॥ 1013 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| (सुधास्रुतिः) | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### (सुधास्रुतिः)
-- **Breakdown**: `(सुधास्रुतिः)`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **(सुधास्रुतिः)** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1014
+# NAME 838
 
 > संसारपङ्क-निर्मग्न-समुद्धरण-पण्डिता  
 > संसारपङ्क-निर्मग्न-समुद्धरण-पण्डिता  
-> ॥ 1014 ॥
+> ॥ 838 ॥
 
 ---
 
@@ -47656,11 +39384,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1015
+# NAME 839
 
 > यज्ञप्रिया  
 > यज्ञप्रिया  
-> ॥ 1015 ॥
+> ॥ 839 ॥
 
 ---
 
@@ -47703,11 +39431,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1016
+# NAME 840
 
 > यज्ञकर्त्री  
 > यज्ञकर्त्री  
-> ॥ 1016 ॥
+> ॥ 840 ॥
 
 ---
 
@@ -47750,11 +39478,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1017
+# NAME 841
 
 > यजमान-स्वरूपिणी  
 > यजमान-स्वरूपिणी  
-> ॥ 1017 ॥
+> ॥ 841 ॥
 
 ---
 
@@ -47797,58 +39525,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1018
-
-> १६४॥  
-> १६४॥  
-> ॥ 1018 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १६४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १६४॥
-- **Breakdown**: `१६४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१६४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1019
+# NAME 842
 
 > धर्माधारा  
 > धर्माधारा  
-> ॥ 1019 ॥
+> ॥ 842 ॥
 
 ---
 
@@ -47891,11 +39572,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1020
+# NAME 843
 
 > धनाध्यक्षा  
 > धनाध्यक्षा  
-> ॥ 1020 ॥
+> ॥ 843 ॥
 
 ---
 
@@ -47938,11 +39619,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1021
+# NAME 844
 
 > धनधान्य-विवर्धिनी  
 > धनधान्य-विवर्धिनी  
-> ॥ 1021 ॥
+> ॥ 844 ॥
 
 ---
 
@@ -47985,11 +39666,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1022
+# NAME 845
 
 > विप्रप्रिया  
 > विप्रप्रिया  
-> ॥ 1022 ॥
+> ॥ 845 ॥
 
 ---
 
@@ -48032,11 +39713,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1023
+# NAME 846
 
 > विप्ररूपा  
 > विप्ररूपा  
-> ॥ 1023 ॥
+> ॥ 846 ॥
 
 ---
 
@@ -48079,11 +39760,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1024
+# NAME 847
 
 > विश्वभ्रमण-कारिणी  
 > विश्वभ्रमण-कारिणी  
-> ॥ 1024 ॥
+> ॥ 847 ॥
 
 ---
 
@@ -48126,58 +39807,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1025
-
-> १६५॥  
-> १६५॥  
-> ॥ 1025 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १६५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १६५॥
-- **Breakdown**: `१६५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१६५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1026
+# NAME 848
 
 > विश्वग्रासा  
 > विश्वग्रासा  
-> ॥ 1026 ॥
+> ॥ 848 ॥
 
 ---
 
@@ -48220,11 +39854,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1027
+# NAME 849
 
 > विद्रुमाभा  
 > विद्रुमाभा  
-> ॥ 1027 ॥
+> ॥ 849 ॥
 
 ---
 
@@ -48267,11 +39901,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1028
+# NAME 850
 
 > वैष्णवी  
 > वैष्णवी  
-> ॥ 1028 ॥
+> ॥ 850 ॥
 
 ---
 
@@ -48314,11 +39948,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1029
+# NAME 851
 
 > विष्णुरूपिणी  
 > विष्णुरूपिणी  
-> ॥ 1029 ॥
+> ॥ 851 ॥
 
 ---
 
@@ -48361,11 +39995,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1030
+# NAME 852
 
 > अयोनिर्योनिनिलया  
 > अयोनिर्योनिनिलया  
-> ॥ 1030 ॥
+> ॥ 852 ॥
 
 ---
 
@@ -48408,11 +40042,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1031
+# NAME 853
 
 > कूटस्था  
 > कूटस्था  
-> ॥ 1031 ॥
+> ॥ 853 ॥
 
 ---
 
@@ -48455,11 +40089,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1032
+# NAME 854
 
 > कुलरूपिणी  
 > कुलरूपिणी  
-> ॥ 1032 ॥
+> ॥ 854 ॥
 
 ---
 
@@ -48502,58 +40136,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1033
-
-> १६६॥  
-> १६६॥  
-> ॥ 1033 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १६६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १६६॥
-- **Breakdown**: `१६६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१६६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1034
+# NAME 855
 
 > वीरगोष्ठीप्रिया  
 > वीरगोष्ठीप्रिया  
-> ॥ 1034 ॥
+> ॥ 855 ॥
 
 ---
 
@@ -48596,11 +40183,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1035
+# NAME 856
 
 > वीरा  
 > वीरा  
-> ॥ 1035 ॥
+> ॥ 856 ॥
 
 ---
 
@@ -48643,11 +40230,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1036
+# NAME 857
 
 > नैष्कर्म्या  
 > नैष्कर्म्या  
-> ॥ 1036 ॥
+> ॥ 857 ॥
 
 ---
 
@@ -48690,11 +40277,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1037
+# NAME 858
 
 > नादरूपिणी  
 > नादरूपिणी  
-> ॥ 1037 ॥
+> ॥ 858 ॥
 
 ---
 
@@ -48737,11 +40324,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1038
+# NAME 859
 
 > विज्ञानकलना  
 > विज्ञानकलना  
-> ॥ 1038 ॥
+> ॥ 859 ॥
 
 ---
 
@@ -48784,11 +40371,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1039
+# NAME 860
 
 > कल्या  
 > कल्या  
-> ॥ 1039 ॥
+> ॥ 860 ॥
 
 ---
 
@@ -48831,11 +40418,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1040
+# NAME 861
 
 > विदग्धा  
 > विदग्धा  
-> ॥ 1040 ॥
+> ॥ 861 ॥
 
 ---
 
@@ -48878,11 +40465,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1041
+# NAME 862
 
 > बैन्दवासना  
 > बैन्दवासना  
-> ॥ 1041 ॥
+> ॥ 862 ॥
 
 ---
 
@@ -48925,58 +40512,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1042
-
-> १६७॥  
-> १६७॥  
-> ॥ 1042 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १६७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १६७॥
-- **Breakdown**: `१६७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१६७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1043
+# NAME 863
 
 > तत्त्वाधिका  
 > तत्त्वाधिका  
-> ॥ 1043 ॥
+> ॥ 863 ॥
 
 ---
 
@@ -49019,11 +40559,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1044
+# NAME 864
 
 > तत्त्वमयी  
 > तत्त्वमयी  
-> ॥ 1044 ॥
+> ॥ 864 ॥
 
 ---
 
@@ -49066,11 +40606,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1045
+# NAME 865
 
 > तत्त्वमर्थ-स्वरूपिणी  
 > तत्त्वमर्थ-स्वरूपिणी  
-> ॥ 1045 ॥
+> ॥ 865 ॥
 
 ---
 
@@ -49113,11 +40653,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1046
+# NAME 866
 
 > सामगानप्रिया  
 > सामगानप्रिया  
-> ॥ 1046 ॥
+> ॥ 866 ॥
 
 ---
 
@@ -49160,11 +40700,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1047
+# NAME 867
 
 > सौम्या  
 > सौम्या  
-> ॥ 1047 ॥
+> ॥ 867 ॥
 
 ---
 
@@ -49207,11 +40747,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1048
+# NAME 868
 
 > सदाशिव-कुटुम्बिनी  
 > सदाशिव-कुटुम्बिनी  
-> ॥ 1048 ॥
+> ॥ 868 ॥
 
 ---
 
@@ -49254,105 +40794,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1049
-
-> १६८॥  
-> १६८॥  
-> ॥ 1049 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १६८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १६८॥
-- **Breakdown**: `१६८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१६८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1050
-
-> (सोम्या)  
-> (सोम्या)  
-> ॥ 1050 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| (सोम्या) | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### (सोम्या)
-- **Breakdown**: `(सोम्या)`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **(सोम्या)** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1051
+# NAME 869
 
 > सव्यापसव्य-मार्गस्था  
 > सव्यापसव्य-मार्गस्था  
-> ॥ 1051 ॥
+> ॥ 869 ॥
 
 ---
 
@@ -49395,11 +40841,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1052
+# NAME 870
 
 > सर्वापद्विनिवारिणी  
 > सर्वापद्विनिवारिणी  
-> ॥ 1052 ॥
+> ॥ 870 ॥
 
 ---
 
@@ -49442,11 +40888,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1053
+# NAME 871
 
 > स्वस्था  
 > स्वस्था  
-> ॥ 1053 ॥
+> ॥ 871 ॥
 
 ---
 
@@ -49489,11 +40935,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1054
+# NAME 872
 
 > स्वभावमधुरा  
 > स्वभावमधुरा  
-> ॥ 1054 ॥
+> ॥ 872 ॥
 
 ---
 
@@ -49536,11 +40982,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1055
+# NAME 873
 
 > धीरा  
 > धीरा  
-> ॥ 1055 ॥
+> ॥ 873 ॥
 
 ---
 
@@ -49583,11 +41029,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1056
+# NAME 874
 
 > धीरसमर्चिता  
 > धीरसमर्चिता  
-> ॥ 1056 ॥
+> ॥ 874 ॥
 
 ---
 
@@ -49630,58 +41076,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1057
-
-> १६९॥  
-> १६९॥  
-> ॥ 1057 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १६९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १६९॥
-- **Breakdown**: `१६९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१६९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1058
+# NAME 875
 
 > चैतन्यार्घ्य-समाराध्या  
 > चैतन्यार्घ्य-समाराध्या  
-> ॥ 1058 ॥
+> ॥ 875 ॥
 
 ---
 
@@ -49724,11 +41123,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1059
+# NAME 876
 
 > चैतन्य-कुसुमप्रिया  
 > चैतन्य-कुसुमप्रिया  
-> ॥ 1059 ॥
+> ॥ 876 ॥
 
 ---
 
@@ -49771,11 +41170,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1060
+# NAME 877
 
 > सदोदिता  
 > सदोदिता  
-> ॥ 1060 ॥
+> ॥ 877 ॥
 
 ---
 
@@ -49818,11 +41217,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1061
+# NAME 878
 
 > सदातुष्टा  
 > सदातुष्टा  
-> ॥ 1061 ॥
+> ॥ 878 ॥
 
 ---
 
@@ -49865,11 +41264,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1062
+# NAME 879
 
 > तरुणादित्य-पाटला  
 > तरुणादित्य-पाटला  
-> ॥ 1062 ॥
+> ॥ 879 ॥
 
 ---
 
@@ -49912,58 +41311,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1063
-
-> १७०॥  
-> १७०॥  
-> ॥ 1063 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १७०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १७०॥
-- **Breakdown**: `१७०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१७०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1064
+# NAME 880
 
 > दक्षिणा-दक्षिणाराध्या  
 > दक्षिणा-दक्षिणाराध्या  
-> ॥ 1064 ॥
+> ॥ 880 ॥
 
 ---
 
@@ -50006,11 +41358,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1065
+# NAME 881
 
 > दरस्मेर-मुखाम्बुजा  
 > दरस्मेर-मुखाम्बुजा  
-> ॥ 1065 ॥
+> ॥ 881 ॥
 
 ---
 
@@ -50053,11 +41405,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1066
+# NAME 882
 
 > कौलिनी-केवलाऽनर्घ्य-कैवल्य-पददायिनी  
 > कौलिनी-केवलाऽनर्घ्य-कैवल्य-पददायिनी  
-> ॥ 1066 ॥
+> ॥ 882 ॥
 
 ---
 
@@ -50100,58 +41452,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1067
-
-> १७१॥  
-> १७१॥  
-> ॥ 1067 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १७१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १७१॥
-- **Breakdown**: `१७१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१७१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1068
+# NAME 883
 
 > स्तोत्रप्रिया  
 > स्तोत्रप्रिया  
-> ॥ 1068 ॥
+> ॥ 883 ॥
 
 ---
 
@@ -50194,11 +41499,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1069
+# NAME 884
 
 > स्तुतिमती  
 > स्तुतिमती  
-> ॥ 1069 ॥
+> ॥ 884 ॥
 
 ---
 
@@ -50241,11 +41546,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1070
+# NAME 885
 
 > श्रुति-संस्तुत-वैभवा  
 > श्रुति-संस्तुत-वैभवा  
-> ॥ 1070 ॥
+> ॥ 885 ॥
 
 ---
 
@@ -50288,11 +41593,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1071
+# NAME 886
 
 > मनस्विनी  
 > मनस्विनी  
-> ॥ 1071 ॥
+> ॥ 886 ॥
 
 ---
 
@@ -50335,11 +41640,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1072
+# NAME 887
 
 > मानवती  
 > मानवती  
-> ॥ 1072 ॥
+> ॥ 887 ॥
 
 ---
 
@@ -50382,11 +41687,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1073
+# NAME 888
 
 > महेशी  
 > महेशी  
-> ॥ 1073 ॥
+> ॥ 888 ॥
 
 ---
 
@@ -50429,11 +41734,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1074
+# NAME 889
 
 > मङ्गलाकृतिः  
 > मङ्गलाकृतिः  
-> ॥ 1074 ॥
+> ॥ 889 ॥
 
 ---
 
@@ -50476,58 +41781,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1075
-
-> १७२॥  
-> १७२॥  
-> ॥ 1075 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १७२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १७२॥
-- **Breakdown**: `१७२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१७२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1076
+# NAME 890
 
 > विश्वमाता  
 > विश्वमाता  
-> ॥ 1076 ॥
+> ॥ 890 ॥
 
 ---
 
@@ -50570,11 +41828,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1077
+# NAME 891
 
 > जगद्धात्री  
 > जगद्धात्री  
-> ॥ 1077 ॥
+> ॥ 891 ॥
 
 ---
 
@@ -50617,11 +41875,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1078
+# NAME 892
 
 > विशालाक्षी  
 > विशालाक्षी  
-> ॥ 1078 ॥
+> ॥ 892 ॥
 
 ---
 
@@ -50664,11 +41922,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1079
+# NAME 893
 
 > विरागिणी  
 > विरागिणी  
-> ॥ 1079 ॥
+> ॥ 893 ॥
 
 ---
 
@@ -50711,11 +41969,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1080
+# NAME 894
 
 > प्रगल्भा  
 > प्रगल्भा  
-> ॥ 1080 ॥
+> ॥ 894 ॥
 
 ---
 
@@ -50758,11 +42016,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1081
+# NAME 895
 
 > परमोदारा  
 > परमोदारा  
-> ॥ 1081 ॥
+> ॥ 895 ॥
 
 ---
 
@@ -50805,11 +42063,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1082
+# NAME 896
 
 > परामोदा  
 > परामोदा  
-> ॥ 1082 ॥
+> ॥ 896 ॥
 
 ---
 
@@ -50852,11 +42110,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1083
+# NAME 897
 
 > मनोमयी  
 > मनोमयी  
-> ॥ 1083 ॥
+> ॥ 897 ॥
 
 ---
 
@@ -50899,58 +42157,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1084
-
-> १७३॥  
-> १७३॥  
-> ॥ 1084 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १७३॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १७३॥
-- **Breakdown**: `१७३॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१७३॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1085
+# NAME 898
 
 > व्योमकेशी  
 > व्योमकेशी  
-> ॥ 1085 ॥
+> ॥ 898 ॥
 
 ---
 
@@ -50993,11 +42204,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1086
+# NAME 899
 
 > विमानस्था  
 > विमानस्था  
-> ॥ 1086 ॥
+> ॥ 899 ॥
 
 ---
 
@@ -51040,11 +42251,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1087
+# NAME 900
 
 > वज्रिणी  
 > वज्रिणी  
-> ॥ 1087 ॥
+> ॥ 900 ॥
 
 ---
 
@@ -51087,11 +42298,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1088
+# NAME 901
 
 > वामकेश्वरी  
 > वामकेश्वरी  
-> ॥ 1088 ॥
+> ॥ 901 ॥
 
 ---
 
@@ -51134,11 +42345,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1089
+# NAME 902
 
 > पञ्चयज्ञ-प्रिया  
 > पञ्चयज्ञ-प्रिया  
-> ॥ 1089 ॥
+> ॥ 902 ॥
 
 ---
 
@@ -51181,11 +42392,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1090
+# NAME 903
 
 > पञ्च-प्रेत-मञ्चाधिशायिनी  
 > पञ्च-प्रेत-मञ्चाधिशायिनी  
-> ॥ 1090 ॥
+> ॥ 903 ॥
 
 ---
 
@@ -51228,58 +42439,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1091
-
-> १७४॥  
-> १७४॥  
-> ॥ 1091 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १७४॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १७४॥
-- **Breakdown**: `१७४॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१७४॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1092
+# NAME 904
 
 > पञ्चमी  
 > पञ्चमी  
-> ॥ 1092 ॥
+> ॥ 904 ॥
 
 ---
 
@@ -51322,11 +42486,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1093
+# NAME 905
 
 > पञ्चभूतेशी  
 > पञ्चभूतेशी  
-> ॥ 1093 ॥
+> ॥ 905 ॥
 
 ---
 
@@ -51369,11 +42533,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1094
+# NAME 906
 
 > पञ्च-संख्योपचारिणी  
 > पञ्च-संख्योपचारिणी  
-> ॥ 1094 ॥
+> ॥ 906 ॥
 
 ---
 
@@ -51416,11 +42580,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1095
+# NAME 907
 
 > शाश्वती  
 > शाश्वती  
-> ॥ 1095 ॥
+> ॥ 907 ॥
 
 ---
 
@@ -51463,11 +42627,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1096
+# NAME 908
 
 > शाश्वतैश्वर्या  
 > शाश्वतैश्वर्या  
-> ॥ 1096 ॥
+> ॥ 908 ॥
 
 ---
 
@@ -51510,11 +42674,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1097
+# NAME 909
 
 > शर्मदा  
 > शर्मदा  
-> ॥ 1097 ॥
+> ॥ 909 ॥
 
 ---
 
@@ -51557,11 +42721,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1098
+# NAME 910
 
 > शम्भुमोहिनी  
 > शम्भुमोहिनी  
-> ॥ 1098 ॥
+> ॥ 910 ॥
 
 ---
 
@@ -51604,58 +42768,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1099
-
-> १७५॥  
-> १७५॥  
-> ॥ 1099 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १७५॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १७५॥
-- **Breakdown**: `१७५॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१७५॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1100
+# NAME 911
 
 > धराधरसुता  
 > धराधरसुता  
-> ॥ 1100 ॥
+> ॥ 911 ॥
 
 ---
 
@@ -51698,11 +42815,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1101
+# NAME 912
 
 > धन्या  
 > धन्या  
-> ॥ 1101 ॥
+> ॥ 912 ॥
 
 ---
 
@@ -51745,11 +42862,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1102
+# NAME 913
 
 > धर्मिणी  
 > धर्मिणी  
-> ॥ 1102 ॥
+> ॥ 913 ॥
 
 ---
 
@@ -51792,11 +42909,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1103
+# NAME 914
 
 > धर्मवर्धिनी  
 > धर्मवर्धिनी  
-> ॥ 1103 ॥
+> ॥ 914 ॥
 
 ---
 
@@ -51839,11 +42956,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1104
+# NAME 915
 
 > लोकातीता  
 > लोकातीता  
-> ॥ 1104 ॥
+> ॥ 915 ॥
 
 ---
 
@@ -51886,11 +43003,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1105
+# NAME 916
 
 > गुणातीता  
 > गुणातीता  
-> ॥ 1105 ॥
+> ॥ 916 ॥
 
 ---
 
@@ -51933,11 +43050,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1106
+# NAME 917
 
 > सर्वातीता  
 > सर्वातीता  
-> ॥ 1106 ॥
+> ॥ 917 ॥
 
 ---
 
@@ -51980,11 +43097,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1107
+# NAME 918
 
 > शमात्मिका  
 > शमात्मिका  
-> ॥ 1107 ॥
+> ॥ 918 ॥
 
 ---
 
@@ -52027,58 +43144,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1108
-
-> १७६॥  
-> १७६॥  
-> ॥ 1108 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १७६॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १७६॥
-- **Breakdown**: `१७६॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१७६॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1109
+# NAME 919
 
 > बन्धूक-कुसुमप्रख्या  
 > बन्धूक-कुसुमप्रख्या  
-> ॥ 1109 ॥
+> ॥ 919 ॥
 
 ---
 
@@ -52121,11 +43191,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1110
+# NAME 920
 
 > बाला  
 > बाला  
-> ॥ 1110 ॥
+> ॥ 920 ॥
 
 ---
 
@@ -52168,11 +43238,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1111
+# NAME 921
 
 > लीलाविनोदिनी  
 > लीलाविनोदिनी  
-> ॥ 1111 ॥
+> ॥ 921 ॥
 
 ---
 
@@ -52215,11 +43285,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1112
+# NAME 922
 
 > सुमङ्गली  
 > सुमङ्गली  
-> ॥ 1112 ॥
+> ॥ 922 ॥
 
 ---
 
@@ -52262,11 +43332,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1113
+# NAME 923
 
 > सुखकरी  
 > सुखकरी  
-> ॥ 1113 ॥
+> ॥ 923 ॥
 
 ---
 
@@ -52309,11 +43379,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1114
+# NAME 924
 
 > सुवेषाढ्या  
 > सुवेषाढ्या  
-> ॥ 1114 ॥
+> ॥ 924 ॥
 
 ---
 
@@ -52356,11 +43426,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1115
+# NAME 925
 
 > सुवासिनी  
 > सुवासिनी  
-> ॥ 1115 ॥
+> ॥ 925 ॥
 
 ---
 
@@ -52403,58 +43473,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1116
-
-> १७७॥  
-> १७७॥  
-> ॥ 1116 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १७७॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १७७॥
-- **Breakdown**: `१७७॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१७७॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1117
+# NAME 926
 
 > सुवासिन्यर्चन-प्रीताऽऽशोभना  
 > सुवासिन्यर्चन-प्रीताऽऽशोभना  
-> ॥ 1117 ॥
+> ॥ 926 ॥
 
 ---
 
@@ -52497,11 +43520,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1118
+# NAME 927
 
 > शुद्धमानसा  
 > शुद्धमानसा  
-> ॥ 1118 ॥
+> ॥ 927 ॥
 
 ---
 
@@ -52544,11 +43567,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1119
+# NAME 928
 
 > बिन्दु-तर्पण-सन्तुष्टा  
 > बिन्दु-तर्पण-सन्तुष्टा  
-> ॥ 1119 ॥
+> ॥ 928 ॥
 
 ---
 
@@ -52591,11 +43614,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1120
+# NAME 929
 
 > पूर्वजा  
 > पूर्वजा  
-> ॥ 1120 ॥
+> ॥ 929 ॥
 
 ---
 
@@ -52638,11 +43661,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1121
+# NAME 930
 
 > त्रिपुराम्बिका  
 > त्रिपुराम्बिका  
-> ॥ 1121 ॥
+> ॥ 930 ॥
 
 ---
 
@@ -52685,58 +43708,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1122
-
-> १७८॥  
-> १७८॥  
-> ॥ 1122 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १७८॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १७८॥
-- **Breakdown**: `१७८॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१७८॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1123
+# NAME 931
 
 > दशमुद्रा-समाराध्या  
 > दशमुद्रा-समाराध्या  
-> ॥ 1123 ॥
+> ॥ 931 ॥
 
 ---
 
@@ -52779,11 +43755,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1124
+# NAME 932
 
 > त्रिपुराश्री-वशङ्करी  
 > त्रिपुराश्री-वशङ्करी  
-> ॥ 1124 ॥
+> ॥ 932 ॥
 
 ---
 
@@ -52826,11 +43802,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1125
+# NAME 933
 
 > ज्ञानमुद्रा  
 > ज्ञानमुद्रा  
-> ॥ 1125 ॥
+> ॥ 933 ॥
 
 ---
 
@@ -52873,11 +43849,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1126
+# NAME 934
 
 > ज्ञानगम्या  
 > ज्ञानगम्या  
-> ॥ 1126 ॥
+> ॥ 934 ॥
 
 ---
 
@@ -52920,11 +43896,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1127
+# NAME 935
 
 > ज्ञानज्ञेय-स्वरूपिणी  
 > ज्ञानज्ञेय-स्वरूपिणी  
-> ॥ 1127 ॥
+> ॥ 935 ॥
 
 ---
 
@@ -52967,58 +43943,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1128
-
-> १७९॥  
-> १७९॥  
-> ॥ 1128 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १७९॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १७९॥
-- **Breakdown**: `१७९॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१७९॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1129
+# NAME 936
 
 > योनिमुद्रा  
 > योनिमुद्रा  
-> ॥ 1129 ॥
+> ॥ 936 ॥
 
 ---
 
@@ -53061,11 +43990,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1130
+# NAME 937
 
 > त्रिखण्डेशी  
 > त्रिखण्डेशी  
-> ॥ 1130 ॥
+> ॥ 937 ॥
 
 ---
 
@@ -53108,11 +44037,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1131
+# NAME 938
 
 > त्रिगुणाम्बा  
 > त्रिगुणाम्बा  
-> ॥ 1131 ॥
+> ॥ 938 ॥
 
 ---
 
@@ -53155,11 +44084,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1132
+# NAME 939
 
 > त्रिकोणगा  
 > त्रिकोणगा  
-> ॥ 1132 ॥
+> ॥ 939 ॥
 
 ---
 
@@ -53202,11 +44131,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1133
+# NAME 940
 
 > अनघाऽद्भुत-चारित्रा  
 > अनघाऽद्भुत-चारित्रा  
-> ॥ 1133 ॥
+> ॥ 940 ॥
 
 ---
 
@@ -53249,11 +44178,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1134
+# NAME 941
 
 > वाञ्छितार्थ-प्रदायिनी  
 > वाञ्छितार्थ-प्रदायिनी  
-> ॥ 1134 ॥
+> ॥ 941 ॥
 
 ---
 
@@ -53296,58 +44225,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1135
-
-> १८०॥  
-> १८०॥  
-> ॥ 1135 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १८०॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १८०॥
-- **Breakdown**: `१८०॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१८०॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1136
+# NAME 942
 
 > अभ्यासातिशय-ज्ञाता  
 > अभ्यासातिशय-ज्ञाता  
-> ॥ 1136 ॥
+> ॥ 942 ॥
 
 ---
 
@@ -53390,11 +44272,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1137
+# NAME 943
 
 > षडध्वातीत-रूपिणी  
 > षडध्वातीत-रूपिणी  
-> ॥ 1137 ॥
+> ॥ 943 ॥
 
 ---
 
@@ -53437,11 +44319,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1138
+# NAME 944
 
 > अव्याज-करुणा-मूर्तिरज्ञान-ध्वान्त-दीपिका  
 > अव्याज-करुणा-मूर्तिरज्ञान-ध्वान्त-दीपिका  
-> ॥ 1138 ॥
+> ॥ 944 ॥
 
 ---
 
@@ -53484,58 +44366,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1139
-
-> १८१॥  
-> १८१॥  
-> ॥ 1139 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १८१॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १८१॥
-- **Breakdown**: `१८१॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१८१॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1140
+# NAME 945
 
 > आबाल-गोप-विदिता  
 > आबाल-गोप-विदिता  
-> ॥ 1140 ॥
+> ॥ 945 ॥
 
 ---
 
@@ -53578,11 +44413,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1141
+# NAME 946
 
 > सर्वानुल्लङ्घ्य-शासना  
 > सर्वानुल्लङ्घ्य-शासना  
-> ॥ 1141 ॥
+> ॥ 946 ॥
 
 ---
 
@@ -53625,11 +44460,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1142
+# NAME 947
 
 > श्रीचक्रराज-निलया  
 > श्रीचक्रराज-निलया  
-> ॥ 1142 ॥
+> ॥ 947 ॥
 
 ---
 
@@ -53672,11 +44507,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1143
+# NAME 948
 
 > श्रीमत्-त्रिपुरसुन्दरी  
 > श्रीमत्-त्रिपुरसुन्दरी  
-> ॥ 1143 ॥
+> ॥ 948 ॥
 
 ---
 
@@ -53719,58 +44554,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1144
-
-> १८२॥  
-> १८२॥  
-> ॥ 1144 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| १८२॥ | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### १८२॥
-- **Breakdown**: `१८२॥`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **१८२॥** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1145
+# NAME 949
 
 > श्रीशिवा  
 > श्रीशिवा  
-> ॥ 1145 ॥
+> ॥ 949 ॥
 
 ---
 
@@ -53813,11 +44601,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1146
+# NAME 950
 
 > शिव-शक्त्यैक्य-रूपिणी  
 > शिव-शक्त्यैक्य-रूपिणी  
-> ॥ 1146 ॥
+> ॥ 950 ॥
 
 ---
 
@@ -53860,11 +44648,11 @@ This name [needs composition summary].
 
 
 
-# NAME 1147
+# NAME 951
 
 > ललिताम्बिका  
 > ललिताम्बिका  
-> ॥ 1147 ॥
+> ॥ 951 ॥
 
 ---
 
@@ -53902,523 +44690,6 @@ This name [needs composition summary].
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **ललिताम्बिका** — She who is the divine mother lalitA
-
----
-
-
-
-# NAME 1148
-
-> एवं  
-> एवं  
-> ॥ 1148 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| एवं | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### एवं
-- **Breakdown**: `एवं`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **एवं** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1149
-
-> श्रीललिता  
-> श्रीललिता  
-> ॥ 1149 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| श्रीललिता | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### श्रीललिता
-- **Breakdown**: `श्रीललिता`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **श्रीललिता** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1150
-
-> देव्या  
-> देव्या  
-> ॥ 1150 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| देव्या | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### देव्या
-- **Breakdown**: `देव्या`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **देव्या** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1151
-
-> नाम्नां  
-> नाम्नां  
-> ॥ 1151 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| नाम्नां | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### नाम्नां
-- **Breakdown**: `नाम्नां`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **नाम्नां** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1152
-
-> साहस्रकं  
-> साहस्रकं  
-> ॥ 1152 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| साहस्रकं | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### साहस्रकं
-- **Breakdown**: `साहस्रकं`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **साहस्रकं** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1153
-
-> जगुः  
-> जगुः  
-> ॥ 1153 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| जगुः | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### जगुः
-- **Breakdown**: `जगुः`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **जगुः** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1154
-
-> श्रीललिता  
-> श्रीललिता  
-> ॥ 1154 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| श्रीललिता | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### श्रीललिता
-- **Breakdown**: `श्रीललिता`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **श्रीललिता** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1155
-
-> सहस्रनाम  
-> सहस्रनाम  
-> ॥ 1155 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| सहस्रनाम | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### सहस्रनाम
-- **Breakdown**: `सहस्रनाम`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **सहस्रनाम** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1156
-
-> स्तोत्र  
-> स्तोत्र  
-> ॥ 1156 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| स्तोत्र | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### स्तोत्र
-- **Breakdown**: `स्तोत्र`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **स्तोत्र** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1157
-
-> कथनं  
-> कथनं  
-> ॥ 1157 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| कथनं | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### कथनं
-- **Breakdown**: `कथनं`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **कथनं** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
----
-
-
-
-# NAME 1158
-
-> सम्पूर्णम्  
-> सम्पूर्णम्  
-> ॥ 1158 ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| सम्पूर्णम् | — | — | — | — | — |
-
----
-
-## ETYMOLOGY (DETAILED)
-
-### सम्पूर्णम्
-- **Breakdown**: `सम्पूर्णम्`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **सम्पूर्णम्** — [needs meaning]
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
 
 ---
 
