@@ -39,7 +39,8 @@ try {
       });
       console.log(`✅ ${name} completed successfully\n`);
     } catch (error) {
-      console.error(`❌ Error in ${name}:`, error.message);
+      const errorMessage = error instanceof Error ? error.message : String(error);
+      console.error(`❌ Error in ${name}:`, errorMessage);
       process.exitCode = 1;
       throw error;
     }
@@ -47,7 +48,8 @@ try {
   
   console.log('\n🎉 Pipeline completed successfully!');
 } catch (error) {
-  console.error('\n💥 Pipeline failed:', error.message);
+  const errorMessage = error instanceof Error ? error.message : String(error);
+  console.error('\n💥 Pipeline failed:', errorMessage);
   process.exit(1);
 }
 

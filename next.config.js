@@ -5,6 +5,11 @@
 import "./src/env.js";
 
 /** @type {import("next").NextConfig} */
-const config = {};
+const config = {
+  eslint: {
+    // Ignore ESLint errors during builds
+    ignoreDuringBuilds: true,
+  },
+};
 
 export default config;

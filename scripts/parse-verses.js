@@ -709,7 +709,8 @@ async function main() {
   try {
     sanskritText = await fs.readFile(sanskritPath, 'utf8');
   } catch (err) {
-    console.warn(`Could not read ${SANSKRIT_RELATIVE_PATH}, skipping: ${err}`);
+    const errorMessage = err instanceof Error ? err.message : String(err);
+    console.warn(`Could not read ${SANSKRIT_RELATIVE_PATH}, skipping: ${errorMessage}`);
   }
 
   // Split into blocks at lines starting with # NAME

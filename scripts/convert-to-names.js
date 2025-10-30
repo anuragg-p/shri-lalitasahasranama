@@ -254,7 +254,8 @@ async function main() {
     console.log(`\nGenerated ${entries.length} NAME entries in ${MEANINGS_MD_PATH}`);
     console.log(`First few names: ${names.slice(0, 5).map(n => n.devanagari).join(', ')}`);
   } catch (err) {
-    console.error('Error:', err);
+    const errorMessage = err instanceof Error ? err.message : String(err);
+    console.error('Error:', errorMessage);
     process.exitCode = 1;
   }
 }

@@ -154,14 +154,16 @@ async function main() {
 
         console.log(`  ✓ ${txtFile} → ${baseName}.json (${count} commentaries)`);
       } catch (err) {
-        console.error(`  ✗ Error processing ${txtFile}: ${err.message}`);
+        const errorMessage = err instanceof Error ? err.message : String(err);
+        console.error(`  ✗ Error processing ${txtFile}: ${errorMessage}`);
       }
     }
 
     console.log(`\nTotal commentaries processed: ${totalCommentaries}`);
     console.log(`JSON files written to: ${path.relative(projectRoot, COMMENTARIES_JSON_DIR)}`);
   } catch (err) {
-    console.error('Error:', err);
+    const errorMessage = err instanceof Error ? err.message : String(err);
+    console.error('Error:', errorMessage);
     process.exitCode = 1;
   }
 }

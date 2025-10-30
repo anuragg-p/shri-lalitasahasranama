@@ -22,6 +22,11 @@ const SECTION_TEMPLATE = [
   '',
 ];
 
+/**
+ * @param {string} verseText
+ * @param {number} index
+ * @returns {string}
+ */
 function buildVerseSection(verseText, index) {
   const verseLines = verseText
     .split('\n')
@@ -34,6 +39,9 @@ function buildVerseSection(verseText, index) {
   return parts.join('\n');
 }
 
+/**
+ * @param {string} filePath
+ */
 async function ensureFileExists(filePath) {
   try {
     await fs.access(filePath);
