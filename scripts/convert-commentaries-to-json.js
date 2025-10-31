@@ -62,14 +62,16 @@ function parseCommentaries(commentaryText) {
     // Check for name number pattern: [Number]. [Sanskrit name] - [optional commentary]
     // This marks the start of actual commentaries
     // Supports both Devanagari numerals (१२३...) and Arabic numerals (123...)
-    // Pattern is more flexible: dash may or may not be present, and Sanskrit name may be followed by dash and commentary
-    const numberMatch = /^([१२३४५६७८९०]+|\d+)\.\s*(.+?)(?:\s*-\s*(.*))?$/.exec(trimmed);
+    // Pattern must handle Sanskrit names that contain hyphens (like "नित्या-षोडशिकारूपा")
+    // The separator dash is: dash followed by whitespace and then non-Devanagari (usually English)
+    // A hyphen within the Sanskrit name is followed immediately by more Devanagari characters
+    const numberMatch = /^([१२३४५६७८९०]+|\d+)\.\s*(.+)$/.exec(trimmed);
     if (numberMatch) {
-      const namePart = (numberMatch[2] || '').trim();
+      const fullLine = (numberMatch[2] || '').trim();
       
       // Only process if this looks like a Sanskrit name entry (contains Devanagari characters)
       // Skip if it's just English text (like continuation lines that might match the pattern)
-      if (namePart && /[\u0900-\u097F]/.test(namePart)) {
+      if (fullLine && /[\u0900-\u097F]/.test(fullLine)) {
         foundFirstEntry = true;
         
         // Save previous commentary
@@ -80,15 +82,51 @@ function parseCommentaries(commentaryText) {
           }
         }
         
-        // Extract Sanskrit name (the text between number and dash, or just after number if no dash)
-        const sanskritName = namePart.trim();
+        // Split name from commentary
+        // Look for a dash followed by whitespace and then English text (or just whitespace/newline)
+        // This distinguishes:
+        // - "नित्या-षोडशिकारूपा - meaning" (hyphen in name, then separator dash)
+        // - "नित्या - meaning" (just separator dash)
+        let sanskritName = fullLine;
+        let commentaryText = '';
+        
+        // Find the separator: dash followed by whitespace where what follows is NOT Devanagari
+        // Match: "- " or "-" at end, followed by whitespace and English text
+        const separatorMatch = /^(.+?)\s+-\s+(.+)$/.exec(fullLine);
+        if (separatorMatch) {
+          const beforeDash = separatorMatch[1] || '';
+          const afterDash = separatorMatch[2] || '';
+          
+          // Check if after the dash is English (not Devanagari) - then it's a separator
+          // If after dash starts with Devanagari, the dash is part of the name
+          if (afterDash && !/^[\u0900-\u097F]/.test(afterDash.trim())) {
+            // This is the separator - beforeDash is the full name (may include hyphens)
+            sanskritName = beforeDash.trim();
+            // Remove any trailing " -" that might be part of the name if it was just a separator marker
+            sanskritName = sanskritName.replace(/\s*-\s*$/, '');
+            commentaryText = afterDash.trim();
+          } else {
+            // Dash is part of the name, no separator found (commentary on next line)
+            // But check if line ends with " -" which indicates separator with no commentary on same line
+            sanskritName = fullLine.trim();
+            if (sanskritName.endsWith(' -')) {
+              sanskritName = sanskritName.slice(0, -2).trim();
+            }
+          }
+        } else {
+          // No dash found at all, but check if line ends with just a dash
+          sanskritName = fullLine.trim();
+          if (sanskritName.endsWith(' -')) {
+            sanskritName = sanskritName.slice(0, -2).trim();
+          }
+        }
+        
         currentSanskritName = sanskritName;
         currentCommentary = [];
         
-        // Extract commentary text after the dash (if any on same line)
-        const afterDash = (numberMatch[3] || '').trim();
-        if (afterDash) {
-          currentCommentary.push(afterDash);
+        // Extract commentary text after the separator (if any on same line)
+        if (commentaryText) {
+          currentCommentary.push(commentaryText);
         }
         // The commentary might be on the next line, so we'll wait for it
         continue;

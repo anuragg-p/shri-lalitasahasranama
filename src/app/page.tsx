@@ -6,12 +6,18 @@ import VersesDisplay from "./verses-display";
 const sanskritFilePath = path.join(process.cwd(), "src/constants/sanskrit.txt");
 const sanskritText = fs.readFileSync(sanskritFilePath, "utf-8");
 
-const commentariesFilePath = path.join(
-  process.cwd(),
-  "src/commentaries-json/sanskritdocuments.json"
-);
-const commentariesText = fs.readFileSync(commentariesFilePath, "utf-8");
-const commentaries = JSON.parse(commentariesText) as Record<string, string>;
+// Load all three commentaries
+const loadCommentary = (filename: string): Record<string, string> => {
+  const filePath = path.join(process.cwd(), `src/commentaries-json/${filename}`);
+  const text = fs.readFileSync(filePath, "utf-8");
+  return JSON.parse(text) as Record<string, string>;
+};
+
+const commentaries = {
+  "Bhaskaraya": loadCommentary("bhaskaraya.json"),
+  "V. Ravi": loadCommentary("vravi.json"),
+  "Sanskrit Documents": loadCommentary("sanskritdocuments.json"),
+};
 
 export default function Home() {
   return (

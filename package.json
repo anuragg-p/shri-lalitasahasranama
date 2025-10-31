@@ -16,7 +16,9 @@
     "typecheck": "tsc --noEmit",
     "convert:sanskrit": "node scripts/convert-sanskrit.js",
     "parse:verses": "node scripts/parse-verses.js",
-    "pipeline": "node scripts/pipeline.js"
+    "pipeline": "node scripts/pipeline.js",
+    "generate:prompts": "node scripts/generate-root-prompts.js",
+    "prompt": "node scripts/prompt-for-name.js"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.15",

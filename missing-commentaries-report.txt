@@ -1,0 +1,14 @@
+NAMAS MISSING COMMENTARIES
+==========================
+
+Total names checked: 951
+Unique devanagari names: 946
+Names with commentaries: 951
+Names missing commentaries: 0
+  - Not in commentaries.json: 0
+  - In commentaries.json but all empty: 0
+
+DETAILED LIST:
+-------------
+
+All names have at least one non-empty commentary!
