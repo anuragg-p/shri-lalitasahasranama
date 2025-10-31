@@ -46,7 +46,7 @@ She who is resplendent with a nose that has the beauty of a
      newly blossoming campaka flower
 20. ताराकान्तितिरस्कारिनासाभरणभासुरा -
 She who shines with a nose-ornament that excels the luster of a star
-21. कदम्बमञ्जरीक्लृप्तकर्णपूरमनोहरा -
+21. कदम्बमञ्जरीकॢप्तकर्णपूरमनोहरा -
 She who is captivating, wearing bunches of kadamba flowers
      as ear-ornaments
 22. ताटङ्कयुगलीभूततपनोडुपमण्डला -
@@ -100,7 +100,7 @@ She who is adorned with a girdle which is decorated with many
 39. कामेशज्ञातसौभाग्यमार्दवोरुद्वयान्विता -
 The beauty and softness of whose thighs are known only to
      kAmesha, Her husband
-40. माणिक्यमकुटाकारजानुद्वयविराजिता -
+40. माणिक्यमुकुटाकारजानुद्वयविराजिता -
 She whose knees are like crowns shaped from the precious red
      jewel, mAnikya (a kind of ruby)
 41. इन्द्रगोपपरिक्षिप्तस्मरतूणाभजङ्घिका -
@@ -117,7 +117,7 @@ She whose toenails give out such a radiance that all the
      devotees who prostrate at Her feet
 45. पदद्वयप्रभाजालपराकृतसरोरुहा -
 She whose feet defeat lotus flowers in radiance
-46. सिञ्जानमणिमञ्जिरमण्डितश्रीपदाम्बुजा -
+46. सिञ्जानमणिमञ्जीरमण्डितश्रीपदाम्बुजा -
 She whose auspicious lotus feet are adorned with gem-studded
      golden anklets that tinkle sweetly
 47. मरालीमन्दगमना -
@@ -154,7 +154,7 @@ She who resides in the center of the ocean of nectar
 She whose eyes awaken desire, or She who has beautiful eyes
 63. कामदायिनी -
 She who grants all wishes
-64. देवर्षिगणसङ्घातस्तूयमानात्मवैभवा -
+64. देवर्षिगणसंघातस्तूयमानात्मवैभवा -
 She whose might is the subject of praise by multitudes of gods
      and sages
 65. भण्डासुरवधोद्युक्तशक्तिसेनासमन्विता -
@@ -211,7 +211,7 @@ She who burned and destroyed bhaNDAsura and his capital shUnyaka
 83. ब्रह्मोपेन्द्रमहेन्द्रादिदेवसंस्तुतवैभवा -
 She whose many powers are extolled by brahmA, viShNu, shiva
      and other gods
-84. हरनेत्राग्निसन्दग्धकामसञ्जीवनौषधिः -
+84. हरनेत्राग्निसंदग्धकामसञ्जीवनौषधिः -
 She who became the life-giving medicine for kAmadeva (the god
      of love) who had been burned to ashes by the fire from shiva's
      (third) eye
@@ -523,9 +523,9 @@ She who is the great queen of mahAkAmeshvara (shiva)
 She who is the great tripurasundarI
 235. चतुःषष्ट्युपचाराढ्या -
 She who is adored in sixty-four ceremonies
-236. चतुष्षष्टिकलामयी -
+236. चतुःषष्टिकलामयी -
 She who embodies the sixty-four fine arts
-237. महाचतुष्षष्टिकोटियोगिनीगणसेविता -
+237. महाचतुः-षष्टिकोटि-योगिनी-गणसेविता -
 She who is attended (served) by sixty-four crores of bands of yoginis
 238. मनुविद्या -
 She who is the embodiment of manuvidyA
@@ -668,7 +668,7 @@ She who is the female counterpart of nArAyaNa
 She who is in the form of sound
 300. नामरूपविवर्जिता -
 She who has no name or form
-301. ह्रीङ्कारी -
+301. ह्रींकारी -
 She who is the form of syllable 'hrIM'
 302. ह्रीमती -
 She who is endowed with modesty
@@ -792,7 +792,7 @@ She who is worshipped by ascetics
 She who is slender-waisted
 361. तमोऽपहा -
 She who removes the ignorance born of tamas
-362. चित् (चितिः) -
+362. चितिः -
 She who is in the form of pure intelligence
 363. तत्पदलक्ष्यार्था -
 She who is the embodiment of truth (which is indicated by the
@@ -859,11 +859,7 @@ She who is incomparable
 390. निर्वाण सुखदायिनी -
 She who confers the bliss of Liberation
 391. नित्या-षोडशिकारूपा -
-She who is in the form of the sixteen daily deities (i.e.,
-     kAmeshvari, bhagamAlinI, nityaklinnA, bheruNDA, vahnivAsinI,
-     mahAvajreshvarI, shivadUtI, tvaritA, kulasundarI, nityA,
-     nIlapatAkinI, vijayA, sarvamangalA, jvAlAmAlinI, chitrA
-          and tripurasundarI)
+She who is in the form of the sixteen daily deities i.e., kAmeshvari, bhagamAlinI, nityaklinnA, bheruNDA, vahnivAsinI, mahAvajreshvarI, shivadUtI, tvaritA, kulasundarI, nityA, nIlapatAkinI, vijayA, sarvamangalA, jvAlAmAlinI, chitrA and tripurasundarI
 392. श्रीकण्ठार्धशरीरिणी -
 She who possesses half of the body of shrIkaNTha (shiva).
      She who is in the form of ardhanArishvara
@@ -879,13 +875,13 @@ She who is the supreme sovereign
 She who is the first cause of the entire universe
 398. अव्यक्ता -
 She who is unmanifested
-399. व्यक्ताव्यक्तस्वरूपीणि -
+399. व्यक्ताव्यक्त-स्वरूपिणी -
 She who is in the manifested and unmanifested forms
 400. व्यापिनी -
 She who is all-pervading
 401. विविधाकारा -
 She who has a multitude of forms
-402. विद्याऽविद्यास्वरूपिणी -
+402. विद्याविद्या-स्वरूपिणी -
 She who is the form of both knowledge and ignorance
 403. महाकामेशनयनकुमुदाह्लादकौमुदी -
 She whois the moonlight that gladdens the water-lilies that
@@ -2114,8 +2110,7 @@ She whose deeds are marvelous
 989. वाञ्छितार्थप्रदायिनी -
 She who gives all the desired objects
 990. अभ्यासातिशयज्ञाता -
-She who is known only through the exceedingly streneous practice
-     of spiritual discipline
+She who is known only through the exceedingly streneous practice of spiritual discipline
 991. षडध्वातीतरूपिणी -
 She whose form transcends the six paths
 992. अव्याजकरुणामूर्तिः -

@@ -6,8 +6,10 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const projectRoot = path.resolve(__dirname, '..');
 
-const INPUT_RELATIVE_PATH = 'src/constants/meanings.md';
-const OUTPUT_RELATIVE_PATH = 'src/constants/meanings.json';
+const COMMENTARIES_MD_PATH = 'src/constants/commentaries.md';
+const MEANINGS_MD_PATH = 'src/constants/meanings.md';
+const OUTPUT_MEANINGS_PATH = 'src/constants/meanings.json';
+const OUTPUT_COMMENTARIES_PATH = 'src/constants/commentaries.json';
 const SANSKRIT_RELATIVE_PATH = 'src/constants/sanskrit.txt';
 
 /**
@@ -695,14 +697,38 @@ function parseNameBlock(blockLines) {
 }
 
 async function main() {
-  const inputPath = path.resolve(projectRoot, INPUT_RELATIVE_PATH);
-  const outputPath = path.resolve(projectRoot, OUTPUT_RELATIVE_PATH);
+  const commentariesMdPath = path.resolve(projectRoot, COMMENTARIES_MD_PATH);
+  const meaningsMdPath = path.resolve(projectRoot, MEANINGS_MD_PATH);
+  const meaningsOutputPath = path.resolve(projectRoot, OUTPUT_MEANINGS_PATH);
+  const commentariesOutputPath = path.resolve(projectRoot, OUTPUT_COMMENTARIES_PATH);
   const sanskritPath = path.resolve(projectRoot, SANSKRIT_RELATIVE_PATH);
 
-  // Read meanings.md
-  const raw = await fs.readFile(inputPath, 'utf8');
+  // Read commentaries.md for commentaries
+  let commentariesRaw = '';
+  try {
+    commentariesRaw = await fs.readFile(commentariesMdPath, 'utf8');
+  } catch (err) {
+    const errorMessage = err instanceof Error ? err.message : String(err);
+    console.warn(`Could not read ${COMMENTARIES_MD_PATH}: ${errorMessage}`);
+  }
+
+  // Read meanings.md for root breakdown (if it exists)
+  let meaningsRaw = '';
+  try {
+    meaningsRaw = await fs.readFile(meaningsMdPath, 'utf8');
+  } catch (err) {
+    // meanings.md is optional - if it doesn't exist, we'll use empty root breakdown
+    // This is expected if you haven't generated root breakdowns yet
+    // No warning needed as this is a valid workflow
+  }
+
+  // Process commentaries.md
   /** @type {string[]} */
-  const lines = raw.split('\n');
+  const commentariesLines = commentariesRaw ? commentariesRaw.split('\n') : [];
+
+  // Process meanings.md
+  /** @type {string[]} */
+  const meaningsLines = meaningsRaw ? meaningsRaw.split('\n') : [];
 
   // Read sanskrit.txt for verse mapping (optional for now)
   let sanskritText = '';
@@ -713,28 +739,111 @@ async function main() {
     console.warn(`Could not read ${SANSKRIT_RELATIVE_PATH}, skipping: ${errorMessage}`);
   }
 
-  // Split into blocks at lines starting with # NAME
+  // Parse commentaries.md for commentaries
   /** @type {string[][]} */
-  const blocks = [];
+  const commentaryBlocks = [];
   /** @type {string[]} */
-  let current = [];
-  for (const line of lines) {
+  let currentCommentary = [];
+  for (const line of commentariesLines) {
     if (line.startsWith('# NAME ')) {
-      if (current.length > 0) blocks.push(current);
-      current = [line];
+      if (currentCommentary.length > 0) commentaryBlocks.push(currentCommentary);
+      currentCommentary = [line];
     } else {
-      current.push(line);
+      currentCommentary.push(line);
     }
   }
-  if (current.length > 0) blocks.push(current);
+  if (currentCommentary.length > 0) commentaryBlocks.push(currentCommentary);
 
-  const names = blocks.map(parseNameBlock);
+  const commentaryNames = commentaryBlocks.map(parseNameBlock);
+
+  // Parse meanings.md for root breakdown (if it exists)
+  /** @type {string[][]} */
+  const meaningBlocks = [];
+  /** @type {string[]} */
+  let currentMeaning = [];
+  for (const line of meaningsLines) {
+    if (line.startsWith('# NAME ')) {
+      if (currentMeaning.length > 0) meaningBlocks.push(currentMeaning);
+      currentMeaning = [line];
+    } else {
+      currentMeaning.push(line);
+    }
+  }
+  if (currentMeaning.length > 0) meaningBlocks.push(currentMeaning);
+
+  const meaningNames = meaningBlocks.map(parseNameBlock);
+
+  // Combine: use root breakdown from meanings.md if available, otherwise empty
+  // Use commentaries from commentaries.md
+  /** @type {Map<number, any>} */
+  const combinedMap = new Map();
+
+  // First, add all commentaries
+  for (const item of commentaryNames) {
+    if (item.nameNumber !== null) {
+      combinedMap.set(item.nameNumber, {
+        ...item,
+        rootBreakdown: [], // Will be filled from meanings.md if available
+      });
+    }
+  }
+
+  // Then, add root breakdown from meanings.md
+  for (const item of meaningNames) {
+    if (item.nameNumber !== null) {
+      const existing = combinedMap.get(item.nameNumber);
+      if (existing) {
+        existing.rootBreakdown = item.rootBreakdown || [];
+      } else {
+        // Name exists in meanings but not in commentaries
+        combinedMap.set(item.nameNumber, {
+          nameNumber: item.nameNumber,
+          name: item.name,
+          rootBreakdown: item.rootBreakdown || [],
+          commentaries: {},
+        });
+      }
+    }
+  }
+
+  const names = Array.from(combinedMap.values());
 
   // Basic sanity: ensure ordered by nameNumber when available
   const ordered = names.sort((a, b) => (a.nameNumber ?? 0) - (b.nameNumber ?? 0));
 
-  await fs.writeFile(outputPath, JSON.stringify(ordered, null, 2) + '\n', 'utf8');
-  console.log(`Parsed ${ordered.length} names to ${path.relative(projectRoot, outputPath)}`);
+  // Split into meanings and commentaries
+  /** @type {Array<{ nameNumber: number | null, name: { devanagari: string, iast: string, tokens: string[] }, rootBreakdown: any[] }>} */
+  const meanings = ordered.map(({ nameNumber, name, rootBreakdown }) => ({
+    nameNumber: nameNumber ?? null,
+    name,
+    rootBreakdown: rootBreakdown || [],
+  }));
+
+  /** @type {Record<string, Record<string, { author: string, period: string, text: string, source: string }>>} */
+  const commentaries = {};
+  
+  for (const item of ordered) {
+    const devanagari = item.name?.devanagari || '';
+    if (!devanagari) continue;
+    
+    // Consolidate all commentaries for this name
+    commentaries[devanagari] = item.commentaries || {};
+  }
+
+  // Write meanings.json (only root breakdown data)
+  await fs.writeFile(meaningsOutputPath, JSON.stringify(meanings, null, 2) + '\n', 'utf8');
+  console.log(`Parsed ${meanings.length} names to ${path.relative(projectRoot, meaningsOutputPath)}`);
+
+  // Write commentaries.json (all commentaries consolidated)
+  await fs.writeFile(commentariesOutputPath, JSON.stringify(commentaries, null, 2) + '\n', 'utf8');
+  const commentariesCount = Object.keys(commentaries).length;
+  console.log(`Wrote ${commentariesCount} commentaries to ${path.relative(projectRoot, commentariesOutputPath)}`);
+  
+  // Warn if we have fewer names than expected
+  const expectedNames = 1000;
+  if (meanings.length < expectedNames) {
+    console.log(`ℹ️  Info: Processed ${meanings.length} names (expected ${expectedNames} if all data is complete)`);
+  }
 }
 
 main().catch((err) => {

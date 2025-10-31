@@ -18,16 +18,45 @@ interface WordWithCommentary {
   lineIndex: number;
   wordIndex: number;
   commentary: string;
+  breakdownComponents?: string[];
 }
 
 /**
  * Parse a verse line into words, preserving dashes within compound words
+ * Also handles square bracket breakdowns: word [component1 + component2 + component3](number)
  */
-function parseWordsFromLine(line: string): Array<{ word: string; isWord: boolean }> {
-  const result: Array<{ word: string; isWord: boolean }> = [];
+function parseWordsFromLine(line: string): Array<{ word: string; isWord: boolean; breakdownComponents?: string[] }> {
+  const result: Array<{ word: string; isWord: boolean; breakdownComponents?: string[] }> = [];
+  
+  // First, extract and remove square bracket breakdowns: word [component1 + component2](number) or word [component1 + component2]
+  // Only process if brackets come AFTER a word (not before it on the line)
+  // Pattern: word (with possible hyphen) followed by space, then brackets
+  const breakdownPattern = /(\S+)\s+\[([^\]]+)\](?:\s*\(\d+\))?/g;
+  const breakdowns = new Map<string, string[]>(); // Map from word to components
+  
+  let processedLine = line;
+  const matches = Array.from(line.matchAll(breakdownPattern));
+  
+  for (const match of matches) {
+    const fullMatch = match[0]; // e.g., "महाबुद्धिर्महासिद्धिर्महायोगेश्वरेश्वरी [महाबुद्धिः + महासिद्धिः + महायोगेश्वरेश्वरी](55)"
+    const wordBeforeBrackets = match[1]; // e.g., "महाबुद्धिर्महासिद्धिर्महायोगेश्वरेश्वरी" or "चितिस्तत्पद-लक्ष्यार्था"
+    const componentsStr = match[2]; // e.g., "महाबुद्धिः + महासिद्धिः + महायोगेश्वरेश्वरी"
+    
+    if (!fullMatch || !wordBeforeBrackets || !componentsStr) continue;
+    
+    // Clean the word (remove trailing punctuation like ।)
+    const word = wordBeforeBrackets.replace(/[।॥]*$/, '');
+    if (word) {
+      const components = componentsStr.split(/\s*\+\s*/).map(c => c.trim()).filter(Boolean);
+      breakdowns.set(word, components);
+    }
+    
+    // Remove the breakdown pattern from the line (keep the word, remove brackets and number)
+    processedLine = processedLine.replace(fullMatch, wordBeforeBrackets);
+  }
   
   // Split by verse numbers (॥ १॥ etc) to preserve them
-  const parts = line.split(/(॥\s*[०-९\d]+\s*॥)/);
+  const parts = processedLine.split(/(॥\s*[०-९\d]+\s*॥)/);
   
   for (let i = 0; i < parts.length; i++) {
     const part = parts[i];
@@ -53,7 +82,13 @@ function parseWordsFromLine(line: string): Array<{ word: string; isWord: boolean
         const punctuation = match[2];
         
         if (mainWord && mainWord.length >= 1) {
-          result.push({ word: mainWord, isWord: true });
+          // Check if this word has breakdown components
+          const components = breakdowns.get(mainWord);
+          if (components) {
+            result.push({ word: mainWord, isWord: true, breakdownComponents: components });
+          } else {
+            result.push({ word: mainWord, isWord: true });
+          }
         }
         
         if (punctuation) {
@@ -195,9 +230,29 @@ function WordPopover({
           <h3 className="text-lg font-bold text-yellow-300 font-sanskrit">
             {word}
           </h3>
-          <p className="text-white/90 leading-relaxed text-sm">
-            {commentary}
-          </p>
+          <div className="text-white/90 leading-relaxed text-sm space-y-3">
+            {commentary.includes('\n\n') ? (
+              // Multiple components: each has Sanskrit name and meaning
+              commentary.split('\n\n').map((component, idx) => {
+                const lines = component.split('\n');
+                const sanskritName = lines[0];
+                const meaning = lines.slice(1).join(' ');
+                return (
+                  <div key={idx} className={idx > 0 ? 'pt-2 border-t border-yellow-600/30' : ''}>
+                    <p className="font-sanskrit text-yellow-300 font-medium mb-1">
+                      {sanskritName}
+                    </p>
+                    <p className="text-white/90">
+                      {meaning}
+                    </p>
+                  </div>
+                );
+              })
+            ) : (
+              // Single meaning (regular word)
+              <p>{commentary}</p>
+            )}
+          </div>
           <p className="text-xs text-white/50 italic mt-2">
             Click to see next name
           </p>
@@ -216,7 +271,7 @@ export default function VersesDisplay({
   const [shouldScroll, setShouldScroll] = useState(false);
 
   // Create a map of wordId -> commentary by matching words to commentary names
-  const wordToCommentaryMap = new Map<string, { word: string; commentary: string }>();
+  const wordToCommentaryMap = new Map<string, { word: string; commentary: string; breakdownComponents?: string[] }>();
   
   // Pattern to detect concluding line (should not be processed for word matching)
   const concludingLinePattern = /एवं\s+श्रीललिता\s+देव्या\s+नाम्नां\s+साहस्रकं\s+जगुः/;
@@ -229,13 +284,41 @@ export default function VersesDisplay({
     const parsed = parseWordsFromLine(line);
     parsed.forEach((item, wordIndex) => {
       if (item.isWord) {
-        const commentary = findCommentary(item.word, commentaries);
-        if (commentary) {
-          const wordId = `word-${lineIndex}-${wordIndex}`;
-          wordToCommentaryMap.set(wordId, {
-            word: item.word,
-            commentary,
-          });
+        const wordId = `word-${lineIndex}-${wordIndex}`;
+        
+        // If word has breakdown components, combine their commentaries with Sanskrit names
+        if (item.breakdownComponents && item.breakdownComponents.length > 0) {
+          const componentEntries: Array<{ sanskrit: string; meaning: string }> = [];
+          for (const component of item.breakdownComponents) {
+            const compCommentary = findCommentary(component, commentaries);
+            if (compCommentary) {
+              componentEntries.push({
+                sanskrit: component,
+                meaning: compCommentary,
+              });
+            }
+          }
+          
+          if (componentEntries.length > 0) {
+            // Format: Sanskrit name on one line, meaning below, with blank line between components
+            const combinedCommentary = componentEntries
+              .map(entry => `${entry.sanskrit}\n${entry.meaning}`)
+              .join('\n\n');
+            wordToCommentaryMap.set(wordId, {
+              word: item.word,
+              commentary: combinedCommentary,
+              breakdownComponents: item.breakdownComponents,
+            });
+          }
+        } else {
+          // Regular word lookup
+          const commentary = findCommentary(item.word, commentaries);
+          if (commentary) {
+            wordToCommentaryMap.set(wordId, {
+              word: item.word,
+              commentary,
+            });
+          }
         }
       }
     });
@@ -251,6 +334,7 @@ export default function VersesDisplay({
       lineIndex: lineIndex ?? 0,
       wordIndex: wordIndex ?? 0,
       commentary: value.commentary,
+      breakdownComponents: value.breakdownComponents,
     });
   });
 

@@ -7,7 +7,7 @@ const __dirname = path.dirname(__filename);
 const projectRoot = path.resolve(__dirname, '..');
 
 const SANSKRIT_PATH = path.resolve(projectRoot, 'src/constants/sanskrit.txt');
-const MEANINGS_MD_PATH = path.resolve(projectRoot, 'src/constants/meanings.md');
+const COMMENTARIES_MD_PATH = path.resolve(projectRoot, 'src/constants/commentaries.md');
 const COMMENTARIES_JSON_DIR = path.resolve(projectRoot, 'src/commentaries-json');
 
 /**
@@ -155,40 +155,9 @@ function generateNameEntry(nameNumber, devanagari, iast, commentariesByFile) {
 > ${iast}  
 > ॥ ${nameNumber} ॥
 
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| ${devanagari} | — | — | — | — | — |
+---${commentariesSections}
 
 ---
-
-## ETYMOLOGY (DETAILED)
-
-### ${devanagari}
-- **Breakdown**: \`${devanagari}\`  
-- **Root (Dhātu)**: —  
-- **Upasarga(s)**: none  
-- **Suffix**: —  
-- **Sandhi**: —  
-- **Formation**: —  
-- **Grammar**: —  
-- **Meaning**:  
-  - **Literal**: ""  
-  - **Contextual**: ""
-
----
-
-## COMPOSITIONS
-
-This name [needs composition summary].
-
-**Word-by-word meaning**:
-* **${devanagari}** — [needs meaning]${commentariesSections}
----
-
 `;
 }
 
@@ -200,11 +169,12 @@ async function main() {
 
     console.log(`Extracted ${names.length} names from sanskrit.txt`);
     
-    // Verify we have exactly 1000 names
+    // Note: The file may contain fewer than 1000 names if it's incomplete
+    // This is informational, not an error
     if (names.length === 1000) {
       console.log('✅ Verified: Exactly 1000 names extracted');
-    } else {
-      console.warn(`⚠️  Warning: Expected 1000 names, but found ${names.length}`);
+    } else if (names.length > 0) {
+      console.log(`ℹ️  Info: Extracted ${names.length} names (expected 1000 if file is complete)`);
     }
 
     // Read all JSON files from commentaries-json directory
@@ -247,11 +217,11 @@ async function main() {
       );
     });
 
-    // Write to meanings.md
+    // Write to commentaries.md
     const output = entries.join('\n\n');
-    await fs.writeFile(MEANINGS_MD_PATH, output, 'utf8');
+    await fs.writeFile(COMMENTARIES_MD_PATH, output, 'utf8');
 
-    console.log(`\nGenerated ${entries.length} NAME entries in ${MEANINGS_MD_PATH}`);
+    console.log(`\nGenerated ${entries.length} NAME entries in ${path.relative(projectRoot, COMMENTARIES_MD_PATH)}`);
     console.log(`First few names: ${names.slice(0, 5).map(n => n.devanagari).join(', ')}`);
   } catch (err) {
     const errorMessage = err instanceof Error ? err.message : String(err);
