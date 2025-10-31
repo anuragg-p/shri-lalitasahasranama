@@ -225,6 +225,10 @@ Options:
 
     // Find the requested name
     const query = args[0];
+    if (!query) {
+      console.error(`❌ Please provide a name to search for`);
+      process.exit(1);
+    }
     const name = findName(names, query);
 
     if (!name) {
