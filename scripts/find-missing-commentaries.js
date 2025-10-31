@@ -178,7 +178,9 @@ async function main() {
     console.log(`\nFirst 20 names missing commentaries:`);
     for (let i = 0; i < Math.min(20, missingCommentaries.length); i++) {
       const item = missingCommentaries[i];
-      console.log(`  ${item.nameNumber ?? 'N/A'}. ${item.devanagari}`);
+      if (item) {
+        console.log(`  ${item.nameNumber ?? 'N/A'}. ${item.devanagari}`);
+      }
     }
     if (missingCommentaries.length > 20) {
       console.log(`  ... and ${missingCommentaries.length - 20} more`);
