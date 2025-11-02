@@ -6,73 +6,26 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const projectRoot = path.resolve(__dirname, '..');
 
-const SANSKRIT_PATH = path.resolve(projectRoot, 'src/constants/sanskrit.txt');
+const SANSKRITDOCUMENTS_PATH = path.resolve(projectRoot, 'src/commentaries-json/sanskritdocuments.json');
 const COMMENTARIES_MD_PATH = path.resolve(projectRoot, 'src/constants/commentaries.md');
 const COMMENTARIES_JSON_DIR = path.resolve(projectRoot, 'src/commentaries-json');
 
 /**
- * Extract all individual names from sanskrit.txt
- * @param {string} sanskritText
+ * Extract all individual names from sanskritdocuments.json
+ * @param {Object} sanskritdocumentsData
  * @returns {Array<{ number: number, devanagari: string }>}
  */
-function extractNamesFromSanskrit(sanskritText) {
-  const lines = sanskritText.split('\n');
+function extractNamesFromSanskritDocuments(sanskritdocumentsData) {
+  /** @type {Array<{ number: number, devanagari: string }>} */
   const names = [];
-  let nameNumber = 1;
-  let isFirstLine = true;
-
-  // Function to check if a token contains only numerals (Devanagari or Arabic)
-  /**
-   * @param {string} token
-   * @returns {boolean}
-   */
-  function isOnlyNumerals(token) {
-    const cleaned = token.trim();
-    if (!cleaned) return true;
-    // Check if all characters are either Devanagari or Arabic numerals
-    return /^[०-९\d]+$/.test(cleaned);
-  }
-
-  for (const line of lines) {
-    const trimmed = line.trim();
-    // Skip empty lines
-    if (!trimmed) {
-      continue;
-    }
-
-    // Remove all content in parentheses (both alternate readings and verse numbers like (1), (दशनच्छदा))
-    const cleaned = trimmed
-      .replace(/\([^)]*\)/g, '')  // Remove all parenthetical content
-      .replace(/\s+/g, ' ')
-      .trim();
-
-    if (!cleaned) continue;
-
-    // Split by spaces to get individual names
-    const tokens = cleaned.split(/\s+/).filter(t => t && t.length > 0);
-
-    for (const token of tokens) {
-      // Special case: Skip the first word "ॐ" (Om)
-      if (isFirstLine && token === 'ॐ') {
-        isFirstLine = false;
-        continue;
-      }
-      
-      // Mark that we've processed the first line
-      if (isFirstLine) {
-        isFirstLine = false;
-      }
-
-      // Skip very short tokens that are likely punctuation
-      // Skip tokens that are only numerals (Devanagari or Arabic)
-      if (token.length >= 2 && !isOnlyNumerals(token)) {
-        names.push({
-          number: nameNumber++,
-          devanagari: token,
-        });
-      }
-    }
-  }
+  const keys = Object.keys(sanskritdocumentsData);
+  
+  keys.forEach((devanagari, index) => {
+    names.push({
+      number: index + 1,
+      devanagari: devanagari,
+    });
+  });
 
   return names;
 }
@@ -142,7 +95,19 @@ function generateNameEntry(nameNumber, devanagari, iast, commentariesByFile) {
       commentariesSections += `\n\n## COMMENTARIES (${sectionTitle})\n\n`;
       
       if (commentary) {
-        commentariesSections += `> **${devanagari}** — ${commentary}\n`;
+        // Split commentary by newlines and format each line as a blockquote
+        const commentaryLines = commentary.split('\n');
+        commentariesSections += `> **${devanagari}** — ${commentaryLines[0] || ''}\n`;
+        
+        // Add remaining lines as blockquote continuations
+        for (let i = 1; i < commentaryLines.length; i++) {
+          if (commentaryLines[i]?.trim()) {
+            commentariesSections += `> ${commentaryLines[i]}\n`;
+          } else {
+            // Preserve empty lines
+            commentariesSections += `>\n`;
+          }
+        }
       } else {
         commentariesSections += `> [Needs commentary]\n`;
       }
@@ -163,11 +128,11 @@ function generateNameEntry(nameNumber, devanagari, iast, commentariesByFile) {
 
 async function main() {
   try {
-    // Read sanskrit.txt
-    const sanskritText = await fs.readFile(SANSKRIT_PATH, 'utf8');
-    const names = extractNamesFromSanskrit(sanskritText);
+    // Read sanskritdocuments.json
+    const sanskritdocumentsData = JSON.parse(await fs.readFile(SANSKRITDOCUMENTS_PATH, 'utf8'));
+    const names = extractNamesFromSanskritDocuments(sanskritdocumentsData);
 
-    console.log(`Extracted ${names.length} names from sanskrit.txt`);
+    console.log(`Extracted ${names.length} names from sanskritdocuments.json`);
     
     // Note: The file may contain fewer than 1000 names if it's incomplete
     // This is informational, not an error

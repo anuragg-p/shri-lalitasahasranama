@@ -2,81 +2,95 @@
 
 ## TASK
 
-**Please analyze the Sanskrit name below and provide a complete ROOT BREAKDOWN analysis.**
+**Please analyze the Sanskrit name below from the Lalita Sahasranama and provide a complete ROOT BREAKDOWN analysis.**
 
-Break down the name into its constituent parts, identify all grammatical elements (sandhi, components, roots), and provide both literal and contextual meanings. Follow all the rules and requirements listed below.
+Break down the name into its constituent parts, identify the root (dhātu) for each component, and provide essential meanings. Focus on meanings rather than detailed grammatical analysis. Follow all the rules and requirements listed below.
+
+## CONTEXT
+
+This name is from the **Lalita Sahasranama** (ललिता सहस्रनाम), a sacred Hindu text containing 1000 names of the Goddess Lalita Tripurasundari. The analysis should consider the spiritual and devotional context of this text.
 
 ## OUTPUT FORMAT
 
-**You must return your response in Markdown format (.md) with the following structure:**
+**You must return your response as plain text in ROW FORMAT using arrow notation:**
 
-1. Start with the name header: `# NAME <number>`
-2. Include the name in Devanagari and IAST (if available)
-3. Fill in the ROOT BREAKDOWN table with complete analysis
-4. Replace all placeholder text (e.g., `[root1] + [root2]`, `[morphology]`) with actual values
-5. Ensure the table is valid Markdown
-6. Provide complete information for each column: Compound, Sandhi, Components, Grammar, Literal, Contextual
+- **CRITICAL: Format each answer as a separate row/line**
+- One word breakdown per row
+- Each row should follow the format: [sanskrit_name] -> [meaning in english] + [meaning in english] + ...
+- Use arrows (->) to separate word from meanings
+- Use plus signs (+) to separate multiple meanings
+- All meanings must be in English
+- Focus on essential meanings only - avoid detailed grammatical analysis
+- Use simple plain text lines
+- No headers or markdown structure
+- Just the breakdown text itself, one per row
 
-**Return only the completed markdown content, starting from `# NAME <number>` through the filled ROOT BREAKDOWN table.**
+**Format each word breakdown as a single row:**
+[sanskrit_name] -> [meaning in english] + [meaning in english] + [meaning in english]
+
+**For compound words, show the compound and its meanings:**
+[compound] -> [meaning1] + [meaning2] + [combined meaning]
+
+**For individual words, show all meanings:**
+[word] -> [meaning1] + [meaning2] + [meaning3]
+
+**Return only the breakdown text content in rows (no headers, no markdown sections, just plain text rows with arrow notation).**
 
 ---
 
-# NAME <n>
+## Name to analyze:
 
-> [Full name in Devanagari]  
-> [IAST transliteration]  
-> ॥ <n> ॥
-
----
-
-## ROOT BREAKDOWN
-
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| [word] | [e.g. visarga → t] | [root1] + [root2] + … | [morphology] | [word-for-word] | [in name] |
-
-> **Rules**:  
-> - `Components` = upasarga + dhātu + kṛt/taddhita + pratyaya  
-> - `Grammar` = √class-gender-case-number-form (e.g. `√1P-f-nom-sg-PPP`)  
-> - `Sandhi` = specific rule applied (or `—` if none)
+[Full name in Devanagari]  
+॥ <n> ॥
 
 ---
 
 **MANDATORY REQUIREMENTS**:
 
 1. **No compound left unbroken** — go to **dhātu level**  
-2. **Include sandhi** even if minimal  
-3. **Use IAST** for all transliteration  
-4. **All tables must be valid Markdown**  
-5. **All roots must be verifiable in standard Sanskrit grammar (Pāṇini, Siddhānta-kaumudī, etc.)**
-6. **Break down every compound word** into its constituent parts
+2. **Provide meanings in English** — all meanings must be in English  
+3. **Full breakdown must be provided in plain text format**  
+4. **CRITICAL: Format answers in ROWS using arrow notation** — each word breakdown must be on its own row/line  
+5. **Focus on essential meanings only** — avoid detailed grammatical analysis like samāsa type, sandhi details, pratyaya specifics, grammatical class, etc.  
+6. **Format:** [sanskrit_name] -> [meaning in english] + [meaning in english] + [meaning in english] (all on one line/row)  
+7. **Use plus signs (+) to separate multiple meanings** — do NOT use commas, use plus signs only  
+8. **All roots must be verifiable in standard Sanskrit grammar (Pāṇini, Siddhānta-kaumudī, etc.)**
+9. **Break down every compound word** into its constituent parts
+10. **Return ONLY the breakdown text in rows - no headers, no markdown sections, just plain text rows**
 
 ---
 
-**EXAMPLE: NAME 1 (CORRECT & COMPLETE)**
+**EXAMPLE:**
 
-```markdown
+```
 ## TASK
 
-**Please analyze the Sanskrit name below and provide a complete ROOT BREAKDOWN analysis.**
+**Please analyze the Sanskrit name below from the Lalita Sahasranama and provide a complete ROOT BREAKDOWN analysis.**
 
-Break down the name into its constituent parts, identify all grammatical elements (sandhi, components, roots), and provide both literal and contextual meanings. Follow all the rules and requirements listed below.
-
----
-
-# NAME 1
-
-> श्रीमाता  
-> śrīmātā  
-> ॥ 1 ॥
+Break down the name into its constituent parts, identify the root (dhātu) for each component, and provide essential meanings. Focus on meanings rather than detailed grammatical analysis. Follow all the rules and requirements listed below.
 
 ---
 
-## ROOT BREAKDOWN
+## Name to analyze:
 
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| श्रीमाता | — | श्री + माता | f-nom-sg | prosperity + mother | Divine Mother of Prosperity |
+श्रीमाता  
+॥ 1 ॥
+
+---
+
+Expected output (each breakdown on a single row):
+
+श्रीमाता -> prosperity + mother + auspicious mother
+
+महाराज्ञी -> great + queen + great queen
+
+श्री -> radiance + prosperity + divine beauty + auspiciousness
+
+महा -> great + exalted + vast
+
+राज्ञी -> queen + empress + sovereign ruler
+
+माता -> mother + nourisher + protector of life
 
 ---
 ```

@@ -1,6 +1,7 @@
 "use client";
 
-import React, { useState, useRef, useEffect } from "react";
+import React, { useState, useRef, useEffect, useCallback } from "react";
+import useEmblaCarousel from "embla-carousel-react";
 import {
   Popover,
   PopoverContent,
@@ -25,84 +26,97 @@ interface WordWithCommentary {
  * Parse a verse line into words, preserving dashes within compound words
  * Also handles square bracket breakdowns: word [component1 + component2 + component3](number)
  */
-function parseWordsFromLine(line: string): Array<{ word: string; isWord: boolean; breakdownComponents?: string[] }> {
-  const result: Array<{ word: string; isWord: boolean; breakdownComponents?: string[] }> = [];
-  
+function parseWordsFromLine(
+  line: string,
+): Array<{ word: string; isWord: boolean; breakdownComponents?: string[] }> {
+  const result: Array<{
+    word: string;
+    isWord: boolean;
+    breakdownComponents?: string[];
+  }> = [];
+
   // First, extract and remove square bracket breakdowns: word [component1 + component2](number) or word [component1 + component2]
   // Only process if brackets come AFTER a word (not before it on the line)
   // Pattern: word (with possible hyphen) followed by space, then brackets
   const breakdownPattern = /(\S+)\s+\[([^\]]+)\](?:\s*\(\d+\))?/g;
   const breakdowns = new Map<string, string[]>(); // Map from word to components
-  
+
   let processedLine = line;
   const matches = Array.from(line.matchAll(breakdownPattern));
-  
+
   for (const match of matches) {
     const fullMatch = match[0]; // e.g., "महाबुद्धिर्महासिद्धिर्महायोगेश्वरेश्वरी [महाबुद्धिः + महासिद्धिः + महायोगेश्वरेश्वरी](55)"
     const wordBeforeBrackets = match[1]; // e.g., "महाबुद्धिर्महासिद्धिर्महायोगेश्वरेश्वरी" or "चितिस्तत्पद-लक्ष्यार्था"
     const componentsStr = match[2]; // e.g., "महाबुद्धिः + महासिद्धिः + महायोगेश्वरेश्वरी"
-    
+
     if (!fullMatch || !wordBeforeBrackets || !componentsStr) continue;
-    
+
     // Clean the word (remove trailing punctuation like ।)
-    const word = wordBeforeBrackets.replace(/[।॥]*$/, '');
+    const word = wordBeforeBrackets.replace(/[।॥]*$/, "");
     if (word) {
-      const components = componentsStr.split(/\s*\+\s*/).map(c => c.trim()).filter(Boolean);
+      const components = componentsStr
+        .split(/\s*\+\s*/)
+        .map((c) => c.trim())
+        .filter(Boolean);
       breakdowns.set(word, components);
     }
-    
+
     // Remove the breakdown pattern from the line (keep the word, remove brackets and number)
     processedLine = processedLine.replace(fullMatch, wordBeforeBrackets);
   }
-  
+
   // Split by verse numbers (॥ १॥ etc) to preserve them
   const parts = processedLine.split(/(॥\s*[०-९\d]+\s*॥)/);
-  
+
   for (let i = 0; i < parts.length; i++) {
     const part = parts[i];
     if (!part || !part.trim()) continue;
-    
+
     // If it's a verse number, add as non-clickable
     if (/॥\s*[०-९\d]+\s*॥/.test(part)) {
       result.push({ word: part, isWord: false });
       continue;
     }
-    
+
     // Split by spaces to get words (dashes within words are preserved)
     const words = part.split(/\s+/).filter((w) => w && w.trim());
-    
+
     for (let j = 0; j < words.length; j++) {
       const word = words[j];
       if (!word) continue;
-      
+
       // Remove trailing punctuation like । but keep it separate
       const match = word.match(/^(.+?)([।]*)$/);
       if (match) {
         const mainWord = match[1];
         const punctuation = match[2];
-        
+
         if (mainWord && mainWord.length >= 1) {
           // Check if this word has breakdown components
           const components = breakdowns.get(mainWord);
           if (components) {
-            result.push({ word: mainWord, isWord: true, breakdownComponents: components });
+            result.push({
+              word: mainWord,
+              isWord: true,
+              breakdownComponents: components,
+            });
           } else {
             result.push({ word: mainWord, isWord: true });
           }
         }
-        
+
         if (punctuation) {
           result.push({ word: punctuation, isWord: false });
         }
       }
-      
+
       // Add space between words (except after last word in part)
       if (j < words.length - 1) {
         result.push({ word: " ", isWord: false });
       }
     }
   }
-  
+
   return result;
 }
 
@@ -111,13 +125,13 @@ function parseWordsFromLine(line: string): Array<{ word: string; isWord: boolean
  */
 function findCommentary(
   name: string,
-  commentarySource: Record<string, string>
+  commentarySource: Record<string, string>,
 ): string | null {
   // Special case for ॐ (om)
   if (name === "ॐ" || name === "ओं") {
     return "The primordial Sound";
   }
-  
+
   // Try exact match first
   if (commentarySource[name]) {
     return commentarySource[name];
@@ -129,17 +143,17 @@ function findCommentary(
     if (commentarySource[nameWithA]) {
       return commentarySource[nameWithA];
     }
-    
+
     // Also try splitting on avagraha and combining commentaries if both parts exist
     const parts = name.split("ऽ");
     if (parts.length === 2) {
       const part1 = parts[0];
       const part2 = parts[1];
-      
+
       if (part1 && part2) {
         const commentary1 = commentarySource[part1];
         const commentary2 = commentarySource[part2];
-        
+
         if (commentary1 && commentary2) {
           return `${commentary1} ${commentary2}`;
         } else if (commentary1) {
@@ -147,7 +161,7 @@ function findCommentary(
         } else if (commentary2) {
           return commentary2;
         }
-        
+
         // Try with 'अ' added to first part
         const part1WithA = part1 + "अ";
         const commentary1WithA = commentarySource[part1WithA];
@@ -196,34 +210,111 @@ function WordPopover({
   preferredTab: string | null;
   onTabChange: (tabName: string) => void;
 }) {
+  // Format tab name for display (capitalize first letter, handle special cases)
+  const formatTabName = (tabName: string): string => {
+    if (tabName === "root") return "*";
+    return tabName;
+  };
+
   const [selectedTab, setSelectedTab] = useState<string | null>(null);
-  
+  const [emblaRef, emblaApi] = useEmblaCarousel({
+    align: "start",
+    containScroll: "trimSnaps",
+    dragFree: false,
+    axis: "x",
+  });
+
   // Initialize selected tab based on preference or first available
   useEffect(() => {
     if (isOpen) {
-      const availableTabs = Object.keys(commentariesBySource).filter(
-        key => commentariesBySource[key] !== null && commentariesBySource[key] !== undefined
-      );
-      
+      const availableTabs = Object.keys(commentariesBySource)
+        .filter(
+          (key) =>
+            commentariesBySource[key] !== null &&
+            commentariesBySource[key] !== undefined,
+        )
+        .sort((a, b) => {
+          // Ensure "root" appears first
+          if (a === "root") return -1;
+          if (b === "root") return 1;
+          return 0; // Keep original order for others
+        });
+
       if (availableTabs.length > 0) {
         // Use preferred tab if it exists for this word, otherwise use first available
-        const tabToUse = (preferredTab && availableTabs.includes(preferredTab)) 
-          ? preferredTab 
-          : availableTabs[0];
-        
+        const tabToUse =
+          preferredTab && availableTabs.includes(preferredTab)
+            ? preferredTab
+            : availableTabs[0];
+
         if (tabToUse) {
           setSelectedTab(tabToUse);
         }
       }
     }
   }, [isOpen, commentariesBySource, preferredTab]);
-  
+
+  // Get available tabs, ensuring "root" appears first
+  const availableTabs = Object.keys(commentariesBySource)
+    .filter(
+      (key) =>
+        commentariesBySource[key] !== null &&
+        commentariesBySource[key] !== undefined,
+    )
+    .sort((a, b) => {
+      // Ensure "root" appears first
+      if (a === "root") return -1;
+      if (b === "root") return 1;
+      return 0; // Keep original order for others
+    });
+
+  // Reinitialize carousel when popover opens or tabs change
+  useEffect(() => {
+    if (isOpen && emblaApi && availableTabs.length > 0) {
+      emblaApi.reInit();
+    }
+  }, [isOpen, emblaApi, availableTabs.length]);
+
+  // Sync embla carousel with selected tab
+  useEffect(() => {
+    if (!emblaApi || !selectedTab) return;
+
+    const tabIndex = availableTabs.indexOf(selectedTab);
+    if (tabIndex !== -1 && emblaApi.selectedScrollSnap() !== tabIndex) {
+      emblaApi.scrollTo(tabIndex);
+    }
+  }, [selectedTab, emblaApi, availableTabs]);
+
+  // Sync selected tab with embla carousel
+  const onSelect = useCallback(() => {
+    if (!emblaApi) return;
+    const selectedIndex = emblaApi.selectedScrollSnap();
+    const newTab = availableTabs[selectedIndex];
+    if (newTab && newTab !== selectedTab) {
+      setSelectedTab(newTab);
+      onTabChange(newTab);
+    }
+  }, [emblaApi, availableTabs, selectedTab, onTabChange]);
+
+  useEffect(() => {
+    if (!emblaApi) return;
+    onSelect();
+    emblaApi.on("select", onSelect);
+    emblaApi.on("reInit", onSelect);
+
+    return () => {
+      emblaApi.off("select", onSelect);
+      emblaApi.off("reInit", onSelect);
+    };
+  }, [emblaApi, onSelect]);
+
   // Handle tab selection and update preference
   const handleTabClick = (tabName: string, e: React.MouseEvent) => {
     e.stopPropagation();
     setSelectedTab(tabName);
     onTabChange(tabName);
   };
+
   const triggerRef = useRef<HTMLSpanElement>(null);
 
   const handlePopoverClick = (e: React.MouseEvent) => {
@@ -247,7 +338,7 @@ function WordPopover({
         <span
           ref={triggerRef}
           id={wordId}
-          className="cursor-pointer hover:text-yellow-300 transition-colors underline decoration-dotted decoration-yellow-600/50 underline-offset-2"
+          className="cursor-pointer underline decoration-yellow-600/50 decoration-dotted underline-offset-2 transition-colors hover:text-yellow-300"
         >
           {word}
         </span>
@@ -255,66 +346,113 @@ function WordPopover({
       <PopoverContent
         side="bottom"
         align="start"
-        className="w-80 max-w-[90vw] bg-[#412100] text-white border-yellow-600 z-50 h-[400px] overflow-y-auto"
+        className="z-50 flex max-h-[400px] w-80 max-w-[90vw] flex-col border-yellow-600/40 bg-[#2b1600] text-white/50"
         onClick={handlePopoverClick}
       >
-        <div className="space-y-3 cursor-pointer">
-          <h3 className="text-lg font-bold text-yellow-300 font-sanskrit">
+        <div className="flex-shrink-0 cursor-pointer space-y-3 px-1 pt-1">
+          <h3 
+            className="font-sanskrit text-lg font-bold text-yellow-300"
+            onClick={(e) => {
+              e.stopPropagation();
+              // Switch to root tab if available and not already selected
+              if (availableTabs.includes("root") && selectedTab !== "root") {
+                handleTabClick("root", e);
+              }
+            }}
+          >
             {word}
           </h3>
-          
+
           {/* Tabs */}
-          <div className="flex border-b border-yellow-600/30 -mx-1 px-1">
-            {Object.keys(commentariesBySource).map((tabName) => {
-              if (!commentariesBySource[tabName]) return null;
+          <div className="-mx-1 flex border-b border-yellow-600/30 px-1">
+            {availableTabs.map((tabName) => {
               const isSelected = selectedTab === tabName;
               return (
                 <button
                   key={tabName}
                   onClick={(e) => handleTabClick(tabName, e)}
-                  className={`px-3 py-2 text-sm font-medium transition-colors ${
+                  className={`px-3 py-2 text-[12px] font-medium transition-colors ${
                     isSelected
-                      ? 'text-yellow-300 border-b-2 border-yellow-300'
-                      : 'text-white/70 hover:text-white/90'
+                      ? "border-b-2 border-yellow-300 text-yellow-300"
+                      : "text-white/70 hover:text-white/90"
                   }`}
                 >
-                  {tabName}
+                  {formatTabName(tabName)}
                 </button>
               );
             })}
           </div>
-          
-          <div className="text-white/90 leading-relaxed text-sm space-y-3">
-            {selectedTab && commentariesBySource[selectedTab] && (
-              <>
-                {commentariesBySource[selectedTab].includes('\n\n') ? (
-                  // Multiple components: each has Sanskrit name and meaning
-                  commentariesBySource[selectedTab].split('\n\n').map((component, idx) => {
-                    const lines = component.split('\n');
-                    const sanskritName = lines[0];
-                    const meaning = lines.slice(1).join(' ');
-                    return (
-                      <div key={idx} className={idx > 0 ? 'pt-2 border-t border-yellow-600/30' : ''}>
-                        <p className="font-sanskrit text-yellow-300 font-medium mb-1">
-                          {sanskritName}
-                        </p>
-                        <p className="text-white/90">
-                          {meaning}
-                        </p>
-                      </div>
-                    );
-                  })
-                ) : (
-                  // Single meaning (regular word)
-                  <p>{commentariesBySource[selectedTab]}</p>
-                )}
-              </>
-            )}
-          </div>
-          <p className="text-xs text-white/50 italic mt-2">
-            Click to see next name
-          </p>
         </div>
+
+        {/* Carousel */}
+        <div
+          className="min-h-0 flex-1 overflow-x-hidden"
+          ref={emblaRef}
+          style={{ height: "calc(400px - 150px)" }}
+        >
+          <div className="flex h-full">
+            {availableTabs.map((tabName) => {
+              const commentary = commentariesBySource[tabName];
+              if (!commentary) return null;
+
+              return (
+                <div
+                  key={tabName}
+                  className="h-full min-w-0 flex-[0_0_100%]"
+                  style={{ minHeight: 0 }}
+                >
+                  <div
+                    className="scrollbar-hide h-full overflow-y-auto px-1"
+                    style={{
+                      scrollbarWidth: "none",
+                      msOverflowStyle: "none",
+                    }}
+                  >
+                    <div className="space-y-3 py-0 text-sm leading-relaxed text-white/60">
+                      {commentary.includes("\n\n") ? (
+                        // Multiple components: each has Sanskrit name and meaning
+                        commentary.split("\n\n").map((component, idx) => {
+                          const lines = component.split("\n");
+                          const sanskritName = lines[0];
+                          const meaning = lines.slice(1).join(" ");
+                          return (
+                            <div
+                              key={idx}
+                              className={
+                                idx > 0
+                                  ? "border-t border-yellow-600/30 pt-2"
+                                  : ""
+                              }
+                            >
+                              <p className="font-sanskrit mb-1 font-medium text-yellow-300">
+                                {sanskritName}
+                              </p>
+                              <p className="text-white/90">{meaning}</p>
+                            </div>
+                          );
+                        })
+                      ) : commentary.includes("\n") ? (
+                        // Commentary with newlines - render each line separately
+                        commentary.split("\n").map((line, idx) => (
+                          <p key={idx} className={idx > 0 ? "mt-2" : ""}>
+                            {line}
+                          </p>
+                        ))
+                      ) : (
+                        // Single meaning (regular word)
+                        <p>{commentary}</p>
+                      )}
+                    </div>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+
+        <p className="mt-2 flex-shrink-0 px-1 pb-0 text-xs text-white/50 italic">
+          Click to see next name
+        </p>
       </PopoverContent>
     </Popover>
   );
@@ -327,35 +465,53 @@ export default function VersesDisplay({
   const lines = sanskritText.split("\n");
   const [openWordId, setOpenWordId] = useState<string | null>(null);
   const [shouldScroll, setShouldScroll] = useState(false);
-  const [preferredCommentaryTab, setPreferredCommentaryTab] = useState<string | null>(null);
+  const [preferredCommentaryTab, setPreferredCommentaryTab] = useState<
+    string | null
+  >(null);
 
   // Create a map of wordId -> commentaries by matching words to commentary names
-  const wordToCommentaryMap = new Map<string, { word: string; commentariesBySource: Record<string, string>; breakdownComponents?: string[] }>();
-  
+  const wordToCommentaryMap = new Map<
+    string,
+    {
+      word: string;
+      commentariesBySource: Record<string, string>;
+      breakdownComponents?: string[];
+    }
+  >();
+
   // Pattern to detect concluding line (should not be processed for word matching)
-  const concludingLinePattern = /एवं\s+श्रीललिता\s+देव्या\s+नाम्नां\s+साहस्रकं\s+जगुः/;
-  
+  const concludingLinePattern =
+    /एवं\s+श्रीललिता\s+देव्या\s+नाम्नां\s+साहस्रकं\s+जगुः/;
+
   lines.forEach((line, lineIndex) => {
     if (!line.trim()) return;
     // Skip the concluding line for word matching
     if (concludingLinePattern.test(line)) return;
-    
+
     const parsed = parseWordsFromLine(line);
     parsed.forEach((item, wordIndex) => {
       if (item.isWord) {
         const wordId = `word-${lineIndex}-${wordIndex}`;
-        
+
         // Collect commentaries from all sources for this word
         const commentariesBySource: Record<string, string> = {};
         let hasAnyCommentary = false;
-        
+
         // If word has breakdown components, combine their commentaries with Sanskrit names
         if (item.breakdownComponents && item.breakdownComponents.length > 0) {
           // Process each commentary source
-          for (const [sourceName, sourceCommentaries] of Object.entries(commentaries)) {
-            const componentEntries: Array<{ sanskrit: string; meaning: string }> = [];
+          for (const [sourceName, sourceCommentaries] of Object.entries(
+            commentaries,
+          )) {
+            const componentEntries: Array<{
+              sanskrit: string;
+              meaning: string;
+            }> = [];
             for (const component of item.breakdownComponents) {
-              const compCommentary = findCommentary(component, sourceCommentaries);
+              const compCommentary = findCommentary(
+                component,
+                sourceCommentaries,
+              );
               if (compCommentary) {
                 componentEntries.push({
                   sanskrit: component,
@@ -363,34 +519,36 @@ export default function VersesDisplay({
                 });
               }
             }
-            
+
             if (componentEntries.length > 0) {
               // Format: Sanskrit name on one line, meaning below, with blank line between components
               const combinedCommentary = componentEntries
-                .map(entry => `${entry.sanskrit}\n${entry.meaning}`)
-                .join('\n\n');
+                .map((entry) => `${entry.sanskrit}\n${entry.meaning}`)
+                .join("\n\n");
               commentariesBySource[sourceName] = combinedCommentary;
               hasAnyCommentary = true;
             }
           }
-          
+
           if (hasAnyCommentary) {
-              wordToCommentaryMap.set(wordId, {
-                word: item.word,
-                commentariesBySource,
-                breakdownComponents: item.breakdownComponents,
-              });
-            }
+            wordToCommentaryMap.set(wordId, {
+              word: item.word,
+              commentariesBySource,
+              breakdownComponents: item.breakdownComponents,
+            });
+          }
         } else {
           // Regular word lookup - check all commentary sources
-          for (const [sourceName, sourceCommentaries] of Object.entries(commentaries)) {
+          for (const [sourceName, sourceCommentaries] of Object.entries(
+            commentaries,
+          )) {
             const commentary = findCommentary(item.word, sourceCommentaries);
             if (commentary) {
               commentariesBySource[sourceName] = commentary;
               hasAnyCommentary = true;
             }
           }
-          
+
           if (hasAnyCommentary) {
             wordToCommentaryMap.set(wordId, {
               word: item.word,
@@ -405,7 +563,10 @@ export default function VersesDisplay({
   // Collect all words with commentaries for cycling functionality
   const wordsWithCommentaries: WordWithCommentary[] = [];
   wordToCommentaryMap.forEach((value, wordId) => {
-    const [lineIndex, wordIndex] = wordId.replace("word-", "").split("-").map(Number);
+    const [lineIndex, wordIndex] = wordId
+      .replace("word-", "")
+      .split("-")
+      .map(Number);
     wordsWithCommentaries.push({
       id: wordId,
       word: value.word,
@@ -417,16 +578,17 @@ export default function VersesDisplay({
   });
 
   const currentWordIndex = wordsWithCommentaries.findIndex(
-    (w) => w.id === openWordId
+    (w) => w.id === openWordId,
   );
 
   const handleNextWord = () => {
     if (wordsWithCommentaries.length === 0) return;
-    
-    const nextIndex = currentWordIndex >= 0 
-      ? (currentWordIndex + 1) % wordsWithCommentaries.length
-      : 0;
-    
+
+    const nextIndex =
+      currentWordIndex >= 0
+        ? (currentWordIndex + 1) % wordsWithCommentaries.length
+        : 0;
+
     const nextWord = wordsWithCommentaries[nextIndex];
     if (nextWord) {
       setShouldScroll(true); // Enable scrolling when navigating to next word
@@ -471,7 +633,7 @@ export default function VersesDisplay({
 
         // Check if this line contains a verse number (॥)
         const hasVerseNumber = /॥\s*[०-९\d]+\s*॥/.test(line);
-        
+
         // Add more margin after verse numbers to create space between verses
         const marginClass = hasVerseNumber ? "mb-8" : "mb-2";
 
@@ -482,7 +644,7 @@ export default function VersesDisplay({
                 const wordId = `word-${lineIndex}-${wordIndex}`;
                 // Find commentary by name matching using the map
                 const wordEntry = wordToCommentaryMap.get(wordId);
-                
+
                 if (wordEntry) {
                   return (
                     <WordPopover
@@ -502,17 +664,19 @@ export default function VersesDisplay({
                   );
                 }
                 // No commentary, render as normal text
-                return <span key={`${lineIndex}-${wordIndex}`}>{item.word}</span>;
+                return (
+                  <span key={`${lineIndex}-${wordIndex}`}>{item.word}</span>
+                );
               }
               return <span key={`${lineIndex}-${wordIndex}`}>{item.word}</span>;
             })}
           </p>
         );
       })}
-      
+
       {/* Render concluding line at the end with special styling */}
       {concludingLine && (
-        <div className="mt-12 pt-8 border-t border-yellow-600/30">
+        <div className="mt-12 border-t border-yellow-600/30 pt-8">
           <p className="text-center text-xl font-semibold text-yellow-200">
             {concludingLine}
           </p>

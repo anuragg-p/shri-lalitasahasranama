@@ -14,6 +14,7 @@ const loadCommentary = (filename: string): Record<string, string> => {
 };
 
 const commentaries = {
+  "root": loadCommentary("root.json"),
   "Bhaskaraya": loadCommentary("bhaskaraya.json"),
   "V. Ravi": loadCommentary("vravi.json"),
   "Sanskrit Documents": loadCommentary("sanskritdocuments.json"),
