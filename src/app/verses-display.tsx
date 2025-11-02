@@ -210,6 +210,12 @@ function WordPopover({
   preferredTab: string | null;
   onTabChange: (tabName: string) => void;
 }) {
+  // Format tab name for display (capitalize first letter, handle special cases)
+  const formatTabName = (tabName: string): string => {
+    if (tabName === "root") return "*";
+    return tabName;
+  };
+
   const [selectedTab, setSelectedTab] = useState<string | null>(null);
   const [emblaRef, emblaApi] = useEmblaCarousel({
     align: "start",
@@ -221,11 +227,18 @@ function WordPopover({
   // Initialize selected tab based on preference or first available
   useEffect(() => {
     if (isOpen) {
-      const availableTabs = Object.keys(commentariesBySource).filter(
-        (key) =>
-          commentariesBySource[key] !== null &&
-          commentariesBySource[key] !== undefined,
-      );
+      const availableTabs = Object.keys(commentariesBySource)
+        .filter(
+          (key) =>
+            commentariesBySource[key] !== null &&
+            commentariesBySource[key] !== undefined,
+        )
+        .sort((a, b) => {
+          // Ensure "root" appears first
+          if (a === "root") return -1;
+          if (b === "root") return 1;
+          return 0; // Keep original order for others
+        });
 
       if (availableTabs.length > 0) {
         // Use preferred tab if it exists for this word, otherwise use first available
@@ -241,12 +254,19 @@ function WordPopover({
     }
   }, [isOpen, commentariesBySource, preferredTab]);
 
-  // Get available tabs
-  const availableTabs = Object.keys(commentariesBySource).filter(
-    (key) =>
-      commentariesBySource[key] !== null &&
-      commentariesBySource[key] !== undefined,
-  );
+  // Get available tabs, ensuring "root" appears first
+  const availableTabs = Object.keys(commentariesBySource)
+    .filter(
+      (key) =>
+        commentariesBySource[key] !== null &&
+        commentariesBySource[key] !== undefined,
+    )
+    .sort((a, b) => {
+      // Ensure "root" appears first
+      if (a === "root") return -1;
+      if (b === "root") return 1;
+      return 0; // Keep original order for others
+    });
 
   // Reinitialize carousel when popover opens or tabs change
   useEffect(() => {
@@ -330,7 +350,16 @@ function WordPopover({
         onClick={handlePopoverClick}
       >
         <div className="flex-shrink-0 cursor-pointer space-y-3 px-1 pt-1">
-          <h3 className="font-sanskrit text-lg font-bold text-yellow-300">
+          <h3 
+            className="font-sanskrit text-lg font-bold text-yellow-300"
+            onClick={(e) => {
+              e.stopPropagation();
+              // Switch to root tab if available and not already selected
+              if (availableTabs.includes("root") && selectedTab !== "root") {
+                handleTabClick("root", e);
+              }
+            }}
+          >
             {word}
           </h3>
 
@@ -342,13 +371,13 @@ function WordPopover({
                 <button
                   key={tabName}
                   onClick={(e) => handleTabClick(tabName, e)}
-                  className={`px-3 py-2 text-sm font-medium transition-colors ${
+                  className={`px-3 py-2 text-[12px] font-medium transition-colors ${
                     isSelected
                       ? "border-b-2 border-yellow-300 text-yellow-300"
                       : "text-white/70 hover:text-white/90"
                   }`}
                 >
-                  {tabName}
+                  {formatTabName(tabName)}
                 </button>
               );
             })}
@@ -402,6 +431,13 @@ function WordPopover({
                             </div>
                           );
                         })
+                      ) : commentary.includes("\n") ? (
+                        // Commentary with newlines - render each line separately
+                        commentary.split("\n").map((line, idx) => (
+                          <p key={idx} className={idx > 0 ? "mt-2" : ""}>
+                            {line}
+                          </p>
+                        ))
                       ) : (
                         // Single meaning (regular word)
                         <p>{commentary}</p>

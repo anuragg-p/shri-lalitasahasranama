@@ -274,8 +274,7 @@ function parseCommentariesSection(lines) {
   const sourceName = headerMatch[1]?.trim() || '';
   const commentLines = lines.slice(1);
   
-  // Extract commentary from blockquote lines (format: > **name** — commentary)
-  const commentaryText = commentLines
+  const commentaryLines = commentLines
     .map(line => {
       const trimmed = line.trim();
       if (trimmed.startsWith('>')) {
@@ -285,8 +284,9 @@ function parseCommentariesSection(lines) {
       }
       return '';
     })
-    .filter(Boolean)
-    .join(' ');
+    .filter(Boolean);
+  
+  const commentaryText = commentaryLines.join('\n');
   
   const { author, period } = getSourceMetadata(sourceName);
   
@@ -826,8 +826,24 @@ async function main() {
     const devanagari = item.name?.devanagari || '';
     if (!devanagari) continue;
     
-    // Consolidate all commentaries for this name
-    commentaries[devanagari] = item.commentaries || {};
+    // Consolidate all commentaries for this name, ensuring "root" appears first
+    const allCommentaries = item.commentaries || {};
+    /** @type {Record<string, { author: string, period: string, text: string, source: string }>} */
+    const orderedCommentaries = {};
+    
+    // Add "root" first if it exists
+    if (allCommentaries.root) {
+      orderedCommentaries.root = allCommentaries.root;
+    }
+    
+    // Add all other commentaries in their original order
+    for (const [key, value] of Object.entries(allCommentaries)) {
+      if (key !== 'root') {
+        orderedCommentaries[key] = value;
+      }
+    }
+    
+    commentaries[devanagari] = orderedCommentaries;
   }
 
   // Write meanings.json (only root breakdown data)
