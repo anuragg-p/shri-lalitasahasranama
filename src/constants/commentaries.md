@@ -91,10 +91,13 @@
 
 ## COMMENTARIES (ROOT)
 
-> **चिदग्निकुण्डसम्भूता** — चिद् -> from √चिद् + consciousness + awareness + pure knowledge
+> **चिदग्निकुण्डसम्भूता** — चित् -> from चित् + consciousness + awareness + pure knowledge
 > अग्नि -> from √अग् + fire + blaze + divine energy
 > कुण्ड -> from √कुड् + pit + well + sacred reservoir
-> सम्भूता -> from सम्+√भू + arisen + manifested + originated
+> सम् -> completely + together + well + thoroughly
+> भू -> to be + to become + to arise + to exist + to happen + to manifest + to originate
+> सम्भू -> completely arisen + well manifested + thoroughly originated + fully existent
+> सम्भूता -> she who is completely arisen + she who is well manifested + she who is thoroughly originated + she who is fully existent
 
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
@@ -120,7 +123,19 @@
 
 ## COMMENTARIES (ROOT)
 
-> [Needs commentary]
+> **देवकार्यसमुद्यता** — दिव् -> to shine + to play + to be bright + to be glad
+> देव -> shining one + god + deity + divine being + celestial
+> कृ -> to do + to make + to perform + to cause
+> कार्य -> to be done + work + duty + action + purpose + object
+> देवकार्य -> work of the gods + duty of the deities + divine purpose + action for the gods
+> यम् -> to raise + to lift + to hold + to extend + to exert + to prepare + to offer
+> यत -> raised + lifted + held + prepared + ready + eager
+> उद् -> up + upwards + out + forth
+> उद्यत -> raised up + lifted up + held up + prepared + ready + eager + enterprising
+> सम् -> completely + together + well + thoroughly
+> समुद्यत -> fully raised + completely prepared + thoroughly ready + intent upon + eager for + manifested
+> समुद्यता -> she who is fully prepared + she who is intent upon + she who is eager for + she who is manifested
+> देवकार्यसमुद्यता -> she who is intent on fulfilling the wishes of the gods + she who is eager to perform divine duties + she who manifests for the purpose of the deities
 
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
@@ -146,7 +161,17 @@
 
 ## COMMENTARIES (ROOT)
 
-> [Needs commentary]
+> **उद्यद्भानुसहस्राभा** — उत् -> up + upwards + out + forth
+> यम् -> to raise + to lift + to hold + to extend + to exert + to prepare + to offer
+> यत -> raised + lifted + held + prepared + ready + eager
+> उद्यत् (उत् + यत) -> rising + ascending + shining forth + emerging
+> भानु -> sun + light + ray + luminary + brilliance
+> सहस्र -> thousand + multitude + countless
+> भानुसहस्र -> thousand suns + multitude of suns + countless rays
+> अभ -> to shine + to radiate + to resemble + to approach
+> आभ -> shining + radiance + luster + resembling
+> भानुसहस्राभ -> shining like thousand suns + radiant as multitude of suns + luster of countless luminaries
+> उद्यद्भानुसहस्राभा -> she who shines forth like a thousand rising suns + she whose radiance equals multitude of ascending suns + she whose luster is like countless emerging luminaries
 
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
@@ -172,7 +197,15 @@
 
 ## COMMENTARIES (ROOT)
 
-> [Needs commentary]
+> **चतुर्बाहुसमन्विता** — चतुर् -> four
+> बाहु -> arm + forelimb + strength + power
+> चतुर्बाहु -> four-armed + having four arms + possessing four strengths
+> सम् -> together + completely + well + equally
+> अनु -> after + along + according to + in conformity with
+> वित -> to pervade + to distribute + to bestow + to spread + to endow
+> समन्वित -> endowed with + accompanied by + connected with + possessed of
+> चतुर्बाहुसमन्वित -> endowed with four arms + accompanied by four strengths + possessed of four powers
+> चतुर्बाहुसमन्विता -> she who is endowed with four arms + she who possesses four strengths + she who is accompanied by four powers
 
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
@@ -198,7 +231,19 @@
 
 ## COMMENTARIES (ROOT)
 
-> [Needs commentary]
+> **रागस्वरूपपाशाढ्या** — रज् -> to color + to dye + to tinge + to be attached + to be passionate
+> राग -> color + passion + attachment + love + desire + emotion + wish
+> स्व -> own + self + inherent
+> रूप -> form + shape + beauty + nature + essence
+> स्वरूप -> own form + true nature + essential self + inherent essence
+> रागस्वरूप -> form of desire + nature of passion + essence of attachment + self of wish
+> पाश -> noose + snare + bond + fetter + rope + puller
+> ढ -> to cover + to hold + to carry + to possess
+> ाढ्य -> rich + endowed + full + abounding + possessed of + holding
+> पाशाढ्य -> endowed with noose + holding the rope + full of snares + possessing the puller
+> रागस्वरूपपाश -> noose of desire + rope of passion + snare of attachment + puller of wish
+> रागस्वरूपपाशाढ्य -> endowed with the noose of desire + holding the rope of passion + full of the snare of attachment + possessing the puller of wish
+> रागस्वरूपपाशाढ्या -> she who holds the noose in the form of desire + she who pulls with the rope of wish + she whose iccā śakti draws devotees + she who controls desires with Her snare + she represented by the left lower arm + she as Aśvārūdā Devi
 
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
@@ -224,7 +269,19 @@
 
 ## COMMENTARIES (ROOT)
 
-> [Needs commentary]
+> **क्रोधाकाराङ्कुशोज्ज्वला** — क्रुध् -> to be angry + to rage + to be wrathful
+> क्रोध -> anger + wrath + fury + rage
+> आ -> towards + up to + completely
+> कृ -> to do + to make + to form + to shape
+> आकार -> form + shape + appearance + aspect
+> क्रोधाकार -> form of anger + shape of wrath + appearance of fury + aspect of rage
+> अङ्कुश -> goad + hook + elephant hook + controller
+> ओजस् -> power + strength + vigor + splendor + brilliance
+> ज्वल् -> to burn + to shine + to blaze + to flame + to glow
+> उज्ज्वल -> blazing + shining brightly + radiant + brilliant + glowing
+> अङ्कुशोज्ज्वल -> brilliant with the goad + radiant with the hook + glowing with the controller
+> क्रोधाकाराङ्कुशोज्ज्वल -> brilliant with the goad of anger + radiant in the form of wrath's hook + glowing with the controller of fury
+> क्रोधाकाराङ्कुशोज्ज्वला -> she who is brilliant with the goad in the form of anger + she who shines with the hook of wrath + she who glows controlling with fury's goad + she whose jñāna śakti subdues + she represented by the left upper arm + she as Sampatkarī Devi
 
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)

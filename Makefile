@@ -18,6 +18,7 @@ help:
 	@echo ""
 	@echo "Root Breakdown Prompts:"
 	@echo "  make generate-prompts  - Generate all 1000 root breakdown prompt files"
+	@echo "  make prompt             - Get prompt for next missing root breakdown"
 	@echo "  make prompt N=n         - Get prompt for name number N (e.g., make prompt N=1)"
 	@echo "  make prompt-list       - List all available names"
 	@echo ""
@@ -81,15 +82,14 @@ generate-prompts:
 	@echo "Generating all root breakdown prompts..."
 	npm run generate:prompts
 
-# Get prompt for a specific name
-# Usage: make prompt N=1  or  make prompt N=श्रीमाता
+# Get prompt for a specific name or next missing root breakdown
+# Usage: make prompt (gets next missing)  or  make prompt N=1  or  make prompt N=श्रीमाता
 prompt:
 	@if [ -z "$(N)" ]; then \
-		echo "Error: Please specify a name number or Devanagari text"; \
-		echo "Usage: make prompt N=1  or  make prompt N=श्रीमाता"; \
-		exit 1; \
+		npm run prompt; \
+	else \
+		npm run prompt $(N); \
 	fi
-	@npm run prompt $(N)
 
 # List all available names
 prompt-list:
