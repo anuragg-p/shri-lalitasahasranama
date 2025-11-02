@@ -76,7 +76,7 @@ function parseCommentaries(commentaryText) {
         
         // Save previous commentary
         if (currentSanskritName && currentCommentary.length > 0) {
-          const commentary = currentCommentary.join(' ').trim();
+          const commentary = currentCommentary.join('\n').trim();
           if (commentary) {
             commentaries[currentSanskritName] = commentary;
           }
@@ -146,7 +146,7 @@ function parseCommentaries(commentaryText) {
   
   // Save last commentary
   if (currentSanskritName && currentCommentary.length > 0) {
-    const commentary = currentCommentary.join(' ').trim();
+    const commentary = currentCommentary.join('\n').trim();
     if (commentary) {
       commentaries[currentSanskritName] = commentary;
     }

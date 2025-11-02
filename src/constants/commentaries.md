@@ -6,6 +6,13 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> **श्रीमाता** — श्रीमाता -> श्री + माता -> √श्री + √मा -> glory + mother -> the glorious mother
+श्री -> श्री -> prosperity, beauty, auspiciousness
+माता -> मा -> to measure, to nourish -> mother, nurturer
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **श्रीमाता** — She who is the auspicious Mother
@@ -26,6 +33,14 @@
 > ॥ 2 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> **श्रीमहाराज्ञी** — श्रीमहाराज्ञी -> श्री from √श्री prosperity + महा from √मह् great + राज्ञी from √राज् queen + prosperous great queen
+श्री -> from √श्री + prosperity + beauty + auspiciousness
+महा -> from √मह् + great + magnificent + supreme
+राज्ञी -> from √राज् + queen + sovereign + ruler
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -48,6 +63,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> **श्रीमत्-सिंहासनेश्वरी** — श्री -> from √श्री + prosperity + beauty + auspiciousness
+मत् -> possessing + full of + endowed with
+सिंह -> from √सिंह् + lion + hero + powerful
+आसन -> from √आस् + seat + throne + abode
+ईश्वरी -> from √ईश् + goddess + ruler + supreme
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **श्रीमत्-सिंहासनेश्वरी** — She who is the queen of the most glorious throne
@@ -68,6 +92,14 @@
 > ॥ 4 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> **चिदग्नि-कुण्ड-सम्भूता** — चिद् -> from √चिद् + consciousness + awareness + pure knowledge
+अग्नि -> from √अग् + fire + blaze + divine energy
+कुण्ड -> from √कुड् + pit + well + sacred reservoir
+सम्भूता -> from सम्+√भू + arisen + manifested + originated
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -90,6 +122,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **देवकार्य-समुद्यता** — She who is intent on fulfilling the wishes of the gods
@@ -110,6 +147,11 @@
 > ॥ 6 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -132,6 +174,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **चतुर्बाहु-समन्विता** — She who is four-armed
@@ -152,6 +199,11 @@
 > ॥ 8 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -174,6 +226,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **क्रोधाकाराङ्कुशोज्ज्वला** — She who shines, bearing the goad of anger
@@ -194,6 +251,11 @@
 > ॥ 10 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -216,6 +278,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **पञ्चतन्मात्र-सायका** — She who holds the five subtle elements as arrows
@@ -237,9 +304,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **निजारुण-प्रभापूर-मज्जद्ब्रह्माण्ड-मण्डला** — she who immerses the entire universe in the red efflugence of Her form
+> **निजारुण-प्रभापूर-मज्जद्ब्रह्माण्ड-मण्डला** — she who immerses the entire universe in the red efflugence of
+Her form
 
 
 ## COMMENTARIES (VRAVI)
@@ -258,9 +331,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **चम्पकाशोक-पुन्नाग-सौगन्धिक-लसत्कचा** — She whose hair has been adorned with flowers like campaka, ashoka, punnAga and saugandhika
+> **चम्पकाशोक-पुन्नाग-सौगन्धिक-लसत्कचा** — She whose hair has been adorned with flowers like campaka,
+ashoka, punnAga and saugandhika
 
 
 ## COMMENTARIES (VRAVI)
@@ -279,9 +358,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **कुरुविन्दमणि-श्रेणी-कनत्कोटीर-मण्डिता** — She who is resplendent with a crown adorned with rows of kuruvinda gems
+> **कुरुविन्दमणि-श्रेणी-कनत्कोटीर-मण्डिता** — She who is resplendent with a crown adorned with rows of
+kuruvinda gems
 
 
 ## COMMENTARIES (VRAVI)
@@ -300,9 +385,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **अष्टमीचन्द्र-विभ्राज-दलिकस्थल-शोभिता** — She whose forehead shines like the crescent moon of the eighth night of the lunar half-month
+> **अष्टमीचन्द्र-विभ्राज-दलिकस्थल-शोभिता** — She whose forehead shines like the crescent moon of the eighth
+night of the lunar half-month
 
 
 ## COMMENTARIES (VRAVI)
@@ -321,9 +412,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **मुखचन्द्र-कलङ्काभ-मृगनाभि-विशेषका** — She who wears a musk mark on Her forehead which shines like the spot in the moon
+> **मुखचन्द्र-कलङ्काभ-मृगनाभि-विशेषका** — She who wears a musk mark on Her forehead which shines like
+the spot in the moon
 
 
 ## COMMENTARIES (VRAVI)
@@ -342,9 +439,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **वदनस्मर-माङ्गल्य-गृहतोरण-चिल्लिका** — She whose eyebrows shine like the archways leading to the house of kAma, the god of love, which Her face resembles
+> **वदनस्मर-माङ्गल्य-गृहतोरण-चिल्लिका** — She whose eyebrows shine like the archways leading to the
+house of kAma, the god of love, which Her face resembles
 
 
 ## COMMENTARIES (VRAVI)
@@ -363,9 +466,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **वक्त्रलक्ष्मी-परीवाह-चलन्मीनाभ-लोचना** — She whose eyes possess the luster of the fish that move about in the stream of beauty flowing from Her face
+> **वक्त्रलक्ष्मी-परीवाह-चलन्मीनाभ-लोचना** — She whose eyes possess the luster of the fish that move about
+in the stream of beauty flowing from Her face
 
 
 ## COMMENTARIES (VRAVI)
@@ -384,9 +493,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **नवचम्पक-पुष्पाभ-नासादण्ड-विराजिता** — She who is resplendent with a nose that has the beauty of a newly blossoming campaka flower
+> **नवचम्पक-पुष्पाभ-नासादण्ड-विराजिता** — She who is resplendent with a nose that has the beauty of a
+newly blossoming campaka flower
 
 
 ## COMMENTARIES (VRAVI)
@@ -404,6 +519,11 @@
 > ॥ 20 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -426,9 +546,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **कदम्बमञ्जरी-कॢप्त-कर्णपूर-मनोहरा** — She who is captivating, wearing bunches of kadamba flowers as ear-ornaments
+> **कदम्बमञ्जरी-कॢप्त-कर्णपूर-मनोहरा** — She who is captivating, wearing bunches of kadamba flowers
+as ear-ornaments
 
 
 ## COMMENTARIES (VRAVI)
@@ -446,6 +572,11 @@
 > ॥ 22 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -468,6 +599,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **पद्मराग-शिलादर्श-परिभावि-कपोलभूः** — She whose cheeks excel mirrors made of rubies in their beauty
@@ -489,9 +625,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **नवविद्रुम-बिम्बश्री-न्यक्कारि-रदनच्छदा** — She whose lips excel freshly cut coral and bimba fruit in their reflective splendor
+> **नवविद्रुम-बिम्बश्री-न्यक्कारि-रदनच्छदा** — She whose lips excel freshly cut coral and bimba fruit in
+their reflective splendor
 
 
 ## COMMENTARIES (VRAVI)
@@ -509,6 +651,11 @@
 > ॥ 25 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -531,9 +678,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **कर्पूर-वीटिकामोद-समाकर्षि-दिगन्तरा** — She who is enjoying a camphor-laden betel roll, the fragrance of which is attracting people from all directions
+> **कर्पूर-वीटिकामोद-समाकर्षि-दिगन्तरा** — She who is enjoying a camphor-laden betel roll, the fragrance
+of which is attracting people from all directions
 
 
 ## COMMENTARIES (VRAVI)
@@ -552,9 +705,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **निज-सल्लाप-माधुर्य-विनिर्भर्त्सित-कच्छपी** — She who excels even the veeNa of sarasvatI in the sweetness of Her speech
+> **निज-सल्लाप-माधुर्य-विनिर्भर्त्सित-कच्छपी** — She who excels even the veeNa of sarasvatI in the sweetness
+of Her speech
 
 
 ## COMMENTARIES (VRAVI)
@@ -573,9 +732,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **मन्दस्मित-प्रभापूर-मज्जत्कामेश-मानसा** — She who submerges even the mind of KAmesha(Lord shiva) in the radiance of Her smile
+> **मन्दस्मित-प्रभापूर-मज्जत्कामेश-मानसा** — She who submerges even the mind of KAmesha(Lord shiva) in
+the radiance of Her smile
 
 
 ## COMMENTARIES (VRAVI)
@@ -594,9 +759,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **अनाकलित-सादृश्य-चिबुकश्री-विराजिता** — She whose chin cannot be compared to anything(it is beyond camporison because of its unparalleled beauty)
+> **अनाकलित-सादृश्य-चिबुकश्री-विराजिता** — She whose chin cannot be compared to anything(it is beyond
+camporison because of its unparalleled beauty)
 
 
 ## COMMENTARIES (VRAVI)
@@ -614,6 +785,11 @@
 > ॥ 30 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -636,6 +812,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **कनकाङ्गद-केयूर-कमनीय-भुजान्विता** — She whose arms are beautifully adorned with golden armlets
@@ -657,9 +838,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **रत्नग्रैवेय-चिन्ताक-लोल-मुक्ता-फलान्विता** — She whose neck is resplendent with a gem-studded necklace with a locket made of pearl
+> **रत्नग्रैवेय-चिन्ताक-लोल-मुक्ता-फलान्विता** — She whose neck is resplendent with a gem-studded necklace with
+a locket made of pearl
 
 
 ## COMMENTARIES (VRAVI)
@@ -678,9 +865,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **कामेश्वर-प्रेमरत्न-मणि-प्रतिपण-स्तनी** — She who gives Her breasts to KAmeshvara in return for the gem of love He bestows on Her
+> **कामेश्वर-प्रेमरत्न-मणि-प्रतिपण-स्तनी** — She who gives Her breasts to KAmeshvara in return for the gem
+of love He bestows on Her
 
 
 ## COMMENTARIES (VRAVI)
@@ -699,9 +892,16 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **नाभ्यालवाल-रोमालि-लता-फल-कुचद्वयी** — She whose breasts are the fruits on the creeper of the fine hairline that starts in the depths of Her navel and spreads upwards
+> **नाभ्यालवाल-रोमालि-लता-फल-कुचद्वयी** — She whose breasts are the fruits on the creeper of the fine
+hairline that starts in the depths of Her navel and spreads
+upwards
 
 
 ## COMMENTARIES (VRAVI)
@@ -720,9 +920,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **लक्ष्यरोम-लताधारता-समुन्नेय-मध्यमा** — She who has a waist, the existence of which can only be inferred by the fact that the creeper of Her hairline springs from it
+> **लक्ष्यरोम-लताधारता-समुन्नेय-मध्यमा** — She who has a waist, the existence of which can only be inferred
+by the fact that the creeper of Her hairline springs from it
 
 
 ## COMMENTARIES (VRAVI)
@@ -741,9 +947,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **स्तनभार-दलन्मध्य-पट्टबन्ध-वलित्रया** — She whose abdomen has three folds which form a belt to support Her waist from breaking under the weight of Her breasts
+> **स्तनभार-दलन्मध्य-पट्टबन्ध-वलित्रया** — She whose abdomen has three folds which form a belt to support
+Her waist from breaking under the weight of Her breasts
 
 
 ## COMMENTARIES (VRAVI)
@@ -762,9 +974,16 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **अरुणारुण-कौसुम्भ-वस्त्र-भास्वत्-कटीतटी** — She whose hips are adorned with a garment as red as the rising sun, which is dyed with an extract from safflower (kusumbha) blossoms
+> **अरुणारुण-कौसुम्भ-वस्त्र-भास्वत्-कटीतटी** — She whose hips are adorned with a garment as red as the rising
+sun, which is dyed with an extract from safflower (kusumbha)
+blossoms
 
 
 ## COMMENTARIES (VRAVI)
@@ -783,9 +1002,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **रत्न-किङ्किणिका-रम्य-रशना-दाम-भूषिता** — She who is adorned with a girdle which is decorated with many gem-studded bells
+> **रत्न-किङ्किणिका-रम्य-रशना-दाम-भूषिता** — She who is adorned with a girdle which is decorated with many
+gem-studded bells
 
 
 ## COMMENTARIES (VRAVI)
@@ -804,9 +1029,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **कामेश-ज्ञात-सौभाग्य-मार्दवोरु-द्वयान्विता** — The beauty and softness of whose thighs are known only to kAmesha, Her husband
+> **कामेश-ज्ञात-सौभाग्य-मार्दवोरु-द्वयान्विता** — The beauty and softness of whose thighs are known only to
+kAmesha, Her husband
 
 
 ## COMMENTARIES (VRAVI)
@@ -825,9 +1056,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **माणिक्य-मुकुटाकार-जानुद्वय-विराजिता** — She whose knees are like crowns shaped from the precious red jewel, mAnikya (a kind of ruby)
+> **माणिक्य-मुकुटाकार-जानुद्वय-विराजिता** — She whose knees are like crowns shaped from the precious red
+jewel, mAnikya (a kind of ruby)
 
 
 ## COMMENTARIES (VRAVI)
@@ -846,9 +1083,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **इन्द्रगोप-परिक्षिप्त-स्मरतूणाभ-जङ्घिका** — She whose calves gleam like the jewel-covered quiver of the God of Love
+> **इन्द्रगोप-परिक्षिप्त-स्मरतूणाभ-जङ्घिका** — She whose calves gleam like the jewel-covered quiver of the
+God of Love
 
 
 ## COMMENTARIES (VRAVI)
@@ -866,6 +1109,11 @@
 > ॥ 42 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -888,9 +1136,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **कूर्मपृष्ठ-जयिष्णु-प्रपदान्विता** — She whose feet have arches that rival the back of a tortoise in smooothness and beauty
+> **कूर्मपृष्ठ-जयिष्णु-प्रपदान्विता** — She whose feet have arches that rival the back of a tortoise
+in smooothness and beauty
 
 
 ## COMMENTARIES (VRAVI)
@@ -909,9 +1163,16 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **नख-दीधिति-संछन्न-नमज्जन-तमोगुणा** — She whose toenails give out such a radiance that all the darkness of ignorance is dispelled completely from those devotees who prostrate at Her feet
+> **नख-दीधिति-संछन्न-नमज्जन-तमोगुणा** — She whose toenails give out such a radiance that all the
+darkness of ignorance is dispelled completely from those
+devotees who prostrate at Her feet
 
 
 ## COMMENTARIES (VRAVI)
@@ -929,6 +1190,11 @@
 > ॥ 45 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -951,9 +1217,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **सिञ्जान-मणिमञ्जीर-मण्डित-श्री-पदाम्बुजा** — She whose auspicious lotus feet are adorned with gem-studded golden anklets that tinkle sweetly
+> **सिञ्जान-मणिमञ्जीर-मण्डित-श्री-पदाम्बुजा** — She whose auspicious lotus feet are adorned with gem-studded
+golden anklets that tinkle sweetly
 
 
 ## COMMENTARIES (VRAVI)
@@ -971,6 +1243,11 @@
 > ॥ 47 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -993,6 +1270,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **महालावण्य-शेवधिः** — She who is the treasure-house of beauty
@@ -1013,6 +1295,11 @@
 > ॥ 49 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -1035,6 +1322,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **सर्वाभरण-भूषिता** — She who is resplendent with all types of ornaments
@@ -1055,6 +1347,11 @@
 > ॥ 51 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -1077,6 +1374,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **शिवा** — She who bestows all that is auspicious
@@ -1097,6 +1399,11 @@
 > ॥ 53 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -1119,6 +1426,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **सुमेरु-मध्य-श‍ृङ्गस्था** — She who sits on the middle peak of Mount Sumeru
@@ -1139,6 +1451,11 @@
 > ॥ 55 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -1161,6 +1478,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **चिन्तामणि-गृहान्तस्था** — She who resides in a house built of the chintAmaNi
@@ -1181,6 +1503,11 @@
 > ॥ 57 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -1203,6 +1530,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **महापद्माटवी-संस्था** — She who resides in the great lotus forest
@@ -1223,6 +1555,11 @@
 > ॥ 59 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -1245,6 +1582,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **सुधासागर-मध्यस्था** — She who resides in the center of the ocean of nectar
@@ -1265,6 +1607,11 @@
 > ॥ 61 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -1287,6 +1634,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **कामदायिनी** — She who grants all wishes
@@ -1308,9 +1660,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **देवर्षि-गण-संघात-स्तूयमानात्म-वैभवा** — She whose might is the subject of praise by multitudes of gods and sages
+> **देवर्षि-गण-संघात-स्तूयमानात्म-वैभवा** — She whose might is the subject of praise by multitudes of gods
+and sages
 
 
 ## COMMENTARIES (VRAVI)
@@ -1329,9 +1687,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **भण्डासुर-वधोद्युक्त-शक्तिसेना-समन्विता** — She who is endowed with an army of shaktis intent on slaying bhaNDAsura
+> **भण्डासुर-वधोद्युक्त-शक्तिसेना-समन्विता** — She who is endowed with an army of shaktis intent on slaying
+bhaNDAsura
 
 
 ## COMMENTARIES (VRAVI)
@@ -1349,6 +1713,11 @@
 > ॥ 65 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -1371,9 +1740,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **अश्वारूढाधिष्ठिताश्व-कोटि-कोटिभिरावृता** — She who is surrounded by a cavalry of several million horses which are under the command of the shakti, ashvArUDhA
+> **अश्वारूढाधिष्ठिताश्व-कोटि-कोटिभिरावृता** — She who is surrounded by a cavalry of several million horses
+which are under the command of the shakti, ashvArUDhA
 
 
 ## COMMENTARIES (VRAVI)
@@ -1392,9 +1767,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **चक्रराज-रथारूढ-सर्वायुध-परिष्कृता** — She who shines in Her chariot chakrarAja, equipped with all kinds of weapons
+> **चक्रराज-रथारूढ-सर्वायुध-परिष्कृता** — She who shines in Her chariot chakrarAja, equipped with all
+kinds of weapons
 
 
 ## COMMENTARIES (VRAVI)
@@ -1413,9 +1794,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **गेयचक्र-रथारूढ-मन्त्रिणी-परिसेविता** — She who is served by the shakti named mantriNI who rides the chariot known as geyacakra
+> **गेयचक्र-रथारूढ-मन्त्रिणी-परिसेविता** — She who is served by the shakti named mantriNI who rides the
+chariot known as geyacakra
 
 
 ## COMMENTARIES (VRAVI)
@@ -1434,9 +1821,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **किरिचक्र-रथारूढ-दण्डनाथा-पुरस्कृता** — She who is escorted by the shakti known as daNDanAthA, seated in the kirichakra chariot
+> **किरिचक्र-रथारूढ-दण्डनाथा-पुरस्कृता** — She who is escorted by the shakti known as daNDanAthA, seated
+in the kirichakra chariot
 
 
 ## COMMENTARIES (VRAVI)
@@ -1455,9 +1848,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **ज्वाला-मालिनिकाक्षिप्त-वह्निप्राकार-मध्यगा** — She who has taken position at the center of the fortress of fire created by the goddess, jvAlAmAlinI
+> **ज्वाला-मालिनिकाक्षिप्त-वह्निप्राकार-मध्यगा** — She who has taken position at the center of the fortress of
+fire created by the goddess, jvAlAmAlinI
 
 
 ## COMMENTARIES (VRAVI)
@@ -1476,9 +1875,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **भण्डसैन्य-वधोद्युक्त-शक्ति-विक्रम-हर्षिता** — She who rejoices at the valor of the shaktis who are intent on destroying the forces of bhaNDAsura
+> **भण्डसैन्य-वधोद्युक्त-शक्ति-विक्रम-हर्षिता** — She who rejoices at the valor of the shaktis who are intent
+on destroying the forces of bhaNDAsura
 
 
 ## COMMENTARIES (VRAVI)
@@ -1497,9 +1902,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **नित्या-पराक्रमाटोप-निरीक्षण-समुत्सुका** — She who delights in seeing the might and the pride of Her nityA deities
+> **नित्या-पराक्रमाटोप-निरीक्षण-समुत्सुका** — She who delights in seeing the might and the pride of Her
+nityA deities
 
 
 ## COMMENTARIES (VRAVI)
@@ -1518,9 +1929,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **भण्डपुत्र-वधोद्युक्त-बाला-विक्रम-नन्दिता** — She who delights in seeing the valor of the goddess bAla who is intent on killing the sons of bhaNDa
+> **भण्डपुत्र-वधोद्युक्त-बाला-विक्रम-नन्दिता** — She who delights in seeing the valor of the goddess bAla who
+is intent on killing the sons of bhaNDa
 
 
 ## COMMENTARIES (VRAVI)
@@ -1539,9 +1956,16 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **मन्त्रिण्यम्बा-विरचित-विषङ्ग-वध-तोषिता** — (विशुक्रवधतोषिता) (See a note below) She who rejoices at the destruction, in battle, of the demon viShanga by the mantriNI shakti
+> **मन्त्रिण्यम्बा-विरचित-विषङ्ग-वध-तोषिता** — (विशुक्रवधतोषिता) (See a note below)
+She who rejoices at the destruction, in battle, of the demon
+viShanga by the mantriNI shakti
 
 
 ## COMMENTARIES (VRAVI)
@@ -1560,9 +1984,16 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **विशुक्र-प्राणहरण-वाराही-वीर्य-नन्दिता** — (विषङ्गप्राणहरण) She who is pleased with the prowess of vArAhI who took the life of vishukra
+> **विशुक्र-प्राणहरण-वाराही-वीर्य-नन्दिता** — (विषङ्गप्राणहरण)
+She who is pleased with the prowess of vArAhI who took the
+life of vishukra
 
 
 ## COMMENTARIES (VRAVI)
@@ -1580,6 +2011,11 @@
 > ॥ 76 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -1602,6 +2038,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **महागणेश-निर्भिन्न-विघ्नयन्त्र-प्रहर्षिता** — She who rejoices when gaNesha shatters all obstacles
@@ -1623,9 +2064,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **भण्डासुरेन्द्र-निर्मुक्त-शस्त्र-प्रत्यस्त्र-वर्षिणी** — She who showers counter weapons to each weapon fired at Her by bhaNDAsura
+> **भण्डासुरेन्द्र-निर्मुक्त-शस्त्र-प्रत्यस्त्र-वर्षिणी** — She who showers counter weapons to each weapon fired at Her
+by bhaNDAsura
 
 
 ## COMMENTARIES (VRAVI)
@@ -1644,9 +2091,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **कराङ्गुलि-नखोत्पन्न-नारायण-दशाकृतिः** — She who created from Her fingernails all ten incarnations of NArAyaNa (viShNu)
+> **कराङ्गुलि-नखोत्पन्न-नारायण-दशाकृतिः** — She who created from Her fingernails all ten incarnations of
+NArAyaNa (viShNu)
 
 
 ## COMMENTARIES (VRAVI)
@@ -1665,9 +2118,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **महा-पाशुपतास्त्राग्नि-निर्दग्धासुर-सैनिका** — She who burned the armies of the demons in the fire of the missile, mahApAshupata
+> **महा-पाशुपतास्त्राग्नि-निर्दग्धासुर-सैनिका** — She who burned the armies of the demons in the fire of the
+missile, mahApAshupata
 
 
 ## COMMENTARIES (VRAVI)
@@ -1686,9 +2145,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **कामेश्वरास्त्र-निर्दग्ध-सभण्डासुर-शून्यका** — She who burned and destroyed bhaNDAsura and his capital shUnyaka with the kAmeshvara missle
+> **कामेश्वरास्त्र-निर्दग्ध-सभण्डासुर-शून्यका** — She who burned and destroyed bhaNDAsura and his capital shUnyaka
+with the kAmeshvara missle
 
 
 ## COMMENTARIES (VRAVI)
@@ -1707,9 +2172,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **ब्रह्मोपेन्द्र-महेन्द्रादि-देव-संस्तुत-वैभवा** — She whose many powers are extolled by brahmA, viShNu, shiva and other gods
+> **ब्रह्मोपेन्द्र-महेन्द्रादि-देव-संस्तुत-वैभवा** — She whose many powers are extolled by brahmA, viShNu, shiva
+and other gods
 
 
 ## COMMENTARIES (VRAVI)
@@ -1728,9 +2199,16 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **हर-नेत्राग्नि-संदग्ध-काम-सञ्जीवनौषधिः** — She who became the life-giving medicine for kAmadeva (the god of love) who had been burned to ashes by the fire from shiva's (third) eye
+> **हर-नेत्राग्नि-संदग्ध-काम-सञ्जीवनौषधिः** — She who became the life-giving medicine for kAmadeva (the god
+of love) who had been burned to ashes by the fire from shiva's
+(third) eye
 
 
 ## COMMENTARIES (VRAVI)
@@ -1749,9 +2227,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **श्रीमद्वाग्भव-कूटैक-स्वरूप-मुख-पङ्कजा** — She whose lotus face is the auspicious vAgbhavakUTa (a group of syllables of the panchadashi mantra)
+> **श्रीमद्वाग्भव-कूटैक-स्वरूप-मुख-पङ्कजा** — She whose lotus face is the auspicious vAgbhavakUTa (a group
+of syllables of the panchadashi mantra)
 
 
 ## COMMENTARIES (VRAVI)
@@ -1769,6 +2253,11 @@
 > ॥ 85 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -1791,6 +2280,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **शक्ति-कूटैकतापन्न-कट्यधोभाग-धारिणी** — She whose form below the waist is the shaktikUTa (the last four syllables of the pancadashAkShari mantra)
@@ -1811,6 +2305,11 @@
 > ॥ 87 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -1833,6 +2332,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **मूलकूटत्रय-कलेवरा** — She whose (subtle) body is made of the three parts of the pancadashAkShari mantra
@@ -1853,6 +2357,11 @@
 > ॥ 89 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -1875,6 +2384,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > [Needs commentary]
@@ -1895,6 +2409,11 @@
 > ॥ 91 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -1917,6 +2436,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **कुलान्तस्था** — She who resides in the kula vidyA
@@ -1937,6 +2461,11 @@
 > ॥ 93 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -1959,6 +2488,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **कुलयोगिनी** — She who is the deity in the kulas
@@ -1979,6 +2513,11 @@
 > ॥ 95 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2001,6 +2540,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **समयान्तस्था** — She who resides inside 'samaya'
@@ -2021,6 +2565,11 @@
 > ॥ 97 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2043,6 +2592,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **मूलाधारैक-निलया** — She whose principal abode is the mUlAdhAra
@@ -2063,6 +2617,11 @@
 > ॥ 99 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2085,6 +2644,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **मणि-पूरान्तरुदिता** — She who emerges in the maNipUra cakra
@@ -2105,6 +2669,11 @@
 > ॥ 101 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2127,6 +2696,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **आज्ञा-चक्रान्तरालस्था** — She who resides at the center of the Aj~nA chakra
@@ -2147,6 +2721,11 @@
 > ॥ 103 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2169,6 +2748,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **सहस्राराम्बुजारूढा** — She who ascends to the thousand-petaled lotus
@@ -2189,6 +2773,11 @@
 > ॥ 105 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2211,6 +2800,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **तडिल्लता-समरुचिः** — She who is as beautiful as a flash of lightning
@@ -2231,6 +2825,11 @@
 > ॥ 107 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2253,6 +2852,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **महासक्तिः** — She who is greatly attached to the festive union of shiva and shakti
@@ -2273,6 +2877,11 @@
 > ॥ 109 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2295,6 +2904,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **बिसतन्तु-तनीयसी** — She who is fine and delicate as the fiber of the lotus
@@ -2315,6 +2929,11 @@
 > ॥ 111 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2337,6 +2956,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **भावनागम्या** — She who is unattainable through imagination or thought
@@ -2357,6 +2981,11 @@
 > ॥ 113 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2379,6 +3008,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **भद्रप्रिया** — She who is fond of all auspicious things - who gives all auspicious things
@@ -2399,6 +3033,11 @@
 > ॥ 115 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2421,6 +3060,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **भक्तिप्रिया** — She who is fond of (and pleased by) devotion
@@ -2441,6 +3085,11 @@
 > ॥ 117 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2463,6 +3112,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **भक्तिवश्या** — She who is to be won over by devition
@@ -2483,6 +3137,11 @@
 > ॥ 119 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2505,6 +3164,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **शाम्भवी** — She who is the wife of shambhu (shiva)
@@ -2525,6 +3189,11 @@
 > ॥ 121 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2547,6 +3216,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **शर्वाणी** — She who is the wife of sharva (shiva)
@@ -2567,6 +3241,11 @@
 > ॥ 123 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2589,6 +3268,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **शाङ्करी** — She who gives happiness
@@ -2609,6 +3293,11 @@
 > ॥ 125 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2631,6 +3320,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **साध्वी** — She who is chaste
@@ -2651,6 +3345,11 @@
 > ॥ 127 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2673,6 +3372,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **शातोदरी** — She who is slender-waister
@@ -2693,6 +3397,11 @@
 > ॥ 129 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2715,6 +3424,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निराधारा** — She who is without dependence
@@ -2735,6 +3449,11 @@
 > ॥ 131 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2757,6 +3476,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निर्लेपा** — She who is free from all impurities arising from action
@@ -2777,6 +3501,11 @@
 > ॥ 133 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2799,6 +3528,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **नित्या** — She who is eternal
@@ -2819,6 +3553,11 @@
 > ॥ 135 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2841,6 +3580,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निराकुला** — She who is without agitation
@@ -2862,9 +3606,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **निर्गुणा** — She who is beyond all three gunas of nature, namely sattva, rajas and tamas
+> **निर्गुणा** — She who is beyond all three gunas of nature, namely sattva,
+rajas and tamas
 
 
 ## COMMENTARIES (VRAVI)
@@ -2882,6 +3632,11 @@
 > ॥ 138 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2904,6 +3659,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **शान्ता** — She who is tranquil
@@ -2924,6 +3684,11 @@
 > ॥ 140 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2946,6 +3711,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निरुपप्लवा** — She who is indestructible
@@ -2966,6 +3736,11 @@
 > ॥ 142 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -2988,6 +3763,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निर्विकारा** — She who is unchanging
@@ -3008,6 +3788,11 @@
 > ॥ 144 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3030,6 +3815,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निराश्रया** — She who does not depend on anything
@@ -3050,6 +3840,11 @@
 > ॥ 146 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3072,6 +3867,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **नित्यबुद्धा** — She who is ever wise
@@ -3092,6 +3892,11 @@
 > ॥ 148 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3114,6 +3919,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निरन्तरा** — She who is all-pervading
@@ -3134,6 +3944,11 @@
 > ॥ 150 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3156,6 +3971,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निष्कलङ्का** — She who is faultless
@@ -3176,6 +3996,11 @@
 > ॥ 152 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3198,6 +4023,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **नीरागा** — She who has no desire
@@ -3218,6 +4048,11 @@
 > ॥ 154 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3240,6 +4075,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निर्मदा** — She who is without pride
@@ -3260,6 +4100,11 @@
 > ॥ 156 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3282,6 +4127,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निश्चिन्ता** — She who has no anxiety in anything
@@ -3302,6 +4152,11 @@
 > ॥ 158 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3324,6 +4179,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निर्मोहा** — She who is free from delusion
@@ -3344,6 +4204,11 @@
 > ॥ 160 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3366,6 +4231,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निर्ममा** — She who has no self-interest in anything
@@ -3386,6 +4256,11 @@
 > ॥ 162 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3408,6 +4283,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निष्पापा** — She who is without sin
@@ -3428,6 +4308,11 @@
 > ॥ 164 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3450,6 +4335,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निष्क्रोधा** — She who is without anger
@@ -3470,6 +4360,11 @@
 > ॥ 166 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3492,6 +4387,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निर्लोभा** — She who is without greed
@@ -3512,6 +4412,11 @@
 > ॥ 168 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3534,6 +4439,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निःसंशया** — She who is without doubts
@@ -3554,6 +4464,11 @@
 > ॥ 170 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3576,6 +4491,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निर्भवा** — She who is without origin
@@ -3596,6 +4516,11 @@
 > ॥ 172 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3618,6 +4543,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निर्विकल्पा** — She who is free of false imaginings
@@ -3638,6 +4568,11 @@
 > ॥ 174 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3660,6 +4595,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निर्भेदा** — She who is beyond all sense of difference
@@ -3681,9 +4621,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **भेदनाशिनी** — She who removes from Her devotees all sense of differences born of vAsanAs
+> **भेदनाशिनी** — She who removes from Her devotees all sense of differences
+born of vAsanAs
 
 
 ## COMMENTARIES (VRAVI)
@@ -3701,6 +4647,11 @@
 > ॥ 177 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3723,6 +4674,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **मृत्युमथनी** — She who destroys death
@@ -3743,6 +4699,11 @@
 > ॥ 179 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3765,6 +4726,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निष्परिग्रहा** — She who does not acquire or accept anything
@@ -3785,6 +4751,11 @@
 > ॥ 181 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3807,6 +4778,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **नीलचिकुरा** — She who has shining black hair
@@ -3827,6 +4803,11 @@
 > ॥ 183 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3849,6 +4830,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निरत्यया** — She who cannot be transgressed
@@ -3869,6 +4855,11 @@
 > ॥ 185 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3891,6 +4882,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **दुर्गमा** — She who is approachable only with extreme effort
@@ -3911,6 +4907,11 @@
 > ॥ 187 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3933,6 +4934,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **दुःखहन्त्री** — She who is the destroyer of sorrow
@@ -3953,6 +4959,11 @@
 > ॥ 189 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -3975,6 +4986,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **दुष्टदूरा** — She who is unapproachable by sinners
@@ -3995,6 +5011,11 @@
 > ॥ 191 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4017,6 +5038,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **दोषवर्जिता** — She who is free from all faults
@@ -4037,6 +5063,11 @@
 > ॥ 193 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4059,6 +5090,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **सान्द्रकरुणा** — She who shows intense compassion
@@ -4079,6 +5115,11 @@
 > ॥ 195 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4101,6 +5142,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **सर्वशक्तिमयी** — She who has all the divine powers (she who is omnipotent)
@@ -4121,6 +5167,11 @@
 > ॥ 197 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4143,6 +5194,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **सद्गतिप्रदा** — She who leads into the right path
@@ -4163,6 +5219,11 @@
 > ॥ 199 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4185,6 +5246,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **सर्वमयी** — She who pervades every living and non-living thing
@@ -4205,6 +5271,11 @@
 > ॥ 201 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4227,6 +5298,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **सर्व-यन्त्रात्मिका** — She who is the soul of all yantras
@@ -4247,6 +5323,11 @@
 > ॥ 203 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4269,6 +5350,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **मनोन्मनी** — She who is shiva's shakti
@@ -4289,6 +5375,11 @@
 > ॥ 205 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4311,6 +5402,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **महादेवी** — She who has the immeasurable body
@@ -4331,6 +5427,11 @@
 > ॥ 207 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4353,6 +5454,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **मृडप्रिया** — She who is the beloved of mRiDa (shiva)
@@ -4373,6 +5479,11 @@
 > ॥ 209 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4395,6 +5506,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **महापूज्या** — She who is the greatest object of worship
@@ -4415,6 +5531,11 @@
 > ॥ 211 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4437,6 +5558,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **महामाया** — She who is the great illusion
@@ -4457,6 +5583,11 @@
 > ॥ 213 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4479,6 +5610,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > [Needs commentary]
@@ -4499,6 +5635,11 @@
 > ॥ 215 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4521,6 +5662,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **महैश्वर्या** — She who has supreme sovereignty
@@ -4541,6 +5687,11 @@
 > ॥ 217 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4563,6 +5714,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **महाबला** — She who is supreme in might
@@ -4583,6 +5739,11 @@
 > ॥ 219 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4605,6 +5766,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > [Needs commentary]
@@ -4625,6 +5791,11 @@
 > ॥ 221 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4647,6 +5818,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > [Needs commentary]
@@ -4668,9 +5844,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **महातन्त्रा** — She who is worshipped by the great Tantras such as kulArnava and jnAnArnava
+> **महातन्त्रा** — She who is worshipped by the great Tantras such as kulArnava
+and jnAnArnava
 
 
 ## COMMENTARIES (VRAVI)
@@ -4688,6 +5870,11 @@
 > ॥ 224 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4710,6 +5897,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **महायन्त्रा** — She who is in the form of the great yantras
@@ -4730,6 +5922,11 @@
 > ॥ 226 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4752,6 +5949,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **महायाग-क्रमाराध्या** — She who is worshipped by the ritual of mahAyAga
@@ -4772,6 +5974,11 @@
 > ॥ 228 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4794,9 +6001,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **महेश्वर-महाकल्प-महाताण्डव-साक्षिणी** — She who is the witness of the great dance of maheshvara (shiva) at the end of the great cycle of creation
+> **महेश्वर-महाकल्प-महाताण्डव-साक्षिणी** — She who is the witness of the great dance of maheshvara (shiva)
+at the end of the great cycle of creation
 
 
 ## COMMENTARIES (VRAVI)
@@ -4814,6 +6027,11 @@
 > ॥ 230 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4836,6 +6054,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **महात्रिपुर-सुन्दरी** — She who is the great tripurasundarI
@@ -4856,6 +6079,11 @@
 > ॥ 232 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4878,6 +6106,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **चतुःषष्टिकलामयी** — She who embodies the sixty-four fine arts
@@ -4898,6 +6131,11 @@
 > ॥ 234 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4920,6 +6158,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **मनुविद्या** — She who is the embodiment of manuvidyA
@@ -4940,6 +6183,11 @@
 > ॥ 236 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -4962,6 +6210,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **चन्द्रमण्डल-मध्यगा** — She who resides in the center of chandramaNDala, the moon's disc
@@ -4982,6 +6235,11 @@
 > ॥ 238 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5004,6 +6262,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **चारुहासा** — She who has a beautiful smile
@@ -5024,6 +6287,11 @@
 > ॥ 240 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5046,6 +6314,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **चराचर-जगन्नाथा** — She who is the ruler of the animate and inanimate worlds
@@ -5066,6 +6339,11 @@
 > ॥ 242 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5088,6 +6366,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **पार्वती** — She who is the daughter of the Mountain (Mount Himavat or HimAlaya)
@@ -5109,9 +6392,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **पद्मनयना** — She who has eyes that are long and beautiful like the petals of the lotus flower
+> **पद्मनयना** — She who has eyes that are long and beautiful like the petals
+of the lotus flower
 
 
 ## COMMENTARIES (VRAVI)
@@ -5129,6 +6418,11 @@
 > ॥ 245 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5151,6 +6445,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **पञ्च-प्रेतासनासीना** — She who sits on the seat formed by the five corpses
@@ -5171,6 +6470,11 @@
 > ॥ 247 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5193,6 +6497,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **चिन्मयी** — She who is consciousness itself
@@ -5213,6 +6522,11 @@
 > ॥ 249 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5235,6 +6549,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **विज्ञान-घनरूपिणी** — She who is the embodiment of all-pervading solid intelligence
@@ -5255,6 +6574,11 @@
 > ॥ 251 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5277,6 +6601,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **धर्माधर्म-विवर्जिता** — She who is devoid of(who transcends) both virtue and vice
@@ -5297,6 +6626,11 @@
 > ॥ 253 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5319,9 +6653,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **जागरिणी** — She who is in the waking state, or She who assumes the form of the jIva who is in the waking state
+> **जागरिणी** — She who is in the waking state, or She who assumes the form
+of the jIva who is in the waking state
 
 
 ## COMMENTARIES (VRAVI)
@@ -5340,9 +6680,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **स्वपन्ती** — She who is in the dream state or She who assumes the form of the jIva in the dream state
+> **स्वपन्ती** — She who is in the dream state or She who assumes the form of
+the jIva in the dream state
 
 
 ## COMMENTARIES (VRAVI)
@@ -5361,9 +6707,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **तैजसात्मिका** — She who is the soul of taijasA (jIva in the dream state, proud of its subtle body)
+> **तैजसात्मिका** — She who is the soul of taijasA (jIva in the dream state,
+proud of its subtle body)
 
 
 ## COMMENTARIES (VRAVI)
@@ -5382,9 +6734,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **सुप्ता** — She who is in the deep-sleep state or assumes the form of the jiva experiencing deep sleep
+> **सुप्ता** — She who is in the deep-sleep state or assumes the form of the
+jiva experiencing deep sleep
 
 
 ## COMMENTARIES (VRAVI)
@@ -5402,6 +6760,11 @@
 > ॥ 258 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5424,9 +6787,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **तुर्या** — She who is in the state of turya (fourth state in which the ultimate realization of Atman is obtained)
+> **तुर्या** — She who is in the state of turya (fourth state in which the
+ultimate realization of Atman is obtained)
 
 
 ## COMMENTARIES (VRAVI)
@@ -5444,6 +6813,11 @@
 > ॥ 260 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5466,6 +6840,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **सृष्टिकर्त्री** — She who is the creator
@@ -5486,6 +6865,11 @@
 > ॥ 262 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5508,6 +6892,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **गोप्त्री** — She who protects
@@ -5529,9 +6918,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **गोविन्दरूपिणी** — She who has assumed the form of govinda (viShNu) for the preservation of the universe
+> **गोविन्दरूपिणी** — She who has assumed the form of govinda (viShNu) for the
+preservation of the universe
 
 
 ## COMMENTARIES (VRAVI)
@@ -5549,6 +6944,11 @@
 > ॥ 265 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5571,9 +6971,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **रुद्ररूपा** — She who is has assumed the form of rudra (shiva) for the dissolution of the universe
+> **रुद्ररूपा** — She who is has assumed the form of rudra (shiva) for the
+dissolution of the universe
 
 
 ## COMMENTARIES (VRAVI)
@@ -5591,6 +6997,11 @@
 > ॥ 267 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5613,6 +7024,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > [Needs commentary]
@@ -5634,9 +7050,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **पञ्चकृत्य-परायणा** — She who is devoted to the five functions (of creation, preservation, destruction, annihilation and reappearance)
+> **पञ्चकृत्य-परायणा** — She who is devoted to the five functions (of creation,
+preservation, destruction, annihilation and reappearance)
 
 
 ## COMMENTARIES (VRAVI)
@@ -5654,6 +7076,11 @@
 > ॥ 270 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5676,6 +7103,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **भैरवी** — She who is the wife of bhairava (shiva)
@@ -5697,9 +7129,16 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **भगमालिनी** — She who wears a garland made of the six excellences (of auspiciousness, supremacy, fame, valor, detachment and knowledge)
+> **भगमालिनी** — She who wears a garland made of the six excellences (of
+auspiciousness, supremacy, fame, valor, detachment and
+knowledge)
 
 
 ## COMMENTARIES (VRAVI)
@@ -5717,6 +7156,11 @@
 > ॥ 273 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5739,6 +7183,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **भगवती** — She who protects those who worship Her
@@ -5759,6 +7208,11 @@
 > ॥ 275 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5781,9 +7235,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **उन्मेष-निमिषोत्पन्न-विपन्न-भुवनावली** — She who causes a series of worlds to arise and disappear with the opening and closing of Her eyes
+> **उन्मेष-निमिषोत्पन्न-विपन्न-भुवनावली** — She who causes a series of worlds to arise and disappear with
+the opening and closing of Her eyes
 
 
 ## COMMENTARIES (VRAVI)
@@ -5801,6 +7261,11 @@
 > ॥ 277 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5823,6 +7288,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **सहस्राक्षी** — She who has a thousand eyes
@@ -5843,6 +7313,11 @@
 > ॥ 279 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5865,9 +7340,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **आब्रह्म-कीट-जननी** — She who is the mother of everything from brahmA to the lowliest insect
+> **आब्रह्म-कीट-जननी** — She who is the mother of everything from brahmA to the lowliest
+insect
 
 
 ## COMMENTARIES (VRAVI)
@@ -5885,6 +7366,11 @@
 > ॥ 281 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5907,6 +7393,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निजाज्ञारूप-निगमा** — She whose commands take the form of the vedas
@@ -5927,6 +7418,11 @@
 > ॥ 283 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5949,9 +7445,16 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **श्रुति-सीमन्त-सिन्दूरी-कृत-पादाब्ज-धूलिका** — She who is the one the dust from whose feet forms the vermillion marks at the parting line of the hair of the shruti devatAs (vedas personified as goddesses)
+> **श्रुति-सीमन्त-सिन्दूरी-कृत-पादाब्ज-धूलिका** — She who is the one the dust from whose feet forms the vermillion
+marks at the parting line of the hair of the shruti devatAs
+(vedas personified as goddesses)
 
 
 ## COMMENTARIES (VRAVI)
@@ -5969,6 +7472,11 @@
 > ॥ 285 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -5991,6 +7499,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **पुरुषार्थप्रदा** — She who grants the (four-fold) objects of human life
@@ -6011,6 +7524,11 @@
 > ॥ 287 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6033,6 +7551,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **भोगिनी** — She who is the enjoyer
@@ -6053,6 +7576,11 @@
 > ॥ 289 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6075,6 +7603,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > [Needs commentary]
@@ -6095,6 +7628,11 @@
 > ॥ 291 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6117,6 +7655,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **नारायणी** — She who is the female counterpart of nArAyaNa
@@ -6137,6 +7680,11 @@
 > ॥ 293 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6159,6 +7707,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **नामरूप-विवर्जिता** — She who has no name or form
@@ -6179,6 +7732,11 @@
 > ॥ 295 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6201,6 +7759,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **ह्रीमती** — She who is endowed with modesty
@@ -6221,6 +7784,11 @@
 > ॥ 297 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6243,6 +7811,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **हेयोपादेय-वर्जिता** — She who has nothing to reject or accept
@@ -6263,6 +7836,11 @@
 > ॥ 299 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6285,6 +7863,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **राज्ञी** — She who is the queen of shiva, the Lord of all kings
@@ -6305,6 +7888,11 @@
 > ॥ 301 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6327,6 +7915,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **राजीवलोचना** — She whose eyes are like rAjiva (lotus)
@@ -6347,6 +7940,11 @@
 > ॥ 303 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6369,6 +7967,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **रमणी** — She who gives joy
@@ -6389,6 +7992,11 @@
 > ॥ 305 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6411,6 +8019,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **रणत्किङ्किणि-मेखला** — She who wears a girdle of tinkling bells
@@ -6431,6 +8044,11 @@
 > ॥ 307 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6453,6 +8071,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **राकेन्दुवदना** — She who has a delightful face like the full moon
@@ -6473,6 +8096,11 @@
 > ॥ 309 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6495,6 +8123,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **रतिप्रिया** — She who is fond of rati; She who is served by rati
@@ -6515,6 +8148,11 @@
 > ॥ 311 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6537,6 +8175,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **राक्षसघ्नी** — She who is the slayer of the entire race of demons
@@ -6557,6 +8200,11 @@
 > ॥ 313 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6579,6 +8227,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **रमणलम्पटा** — She who is devoted to the Lord of Her heart, Lord shiva
@@ -6599,6 +8252,11 @@
 > ॥ 315 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6621,6 +8279,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **कामकलारूपा** — She who is in the form of kAmakalA
@@ -6641,6 +8304,11 @@
 > ॥ 317 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6663,6 +8331,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **कल्याणी** — She who bestows auspiciousness
@@ -6683,6 +8356,11 @@
 > ॥ 319 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6705,6 +8383,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **करुणा-रस-सागरा** — She who is the ocean of compassion
@@ -6725,6 +8408,11 @@
 > ॥ 321 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6747,6 +8435,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **कलालापा** — She who speaks musically and sweetly
@@ -6767,6 +8460,11 @@
 > ॥ 323 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6789,6 +8487,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **कादम्बरीप्रिया** — She who is fond of mead
@@ -6809,6 +8512,11 @@
 > ॥ 325 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6831,6 +8539,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **वामनयना** — She who has beautiful eyes
@@ -6851,6 +8564,11 @@
 > ॥ 327 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6873,6 +8591,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **विश्वाधिका** — She who transcends the universe
@@ -6893,6 +8616,11 @@
 > ॥ 329 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6915,6 +8643,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **विन्ध्याचल-निवासिनी** — She who resides in the vindhya mountains
@@ -6935,6 +8668,11 @@
 > ॥ 331 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6957,6 +8695,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **वेदजननी** — She who is the mother of the vedas
@@ -6977,6 +8720,11 @@
 > ॥ 333 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -6999,6 +8747,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **विलासिनी** — She who is playful
@@ -7019,6 +8772,11 @@
 > ॥ 335 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7041,6 +8799,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **क्षेत्रेशी** — She who is the wife of kShetresha (shiva)
@@ -7062,9 +8825,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **क्षेत्र-क्षेत्रज्ञ-पालिनी** — She who is the protector of matter and the knower of matter, therefore the protector of body and soul
+> **क्षेत्र-क्षेत्रज्ञ-पालिनी** — She who is the protector of matter and the knower of matter,
+therefore the protector of body and soul
 
 
 ## COMMENTARIES (VRAVI)
@@ -7082,6 +8851,11 @@
 > ॥ 338 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7104,6 +8878,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **क्षेत्रपाल-समर्चिता** — She who is worshipped by kShetrapAla (shiva in infant form)
@@ -7124,6 +8903,11 @@
 > ॥ 340 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7146,6 +8930,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **विमला** — She who is without a trace of impurity
@@ -7166,6 +8955,11 @@
 > ॥ 342 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7188,6 +8982,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **वन्दारु-जन-वत्सला** — She who is full of motherlly love for those who worship Her
@@ -7208,6 +9007,11 @@
 > ॥ 344 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7230,6 +9034,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **वामकेशी** — She who has beautiful hair
@@ -7250,6 +9059,11 @@
 > ॥ 346 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7272,6 +9086,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **भक्तिमत्-कल्पलतिका** — She who is the kalpa (wish-granting) creeper to Her devotees
@@ -7292,6 +9111,11 @@
 > ॥ 348 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7314,6 +9138,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **संहृताशेष-पाषण्डा** — She who destroys all heretics
@@ -7334,6 +9163,11 @@
 > ॥ 350 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7356,9 +9190,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **तापत्रयाग्नि-सन्तप्त-समाह्लादन-चन्द्रिका** — She who is the moonlight that gives joy to those burned by the triple fire of misery
+> **तापत्रयाग्नि-सन्तप्त-समाह्लादन-चन्द्रिका** — She who is the moonlight that gives joy to those burned by
+the triple fire of misery
 
 
 ## COMMENTARIES (VRAVI)
@@ -7376,6 +9216,11 @@
 > ॥ 352 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7398,6 +9243,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **तापसाराध्या** — She who is worshipped by ascetics
@@ -7418,6 +9268,11 @@
 > ॥ 354 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7440,6 +9295,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **तमोऽपहा** — She who removes the ignorance born of tamas
@@ -7460,6 +9320,11 @@
 > ॥ 356 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7482,6 +9347,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > [Needs commentary]
@@ -7502,6 +9372,11 @@
 > ॥ 358 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7524,9 +9399,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **चिदेकरस-रूपिणी** — She who is of the nature of the pure intelligence. She who is the cause of knowledge
+> **चिदेकरस-रूपिणी** — She who is of the nature of the pure intelligence. She who
+is the cause of knowledge
 
 
 ## COMMENTARIES (VRAVI)
@@ -7545,9 +9426,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **स्वात्मानन्द-लवीभूत-ब्रह्माद्यानन्द-सन्ततिः** — She who makes the bliss of brahmA and others insignificant compared to Her own bliss
+> **स्वात्मानन्द-लवीभूत-ब्रह्माद्यानन्द-सन्ततिः** — She who makes the bliss of brahmA and others insignificant
+compared to Her own bliss
 
 
 ## COMMENTARIES (VRAVI)
@@ -7565,6 +9452,11 @@
 > ॥ 361 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7587,9 +9479,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **प्रत्यक्चितीरूपा** — She who is of the nature of unmanifested consciousness or of unmanifested brahman
+> **प्रत्यक्चितीरूपा** — She who is of the nature of unmanifested consciousness or of
+unmanifested brahman
 
 
 ## COMMENTARIES (VRAVI)
@@ -7608,9 +9506,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **पश्यन्ती** — She who is pashyantI, the second level of sound after parA in the svAdhiShTAna chakra
+> **पश्यन्ती** — She who is pashyantI, the second level of sound after parA in
+the svAdhiShTAna chakra
 
 
 ## COMMENTARIES (VRAVI)
@@ -7628,6 +9532,11 @@
 > ॥ 364 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7650,6 +9559,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **मध्यमा** — She who stays in the middle
@@ -7671,9 +9585,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **वैखरीरूपा** — She who is in the form of vaikharI (sound in the manifested, audible form)
+> **वैखरीरूपा** — She who is in the form of vaikharI (sound in the manifested,
+audible form)
 
 
 ## COMMENTARIES (VRAVI)
@@ -7691,6 +9611,11 @@
 > ॥ 367 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7713,6 +9638,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **कामेश्वर-प्राणनाडी** — She who is the very life of kAmeshvara, Her consort
@@ -7733,6 +9663,11 @@
 > ॥ 369 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7755,6 +9690,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **कामपूजिता** — She who is worshipped by kAma
@@ -7775,6 +9715,11 @@
 > ॥ 371 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7797,6 +9742,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **जया** — She who is victorious always and everywhere
@@ -7817,6 +9767,11 @@
 > ॥ 373 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7839,6 +9794,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **ओड्याणपीठ-निलया** — She whose abode is the center known as oDyANa (in the Aj~nA chakra)
@@ -7859,6 +9819,11 @@
 > ॥ 375 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7881,6 +9846,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **रहोयाग-क्रमाराध्या** — She who is worshipped in secret through sacrificial rites
@@ -7901,6 +9871,11 @@
 > ॥ 377 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7923,6 +9898,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **सद्यःप्रसादिनी** — She who bestows Her grace immediately
@@ -7943,6 +9923,11 @@
 > ॥ 379 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -7965,6 +9950,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **साक्षिवर्जिता** — She who has no other witness
@@ -7986,9 +9976,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **षडङ्गदेवता-युक्ता** — She who is accompanied by the deities of the six angAs (heart, head, hair, eyes, armor and weapons)
+> **षडङ्गदेवता-युक्ता** — She who is accompanied by the deities of the six angAs (heart,
+head, hair, eyes, armor and weapons)
 
 
 ## COMMENTARIES (VRAVI)
@@ -8007,9 +10003,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **षाड्गुण्य-परिपूरिता** — She who is fully endowed with the six good qualities (prosperity, valor, dispassion, fame, wealth and wisdom)
+> **षाड्गुण्य-परिपूरिता** — She who is fully endowed with the six good qualities
+(prosperity, valor, dispassion, fame, wealth and wisdom)
 
 
 ## COMMENTARIES (VRAVI)
@@ -8027,6 +10029,11 @@
 > ॥ 383 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8049,6 +10056,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **निरुपमा** — She who is incomparable
@@ -8069,6 +10081,11 @@
 > ॥ 385 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8091,6 +10108,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > [Needs commentary]
@@ -8112,9 +10134,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **श्रीकण्ठार्ध-शरीरिणी** — She who possesses half of the body of shrIkaNTha (shiva). She who is in the form of ardhanArishvara
+> **श्रीकण्ठार्ध-शरीरिणी** — She who possesses half of the body of shrIkaNTha (shiva).
+She who is in the form of ardhanArishvara
 
 
 ## COMMENTARIES (VRAVI)
@@ -8132,6 +10160,11 @@
 > ॥ 388 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8154,6 +10187,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **प्रभारूपा** — She who is effulgence
@@ -8174,6 +10212,11 @@
 > ॥ 390 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8196,6 +10239,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **परमेश्वरी** — She who is the supreme sovereign
@@ -8216,6 +10264,11 @@
 > ॥ 392 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8238,6 +10291,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > [Needs commentary]
@@ -8258,6 +10316,11 @@
 > ॥ 394 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8280,6 +10343,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **व्यक्ताव्यक्त-स्वरूपिणी** — She who is in the manifested and unmanifested forms
@@ -8300,6 +10368,11 @@
 > ॥ 396 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8322,6 +10395,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **विविधाकारा** — She who has a multitude of forms
@@ -8342,6 +10420,11 @@
 > ॥ 398 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8364,9 +10447,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **महाकामेश-नयन-कुमुदाह्लाद-कौमुदी** — She whois the moonlight that gladdens the water-lilies that are mahAkAmesha's eyes
+> **महाकामेश-नयन-कुमुदाह्लाद-कौमुदी** — She whois the moonlight that gladdens the water-lilies that
+are mahAkAmesha's eyes
 
 
 ## COMMENTARIES (VRAVI)
@@ -8385,9 +10474,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **भक्त-हार्द-तमोभेद-भानुमद्भानु-सन्ततिः** — She who is the sunbeam which dispels the darkness from the heart of Her devotees
+> **भक्त-हार्द-तमोभेद-भानुमद्भानु-सन्ततिः** — She who is the sunbeam which dispels the darkness from the
+heart of Her devotees
 
 
 ## COMMENTARIES (VRAVI)
@@ -8405,6 +10500,11 @@
 > ॥ 401 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8427,6 +10527,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **शिवाराध्या** — She who is worshipped by shiva
@@ -8447,6 +10552,11 @@
 > ॥ 403 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8469,9 +10579,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **शिवङ्करी** — She who confers prosperity (auspiciousness, happiness). She who turns Her devotees into shiva
+> **शिवङ्करी** — She who confers prosperity (auspiciousness, happiness). She
+who turns Her devotees into shiva
 
 
 ## COMMENTARIES (VRAVI)
@@ -8489,6 +10605,11 @@
 > ॥ 405 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8511,6 +10632,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **शिवपरा** — She who is solely devoted to shiva
@@ -8532,9 +10658,15 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **शिष्टेष्टा** — She who is loved by the righteous; She who is the chosen deity of devotees; She who loves righteous people
+> **शिष्टेष्टा** — She who is loved by the righteous; She who is the chosen deity
+of devotees; She who loves righteous people
 
 
 ## COMMENTARIES (VRAVI)
@@ -8552,6 +10684,11 @@
 > ॥ 408 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8574,6 +10711,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **अप्रमेया** — She who is immeasurable by the senses
@@ -8594,6 +10736,11 @@
 > ॥ 410 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8616,6 +10763,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > **मनोवाचामगोचरा** — She who is beyond the range of mind and speech
@@ -8636,6 +10788,11 @@
 > ॥ 412 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8658,6 +10815,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > [Needs commentary]
@@ -8678,6 +10840,11 @@
 > ॥ 414 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8700,6 +10867,11 @@
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
 > [Needs commentary]
@@ -8715,11 +10887,68 @@
 
 # NAME 416
 
-> गायत्री  
-> गायत्री  
+> [जडशक्तिः  
+> [जडशक्तिः  
 > ॥ 416 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (VRAVI)
+
+> [Needs commentary]
+
+
+---
+
+
+# NAME 417
+
+> जडात्मिका]  
+> जडात्मिका]  
+> ॥ 417 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (VRAVI)
+
+> [Needs commentary]
+
+
+---
+
+
+# NAME 418
+
+> गायत्री  
+> गायत्री  
+> ॥ 418 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8734,17 +10963,23 @@
 ---
 
 
-# NAME 417
+# NAME 419
 
 > व्याहृतिः  
 > व्याहृतिः  
-> ॥ 417 ॥
+> ॥ 419 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **व्याहृतिः** — She who is in the nature of utterance; She who presides over the power of speech
+> **व्याहृतिः** — She who is in the nature of utterance; She who presides over
+the power of speech
 
 
 ## COMMENTARIES (VRAVI)
@@ -8755,13 +10990,18 @@
 ---
 
 
-# NAME 418
+# NAME 420
 
 > सन्ध्या  
 > सन्ध्या  
-> ॥ 418 ॥
+> ॥ 420 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8776,13 +11016,18 @@
 ---
 
 
-# NAME 419
+# NAME 421
 
 > द्विजवृन्द-निषेविता  
 > द्विजवृन्द-निषेविता  
-> ॥ 419 ॥
+> ॥ 421 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8797,13 +11042,18 @@
 ---
 
 
-# NAME 420
+# NAME 422
 
 > तत्त्वासना  
 > तत्त्वासना  
-> ॥ 420 ॥
+> ॥ 422 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8818,13 +11068,18 @@
 ---
 
 
-# NAME 421
+# NAME 423
 
 > तत्त्वमयी  
 > तत्त्वमयी  
-> ॥ 421 ॥
+> ॥ 423 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8839,13 +11094,18 @@
 ---
 
 
-# NAME 422
+# NAME 424
 
 > पञ्च-कोशान्तर-स्थिता  
 > पञ्च-कोशान्तर-स्थिता  
-> ॥ 422 ॥
+> ॥ 424 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8860,13 +11120,18 @@
 ---
 
 
-# NAME 423
+# NAME 425
 
 > निःसीम-महिमा  
 > निःसीम-महिमा  
-> ॥ 423 ॥
+> ॥ 425 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8881,13 +11146,18 @@
 ---
 
 
-# NAME 424
+# NAME 426
 
 > नित्य-यौवना  
 > नित्य-यौवना  
-> ॥ 424 ॥
+> ॥ 426 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8902,13 +11172,18 @@
 ---
 
 
-# NAME 425
+# NAME 427
 
 > मदशालिनी  
 > मदशालिनी  
-> ॥ 425 ॥
+> ॥ 427 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8923,13 +11198,18 @@
 ---
 
 
-# NAME 426
+# NAME 428
 
 > मदघूर्णित-रक्ताक्षी  
 > मदघूर्णित-रक्ताक्षी  
-> ॥ 426 ॥
+> ॥ 428 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8944,13 +11224,18 @@
 ---
 
 
-# NAME 427
+# NAME 429
 
 > मदपाटल-गण्डभूः  
 > मदपाटल-गण्डभूः  
-> ॥ 427 ॥
+> ॥ 429 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8965,13 +11250,18 @@
 ---
 
 
-# NAME 428
+# NAME 430
 
 > चन्दन-द्रव-दिग्धाङ्गी  
 > चन्दन-द्रव-दिग्धाङ्गी  
-> ॥ 428 ॥
+> ॥ 430 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -8986,13 +11276,18 @@
 ---
 
 
-# NAME 429
+# NAME 431
 
 > चाम्पेय-कुसुम-प्रिया  
 > चाम्पेय-कुसुम-प्रिया  
-> ॥ 429 ॥
+> ॥ 431 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9007,13 +11302,18 @@
 ---
 
 
-# NAME 430
+# NAME 432
 
 > कुशला  
 > कुशला  
-> ॥ 430 ॥
+> ॥ 432 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9028,13 +11328,18 @@
 ---
 
 
-# NAME 431
+# NAME 433
 
 > कोमलाकारा  
 > कोमलाकारा  
-> ॥ 431 ॥
+> ॥ 433 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9049,13 +11354,18 @@
 ---
 
 
-# NAME 432
+# NAME 434
 
 > कुरुकुल्ला  
 > कुरुकुल्ला  
-> ॥ 432 ॥
+> ॥ 434 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9070,17 +11380,23 @@
 ---
 
 
-# NAME 433
+# NAME 435
 
 > कुलेश्वरी  
 > कुलेश्वरी  
-> ॥ 433 ॥
+> ॥ 435 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **कुलेश्वरी** — She who is the ruler of kula (the triad of knower, the known and knowledge)
+> **कुलेश्वरी** — She who is the ruler of kula (the triad of knower, the known
+and knowledge)
 
 
 ## COMMENTARIES (VRAVI)
@@ -9091,17 +11407,23 @@
 ---
 
 
-# NAME 434
+# NAME 436
 
 > कुलकुण्डालया  
 > कुलकुण्डालया  
-> ॥ 434 ॥
+> ॥ 436 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **कुलकुण्डालया** — She who abides in the kulakuNDa (the bindu at the center of the pericarp in mUlAdhAra chakra
+> **कुलकुण्डालया** — She who abides in the kulakuNDa (the bindu at the center of
+the pericarp in mUlAdhAra chakra
 
 
 ## COMMENTARIES (VRAVI)
@@ -9112,13 +11434,18 @@
 ---
 
 
-# NAME 435
+# NAME 437
 
 > कौल-मार्ग-तत्पर-सेविता  
 > कौल-मार्ग-तत्पर-सेविता  
-> ॥ 435 ॥
+> ॥ 437 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9133,13 +11460,18 @@
 ---
 
 
-# NAME 436
+# NAME 438
 
 > कुमार-गणनाथाम्बा  
 > कुमार-गणनाथाम्बा  
-> ॥ 436 ॥
+> ॥ 438 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9154,13 +11486,18 @@
 ---
 
 
-# NAME 437
+# NAME 439
 
 > तुष्टिः  
 > तुष्टिः  
-> ॥ 437 ॥
+> ॥ 439 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9175,13 +11512,18 @@
 ---
 
 
-# NAME 438
+# NAME 440
 
 > पुष्टिर्मतिर्धृतिः  
 > पुष्टिर्मतिर्धृतिः  
-> ॥ 438 ॥
+> ॥ 440 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9196,13 +11538,18 @@
 ---
 
 
-# NAME 439
+# NAME 441
 
 > शान्तिः  
 > शान्तिः  
-> ॥ 439 ॥
+> ॥ 441 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9217,13 +11564,18 @@
 ---
 
 
-# NAME 440
+# NAME 442
 
 > स्वस्तिमती  
 > स्वस्तिमती  
-> ॥ 440 ॥
+> ॥ 442 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9238,13 +11590,18 @@
 ---
 
 
-# NAME 441
+# NAME 443
 
 > कान्तिर्नन्दिनी  
 > कान्तिर्नन्दिनी  
-> ॥ 441 ॥
+> ॥ 443 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9259,13 +11616,18 @@
 ---
 
 
-# NAME 442
+# NAME 444
 
 > विघ्ननाशिनी  
 > विघ्ननाशिनी  
-> ॥ 442 ॥
+> ॥ 444 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9280,13 +11642,18 @@
 ---
 
 
-# NAME 443
+# NAME 445
 
 > तेजोवती  
 > तेजोवती  
-> ॥ 443 ॥
+> ॥ 445 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9301,13 +11668,18 @@
 ---
 
 
-# NAME 444
+# NAME 446
 
 > त्रिनयना  
 > त्रिनयना  
-> ॥ 444 ॥
+> ॥ 446 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9322,13 +11694,18 @@
 ---
 
 
-# NAME 445
+# NAME 447
 
 > लोलाक्षी-कामरूपिणी  
 > लोलाक्षी-कामरूपिणी  
-> ॥ 445 ॥
+> ॥ 447 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9343,13 +11720,18 @@
 ---
 
 
-# NAME 446
+# NAME 448
 
 > मालिनी  
 > मालिनी  
-> ॥ 446 ॥
+> ॥ 448 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9364,17 +11746,23 @@
 ---
 
 
-# NAME 447
+# NAME 449
 
 > हंसिनी  
 > हंसिनी  
-> ॥ 447 ॥
+> ॥ 449 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **हंसिनी** — She who is not separate from hamsas (the yogins who have reached great spiritual heights)
+> **हंसिनी** — She who is not separate from hamsas (the yogins who have
+reached great spiritual heights)
 
 
 ## COMMENTARIES (VRAVI)
@@ -9385,13 +11773,18 @@
 ---
 
 
-# NAME 448
+# NAME 450
 
 > माता  
 > माता  
-> ॥ 448 ॥
+> ॥ 450 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9406,13 +11799,18 @@
 ---
 
 
-# NAME 449
+# NAME 451
 
 > मलयाचल-वासिनी  
 > मलयाचल-वासिनी  
-> ॥ 449 ॥
+> ॥ 451 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9427,13 +11825,18 @@
 ---
 
 
-# NAME 450
+# NAME 452
 
 > सुमुखी  
 > सुमुखी  
-> ॥ 450 ॥
+> ॥ 452 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9448,13 +11851,18 @@
 ---
 
 
-# NAME 451
+# NAME 453
 
 > नलिनी  
 > नलिनी  
-> ॥ 451 ॥
+> ॥ 453 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9469,13 +11877,18 @@
 ---
 
 
-# NAME 452
+# NAME 454
 
 > सुभ्रूः  
 > सुभ्रूः  
-> ॥ 452 ॥
+> ॥ 454 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9490,13 +11903,18 @@
 ---
 
 
-# NAME 453
+# NAME 455
 
 > शोभना  
 > शोभना  
-> ॥ 453 ॥
+> ॥ 455 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9511,13 +11929,18 @@
 ---
 
 
-# NAME 454
+# NAME 456
 
 > सुरनायिका  
 > सुरनायिका  
-> ॥ 454 ॥
+> ॥ 456 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9532,13 +11955,18 @@
 ---
 
 
-# NAME 455
+# NAME 457
 
 > कालकण्ठी  
 > कालकण्ठी  
-> ॥ 455 ॥
+> ॥ 457 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9553,13 +11981,18 @@
 ---
 
 
-# NAME 456
+# NAME 458
 
 > कान्तिमती  
 > कान्तिमती  
-> ॥ 456 ॥
+> ॥ 458 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9574,13 +12007,18 @@
 ---
 
 
-# NAME 457
+# NAME 459
 
 > क्षोभिणी  
 > क्षोभिणी  
-> ॥ 457 ॥
+> ॥ 459 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9595,17 +12033,23 @@
 ---
 
 
-# NAME 458
+# NAME 460
 
 > सूक्ष्मरूपिणी  
 > सूक्ष्मरूपिणी  
-> ॥ 458 ॥
+> ॥ 460 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **सूक्ष्मरूपिणी** — She who has a form that is too subtle to be perceived by the sense organs
+> **सूक्ष्मरूपिणी** — She who has a form that is too subtle to be perceived by the
+sense organs
 
 
 ## COMMENTARIES (VRAVI)
@@ -9616,13 +12060,18 @@
 ---
 
 
-# NAME 459
+# NAME 461
 
 > वज्रेश्वरी  
 > वज्रेश्वरी  
-> ॥ 459 ॥
+> ॥ 461 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9637,13 +12086,18 @@
 ---
 
 
-# NAME 460
+# NAME 462
 
 > वामदेवी  
 > वामदेवी  
-> ॥ 460 ॥
+> ॥ 462 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9658,13 +12112,18 @@
 ---
 
 
-# NAME 461
+# NAME 463
 
 > वयोऽवस्था-विवर्जिता  
 > वयोऽवस्था-विवर्जिता  
-> ॥ 461 ॥
+> ॥ 463 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9679,13 +12138,18 @@
 ---
 
 
-# NAME 462
+# NAME 464
 
 > सिद्धेश्वरी  
 > सिद्धेश्वरी  
-> ॥ 462 ॥
+> ॥ 464 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9700,13 +12164,18 @@
 ---
 
 
-# NAME 463
+# NAME 465
 
 > सिद्धविद्या  
 > सिद्धविद्या  
-> ॥ 463 ॥
+> ॥ 465 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9721,13 +12190,18 @@
 ---
 
 
-# NAME 464
+# NAME 466
 
 > सिद्धमाता  
 > सिद्धमाता  
-> ॥ 464 ॥
+> ॥ 466 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9742,13 +12216,18 @@
 ---
 
 
-# NAME 465
+# NAME 467
 
 > यशस्विनी  
 > यशस्विनी  
-> ॥ 465 ॥
+> ॥ 467 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9763,13 +12242,18 @@
 ---
 
 
-# NAME 466
+# NAME 468
 
 > विशुद्धिचक्र-निलयाऽऽरक्तवर्णा  
 > विशुद्धिचक्र-निलयाऽऽरक्तवर्णा  
-> ॥ 466 ॥
+> ॥ 468 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9784,13 +12268,18 @@
 ---
 
 
-# NAME 467
+# NAME 469
 
 > त्रिलोचना  
 > त्रिलोचना  
-> ॥ 467 ॥
+> ॥ 469 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9805,13 +12294,18 @@
 ---
 
 
-# NAME 468
+# NAME 470
 
 > खट्वाङ्गादि-प्रहरणा  
 > खट्वाङ्गादि-प्रहरणा  
-> ॥ 468 ॥
+> ॥ 470 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9826,13 +12320,18 @@
 ---
 
 
-# NAME 469
+# NAME 471
 
 > वदनैक-समन्विता  
 > वदनैक-समन्विता  
-> ॥ 469 ॥
+> ॥ 471 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9847,13 +12346,18 @@
 ---
 
 
-# NAME 470
+# NAME 472
 
 > पायसान्नप्रिया  
 > पायसान्नप्रिया  
-> ॥ 470 ॥
+> ॥ 472 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9868,13 +12372,18 @@
 ---
 
 
-# NAME 471
+# NAME 473
 
 > त्वक्स्था  
 > त्वक्स्था  
-> ॥ 471 ॥
+> ॥ 473 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9889,13 +12398,18 @@
 ---
 
 
-# NAME 472
+# NAME 474
 
 > पशुलोक-भयङ्करी  
 > पशुलोक-भयङ्करी  
-> ॥ 472 ॥
+> ॥ 474 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9910,13 +12424,18 @@
 ---
 
 
-# NAME 473
+# NAME 475
 
 > अमृतादि-महाशक्ति-संवृता  
 > अमृतादि-महाशक्ति-संवृता  
-> ॥ 473 ॥
+> ॥ 475 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9931,13 +12450,18 @@
 ---
 
 
-# NAME 474
+# NAME 476
 
 > डाकिनीश्वरी  
 > डाकिनीश्वरी  
-> ॥ 474 ॥
+> ॥ 476 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9952,13 +12476,18 @@
 ---
 
 
-# NAME 475
+# NAME 477
 
 > अनाहताब्ज-निलया  
 > अनाहताब्ज-निलया  
-> ॥ 475 ॥
+> ॥ 477 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9973,13 +12502,18 @@
 ---
 
 
-# NAME 476
+# NAME 478
 
 > श्यामाभा  
 > श्यामाभा  
-> ॥ 476 ॥
+> ॥ 478 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -9994,13 +12528,18 @@
 ---
 
 
-# NAME 477
+# NAME 479
 
 > वदनद्वया  
 > वदनद्वया  
-> ॥ 477 ॥
+> ॥ 479 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10015,13 +12554,18 @@
 ---
 
 
-# NAME 478
+# NAME 480
 
 > दंष्ट्रोज्ज्वलाऽक्ष-मालादि-धरा  
 > दंष्ट्रोज्ज्वलाऽक्ष-मालादि-धरा  
-> ॥ 478 ॥
+> ॥ 480 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10036,13 +12580,18 @@
 ---
 
 
-# NAME 479
+# NAME 481
 
 > रुधिरसंस्थिता  
 > रुधिरसंस्थिता  
-> ॥ 479 ॥
+> ॥ 481 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10057,13 +12606,18 @@
 ---
 
 
-# NAME 480
+# NAME 482
 
 > कालरात्र्यादि-शक्त्यौघ-वृता  
 > कालरात्र्यादि-शक्त्यौघ-वृता  
-> ॥ 480 ॥
+> ॥ 482 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10078,17 +12632,23 @@
 ---
 
 
-# NAME 481
+# NAME 483
 
 > स्निग्धौदनप्रिया  
 > स्निग्धौदनप्रिया  
-> ॥ 481 ॥
+> ॥ 483 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **स्निग्धौदनप्रिया** — She who is fond of food offerings containing ghee, oil and other substances containing fats
+> **स्निग्धौदनप्रिया** — She who is fond of food offerings containing ghee, oil and
+other substances containing fats
 
 
 ## COMMENTARIES (VRAVI)
@@ -10099,13 +12659,18 @@
 ---
 
 
-# NAME 482
+# NAME 484
 
 > महावीरेन्द्र-वरदा  
 > महावीरेन्द्र-वरदा  
-> ॥ 482 ॥
+> ॥ 484 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10120,13 +12685,18 @@
 ---
 
 
-# NAME 483
+# NAME 485
 
 > राकिण्यम्बा-स्वरूपिणी  
 > राकिण्यम्बा-स्वरूपिणी  
-> ॥ 483 ॥
+> ॥ 485 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10141,13 +12711,18 @@
 ---
 
 
-# NAME 484
+# NAME 486
 
 > मणिपूराब्ज-निलया  
 > मणिपूराब्ज-निलया  
-> ॥ 484 ॥
+> ॥ 486 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10162,13 +12737,18 @@
 ---
 
 
-# NAME 485
+# NAME 487
 
 > वदनत्रय-संयुता  
 > वदनत्रय-संयुता  
-> ॥ 485 ॥
+> ॥ 487 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10183,13 +12763,18 @@
 ---
 
 
-# NAME 486
+# NAME 488
 
 > वज्रादिकायुधोपेता  
 > वज्रादिकायुधोपेता  
-> ॥ 486 ॥
+> ॥ 488 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10204,13 +12789,18 @@
 ---
 
 
-# NAME 487
+# NAME 489
 
 > डामर्यादिभिरावृता  
 > डामर्यादिभिरावृता  
-> ॥ 487 ॥
+> ॥ 489 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10225,13 +12815,18 @@
 ---
 
 
-# NAME 488
+# NAME 490
 
 > रक्तवर्णा  
 > रक्तवर्णा  
-> ॥ 488 ॥
+> ॥ 490 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10246,13 +12841,18 @@
 ---
 
 
-# NAME 489
+# NAME 491
 
 > मांसनिष्ठा  
 > मांसनिष्ठा  
-> ॥ 489 ॥
+> ॥ 491 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10267,13 +12867,18 @@
 ---
 
 
-# NAME 490
+# NAME 492
 
 > गुडान्न-प्रीत-मानसा  
 > गुडान्न-प्रीत-मानसा  
-> ॥ 490 ॥
+> ॥ 492 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10288,13 +12893,18 @@
 ---
 
 
-# NAME 491
+# NAME 493
 
 > समस्तभक्त-सुखदा  
 > समस्तभक्त-सुखदा  
-> ॥ 491 ॥
+> ॥ 493 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10309,13 +12919,18 @@
 ---
 
 
-# NAME 492
+# NAME 494
 
 > लाकिन्यम्बा-स्वरूपिणी  
 > लाकिन्यम्बा-स्वरूपिणी  
-> ॥ 492 ॥
+> ॥ 494 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10330,17 +12945,23 @@
 ---
 
 
-# NAME 493
+# NAME 495
 
 > स्वाधिष्ठानाम्बुज-गता  
 > स्वाधिष्ठानाम्बुज-गता  
-> ॥ 493 ॥
+> ॥ 495 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **स्वाधिष्ठानाम्बुज-गता** — She who resides in the six-petaled lotus in the svAdhiShTAna, kAkinI yoginI
+> **स्वाधिष्ठानाम्बुज-गता** — She who resides in the six-petaled lotus in the svAdhiShTAna,
+kAkinI yoginI
 
 
 ## COMMENTARIES (VRAVI)
@@ -10351,13 +12972,18 @@
 ---
 
 
-# NAME 494
+# NAME 496
 
 > चतुर्वक्त्र-मनोहरा  
 > चतुर्वक्त्र-मनोहरा  
-> ॥ 494 ॥
+> ॥ 496 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10372,17 +12998,23 @@
 ---
 
 
-# NAME 495
+# NAME 497
 
 > शूलाद्यायुध-सम्पन्ना  
 > शूलाद्यायुध-सम्पन्ना  
-> ॥ 495 ॥
+> ॥ 497 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **शूलाद्यायुध-सम्पन्ना** — She who possesses the trident and other weapons (i.e., noose, skull and abhaya)
+> **शूलाद्यायुध-सम्पन्ना** — She who possesses the trident and other weapons (i.e., noose,
+skull and abhaya)
 
 
 ## COMMENTARIES (VRAVI)
@@ -10393,13 +13025,18 @@
 ---
 
 
-# NAME 496
+# NAME 498
 
 > पीतवर्णाऽतिगर्विता  
 > पीतवर्णाऽतिगर्विता  
-> ॥ 496 ॥
+> ॥ 498 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10414,13 +13051,18 @@
 ---
 
 
-# NAME 497
+# NAME 499
 
 > मेदोनिष्ठा  
 > मेदोनिष्ठा  
-> ॥ 497 ॥
+> ॥ 499 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10435,13 +13077,18 @@
 ---
 
 
-# NAME 498
+# NAME 500
 
 > मधुप्रीता  
 > मधुप्रीता  
-> ॥ 498 ॥
+> ॥ 500 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10456,13 +13103,18 @@
 ---
 
 
-# NAME 499
+# NAME 501
 
 > बन्धिन्यादि-समन्विता  
 > बन्धिन्यादि-समन्विता  
-> ॥ 499 ॥
+> ॥ 501 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10477,13 +13129,18 @@
 ---
 
 
-# NAME 500
+# NAME 502
 
 > दध्यन्नासक्त-हृदया  
 > दध्यन्नासक्त-हृदया  
-> ॥ 500 ॥
+> ॥ 502 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10498,13 +13155,18 @@
 ---
 
 
-# NAME 501
+# NAME 503
 
 > काकिनी-रूप-धारिणी  
 > काकिनी-रूप-धारिणी  
-> ॥ 501 ॥
+> ॥ 503 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10519,13 +13181,18 @@
 ---
 
 
-# NAME 502
+# NAME 504
 
 > मूलाधाराम्बुजारूढा  
 > मूलाधाराम्बुजारूढा  
-> ॥ 502 ॥
+> ॥ 504 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10540,13 +13207,18 @@
 ---
 
 
-# NAME 503
+# NAME 505
 
 > पञ्च-वक्त्राऽस्थि-संस्थिता  
 > पञ्च-वक्त्राऽस्थि-संस्थिता  
-> ॥ 503 ॥
+> ॥ 505 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10561,13 +13233,18 @@
 ---
 
 
-# NAME 504
+# NAME 506
 
 > अङ्कुशादि-प्रहरणा  
 > अङ्कुशादि-प्रहरणा  
-> ॥ 504 ॥
+> ॥ 506 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10582,13 +13259,18 @@
 ---
 
 
-# NAME 505
+# NAME 507
 
 > वरदादि-निषेविता  
 > वरदादि-निषेविता  
-> ॥ 505 ॥
+> ॥ 507 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10603,17 +13285,23 @@
 ---
 
 
-# NAME 506
+# NAME 508
 
 > मुद्गौदनासक्त-चित्ता  
 > मुद्गौदनासक्त-चित्ता  
-> ॥ 506 ॥
+> ॥ 508 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **मुद्गौदनासक्त-चित्ता** — She who is particularly fond of food offerings made of mudga, a lentil
+> **मुद्गौदनासक्त-चित्ता** — She who is particularly fond of food offerings made of mudga,
+a lentil
 
 
 ## COMMENTARIES (VRAVI)
@@ -10624,13 +13312,18 @@
 ---
 
 
-# NAME 507
+# NAME 509
 
 > साकिन्यम्बा-स्वरूपिणी  
 > साकिन्यम्बा-स्वरूपिणी  
-> ॥ 507 ॥
+> ॥ 509 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10645,13 +13338,18 @@
 ---
 
 
-# NAME 508
+# NAME 510
 
 > आज्ञा-चक्राब्ज-निलया  
 > आज्ञा-चक्राब्ज-निलया  
-> ॥ 508 ॥
+> ॥ 510 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10666,13 +13364,18 @@
 ---
 
 
-# NAME 509
+# NAME 511
 
 > शुक्लवर्णा  
 > शुक्लवर्णा  
-> ॥ 509 ॥
+> ॥ 511 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10687,13 +13390,18 @@
 ---
 
 
-# NAME 510
+# NAME 512
 
 > षडानना  
 > षडानना  
-> ॥ 510 ॥
+> ॥ 512 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10708,13 +13416,18 @@
 ---
 
 
-# NAME 511
+# NAME 513
 
 > मज्जासंस्था  
 > मज्जासंस्था  
-> ॥ 511 ॥
+> ॥ 513 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10729,17 +13442,23 @@
 ---
 
 
-# NAME 512
+# NAME 514
 
 > हंसवती-मुख्य-शक्ति-समन्विता  
 > हंसवती-मुख्य-शक्ति-समन्विता  
-> ॥ 512 ॥
+> ॥ 514 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **हंसवती-मुख्य-शक्ति-समन्विता** — She who is accompanied by the shaktis hamsavatI and kShamAvati (in the two petals of the lotus)
+> **हंसवती-मुख्य-शक्ति-समन्विता** — She who is accompanied by the shaktis hamsavatI and kShamAvati
+(in the two petals of the lotus)
 
 
 ## COMMENTARIES (VRAVI)
@@ -10750,13 +13469,18 @@
 ---
 
 
-# NAME 513
+# NAME 515
 
 > हरिद्रान्नैक-रसिका  
 > हरिद्रान्नैक-रसिका  
-> ॥ 513 ॥
+> ॥ 515 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10771,13 +13495,18 @@
 ---
 
 
-# NAME 514
+# NAME 516
 
 > हाकिनी-रूप-धारिणी  
 > हाकिनी-रूप-धारिणी  
-> ॥ 514 ॥
+> ॥ 516 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10792,13 +13521,18 @@
 ---
 
 
-# NAME 515
+# NAME 517
 
 > सहस्रदल-पद्मस्था  
 > सहस्रदल-पद्मस्था  
-> ॥ 515 ॥
+> ॥ 517 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10813,13 +13547,18 @@
 ---
 
 
-# NAME 516
+# NAME 518
 
 > सर्व-वर्णोप-शोभिता  
 > सर्व-वर्णोप-शोभिता  
-> ॥ 516 ॥
+> ॥ 518 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10834,13 +13573,18 @@
 ---
 
 
-# NAME 517
+# NAME 519
 
 > सर्वायुधधरा  
 > सर्वायुधधरा  
-> ॥ 517 ॥
+> ॥ 519 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10855,13 +13599,18 @@
 ---
 
 
-# NAME 518
+# NAME 520
 
 > शुक्ल-संस्थिता  
 > शुक्ल-संस्थिता  
-> ॥ 518 ॥
+> ॥ 520 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10876,13 +13625,18 @@
 ---
 
 
-# NAME 519
+# NAME 521
 
 > सर्वतोमुखी  
 > सर्वतोमुखी  
-> ॥ 519 ॥
+> ॥ 521 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10897,13 +13651,18 @@
 ---
 
 
-# NAME 520
+# NAME 522
 
 > सर्वौदन-प्रीतचित्ता  
 > सर्वौदन-प्रीतचित्ता  
-> ॥ 520 ॥
+> ॥ 522 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10918,13 +13677,18 @@
 ---
 
 
-# NAME 521
+# NAME 523
 
 > याकिन्यम्बा-स्वरूपिणी  
 > याकिन्यम्बा-स्वरूपिणी  
-> ॥ 521 ॥
+> ॥ 523 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -10939,17 +13703,24 @@
 ---
 
 
-# NAME 522
+# NAME 524
 
 > स्वाहा  
 > स्वाहा  
-> ॥ 522 ॥
+> ॥ 524 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **स्वाहा** — She who is the object of the invocation 'svAhA' at the end of mantras chanted while offering oblations to the fire in yAga ceremonies
+> **स्वाहा** — She who is the object of the invocation 'svAhA' at the end
+of mantras chanted while offering oblations to the fire in
+yAga ceremonies
 
 
 ## COMMENTARIES (VRAVI)
@@ -10960,55 +13731,18 @@
 ---
 
 
-# NAME 523
-
-> स्वधाऽमतिर्मेधा  
-> स्वधाऽमतिर्मेधा  
-> ॥ 523 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
-
-## COMMENTARIES (VRAVI)
-
-> [Needs commentary]
-
-
----
-
-
-# NAME 524
-
-> श्रुतिः  
-> श्रुतिः  
-> ॥ 524 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> **श्रुतिः** — She who is in the form of the vedas
-
-
-## COMMENTARIES (VRAVI)
-
-> **श्रुतिः** — Śruti means Veda-s. She is in the form of all the four Veda-s or all the Veda-s represent Her form.
-
-
----
-
-
 # NAME 525
 
-> स्मृतिरनुत्तमा  
-> स्मृतिरनुत्तमा  
+> स्वधाऽमतिर्मेधा  
+> स्वधाऽमतिर्मेधा  
 > ॥ 525 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11025,11 +13759,68 @@
 
 # NAME 526
 
-> पुण्यकीर्तिः  
-> पुण्यकीर्तिः  
+> श्रुतिः  
+> श्रुतिः  
 > ॥ 526 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> **श्रुतिः** — She who is in the form of the vedas
+
+
+## COMMENTARIES (VRAVI)
+
+> **श्रुतिः** — Śruti means Veda-s. She is in the form of all the four Veda-s or all the Veda-s represent Her form.
+
+
+---
+
+
+# NAME 527
+
+> स्मृतिरनुत्तमा  
+> स्मृतिरनुत्तमा  
+> ॥ 527 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (VRAVI)
+
+> [Needs commentary]
+
+
+---
+
+
+# NAME 528
+
+> पुण्यकीर्तिः  
+> पुण्यकीर्तिः  
+> ॥ 528 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11044,13 +13835,18 @@
 ---
 
 
-# NAME 527
+# NAME 529
 
 > पुण्यलभ्या  
 > पुण्यलभ्या  
-> ॥ 527 ॥
+> ॥ 529 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11065,13 +13861,18 @@
 ---
 
 
-# NAME 528
+# NAME 530
 
 > पुण्यश्रवण-कीर्तना  
 > पुण्यश्रवण-कीर्तना  
-> ॥ 528 ॥
+> ॥ 530 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11086,13 +13887,18 @@
 ---
 
 
-# NAME 529
+# NAME 531
 
 > पुलोमजार्चिता  
 > पुलोमजार्चिता  
-> ॥ 529 ॥
+> ॥ 531 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11107,13 +13913,18 @@
 ---
 
 
-# NAME 530
+# NAME 532
 
 > बन्ध-मोचनी  
 > बन्ध-मोचनी  
-> ॥ 530 ॥
+> ॥ 532 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11128,13 +13939,18 @@
 ---
 
 
-# NAME 531
+# NAME 533
 
 > बन्धुरालका  
 > बन्धुरालका  
-> ॥ 531 ॥
+> ॥ 533 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11149,13 +13965,18 @@
 ---
 
 
-# NAME 532
+# NAME 534
 
 > विमर्शरूपिणी  
 > विमर्शरूपिणी  
-> ॥ 532 ॥
+> ॥ 534 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11170,13 +13991,18 @@
 ---
 
 
-# NAME 533
+# NAME 535
 
 > विद्या  
 > विद्या  
-> ॥ 533 ॥
+> ॥ 535 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11191,13 +14017,18 @@
 ---
 
 
-# NAME 534
+# NAME 536
 
 > वियदादि-जगत्प्रसूः  
 > वियदादि-जगत्प्रसूः  
-> ॥ 534 ॥
+> ॥ 536 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11212,13 +14043,18 @@
 ---
 
 
-# NAME 535
+# NAME 537
 
 > सर्वव्याधि-प्रशमनी  
 > सर्वव्याधि-प्रशमनी  
-> ॥ 535 ॥
+> ॥ 537 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11233,13 +14069,18 @@
 ---
 
 
-# NAME 536
+# NAME 538
 
 > सर्वमृत्यु-निवारिणी  
 > सर्वमृत्यु-निवारिणी  
-> ॥ 536 ॥
+> ॥ 538 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11254,13 +14095,18 @@
 ---
 
 
-# NAME 537
+# NAME 539
 
 > अग्रगण्याऽचिन्त्यरूपा  
 > अग्रगण्याऽचिन्त्यरूपा  
-> ॥ 537 ॥
+> ॥ 539 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11275,13 +14121,18 @@
 ---
 
 
-# NAME 538
+# NAME 540
 
 > कलिकल्मष-नाशिनी  
 > कलिकल्मष-नाशिनी  
-> ॥ 538 ॥
+> ॥ 540 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11296,13 +14147,18 @@
 ---
 
 
-# NAME 539
+# NAME 541
 
 > कात्यायनी  
 > कात्यायनी  
-> ॥ 539 ॥
+> ॥ 541 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11317,13 +14173,18 @@
 ---
 
 
-# NAME 540
+# NAME 542
 
 > कालहन्त्री  
 > कालहन्त्री  
-> ॥ 540 ॥
+> ॥ 542 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11338,13 +14199,18 @@
 ---
 
 
-# NAME 541
+# NAME 543
 
 > कमलाक्ष-निषेविता  
 > कमलाक्ष-निषेविता  
-> ॥ 541 ॥
+> ॥ 543 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11359,13 +14225,18 @@
 ---
 
 
-# NAME 542
+# NAME 544
 
 > ताम्बूल-पूरित-मुखी  
 > ताम्बूल-पूरित-मुखी  
-> ॥ 542 ॥
+> ॥ 544 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11380,13 +14251,18 @@
 ---
 
 
-# NAME 543
+# NAME 545
 
 > दाडिमी-कुसुम-प्रभा  
 > दाडिमी-कुसुम-प्रभा  
-> ॥ 543 ॥
+> ॥ 545 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11401,13 +14277,18 @@
 ---
 
 
-# NAME 544
+# NAME 546
 
 > मृगाक्षी  
 > मृगाक्षी  
-> ॥ 544 ॥
+> ॥ 546 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11422,13 +14303,18 @@
 ---
 
 
-# NAME 545
+# NAME 547
 
 > मोहिनी  
 > मोहिनी  
-> ॥ 545 ॥
+> ॥ 547 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11443,13 +14329,18 @@
 ---
 
 
-# NAME 546
+# NAME 548
 
 > मुख्या  
 > मुख्या  
-> ॥ 546 ॥
+> ॥ 548 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11464,13 +14355,18 @@
 ---
 
 
-# NAME 547
+# NAME 549
 
 > मृडानी  
 > मृडानी  
-> ॥ 547 ॥
+> ॥ 549 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11485,13 +14381,18 @@
 ---
 
 
-# NAME 548
+# NAME 550
 
 > मित्ररूपिणी  
 > मित्ररूपिणी  
-> ॥ 548 ॥
+> ॥ 550 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11506,13 +14407,18 @@
 ---
 
 
-# NAME 549
+# NAME 551
 
 > नित्यतृप्ता  
 > नित्यतृप्ता  
-> ॥ 549 ॥
+> ॥ 551 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11527,13 +14433,18 @@
 ---
 
 
-# NAME 550
+# NAME 552
 
 > भक्तनिधिर्नियन्त्री  
 > भक्तनिधिर्नियन्त्री  
-> ॥ 550 ॥
+> ॥ 552 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11548,13 +14459,18 @@
 ---
 
 
-# NAME 551
+# NAME 553
 
 > निखिलेश्वरी  
 > निखिलेश्वरी  
-> ॥ 551 ॥
+> ॥ 553 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11569,13 +14485,18 @@
 ---
 
 
-# NAME 552
+# NAME 554
 
 > मैत्र्यादि-वासनालभ्या  
 > मैत्र्यादि-वासनालभ्या  
-> ॥ 552 ॥
+> ॥ 554 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11590,13 +14511,18 @@
 ---
 
 
-# NAME 553
+# NAME 555
 
 > महाप्रलय-साक्षिणी  
 > महाप्रलय-साक्षिणी  
-> ॥ 553 ॥
+> ॥ 555 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11611,48 +14537,6 @@
 ---
 
 
-# NAME 554
-
-> परा  
-> परा  
-> ॥ 554 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> **परा** — She who is the supreme; She who transcends all
-
-
-## COMMENTARIES (VRAVI)
-
-> **परा** — In the next few nāma-s Her Śabda (sound) Brahman form is going to be discussed. The literal meaning of ‘Brahman’ is growing, developing, swelling, expanding, evolving etc. This nāma refers Her un-manifested form (of the Brahman). In order to understand this nāma and the next few, origin and evolution of sound becomes a necessity. Prakāśa and vimarśa form of the Brahman are quite frequently referred to while discussing the Supreme Reality or the Absolute. Generally it is to be understood that prakāśa form represent Śiva and vimarśa form represent Śakthī. Śiva or Parameśvara (parama means the highest) is pure and unblemished self-illuminating light and Śakthī or vimarśa is the realisation of this pure light. Prakāśa and vimarśa cannot be separated. There is a Sanskrit saying that word and its meaning cannot be separated; in the same way Pārvatī or Śakthī and Parameśvaran or Śiva cannot be separated from each other. When there is a brilliant light, one needs to have knowledge to realise it as light. Suppose, there is a candle burning, and on seeing the candle with light, one can say that the candle gives light. When one wants to see a candle light, he needs to have a lighted candle. The light and its visibility though separate, are interdependent. Visibility is the expression of light and without the source of the light, visibility becomes impossible. In the same way, light is of no use, if it is not reflected making the visibility possible. Both light and its expression together is known as light. This is called prakāśa vimarśa māyā or the Absolute. Sound originates from this Absolute form. This Absolute form is also called parāvāc form. This parāvāc is primeval stage. The sound in this stage can be called as a seed that has not yet germinated. When the seed begins its germination, the stage is called paśyantī (nāma 368). At this stage the seed has the desire to grow. The stem becomes visible and the seed is set to commence its journey of growth. Though it is known for certain that there is going to be a tree at a future date, one does not know how the tree would be, big or small, fruit bearing or barren etc. When the sapling grows to a certain height, one is able to see its leaves, he will be able to identify what type of tree that would be. This stage is called madhyamā (nāma 370). The sapling further grows to become a tree, when one is able to see its flowers and fruits. He is able to recognize the nature of this seed totally now. The complete form of the tree is known at this stage. This is called vaikharī stage. These three stages originated from the form of the Absolute, the seed in this example. Absolute form is called as parāvāc. Parā mean the highest form or the supreme form and vāc means sound. Parāvāc means the supreme form of sound. From this parā form or the seed form sound germinates, grows and yields words. The result is a full word with meaning. In a human being this parāvāc is said to be in the form of kuṇḍalinī (nāma110) energy posited in mūlādāra cakra or base cakra. From the base cakra, the seed of the sound begins its ascent, reaches manipūraka cakra or navel cakra in the form of paśyantī, moves to anāhat cakra or heart cakra in the form madhyamā and reaches viśuddhi throat cakra as vaikharī where the final cleansing takes place. From the throat cakra the physical form of words are delivered. The vibration of kuṇḍalinī energy is the seed of the sound. When a desire of speech arises, it manifests as Śabda Brahman at mūlādhāra and moves up to take a physical form and delivered through throat cakra in the form of vaikharī. Śabda Brahman is the Brahman in the form of sound. Like universe manifesting from the Brahman, words originate from Śabda Brahman. In reality, these two Brahman are not different. To understand this better, we have go back to the creation. In terms of Sāṁkhya philosophy, the creation is based on twenty five tattva-s or principles (against twenty four tattva-s normally considered). The addition here is Īśvara tattva. These twenty five principles are 1. Puruṣa (the individual soul), 2. Prakṛti (nature), 3. Buddhi (intellect), 4. Ego, 5-9. Jñānendriya-s (cognitive senses, like ear, nose, etc), 10-14. Karmendriya-s (action senses like legs, hands, etc), 15-19. Tanmātra-s (subtle primary elements like taste, smell, etc), 20-24. Mahā bhūta (five basic elements like ākāś, air, etc) and finally as 25th tattva, Īśvara. Here Īśvara means the Brahman and puruṣa means the individual soul that gets various shapes and forms. The concept of Brahman is beyond all the other twenty four tattva-s. Puruṣa and Prakṛti both are aboriginal principles, but there exist certain differences between them. Puruṣa is known as jīva-ātma or the individual soul which is a conscious spirit with positive principle. Prakṛti is unconscious matter with negative principle. When puruṣa interacts and conjoins with prakṛti (opposite energies are attracted to each other), the prakṛti manifests into other twenty one tattvas and binds the puruṣa or soul into subtle and then to gross matter. The gross matter is the physical form of man and subtle matter is antaḥkaraṇa a (mind, intellect, consciousness and ego). The stage before this union is called avyakta (nāma 398) or un-manifested form. In the stage of avyakta, when modifications in the form of manifestation is about to happen, māyā spreads its veil depending on the karmic density of the soul. This is how the creation is explained in the scriptures. This un-manifested form or avyakta is called kāraṇa bindu because it is smaller than an atom. Bindu means a dot and kāraṇa bindu means origination of cause. When the time is ripe for kāraṇa bindu to manifest, it pulsates and vibrates getting ready to manifest and this gives rise to another dot called kārya bindu or effect dot, where the cause is manifested as effect. From this effect-dot or kārya bindu, arises another dot called nāda bindu or sound-dot. The sound is ultimately delivered through nāda bindu after undergoing further refinement. The kāraṇa bindu resides in mūlādhāra cakra and during it’s ascend undergoes these modifications and delivered in the form of audible sound. Parā has three stages. Its original parā form is considered as supreme and is full of energy. In order to manifest, it gradually loses its supremacy and energy level and becomes parā-parā the mediocre level of supremacy. It further loses its strength at the exact time of manifestation and becomes aparā where it loses its supremacy and become manifested. These three stages are known as Śiva, Śaktī and nara (man). This way also She is known as parā. As the subsequent nāma-s discuss further about the evolution of sound from its parā or supreme form, therefore contextually this nāma is to be considered from the angle of Śabda Brahman only. Rig Veda (I.164.45) also discusses this modification and it says, catvāri vāk parimitā padāni tāni vidurbrāhmaṇā ye manīṣiṇaḥ | guhā triṇi nihitā neṅgayanti turiyaṃ vāco manuṣyā vadanti | | चत्वारर वाक्पररलमता पदानन तानन ववदब्रगाुह्मणा येमन वषणः | गगहा बिणण ननदहता नेङ्गयस्न्द्त तगररयींवाचो मनगष्या वदस्न्द्त | | “Four are the definite grades of speech; those learned who wise know them; three deposited in secret, indicate no meaning; men speak the fourth grade of speech. Four grades of speech are – ॐ, Bhūḥ Bhuvaḥ Suvaḥ and these are known as Parā, paśyantī, madhyamā and vaikharī. Parā is the innermost at the origin; paśyantī pertains to heart, madhyamā to intellect and vaikharī the phonetically expressed through organs of speech.” This nāma refers to Her parā form.
-
-
----
-
-
-# NAME 555
-
-> शक्तिः  
-> शक्तिः  
-> ॥ 555 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
-
-## COMMENTARIES (VRAVI)
-
-> [Needs commentary]
-
-
----
-
-
 # NAME 556
 
 > परा  
@@ -11660,6 +14544,11 @@
 > ॥ 556 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11676,11 +14565,16 @@
 
 # NAME 557
 
-> निष्ठा  
-> निष्ठा  
+> शक्तिः  
+> शक्तिः  
 > ॥ 557 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11697,11 +14591,42 @@
 
 # NAME 558
 
-> प्रज्ञानघन-रूपिणी  
-> प्रज्ञानघन-रूपिणी  
+> परा  
+> परा  
 > ॥ 558 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> **परा** — She who is the supreme; She who transcends all
+
+
+## COMMENTARIES (VRAVI)
+
+> **परा** — In the next few nāma-s Her Śabda (sound) Brahman form is going to be discussed. The literal meaning of ‘Brahman’ is growing, developing, swelling, expanding, evolving etc. This nāma refers Her un-manifested form (of the Brahman). In order to understand this nāma and the next few, origin and evolution of sound becomes a necessity. Prakāśa and vimarśa form of the Brahman are quite frequently referred to while discussing the Supreme Reality or the Absolute. Generally it is to be understood that prakāśa form represent Śiva and vimarśa form represent Śakthī. Śiva or Parameśvara (parama means the highest) is pure and unblemished self-illuminating light and Śakthī or vimarśa is the realisation of this pure light. Prakāśa and vimarśa cannot be separated. There is a Sanskrit saying that word and its meaning cannot be separated; in the same way Pārvatī or Śakthī and Parameśvaran or Śiva cannot be separated from each other. When there is a brilliant light, one needs to have knowledge to realise it as light. Suppose, there is a candle burning, and on seeing the candle with light, one can say that the candle gives light. When one wants to see a candle light, he needs to have a lighted candle. The light and its visibility though separate, are interdependent. Visibility is the expression of light and without the source of the light, visibility becomes impossible. In the same way, light is of no use, if it is not reflected making the visibility possible. Both light and its expression together is known as light. This is called prakāśa vimarśa māyā or the Absolute. Sound originates from this Absolute form. This Absolute form is also called parāvāc form. This parāvāc is primeval stage. The sound in this stage can be called as a seed that has not yet germinated. When the seed begins its germination, the stage is called paśyantī (nāma 368). At this stage the seed has the desire to grow. The stem becomes visible and the seed is set to commence its journey of growth. Though it is known for certain that there is going to be a tree at a future date, one does not know how the tree would be, big or small, fruit bearing or barren etc. When the sapling grows to a certain height, one is able to see its leaves, he will be able to identify what type of tree that would be. This stage is called madhyamā (nāma 370). The sapling further grows to become a tree, when one is able to see its flowers and fruits. He is able to recognize the nature of this seed totally now. The complete form of the tree is known at this stage. This is called vaikharī stage. These three stages originated from the form of the Absolute, the seed in this example. Absolute form is called as parāvāc. Parā mean the highest form or the supreme form and vāc means sound. Parāvāc means the supreme form of sound. From this parā form or the seed form sound germinates, grows and yields words. The result is a full word with meaning. In a human being this parāvāc is said to be in the form of kuṇḍalinī (nāma110) energy posited in mūlādāra cakra or base cakra. From the base cakra, the seed of the sound begins its ascent, reaches manipūraka cakra or navel cakra in the form of paśyantī, moves to anāhat cakra or heart cakra in the form madhyamā and reaches viśuddhi throat cakra as vaikharī where the final cleansing takes place. From the throat cakra the physical form of words are delivered. The vibration of kuṇḍalinī energy is the seed of the sound. When a desire of speech arises, it manifests as Śabda Brahman at mūlādhāra and moves up to take a physical form and delivered through throat cakra in the form of vaikharī. Śabda Brahman is the Brahman in the form of sound. Like universe manifesting from the Brahman, words originate from Śabda Brahman. In reality, these two Brahman are not different. To understand this better, we have go back to the creation. In terms of Sāṁkhya philosophy, the creation is based on twenty five tattva-s or principles (against twenty four tattva-s normally considered). The addition here is Īśvara tattva. These twenty five principles are 1. Puruṣa (the individual soul), 2. Prakṛti (nature), 3. Buddhi (intellect), 4. Ego, 5-9. Jñānendriya-s (cognitive senses, like ear, nose, etc), 10-14. Karmendriya-s (action senses like legs, hands, etc), 15-19. Tanmātra-s (subtle primary elements like taste, smell, etc), 20-24. Mahā bhūta (five basic elements like ākāś, air, etc) and finally as 25th tattva, Īśvara. Here Īśvara means the Brahman and puruṣa means the individual soul that gets various shapes and forms. The concept of Brahman is beyond all the other twenty four tattva-s. Puruṣa and Prakṛti both are aboriginal principles, but there exist certain differences between them. Puruṣa is known as jīva-ātma or the individual soul which is a conscious spirit with positive principle. Prakṛti is unconscious matter with negative principle. When puruṣa interacts and conjoins with prakṛti (opposite energies are attracted to each other), the prakṛti manifests into other twenty one tattvas and binds the puruṣa or soul into subtle and then to gross matter. The gross matter is the physical form of man and subtle matter is antaḥkaraṇa a (mind, intellect, consciousness and ego). The stage before this union is called avyakta (nāma 398) or un-manifested form. In the stage of avyakta, when modifications in the form of manifestation is about to happen, māyā spreads its veil depending on the karmic density of the soul. This is how the creation is explained in the scriptures. This un-manifested form or avyakta is called kāraṇa bindu because it is smaller than an atom. Bindu means a dot and kāraṇa bindu means origination of cause. When the time is ripe for kāraṇa bindu to manifest, it pulsates and vibrates getting ready to manifest and this gives rise to another dot called kārya bindu or effect dot, where the cause is manifested as effect. From this effect-dot or kārya bindu, arises another dot called nāda bindu or sound-dot. The sound is ultimately delivered through nāda bindu after undergoing further refinement. The kāraṇa bindu resides in mūlādhāra cakra and during it’s ascend undergoes these modifications and delivered in the form of audible sound. Parā has three stages. Its original parā form is considered as supreme and is full of energy. In order to manifest, it gradually loses its supremacy and energy level and becomes parā-parā the mediocre level of supremacy. It further loses its strength at the exact time of manifestation and becomes aparā where it loses its supremacy and become manifested. These three stages are known as Śiva, Śaktī and nara (man). This way also She is known as parā. As the subsequent nāma-s discuss further about the evolution of sound from its parā or supreme form, therefore contextually this nāma is to be considered from the angle of Śabda Brahman only. Rig Veda (I.164.45) also discusses this modification and it says, catvāri vāk parimitā padāni tāni vidurbrāhmaṇā ye manīṣiṇaḥ | guhā triṇi nihitā neṅgayanti turiyaṃ vāco manuṣyā vadanti | | चत्वारर वाक्पररलमता पदानन तानन ववदब्रगाुह्मणा येमन वषणः | गगहा बिणण ननदहता नेङ्गयस्न्द्त तगररयींवाचो मनगष्या वदस्न्द्त | | “Four are the definite grades of speech; those learned who wise know them; three deposited in secret, indicate no meaning; men speak the fourth grade of speech. Four grades of speech are – ॐ, Bhūḥ Bhuvaḥ Suvaḥ and these are known as Parā, paśyantī, madhyamā and vaikharī. Parā is the innermost at the origin; paśyantī pertains to heart, madhyamā to intellect and vaikharī the phonetically expressed through organs of speech.” This nāma refers to Her parā form.
+
+
+---
+
+
+# NAME 559
+
+> निष्ठा  
+> निष्ठा  
+> ॥ 559 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11716,17 +14641,49 @@
 ---
 
 
-# NAME 559
+# NAME 560
 
-> माध्वीपानालसा  
-> माध्वीपानालसा  
-> ॥ 559 ॥
+> प्रज्ञानघन-रूपिणी  
+> प्रज्ञानघन-रूपिणी  
+> ॥ 560 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **माध्वीपानालसा** — She who is languid from drinking wine; She who is not eager for anything
+> [Needs commentary]
+
+
+## COMMENTARIES (VRAVI)
+
+> [Needs commentary]
+
+
+---
+
+
+# NAME 561
+
+> माध्वीपानालसा  
+> माध्वीपानालसा  
+> ॥ 561 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> **माध्वीपानालसा** — She who is languid from drinking wine; She who is not eager
+for anything
 
 
 ## COMMENTARIES (VRAVI)
@@ -11737,13 +14694,18 @@
 ---
 
 
-# NAME 560
+# NAME 562
 
 > मत्ता  
 > मत्ता  
-> ॥ 560 ॥
+> ॥ 562 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11758,13 +14720,18 @@
 ---
 
 
-# NAME 561
+# NAME 563
 
 > मातृका-वर्ण-रूपिणी  
 > मातृका-वर्ण-रूपिणी  
-> ॥ 561 ॥
+> ॥ 563 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11779,13 +14746,18 @@
 ---
 
 
-# NAME 562
+# NAME 564
 
 > महाकैलास-निलया  
 > महाकैलास-निलया  
-> ॥ 562 ॥
+> ॥ 564 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11800,13 +14772,18 @@
 ---
 
 
-# NAME 563
+# NAME 565
 
 > मृणाल-मृदु-दोर्लता  
 > मृणाल-मृदु-दोर्लता  
-> ॥ 563 ॥
+> ॥ 565 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11821,13 +14798,18 @@
 ---
 
 
-# NAME 564
+# NAME 566
 
 > महनीया  
 > महनीया  
-> ॥ 564 ॥
+> ॥ 566 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11842,13 +14824,18 @@
 ---
 
 
-# NAME 565
+# NAME 567
 
 > दयामूर्तिर्महासाम्राज्य-शालिनी  
 > दयामूर्तिर्महासाम्राज्य-शालिनी  
-> ॥ 565 ॥
+> ॥ 567 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11863,13 +14850,18 @@
 ---
 
 
-# NAME 566
+# NAME 568
 
 > आत्मविद्या  
 > आत्मविद्या  
-> ॥ 566 ॥
+> ॥ 568 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11884,13 +14876,18 @@
 ---
 
 
-# NAME 567
+# NAME 569
 
 > महाविद्या  
 > महाविद्या  
-> ॥ 567 ॥
+> ॥ 569 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11905,13 +14902,18 @@
 ---
 
 
-# NAME 568
+# NAME 570
 
 > श्रीविद्या  
 > श्रीविद्या  
-> ॥ 568 ॥
+> ॥ 570 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11926,13 +14928,18 @@
 ---
 
 
-# NAME 569
+# NAME 571
 
 > कामसेविता  
 > कामसेविता  
-> ॥ 569 ॥
+> ॥ 571 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11947,13 +14954,18 @@
 ---
 
 
-# NAME 570
+# NAME 572
 
 > श्री-षोडशाक्षरी-विद्या  
 > श्री-षोडशाक्षरी-विद्या  
-> ॥ 570 ॥
+> ॥ 572 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11968,13 +14980,18 @@
 ---
 
 
-# NAME 571
+# NAME 573
 
 > त्रिकूटा  
 > त्रिकूटा  
-> ॥ 571 ॥
+> ॥ 573 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -11989,13 +15006,18 @@
 ---
 
 
-# NAME 572
+# NAME 574
 
 > कामकोटिका  
 > कामकोटिका  
-> ॥ 572 ॥
+> ॥ 574 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12010,13 +15032,18 @@
 ---
 
 
-# NAME 573
+# NAME 575
 
 > कटाक्ष-किङ्करी-भूत-कमला-कोटि-सेविता  
 > कटाक्ष-किङ्करी-भूत-कमला-कोटि-सेविता  
-> ॥ 573 ॥
+> ॥ 575 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12031,13 +15058,18 @@
 ---
 
 
-# NAME 574
+# NAME 576
 
 > शिरःस्थिता  
 > शिरःस्थिता  
-> ॥ 574 ॥
+> ॥ 576 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12052,13 +15084,18 @@
 ---
 
 
-# NAME 575
+# NAME 577
 
 > चन्द्रनिभा  
 > चन्द्रनिभा  
-> ॥ 575 ॥
+> ॥ 577 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12073,13 +15110,18 @@
 ---
 
 
-# NAME 576
+# NAME 578
 
 > भालस्थेन्द्र-धनुःप्रभा  
 > भालस्थेन्द्र-धनुःप्रभा  
-> ॥ 576 ॥
+> ॥ 578 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12094,13 +15136,18 @@
 ---
 
 
-# NAME 577
+# NAME 579
 
 > हृदयस्था  
 > हृदयस्था  
-> ॥ 577 ॥
+> ॥ 579 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12115,13 +15162,18 @@
 ---
 
 
-# NAME 578
+# NAME 580
 
 > रविप्रख्या  
 > रविप्रख्या  
-> ॥ 578 ॥
+> ॥ 580 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12136,13 +15188,18 @@
 ---
 
 
-# NAME 579
+# NAME 581
 
 > त्रिकोणान्तर-दीपिका  
 > त्रिकोणान्तर-दीपिका  
-> ॥ 579 ॥
+> ॥ 581 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12157,13 +15214,18 @@
 ---
 
 
-# NAME 580
+# NAME 582
 
 > दाक्षायणी  
 > दाक्षायणी  
-> ॥ 580 ॥
+> ॥ 582 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12178,13 +15240,18 @@
 ---
 
 
-# NAME 581
+# NAME 583
 
 > दैत्यहन्त्री  
 > दैत्यहन्त्री  
-> ॥ 581 ॥
+> ॥ 583 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12199,13 +15266,18 @@
 ---
 
 
-# NAME 582
+# NAME 584
 
 > दक्षयज्ञ-विनाशिनी  
 > दक्षयज्ञ-विनाशिनी  
-> ॥ 582 ॥
+> ॥ 584 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12220,13 +15292,18 @@
 ---
 
 
-# NAME 583
+# NAME 585
 
 > दरान्दोलित-दीर्घाक्षी  
 > दरान्दोलित-दीर्घाक्षी  
-> ॥ 583 ॥
+> ॥ 585 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12241,13 +15318,18 @@
 ---
 
 
-# NAME 584
+# NAME 586
 
 > दर-हासोज्ज्वलन्-मुखी  
 > दर-हासोज्ज्वलन्-मुखी  
-> ॥ 584 ॥
+> ॥ 586 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12262,13 +15344,18 @@
 ---
 
 
-# NAME 585
+# NAME 587
 
 > गुरुमूर्तिर्गुणनिधिर्गोमाता  
 > गुरुमूर्तिर्गुणनिधिर्गोमाता  
-> ॥ 585 ॥
+> ॥ 587 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12283,13 +15370,18 @@
 ---
 
 
-# NAME 586
+# NAME 588
 
 > गुहजन्मभूः  
 > गुहजन्मभूः  
-> ॥ 586 ॥
+> ॥ 588 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12304,13 +15396,18 @@
 ---
 
 
-# NAME 587
+# NAME 589
 
 > देवेशी  
 > देवेशी  
-> ॥ 587 ॥
+> ॥ 589 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12325,13 +15422,18 @@
 ---
 
 
-# NAME 588
+# NAME 590
 
 > दण्डनीतिस्था  
 > दण्डनीतिस्था  
-> ॥ 588 ॥
+> ॥ 590 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12346,13 +15448,18 @@
 ---
 
 
-# NAME 589
+# NAME 591
 
 > दहराकाश-रूपिणी  
 > दहराकाश-रूपिणी  
-> ॥ 589 ॥
+> ॥ 591 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12367,17 +15474,23 @@
 ---
 
 
-# NAME 590
+# NAME 592
 
 > प्रतिपन्मुख्य-राकान्त-तिथि-मण्डल-पूजिता  
 > प्रतिपन्मुख्य-राकान्त-तिथि-मण्डल-पूजिता  
-> ॥ 590 ॥
+> ॥ 592 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **प्रतिपन्मुख्य-राकान्त-तिथि-मण्डल-पूजिता** — She who is worshipped daily starting with pratipad (first day of the lunar half-month) and ending with the full moon
+> **प्रतिपन्मुख्य-राकान्त-तिथि-मण्डल-पूजिता** — She who is worshipped daily starting with pratipad (first day
+of the lunar half-month) and ending with the full moon
 
 
 ## COMMENTARIES (VRAVI)
@@ -12388,13 +15501,18 @@
 ---
 
 
-# NAME 591
+# NAME 593
 
 > कलात्मिका  
 > कलात्मिका  
-> ॥ 591 ॥
+> ॥ 593 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12409,13 +15527,18 @@
 ---
 
 
-# NAME 592
+# NAME 594
 
 > कलानाथा  
 > कलानाथा  
-> ॥ 592 ॥
+> ॥ 594 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12430,13 +15553,18 @@
 ---
 
 
-# NAME 593
+# NAME 595
 
 > काव्यालाप-विनोदिनी  
 > काव्यालाप-विनोदिनी  
-> ॥ 593 ॥
+> ॥ 595 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12451,17 +15579,23 @@
 ---
 
 
-# NAME 594
+# NAME 596
 
 > सचामर-रमा-वाणी-सव्य-दक्षिण-सेविता  
 > सचामर-रमा-वाणी-सव्य-दक्षिण-सेविता  
-> ॥ 594 ॥
+> ॥ 596 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **सचामर-रमा-वाणी-सव्य-दक्षिण-सेविता** — She who is attended by lakShmI on the left side and sarasvatI on the right side, bearing ceremonial fans
+> **सचामर-रमा-वाणी-सव्य-दक्षिण-सेविता** — She who is attended by lakShmI on the left side and sarasvatI
+on the right side, bearing ceremonial fans
 
 
 ## COMMENTARIES (VRAVI)
@@ -12472,13 +15606,18 @@
 ---
 
 
-# NAME 595
+# NAME 597
 
 > आदिशक्तिरमेयाऽऽत्मा  
 > आदिशक्तिरमेयाऽऽत्मा  
-> ॥ 595 ॥
+> ॥ 597 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12493,13 +15632,18 @@
 ---
 
 
-# NAME 596
+# NAME 598
 
 > परमा  
 > परमा  
-> ॥ 596 ॥
+> ॥ 598 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12514,13 +15658,18 @@
 ---
 
 
-# NAME 597
+# NAME 599
 
 > पावनाकृतिः  
 > पावनाकृतिः  
-> ॥ 597 ॥
+> ॥ 599 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12535,13 +15684,18 @@
 ---
 
 
-# NAME 598
+# NAME 600
 
 > अनेककोटि-ब्रह्माण्ड-जननी  
 > अनेककोटि-ब्रह्माण्ड-जननी  
-> ॥ 598 ॥
+> ॥ 600 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12556,13 +15710,18 @@
 ---
 
 
-# NAME 599
+# NAME 601
 
 > दिव्यविग्रहा  
 > दिव्यविग्रहा  
-> ॥ 599 ॥
+> ॥ 601 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12577,13 +15736,18 @@
 ---
 
 
-# NAME 600
+# NAME 602
 
 > क्लींकारी  
 > क्लींकारी  
-> ॥ 600 ॥
+> ॥ 602 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12598,17 +15762,23 @@
 ---
 
 
-# NAME 601
+# NAME 603
 
 > केवला  
 > केवला  
-> ॥ 601 ॥
+> ॥ 603 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **केवला** — She who is the absolute, as She is complete, independent and without any attributes
+> **केवला** — She who is the absolute, as She is complete, independent and
+without any attributes
 
 
 ## COMMENTARIES (VRAVI)
@@ -12619,13 +15789,18 @@
 ---
 
 
-# NAME 602
+# NAME 604
 
 > गुह्या  
 > गुह्या  
-> ॥ 602 ॥
+> ॥ 604 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12640,13 +15815,18 @@
 ---
 
 
-# NAME 603
+# NAME 605
 
 > कैवल्य-पददायिनी  
 > कैवल्य-पददायिनी  
-> ॥ 603 ॥
+> ॥ 605 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12661,13 +15841,18 @@
 ---
 
 
-# NAME 604
+# NAME 606
 
 > त्रिपुरा  
 > त्रिपुरा  
-> ॥ 604 ॥
+> ॥ 606 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12682,13 +15867,18 @@
 ---
 
 
-# NAME 605
+# NAME 607
 
 > त्रिजगद्वन्द्या  
 > त्रिजगद्वन्द्या  
-> ॥ 605 ॥
+> ॥ 607 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12703,55 +15893,70 @@
 ---
 
 
-# NAME 606
-
-> त्रिमूर्तिस्त्रिदशेश्वरी  
-> त्रिमूर्तिस्त्रिदशेश्वरी  
-> ॥ 606 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
-
-## COMMENTARIES (VRAVI)
-
-> [Needs commentary]
-
-
----
-
-
-# NAME 607
-
-> त्र्यक्षरी  
-> त्र्यक्षरी  
-> ॥ 607 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
-
-## COMMENTARIES (VRAVI)
-
-> [Needs commentary]
-
-
----
-
-
 # NAME 608
 
-> दिव्य-गन्धाढ्या  
-> दिव्य-गन्धाढ्या  
+> त्रिमूर्तिस्त्रिदशेश्वरी  
+> त्रिमूर्तिस्त्रिदशेश्वरी  
 > ॥ 608 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (VRAVI)
+
+> [Needs commentary]
+
+
+---
+
+
+# NAME 609
+
+> त्र्यक्षरी  
+> त्र्यक्षरी  
+> ॥ 609 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (VRAVI)
+
+> [Needs commentary]
+
+
+---
+
+
+# NAME 610
+
+> दिव्य-गन्धाढ्या  
+> दिव्य-गन्धाढ्या  
+> ॥ 610 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12766,17 +15971,23 @@
 ---
 
 
-# NAME 609
+# NAME 611
 
 > सिन्दूर-तिलकाञ्चिता  
 > सिन्दूर-तिलकाञ्चिता  
-> ॥ 609 ॥
+> ॥ 611 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **सिन्दूर-तिलकाञ्चिता** — She who shines witha vermillion mark on Her forehead; She who is decorated with a special paste made of vermilion
+> **सिन्दूर-तिलकाञ्चिता** — She who shines witha vermillion mark on Her forehead; She who
+is decorated with a special paste made of vermilion
 
 
 ## COMMENTARIES (VRAVI)
@@ -12787,13 +15998,18 @@
 ---
 
 
-# NAME 610
+# NAME 612
 
 > उमा  
 > उमा  
-> ॥ 610 ॥
+> ॥ 612 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12808,13 +16024,18 @@
 ---
 
 
-# NAME 611
+# NAME 613
 
 > शैलेन्द्रतनया  
 > शैलेन्द्रतनया  
-> ॥ 611 ॥
+> ॥ 613 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12829,13 +16050,18 @@
 ---
 
 
-# NAME 612
+# NAME 614
 
 > गौरी  
 > गौरी  
-> ॥ 612 ॥
+> ॥ 614 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12850,13 +16076,18 @@
 ---
 
 
-# NAME 613
+# NAME 615
 
 > गन्धर्व-सेविता  
 > गन्धर्व-सेविता  
-> ॥ 613 ॥
+> ॥ 615 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12871,13 +16102,18 @@
 ---
 
 
-# NAME 614
+# NAME 616
 
 > विश्वगर्भा  
 > विश्वगर्भा  
-> ॥ 614 ॥
+> ॥ 616 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12892,55 +16128,18 @@
 ---
 
 
-# NAME 615
-
-> स्वर्णगर्भाऽवरदा  
-> स्वर्णगर्भाऽवरदा  
-> ॥ 615 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
-
-## COMMENTARIES (VRAVI)
-
-> [Needs commentary]
-
-
----
-
-
-# NAME 616
-
-> वागधीश्वरी  
-> वागधीश्वरी  
-> ॥ 616 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> **वागधीश्वरी** — She who presides over speech
-
-
-## COMMENTARIES (VRAVI)
-
-> **वागधीश्वरी** — She is the ruler of speech. Saundarya Laharī ends (100th verse) by saying ‘this was composed with your own words’. Nāma 577 can also be referred here. Origin of sound has already been discussed in detail under various nāma-s.
-
-
----
-
-
 # NAME 617
 
-> ध्यानगम्याऽपरिच्छेद्या  
-> ध्यानगम्याऽपरिच्छेद्या  
+> स्वर्णगर्भाऽवरदा  
+> स्वर्णगर्भाऽवरदा  
 > ॥ 617 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12957,11 +16156,68 @@
 
 # NAME 618
 
-> ज्ञानदा  
-> ज्ञानदा  
+> वागधीश्वरी  
+> वागधीश्वरी  
 > ॥ 618 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> **वागधीश्वरी** — She who presides over speech
+
+
+## COMMENTARIES (VRAVI)
+
+> **वागधीश्वरी** — She is the ruler of speech. Saundarya Laharī ends (100th verse) by saying ‘this was composed with your own words’. Nāma 577 can also be referred here. Origin of sound has already been discussed in detail under various nāma-s.
+
+
+---
+
+
+# NAME 619
+
+> ध्यानगम्याऽपरिच्छेद्या  
+> ध्यानगम्याऽपरिच्छेद्या  
+> ॥ 619 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (VRAVI)
+
+> [Needs commentary]
+
+
+---
+
+
+# NAME 620
+
+> ज्ञानदा  
+> ज्ञानदा  
+> ॥ 620 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12976,13 +16232,18 @@
 ---
 
 
-# NAME 619
+# NAME 621
 
 > ज्ञानविग्रहा  
 > ज्ञानविग्रहा  
-> ॥ 619 ॥
+> ॥ 621 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -12997,13 +16258,18 @@
 ---
 
 
-# NAME 620
+# NAME 622
 
 > सर्ववेदान्त-संवेद्या  
 > सर्ववेदान्त-संवेद्या  
-> ॥ 620 ॥
+> ॥ 622 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13018,13 +16284,18 @@
 ---
 
 
-# NAME 621
+# NAME 623
 
 > सत्यानन्द-स्वरूपिणी  
 > सत्यानन्द-स्वरूपिणी  
-> ॥ 621 ॥
+> ॥ 623 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13039,13 +16310,18 @@
 ---
 
 
-# NAME 622
+# NAME 624
 
 > लोपामुद्रार्चिता  
 > लोपामुद्रार्चिता  
-> ॥ 622 ॥
+> ॥ 624 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13060,13 +16336,18 @@
 ---
 
 
-# NAME 623
+# NAME 625
 
 > लीला-कॢप्त-ब्रह्माण्ड-मण्डला  
 > लीला-कॢप्त-ब्रह्माण्ड-मण्डला  
-> ॥ 623 ॥
+> ॥ 625 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13081,13 +16362,18 @@
 ---
 
 
-# NAME 624
+# NAME 626
 
 > अदृश्या  
 > अदृश्या  
-> ॥ 624 ॥
+> ॥ 626 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13102,13 +16388,18 @@
 ---
 
 
-# NAME 625
+# NAME 627
 
 > दृश्यरहिता  
 > दृश्यरहिता  
-> ॥ 625 ॥
+> ॥ 627 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13123,13 +16414,18 @@
 ---
 
 
-# NAME 626
+# NAME 628
 
 > विज्ञात्री  
 > विज्ञात्री  
-> ॥ 626 ॥
+> ॥ 628 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13144,13 +16440,18 @@
 ---
 
 
-# NAME 627
+# NAME 629
 
 > वेद्यवर्जिता  
 > वेद्यवर्जिता  
-> ॥ 627 ॥
+> ॥ 629 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13165,17 +16466,23 @@
 ---
 
 
-# NAME 628
+# NAME 630
 
 > योगिनी  
 > योगिनी  
-> ॥ 628 ॥
+> ॥ 630 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **योगिनी** — She who is constantly united with parAshiva; She who possesses the power of yoga
+> **योगिनी** — She who is constantly united with parAshiva; She who possesses
+the power of yoga
 
 
 ## COMMENTARIES (VRAVI)
@@ -13186,13 +16493,18 @@
 ---
 
 
-# NAME 629
+# NAME 631
 
 > योगदा  
 > योगदा  
-> ॥ 629 ॥
+> ॥ 631 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13207,13 +16519,18 @@
 ---
 
 
-# NAME 630
+# NAME 632
 
 > योग्या  
 > योग्या  
-> ॥ 630 ॥
+> ॥ 632 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13228,17 +16545,23 @@
 ---
 
 
-# NAME 631
+# NAME 633
 
 > योगानन्दा  
 > योगानन्दा  
-> ॥ 631 ॥
+> ॥ 633 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **योगानन्दा** — She who is the bliss attained through yoga; She who enjoys the bliss of yoga
+> **योगानन्दा** — She who is the bliss attained through yoga; She who enjoys
+the bliss of yoga
 
 
 ## COMMENTARIES (VRAVI)
@@ -13249,13 +16572,18 @@
 ---
 
 
-# NAME 632
+# NAME 634
 
 > युगन्धरा  
 > युगन्धरा  
-> ॥ 632 ॥
+> ॥ 634 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13270,13 +16598,18 @@
 ---
 
 
-# NAME 633
+# NAME 635
 
 > इच्छाशक्ति-ज्ञानशक्ति-क्रियाशक्ति-स्वरूपिणी  
 > इच्छाशक्ति-ज्ञानशक्ति-क्रियाशक्ति-स्वरूपिणी  
-> ॥ 633 ॥
+> ॥ 635 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13291,13 +16624,18 @@
 ---
 
 
-# NAME 634
+# NAME 636
 
 > सर्वाधारा  
 > सर्वाधारा  
-> ॥ 634 ॥
+> ॥ 636 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13312,55 +16650,18 @@
 ---
 
 
-# NAME 635
-
-> सुप्रतिष्ठा  
-> सुप्रतिष्ठा  
-> ॥ 635 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
-
-## COMMENTARIES (VRAVI)
-
-> [Needs commentary]
-
-
----
-
-
-# NAME 636
-
-> सदसद्रूप-धारिणी  
-> सदसद्रूप-धारिणी  
-> ॥ 636 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> **सदसद्रूप-धारिणी** — She who assumes the forms of both being and non-being
-
-
-## COMMENTARIES (VRAVI)
-
-> **सदसद्रूप-धारिणी** — She is in the form of sat and asat. Sat means permanent and asat means not permanent. There is nothing permanent except the Brahman, therefore Brahman is sat. All are impermanent except the Brahman and therefore the universe with all its existence is asat. She is in the form of both permanent and impermanent or existent and non-existent. Impermanency is the product of permanency. Taittirīya Upaniṣad (II.vii) says, “At first there was no world. There was only Brahman. The world was then in Brahman, who was unmanifested. The world, with all its names and forms then manifested itself.” The exact wording of the Upaniṣad is ‘idam agre asat vai asit. (idam – this phenomenal world; agre – originally; asat vai asit – was non-existent.) Chāndogya Upaniṣad (VI.ii.2) asks, “What proof is there for this that from nothing something has emerged? Before this universe came into existence, there was only one existence without a second.” Sage Patañjali also says, (I.9) “Verbal delusion follows from words having no corresponding reality.” This nāma says that asat came into being from sat or the universe came into existence from the Brahman. If the Brahman is known as Śiva, then the universe is known as Śaktī. There is no difference between Śiva and Śaktī (refer nāma 999). Impermanency follows permanency or asat follows sat. Sat and asat coexist. If they do not co-exist, then there is neither Brahman nor universe. Sat and asat are human perception but in reality they are not different. Asat is the mirror image of sat.
-
-
----
-
-
 # NAME 637
 
-> अष्टमूर्तिरजाजैत्री  
-> अष्टमूर्तिरजाजैत्री  
+> सुप्रतिष्ठा  
+> सुप्रतिष्ठा  
 > ॥ 637 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13377,11 +16678,42 @@
 
 # NAME 638
 
-> लोकयात्रा-विधायिनी  
-> लोकयात्रा-विधायिनी  
+> सदसद्रूप-धारिणी  
+> सदसद्रूप-धारिणी  
 > ॥ 638 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> **सदसद्रूप-धारिणी** — She who assumes the forms of both being and non-being
+
+
+## COMMENTARIES (VRAVI)
+
+> **सदसद्रूप-धारिणी** — She is in the form of sat and asat. Sat means permanent and asat means not permanent. There is nothing permanent except the Brahman, therefore Brahman is sat. All are impermanent except the Brahman and therefore the universe with all its existence is asat. She is in the form of both permanent and impermanent or existent and non-existent. Impermanency is the product of permanency. Taittirīya Upaniṣad (II.vii) says, “At first there was no world. There was only Brahman. The world was then in Brahman, who was unmanifested. The world, with all its names and forms then manifested itself.” The exact wording of the Upaniṣad is ‘idam agre asat vai asit. (idam – this phenomenal world; agre – originally; asat vai asit – was non-existent.) Chāndogya Upaniṣad (VI.ii.2) asks, “What proof is there for this that from nothing something has emerged? Before this universe came into existence, there was only one existence without a second.” Sage Patañjali also says, (I.9) “Verbal delusion follows from words having no corresponding reality.” This nāma says that asat came into being from sat or the universe came into existence from the Brahman. If the Brahman is known as Śiva, then the universe is known as Śaktī. There is no difference between Śiva and Śaktī (refer nāma 999). Impermanency follows permanency or asat follows sat. Sat and asat coexist. If they do not co-exist, then there is neither Brahman nor universe. Sat and asat are human perception but in reality they are not different. Asat is the mirror image of sat.
+
+
+---
+
+
+# NAME 639
+
+> अष्टमूर्तिरजाजैत्री  
+> अष्टमूर्तिरजाजैत्री  
+> ॥ 639 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13396,13 +16728,44 @@
 ---
 
 
-# NAME 639
+# NAME 640
 
-> एकाकिनी  
-> एकाकिनी  
-> ॥ 639 ॥
+> लोकयात्रा-विधायिनी  
+> लोकयात्रा-विधायिनी  
+> ॥ 640 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (VRAVI)
+
+> [Needs commentary]
+
+
+---
+
+
+# NAME 641
+
+> एकाकिनी  
+> एकाकिनी  
+> ॥ 641 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13417,13 +16780,18 @@
 ---
 
 
-# NAME 640
+# NAME 642
 
 > भूमरूपा  
 > भूमरूपा  
-> ॥ 640 ॥
+> ॥ 642 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13438,13 +16806,18 @@
 ---
 
 
-# NAME 641
+# NAME 643
 
 > निर्द्वैता  
 > निर्द्वैता  
-> ॥ 641 ॥
+> ॥ 643 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13459,13 +16832,18 @@
 ---
 
 
-# NAME 642
+# NAME 644
 
 > द्वैतवर्जिता  
 > द्वैतवर्जिता  
-> ॥ 642 ॥
+> ॥ 644 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13480,13 +16858,18 @@
 ---
 
 
-# NAME 643
+# NAME 645
 
 > अन्नदा  
 > अन्नदा  
-> ॥ 643 ॥
+> ॥ 645 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13501,13 +16884,18 @@
 ---
 
 
-# NAME 644
+# NAME 646
 
 > वसुदा  
 > वसुदा  
-> ॥ 644 ॥
+> ॥ 646 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13522,13 +16910,18 @@
 ---
 
 
-# NAME 645
+# NAME 647
 
 > वृद्धा  
 > वृद्धा  
-> ॥ 645 ॥
+> ॥ 647 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13543,13 +16936,18 @@
 ---
 
 
-# NAME 646
+# NAME 648
 
 > ब्रह्मात्मैक्य-स्वरूपिणी  
 > ब्रह्मात्मैक्य-स्वरूपिणी  
-> ॥ 646 ॥
+> ॥ 648 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13564,13 +16962,18 @@
 ---
 
 
-# NAME 647
+# NAME 649
 
 > बृहती  
 > बृहती  
-> ॥ 647 ॥
+> ॥ 649 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13585,13 +16988,18 @@
 ---
 
 
-# NAME 648
+# NAME 650
 
 > ब्राह्मणी  
 > ब्राह्मणी  
-> ॥ 648 ॥
+> ॥ 650 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13606,13 +17014,18 @@
 ---
 
 
-# NAME 649
+# NAME 651
 
 > ब्राह्मी  
 > ब्राह्मी  
-> ॥ 649 ॥
+> ॥ 651 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13627,13 +17040,18 @@
 ---
 
 
-# NAME 650
+# NAME 652
 
 > ब्रह्मानन्दा  
 > ब्रह्मानन्दा  
-> ॥ 650 ॥
+> ॥ 652 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13648,13 +17066,18 @@
 ---
 
 
-# NAME 651
+# NAME 653
 
 > बलिप्रिया  
 > बलिप्रिया  
-> ॥ 651 ॥
+> ॥ 653 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13669,13 +17092,18 @@
 ---
 
 
-# NAME 652
+# NAME 654
 
 > भाषारूपा  
 > भाषारूपा  
-> ॥ 652 ॥
+> ॥ 654 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13690,13 +17118,18 @@
 ---
 
 
-# NAME 653
+# NAME 655
 
 > बृहत्सेना  
 > बृहत्सेना  
-> ॥ 653 ॥
+> ॥ 655 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13711,13 +17144,18 @@
 ---
 
 
-# NAME 654
+# NAME 656
 
 > भावाभाव-विवर्जिता  
 > भावाभाव-विवर्जिता  
-> ॥ 654 ॥
+> ॥ 656 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13732,13 +17170,18 @@
 ---
 
 
-# NAME 655
+# NAME 657
 
 > सुखाराध्या  
 > सुखाराध्या  
-> ॥ 655 ॥
+> ॥ 657 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13753,13 +17196,18 @@
 ---
 
 
-# NAME 656
+# NAME 658
 
 > शुभकरी  
 > शुभकरी  
-> ॥ 656 ॥
+> ॥ 658 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13774,13 +17222,18 @@
 ---
 
 
-# NAME 657
+# NAME 659
 
 > शोभना  
 > शोभना  
-> ॥ 657 ॥
+> ॥ 659 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13795,55 +17248,70 @@
 ---
 
 
-# NAME 658
-
-> सुलभा  
-> सुलभा  
-> ॥ 658 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
-
-## COMMENTARIES (VRAVI)
-
-> [Needs commentary]
-
-
----
-
-
-# NAME 659
-
-> गतिः  
-> गतिः  
-> ॥ 659 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
-
-## COMMENTARIES (VRAVI)
-
-> [Needs commentary]
-
-
----
-
-
 # NAME 660
 
-> राज-राजेश्वरी  
-> राज-राजेश्वरी  
+> सुलभा  
+> सुलभा  
 > ॥ 660 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (VRAVI)
+
+> [Needs commentary]
+
+
+---
+
+
+# NAME 661
+
+> गतिः  
+> गतिः  
+> ॥ 661 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (VRAVI)
+
+> [Needs commentary]
+
+
+---
+
+
+# NAME 662
+
+> राज-राजेश्वरी  
+> राज-राजेश्वरी  
+> ॥ 662 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13858,13 +17326,18 @@
 ---
 
 
-# NAME 661
+# NAME 663
 
 > राज्य-दायिनी  
 > राज्य-दायिनी  
-> ॥ 661 ॥
+> ॥ 663 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13879,13 +17352,18 @@
 ---
 
 
-# NAME 662
+# NAME 664
 
 > राज्य-वल्लभा  
 > राज्य-वल्लभा  
-> ॥ 662 ॥
+> ॥ 664 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13900,13 +17378,18 @@
 ---
 
 
-# NAME 663
+# NAME 665
 
 > राजत्कृपा  
 > राजत्कृपा  
-> ॥ 663 ॥
+> ॥ 665 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13921,13 +17404,18 @@
 ---
 
 
-# NAME 664
+# NAME 666
 
 > राजपीठ-निवेशित-निजाश्रिता  
 > राजपीठ-निवेशित-निजाश्रिता  
-> ॥ 664 ॥
+> ॥ 666 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13942,13 +17430,18 @@
 ---
 
 
-# NAME 665
+# NAME 667
 
 > राज्यलक्ष्मीः  
 > राज्यलक्ष्मीः  
-> ॥ 665 ॥
+> ॥ 667 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13963,13 +17456,18 @@
 ---
 
 
-# NAME 666
+# NAME 668
 
 > कोशनाथा  
 > कोशनाथा  
-> ॥ 666 ॥
+> ॥ 668 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -13984,13 +17482,18 @@
 ---
 
 
-# NAME 667
+# NAME 669
 
 > चतुरङ्ग-बलेश्वरी  
 > चतुरङ्ग-बलेश्वरी  
-> ॥ 667 ॥
+> ॥ 669 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14005,13 +17508,18 @@
 ---
 
 
-# NAME 668
+# NAME 670
 
 > साम्राज्य-दायिनी  
 > साम्राज्य-दायिनी  
-> ॥ 668 ॥
+> ॥ 670 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14026,13 +17534,18 @@
 ---
 
 
-# NAME 669
+# NAME 671
 
 > सत्यसन्धा  
 > सत्यसन्धा  
-> ॥ 669 ॥
+> ॥ 671 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14047,13 +17560,18 @@
 ---
 
 
-# NAME 670
+# NAME 672
 
 > सागरमेखला  
 > सागरमेखला  
-> ॥ 670 ॥
+> ॥ 672 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14068,13 +17586,18 @@
 ---
 
 
-# NAME 671
+# NAME 673
 
 > दीक्षिता  
 > दीक्षिता  
-> ॥ 671 ॥
+> ॥ 673 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14089,13 +17612,18 @@
 ---
 
 
-# NAME 672
+# NAME 674
 
 > दैत्यशमनी  
 > दैत्यशमनी  
-> ॥ 672 ॥
+> ॥ 674 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14110,13 +17638,18 @@
 ---
 
 
-# NAME 673
+# NAME 675
 
 > सर्वलोक-वशङ्करी  
 > सर्वलोक-वशङ्करी  
-> ॥ 673 ॥
+> ॥ 675 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14131,13 +17664,18 @@
 ---
 
 
-# NAME 674
+# NAME 676
 
 > सर्वार्थदात्री  
 > सर्वार्थदात्री  
-> ॥ 674 ॥
+> ॥ 676 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14152,13 +17690,18 @@
 ---
 
 
-# NAME 675
+# NAME 677
 
 > सावित्री  
 > सावित्री  
-> ॥ 675 ॥
+> ॥ 677 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14173,13 +17716,18 @@
 ---
 
 
-# NAME 676
+# NAME 678
 
 > सच्चिदानन्द-रूपिणी  
 > सच्चिदानन्द-रूपिणी  
-> ॥ 676 ॥
+> ॥ 678 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14194,17 +17742,23 @@
 ---
 
 
-# NAME 677
+# NAME 679
 
 > देश-कालापरिच्छिन्ना  
 > देश-कालापरिच्छिन्ना  
-> ॥ 677 ॥
+> ॥ 679 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **देश-कालापरिच्छिन्ना** — She who is not limited by time and space; She who is not measured by time and space
+> **देश-कालापरिच्छिन्ना** — She who is not limited by time and space; She who is not
+measured by time and space
 
 
 ## COMMENTARIES (VRAVI)
@@ -14215,17 +17769,23 @@
 ---
 
 
-# NAME 678
+# NAME 680
 
 > सर्वगा  
 > सर्वगा  
-> ॥ 678 ॥
+> ॥ 680 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **सर्वगा** — She who pervades all the worlds and all the living and non-living things; She who is omnipresent
+> **सर्वगा** — She who pervades all the worlds and all the living and
+non-living things; She who is omnipresent
 
 
 ## COMMENTARIES (VRAVI)
@@ -14236,13 +17796,18 @@
 ---
 
 
-# NAME 679
+# NAME 681
 
 > सर्वमोहिनी  
 > सर्वमोहिनी  
-> ॥ 679 ॥
+> ॥ 681 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14257,13 +17822,18 @@
 ---
 
 
-# NAME 680
+# NAME 682
 
 > सरस्वती  
 > सरस्वती  
-> ॥ 680 ॥
+> ॥ 682 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14278,17 +17848,23 @@
 ---
 
 
-# NAME 681
+# NAME 683
 
 > शास्त्रमयी  
 > शास्त्रमयी  
-> ॥ 681 ॥
+> ॥ 683 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **शास्त्रमयी** — She who is in the form of the scriptures; She whose limbs are the scriptures
+> **शास्त्रमयी** — She who is in the form of the scriptures; She whose limbs are
+the scriptures
 
 
 ## COMMENTARIES (VRAVI)
@@ -14299,17 +17875,23 @@
 ---
 
 
-# NAME 682
+# NAME 684
 
 > गुहाम्बा  
 > गुहाम्बा  
-> ॥ 682 ॥
+> ॥ 684 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **गुहाम्बा** — She who is the mother of guha (subramaNya); She who dwells in the cave of the heart
+> **गुहाम्बा** — She who is the mother of guha (subramaNya); She who dwells in
+the cave of the heart
 
 
 ## COMMENTARIES (VRAVI)
@@ -14320,13 +17902,18 @@
 ---
 
 
-# NAME 683
+# NAME 685
 
 > गुह्यरूपिणी  
 > गुह्यरूपिणी  
-> ॥ 683 ॥
+> ॥ 685 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14341,13 +17928,18 @@
 ---
 
 
-# NAME 684
+# NAME 686
 
 > सर्वोपाधि-विनिर्मुक्ता  
 > सर्वोपाधि-विनिर्मुक्ता  
-> ॥ 684 ॥
+> ॥ 686 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14362,13 +17954,18 @@
 ---
 
 
-# NAME 685
+# NAME 687
 
 > सदाशिव-पतिव्रता  
 > सदाशिव-पतिव्रता  
-> ॥ 685 ॥
+> ॥ 687 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14383,13 +17980,18 @@
 ---
 
 
-# NAME 686
+# NAME 688
 
 > सम्प्रदायेश्वरी  
 > सम्प्रदायेश्वरी  
-> ॥ 686 ॥
+> ॥ 688 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14404,13 +18006,18 @@
 ---
 
 
-# NAME 687
+# NAME 689
 
 > साध्वी  
 > साध्वी  
-> ॥ 687 ॥
+> ॥ 689 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14425,13 +18032,18 @@
 ---
 
 
-# NAME 688
+# NAME 690
 
 > गुरुमण्डल-रूपिणी  
 > गुरुमण्डल-रूपिणी  
-> ॥ 688 ॥
+> ॥ 690 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14446,13 +18058,18 @@
 ---
 
 
-# NAME 689
+# NAME 691
 
 > कुलोत्तीर्णा  
 > कुलोत्तीर्णा  
-> ॥ 689 ॥
+> ॥ 691 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14467,13 +18084,18 @@
 ---
 
 
-# NAME 690
+# NAME 692
 
 > भगाराध्या  
 > भगाराध्या  
-> ॥ 690 ॥
+> ॥ 692 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14488,13 +18110,18 @@
 ---
 
 
-# NAME 691
+# NAME 693
 
 > माया  
 > माया  
-> ॥ 691 ॥
+> ॥ 693 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14509,13 +18136,18 @@
 ---
 
 
-# NAME 692
+# NAME 694
 
 > मधुमती  
 > मधुमती  
-> ॥ 692 ॥
+> ॥ 694 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14530,13 +18162,18 @@
 ---
 
 
-# NAME 693
+# NAME 695
 
 > मही  
 > मही  
-> ॥ 693 ॥
+> ॥ 695 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14551,13 +18188,18 @@
 ---
 
 
-# NAME 694
+# NAME 696
 
 > गणाम्बा  
 > गणाम्बा  
-> ॥ 694 ॥
+> ॥ 696 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14572,13 +18214,18 @@
 ---
 
 
-# NAME 695
+# NAME 697
 
 > गुह्यकाराध्या  
 > गुह्यकाराध्या  
-> ॥ 695 ॥
+> ॥ 697 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14593,13 +18240,18 @@
 ---
 
 
-# NAME 696
+# NAME 698
 
 > कोमलाङ्गी  
 > कोमलाङ्गी  
-> ॥ 696 ॥
+> ॥ 698 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14614,13 +18266,18 @@
 ---
 
 
-# NAME 697
+# NAME 699
 
 > गुरुप्रिया  
 > गुरुप्रिया  
-> ॥ 697 ॥
+> ॥ 699 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14635,13 +18292,18 @@
 ---
 
 
-# NAME 698
+# NAME 700
 
 > स्वतन्त्रा  
 > स्वतन्त्रा  
-> ॥ 698 ॥
+> ॥ 700 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14656,13 +18318,18 @@
 ---
 
 
-# NAME 699
+# NAME 701
 
 > सर्वतन्त्रेशी  
 > सर्वतन्त्रेशी  
-> ॥ 699 ॥
+> ॥ 701 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14677,13 +18344,18 @@
 ---
 
 
-# NAME 700
+# NAME 702
 
 > दक्षिणामूर्ति-रूपिणी  
 > दक्षिणामूर्ति-रूपिणी  
-> ॥ 700 ॥
+> ॥ 702 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14698,13 +18370,18 @@
 ---
 
 
-# NAME 701
+# NAME 703
 
 > सनकादि-समाराध्या  
 > सनकादि-समाराध्या  
-> ॥ 701 ॥
+> ॥ 703 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14719,13 +18396,18 @@
 ---
 
 
-# NAME 702
+# NAME 704
 
 > शिवज्ञान-प्रदायिनी  
 > शिवज्ञान-प्रदायिनी  
-> ॥ 702 ॥
+> ॥ 704 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14740,13 +18422,18 @@
 ---
 
 
-# NAME 703
+# NAME 705
 
 > चित्कलाऽऽनन्द-कलिका  
 > चित्कलाऽऽनन्द-कलिका  
-> ॥ 703 ॥
+> ॥ 705 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14761,13 +18448,18 @@
 ---
 
 
-# NAME 704
+# NAME 706
 
 > प्रेमरूपा  
 > प्रेमरूपा  
-> ॥ 704 ॥
+> ॥ 706 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14782,13 +18474,18 @@
 ---
 
 
-# NAME 705
+# NAME 707
 
 > प्रियङ्करी  
 > प्रियङ्करी  
-> ॥ 705 ॥
+> ॥ 707 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14803,13 +18500,18 @@
 ---
 
 
-# NAME 706
+# NAME 708
 
 > नामपारायण-प्रीता  
 > नामपारायण-प्रीता  
-> ॥ 706 ॥
+> ॥ 708 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14824,13 +18526,18 @@
 ---
 
 
-# NAME 707
+# NAME 709
 
 > नन्दिविद्या  
 > नन्दिविद्या  
-> ॥ 707 ॥
+> ॥ 709 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14845,13 +18552,18 @@
 ---
 
 
-# NAME 708
+# NAME 710
 
 > नटेश्वरी  
 > नटेश्वरी  
-> ॥ 708 ॥
+> ॥ 710 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14866,13 +18578,18 @@
 ---
 
 
-# NAME 709
+# NAME 711
 
 > मिथ्या-जगदधिष्ठाना  
 > मिथ्या-जगदधिष्ठाना  
-> ॥ 709 ॥
+> ॥ 711 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14887,13 +18604,18 @@
 ---
 
 
-# NAME 710
+# NAME 712
 
 > मुक्तिदा  
 > मुक्तिदा  
-> ॥ 710 ॥
+> ॥ 712 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14908,13 +18630,18 @@
 ---
 
 
-# NAME 711
+# NAME 713
 
 > मुक्तिरूपिणी  
 > मुक्तिरूपिणी  
-> ॥ 711 ॥
+> ॥ 713 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14929,13 +18656,18 @@
 ---
 
 
-# NAME 712
+# NAME 714
 
 > लास्यप्रिया  
 > लास्यप्रिया  
-> ॥ 712 ॥
+> ॥ 714 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14950,13 +18682,18 @@
 ---
 
 
-# NAME 713
+# NAME 715
 
 > लयकरी  
 > लयकरी  
-> ॥ 713 ॥
+> ॥ 715 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14971,13 +18708,18 @@
 ---
 
 
-# NAME 714
+# NAME 716
 
 > लज्जा  
 > लज्जा  
-> ॥ 714 ॥
+> ॥ 716 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -14992,13 +18734,18 @@
 ---
 
 
-# NAME 715
+# NAME 717
 
 > रम्भादिवन्दिता  
 > रम्भादिवन्दिता  
-> ॥ 715 ॥
+> ॥ 717 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15013,17 +18760,23 @@
 ---
 
 
-# NAME 716
+# NAME 718
 
 > भवदाव-सुधावृष्टिः  
 > भवदाव-सुधावृष्टिः  
-> ॥ 716 ॥
+> ॥ 718 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **भवदाव-सुधावृष्टिः** — She who is the rain of nectar falling on the forest fire of worldly existence
+> **भवदाव-सुधावृष्टिः** — She who is the rain of nectar falling on the forest fire of
+worldly existence
 
 
 ## COMMENTARIES (VRAVI)
@@ -15034,13 +18787,18 @@
 ---
 
 
-# NAME 717
+# NAME 719
 
 > पापारण्य-दवानला  
 > पापारण्य-दवानला  
-> ॥ 717 ॥
+> ॥ 719 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15055,13 +18813,18 @@
 ---
 
 
-# NAME 718
+# NAME 720
 
 > दौर्भाग्य-तूलवातूला  
 > दौर्भाग्य-तूलवातूला  
-> ॥ 718 ॥
+> ॥ 720 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15076,13 +18839,18 @@
 ---
 
 
-# NAME 719
+# NAME 721
 
 > जराध्वान्त-रविप्रभा  
 > जराध्वान्त-रविप्रभा  
-> ॥ 719 ॥
+> ॥ 721 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15097,13 +18865,18 @@
 ---
 
 
-# NAME 720
+# NAME 722
 
 > भाग्याब्धि-चन्द्रिका  
 > भाग्याब्धि-चन्द्रिका  
-> ॥ 720 ॥
+> ॥ 722 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15118,17 +18891,23 @@
 ---
 
 
-# NAME 721
+# NAME 723
 
 > भक्त-चित्तकेकि-घनाघना  
 > भक्त-चित्तकेकि-घनाघना  
-> ॥ 721 ॥
+> ॥ 723 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **भक्त-चित्तकेकि-घनाघना** — She who is the cloud that gladdens the peacocks who are the hearts of Her devotees
+> **भक्त-चित्तकेकि-घनाघना** — She who is the cloud that gladdens the peacocks who are the
+hearts of Her devotees
 
 
 ## COMMENTARIES (VRAVI)
@@ -15139,13 +18918,18 @@
 ---
 
 
-# NAME 722
+# NAME 724
 
 > रोगपर्वत-दम्भोलिर्मृत्युदारु-कुठारिका  
 > रोगपर्वत-दम्भोलिर्मृत्युदारु-कुठारिका  
-> ॥ 722 ॥
+> ॥ 724 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15160,13 +18944,18 @@
 ---
 
 
-# NAME 723
+# NAME 725
 
 > महेश्वरी  
 > महेश्वरी  
-> ॥ 723 ॥
+> ॥ 725 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15181,13 +18970,18 @@
 ---
 
 
-# NAME 724
+# NAME 726
 
 > महाकाली  
 > महाकाली  
-> ॥ 724 ॥
+> ॥ 726 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15202,13 +18996,18 @@
 ---
 
 
-# NAME 725
+# NAME 727
 
 > महाग्रासा  
 > महाग्रासा  
-> ॥ 725 ॥
+> ॥ 727 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15223,13 +19022,18 @@
 ---
 
 
-# NAME 726
+# NAME 728
 
 > महाशना  
 > महाशना  
-> ॥ 726 ॥
+> ॥ 728 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15244,13 +19048,18 @@
 ---
 
 
-# NAME 727
+# NAME 729
 
 > अपर्णा  
 > अपर्णा  
-> ॥ 727 ॥
+> ॥ 729 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15265,13 +19074,18 @@
 ---
 
 
-# NAME 728
+# NAME 730
 
 > चण्डिका  
 > चण्डिका  
-> ॥ 728 ॥
+> ॥ 730 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15286,13 +19100,18 @@
 ---
 
 
-# NAME 729
+# NAME 731
 
 > चण्डमुण्डासुर-निषूदिनी  
 > चण्डमुण्डासुर-निषूदिनी  
-> ॥ 729 ॥
+> ॥ 731 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15307,13 +19126,18 @@
 ---
 
 
-# NAME 730
+# NAME 732
 
 > क्षराक्षरात्मिका  
 > क्षराक्षरात्मिका  
-> ॥ 730 ॥
+> ॥ 732 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15328,13 +19152,18 @@
 ---
 
 
-# NAME 731
+# NAME 733
 
 > सर्व-लोकेशी  
 > सर्व-लोकेशी  
-> ॥ 731 ॥
+> ॥ 733 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15349,13 +19178,18 @@
 ---
 
 
-# NAME 732
+# NAME 734
 
 > विश्वधारिणी  
 > विश्वधारिणी  
-> ॥ 732 ॥
+> ॥ 734 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15370,13 +19204,18 @@
 ---
 
 
-# NAME 733
+# NAME 735
 
 > त्रिवर्गदात्री  
 > त्रिवर्गदात्री  
-> ॥ 733 ॥
+> ॥ 735 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15391,13 +19230,18 @@
 ---
 
 
-# NAME 734
+# NAME 736
 
 > सुभगा  
 > सुभगा  
-> ॥ 734 ॥
+> ॥ 736 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15412,13 +19256,18 @@
 ---
 
 
-# NAME 735
+# NAME 737
 
 > त्र्यम्बका  
 > त्र्यम्बका  
-> ॥ 735 ॥
+> ॥ 737 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15433,13 +19282,18 @@
 ---
 
 
-# NAME 736
+# NAME 738
 
 > त्रिगुणात्मिका  
 > त्रिगुणात्मिका  
-> ॥ 736 ॥
+> ॥ 738 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15454,13 +19308,18 @@
 ---
 
 
-# NAME 737
+# NAME 739
 
 > स्वर्गापवर्गदा  
 > स्वर्गापवर्गदा  
-> ॥ 737 ॥
+> ॥ 739 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15475,13 +19334,18 @@
 ---
 
 
-# NAME 738
+# NAME 740
 
 > शुद्धा  
 > शुद्धा  
-> ॥ 738 ॥
+> ॥ 740 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15496,13 +19360,18 @@
 ---
 
 
-# NAME 739
+# NAME 741
 
 > जपापुष्प-निभाकृतिः  
 > जपापुष्प-निभाकृतिः  
-> ॥ 739 ॥
+> ॥ 741 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15517,13 +19386,18 @@
 ---
 
 
-# NAME 740
+# NAME 742
 
 > ओजोवती  
 > ओजोवती  
-> ॥ 740 ॥
+> ॥ 742 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15538,13 +19412,18 @@
 ---
 
 
-# NAME 741
+# NAME 743
 
 > द्युतिधरा  
 > द्युतिधरा  
-> ॥ 741 ॥
+> ॥ 743 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15559,13 +19438,18 @@
 ---
 
 
-# NAME 742
+# NAME 744
 
 > यज्ञरूपा  
 > यज्ञरूपा  
-> ॥ 742 ॥
+> ॥ 744 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15580,13 +19464,18 @@
 ---
 
 
-# NAME 743
+# NAME 745
 
 > प्रियव्रता  
 > प्रियव्रता  
-> ॥ 743 ॥
+> ॥ 745 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15601,13 +19490,18 @@
 ---
 
 
-# NAME 744
+# NAME 746
 
 > दुराराध्या  
 > दुराराध्या  
-> ॥ 744 ॥
+> ॥ 746 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15622,13 +19516,18 @@
 ---
 
 
-# NAME 745
+# NAME 747
 
 > दुराधर्षा  
 > दुराधर्षा  
-> ॥ 745 ॥
+> ॥ 747 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15643,13 +19542,18 @@
 ---
 
 
-# NAME 746
+# NAME 748
 
 > पाटली-कुसुम-प्रिया  
 > पाटली-कुसुम-प्रिया  
-> ॥ 746 ॥
+> ॥ 748 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15664,13 +19568,18 @@
 ---
 
 
-# NAME 747
+# NAME 749
 
 > महती  
 > महती  
-> ॥ 747 ॥
+> ॥ 749 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15685,13 +19594,18 @@
 ---
 
 
-# NAME 748
+# NAME 750
 
 > मेरुनिलया  
 > मेरुनिलया  
-> ॥ 748 ॥
+> ॥ 750 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15706,13 +19620,18 @@
 ---
 
 
-# NAME 749
+# NAME 751
 
 > मन्दार-कुसुम-प्रिया  
 > मन्दार-कुसुम-प्रिया  
-> ॥ 749 ॥
+> ॥ 751 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15727,13 +19646,18 @@
 ---
 
 
-# NAME 750
+# NAME 752
 
 > वीराराध्या  
 > वीराराध्या  
-> ॥ 750 ॥
+> ॥ 752 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15748,13 +19672,18 @@
 ---
 
 
-# NAME 751
+# NAME 753
 
 > विराड्रूपा  
 > विराड्रूपा  
-> ॥ 751 ॥
+> ॥ 753 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15769,13 +19698,18 @@
 ---
 
 
-# NAME 752
+# NAME 754
 
 > विरजा  
 > विरजा  
-> ॥ 752 ॥
+> ॥ 754 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15790,13 +19724,18 @@
 ---
 
 
-# NAME 753
+# NAME 755
 
 > विश्वतोमुखी  
 > विश्वतोमुखी  
-> ॥ 753 ॥
+> ॥ 755 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15811,13 +19750,18 @@
 ---
 
 
-# NAME 754
+# NAME 756
 
 > प्रत्यग्रूपा  
 > प्रत्यग्रूपा  
-> ॥ 754 ॥
+> ॥ 756 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15832,17 +19776,23 @@
 ---
 
 
-# NAME 755
+# NAME 757
 
 > पराकाशा  
 > पराकाशा  
-> ॥ 755 ॥
+> ॥ 757 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **पराकाशा** — She who is the transcendental ether (which is the material cause of the cosmic and individual bodies)
+> **पराकाशा** — She who is the transcendental ether (which is the material
+cause of the cosmic and individual bodies)
 
 
 ## COMMENTARIES (VRAVI)
@@ -15853,13 +19803,18 @@
 ---
 
 
-# NAME 756
+# NAME 758
 
 > प्राणदा  
 > प्राणदा  
-> ॥ 756 ॥
+> ॥ 758 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15874,13 +19829,18 @@
 ---
 
 
-# NAME 757
+# NAME 759
 
 > प्राणरूपिणी  
 > प्राणरूपिणी  
-> ॥ 757 ॥
+> ॥ 759 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15895,13 +19855,18 @@
 ---
 
 
-# NAME 758
+# NAME 760
 
 > मार्ताण्ड-भैरवाराध्या  
 > मार्ताण्ड-भैरवाराध्या  
-> ॥ 758 ॥
+> ॥ 760 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15916,13 +19881,18 @@
 ---
 
 
-# NAME 759
+# NAME 761
 
 > मन्त्रिणीन्यस्त-राज्यधूः  
 > मन्त्रिणीन्यस्त-राज्यधूः  
-> ॥ 759 ॥
+> ॥ 761 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15937,13 +19907,18 @@
 ---
 
 
-# NAME 760
+# NAME 762
 
 > त्रिपुरेशी  
 > त्रिपुरेशी  
-> ॥ 760 ॥
+> ॥ 762 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15958,13 +19933,18 @@
 ---
 
 
-# NAME 761
+# NAME 763
 
 > जयत्सेना  
 > जयत्सेना  
-> ॥ 761 ॥
+> ॥ 763 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -15979,13 +19959,18 @@
 ---
 
 
-# NAME 762
+# NAME 764
 
 > निस्त्रैगुण्या  
 > निस्त्रैगुण्या  
-> ॥ 762 ॥
+> ॥ 764 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16000,13 +19985,18 @@
 ---
 
 
-# NAME 763
+# NAME 765
 
 > परापरा  
 > परापरा  
-> ॥ 763 ॥
+> ॥ 765 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16021,13 +20011,18 @@
 ---
 
 
-# NAME 764
+# NAME 766
 
 > सत्य-ज्ञानानन्द-रूपा  
 > सत्य-ज्ञानानन्द-रूपा  
-> ॥ 764 ॥
+> ॥ 766 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16042,13 +20037,18 @@
 ---
 
 
-# NAME 765
+# NAME 767
 
 > सामरस्य-परायणा  
 > सामरस्य-परायणा  
-> ॥ 765 ॥
+> ॥ 767 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16063,13 +20063,18 @@
 ---
 
 
-# NAME 766
+# NAME 768
 
 > कपर्दिनी  
 > कपर्दिनी  
-> ॥ 766 ॥
+> ॥ 768 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16084,13 +20089,18 @@
 ---
 
 
-# NAME 767
+# NAME 769
 
 > कलामाला  
 > कलामाला  
-> ॥ 767 ॥
+> ॥ 769 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16105,13 +20115,18 @@
 ---
 
 
-# NAME 768
+# NAME 770
 
 > कामधुक्  
 > कामधुक्  
-> ॥ 768 ॥
+> ॥ 770 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16126,13 +20141,18 @@
 ---
 
 
-# NAME 769
+# NAME 771
 
 > कामरूपिणी  
 > कामरूपिणी  
-> ॥ 769 ॥
+> ॥ 771 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16147,13 +20167,18 @@
 ---
 
 
-# NAME 770
+# NAME 772
 
 > कलानिधिः  
 > कलानिधिः  
-> ॥ 770 ॥
+> ॥ 772 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16168,13 +20193,18 @@
 ---
 
 
-# NAME 771
+# NAME 773
 
 > काव्यकला  
 > काव्यकला  
-> ॥ 771 ॥
+> ॥ 773 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16189,13 +20219,18 @@
 ---
 
 
-# NAME 772
+# NAME 774
 
 > रसज्ञा  
 > रसज्ञा  
-> ॥ 772 ॥
+> ॥ 774 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16210,13 +20245,18 @@
 ---
 
 
-# NAME 773
+# NAME 775
 
 > रसशेवधिः  
 > रसशेवधिः  
-> ॥ 773 ॥
+> ॥ 775 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16231,13 +20271,18 @@
 ---
 
 
-# NAME 774
+# NAME 776
 
 > पुष्टा  
 > पुष्टा  
-> ॥ 774 ॥
+> ॥ 776 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16252,13 +20297,18 @@
 ---
 
 
-# NAME 775
+# NAME 777
 
 > पुरातना  
 > पुरातना  
-> ॥ 775 ॥
+> ॥ 777 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16273,13 +20323,18 @@
 ---
 
 
-# NAME 776
+# NAME 778
 
 > पूज्या  
 > पूज्या  
-> ॥ 776 ॥
+> ॥ 778 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16294,13 +20349,18 @@
 ---
 
 
-# NAME 777
+# NAME 779
 
 > पुष्करा  
 > पुष्करा  
-> ॥ 777 ॥
+> ॥ 779 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16315,13 +20375,18 @@
 ---
 
 
-# NAME 778
+# NAME 780
 
 > पुष्करेक्षणा  
 > पुष्करेक्षणा  
-> ॥ 778 ॥
+> ॥ 780 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16336,55 +20401,70 @@
 ---
 
 
-# NAME 779
-
-> परंज्योतिः  
-> परंज्योतिः  
-> ॥ 779 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
-
-## COMMENTARIES (VRAVI)
-
-> [Needs commentary]
-
-
----
-
-
-# NAME 780
-
-> परंधाम  
-> परंधाम  
-> ॥ 780 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
-
-## COMMENTARIES (VRAVI)
-
-> [Needs commentary]
-
-
----
-
-
 # NAME 781
 
-> परमाणुः  
-> परमाणुः  
+> परंज्योतिः  
+> परंज्योतिः  
 > ॥ 781 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (VRAVI)
+
+> [Needs commentary]
+
+
+---
+
+
+# NAME 782
+
+> परंधाम  
+> परंधाम  
+> ॥ 782 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (VRAVI)
+
+> [Needs commentary]
+
+
+---
+
+
+# NAME 783
+
+> परमाणुः  
+> परमाणुः  
+> ॥ 783 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16399,13 +20479,18 @@
 ---
 
 
-# NAME 782
+# NAME 784
 
 > परात्परा  
 > परात्परा  
-> ॥ 782 ॥
+> ॥ 784 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16420,13 +20505,18 @@
 ---
 
 
-# NAME 783
+# NAME 785
 
 > पाशहस्ता  
 > पाशहस्ता  
-> ॥ 783 ॥
+> ॥ 785 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16441,13 +20531,18 @@
 ---
 
 
-# NAME 784
+# NAME 786
 
 > पाशहन्त्री  
 > पाशहन्त्री  
-> ॥ 784 ॥
+> ॥ 786 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16462,13 +20557,18 @@
 ---
 
 
-# NAME 785
+# NAME 787
 
 > परमन्त्र-विभेदिनी  
 > परमन्त्र-विभेदिनी  
-> ॥ 785 ॥
+> ॥ 787 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16483,13 +20583,18 @@
 ---
 
 
-# NAME 786
+# NAME 788
 
 > मूर्ताऽमूर्ताऽनित्यतृप्ता  
 > मूर्ताऽमूर्ताऽनित्यतृप्ता  
-> ॥ 786 ॥
+> ॥ 788 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16504,13 +20609,18 @@
 ---
 
 
-# NAME 787
+# NAME 789
 
 > मुनिमानस-हंसिका  
 > मुनिमानस-हंसिका  
-> ॥ 787 ॥
+> ॥ 789 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16525,13 +20635,18 @@
 ---
 
 
-# NAME 788
+# NAME 790
 
 > सत्यव्रता  
 > सत्यव्रता  
-> ॥ 788 ॥
+> ॥ 790 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16546,13 +20661,18 @@
 ---
 
 
-# NAME 789
+# NAME 791
 
 > सत्यरूपा  
 > सत्यरूपा  
-> ॥ 789 ॥
+> ॥ 791 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16567,13 +20687,18 @@
 ---
 
 
-# NAME 790
+# NAME 792
 
 > सर्वान्तर्यामिनी  
 > सर्वान्तर्यामिनी  
-> ॥ 790 ॥
+> ॥ 792 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16588,13 +20713,18 @@
 ---
 
 
-# NAME 791
+# NAME 793
 
 > सती  
 > सती  
-> ॥ 791 ॥
+> ॥ 793 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16609,13 +20739,18 @@
 ---
 
 
-# NAME 792
+# NAME 794
 
 > ब्रह्माणी  
 > ब्रह्माणी  
-> ॥ 792 ॥
+> ॥ 794 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16630,13 +20765,18 @@
 ---
 
 
-# NAME 793
+# NAME 795
 
 > ब्रह्मजननी  
 > ब्रह्मजननी  
-> ॥ 793 ॥
+> ॥ 795 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16651,13 +20791,18 @@
 ---
 
 
-# NAME 794
+# NAME 796
 
 > बहुरूपा  
 > बहुरूपा  
-> ॥ 794 ॥
+> ॥ 796 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16672,13 +20817,18 @@
 ---
 
 
-# NAME 795
+# NAME 797
 
 > बुधार्चिता  
 > बुधार्चिता  
-> ॥ 795 ॥
+> ॥ 797 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16693,13 +20843,18 @@
 ---
 
 
-# NAME 796
+# NAME 798
 
 > प्रसवित्री  
 > प्रसवित्री  
-> ॥ 796 ॥
+> ॥ 798 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16714,13 +20869,18 @@
 ---
 
 
-# NAME 797
+# NAME 799
 
 > प्रचण्डाऽऽज्ञा  
 > प्रचण्डाऽऽज्ञा  
-> ॥ 797 ॥
+> ॥ 799 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16735,13 +20895,18 @@
 ---
 
 
-# NAME 798
+# NAME 800
 
 > प्रतिष्ठा  
 > प्रतिष्ठा  
-> ॥ 798 ॥
+> ॥ 800 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16756,13 +20921,18 @@
 ---
 
 
-# NAME 799
+# NAME 801
 
 > प्रकटाकृतिः  
 > प्रकटाकृतिः  
-> ॥ 799 ॥
+> ॥ 801 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16777,13 +20947,18 @@
 ---
 
 
-# NAME 800
+# NAME 802
 
 > प्राणेश्वरी  
 > प्राणेश्वरी  
-> ॥ 800 ॥
+> ॥ 802 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16798,13 +20973,18 @@
 ---
 
 
-# NAME 801
+# NAME 803
 
 > प्राणदात्री  
 > प्राणदात्री  
-> ॥ 801 ॥
+> ॥ 803 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16819,13 +20999,18 @@
 ---
 
 
-# NAME 802
+# NAME 804
 
 > पञ्चाशत्पीठ-रूपिणी  
 > पञ्चाशत्पीठ-रूपिणी  
-> ॥ 802 ॥
+> ॥ 804 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16840,13 +21025,18 @@
 ---
 
 
-# NAME 803
+# NAME 805
 
 > विश‍ृङ्खला  
 > विश‍ृङ्खला  
-> ॥ 803 ॥
+> ॥ 805 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16861,13 +21051,18 @@
 ---
 
 
-# NAME 804
+# NAME 806
 
 > विविक्तस्था  
 > विविक्तस्था  
-> ॥ 804 ॥
+> ॥ 806 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16882,13 +21077,18 @@
 ---
 
 
-# NAME 805
+# NAME 807
 
 > वीरमाता  
 > वीरमाता  
-> ॥ 805 ॥
+> ॥ 807 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16903,13 +21103,18 @@
 ---
 
 
-# NAME 806
+# NAME 808
 
 > वियत्प्रसूः  
 > वियत्प्रसूः  
-> ॥ 806 ॥
+> ॥ 808 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16924,13 +21129,18 @@
 ---
 
 
-# NAME 807
+# NAME 809
 
 > मुकुन्दा  
 > मुकुन्दा  
-> ॥ 807 ॥
+> ॥ 809 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16945,13 +21155,18 @@
 ---
 
 
-# NAME 808
+# NAME 810
 
 > मुक्तिनिलया  
 > मुक्तिनिलया  
-> ॥ 808 ॥
+> ॥ 810 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16966,13 +21181,18 @@
 ---
 
 
-# NAME 809
+# NAME 811
 
 > मूलविग्रह-रूपिणी  
 > मूलविग्रह-रूपिणी  
-> ॥ 809 ॥
+> ॥ 811 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -16987,13 +21207,18 @@
 ---
 
 
-# NAME 810
+# NAME 812
 
 > भावज्ञा  
 > भावज्ञा  
-> ॥ 810 ॥
+> ॥ 812 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17008,13 +21233,18 @@
 ---
 
 
-# NAME 811
+# NAME 813
 
 > भवरोगघ्नी  
 > भवरोगघ्नी  
-> ॥ 811 ॥
+> ॥ 813 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17029,13 +21259,18 @@
 ---
 
 
-# NAME 812
+# NAME 814
 
 > भवचक्र-प्रवर्तिनी  
 > भवचक्र-प्रवर्तिनी  
-> ॥ 812 ॥
+> ॥ 814 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17050,13 +21285,18 @@
 ---
 
 
-# NAME 813
+# NAME 815
 
 > छन्दःसारा  
 > छन्दःसारा  
-> ॥ 813 ॥
+> ॥ 815 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17071,13 +21311,18 @@
 ---
 
 
-# NAME 814
+# NAME 816
 
 > शास्त्रसारा  
 > शास्त्रसारा  
-> ॥ 814 ॥
+> ॥ 816 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17092,13 +21337,18 @@
 ---
 
 
-# NAME 815
+# NAME 817
 
 > मन्त्रसारा  
 > मन्त्रसारा  
-> ॥ 815 ॥
+> ॥ 817 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17113,13 +21363,18 @@
 ---
 
 
-# NAME 816
+# NAME 818
 
 > तलोदरी  
 > तलोदरी  
-> ॥ 816 ॥
+> ॥ 818 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17134,13 +21389,18 @@
 ---
 
 
-# NAME 817
+# NAME 819
 
 > उदारकीर्तिरुद्दामवैभवा  
 > उदारकीर्तिरुद्दामवैभवा  
-> ॥ 817 ॥
+> ॥ 819 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17155,13 +21415,18 @@
 ---
 
 
-# NAME 818
+# NAME 820
 
 > वर्णरूपिणी  
 > वर्णरूपिणी  
-> ॥ 818 ॥
+> ॥ 820 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17176,17 +21441,23 @@
 ---
 
 
-# NAME 819
+# NAME 821
 
 > जन्ममृत्यु-जरातप्त-जनविश्रान्ति-दायिनी  
 > जन्ममृत्यु-जरातप्त-जनविश्रान्ति-दायिनी  
-> ॥ 819 ॥
+> ॥ 821 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **जन्ममृत्यु-जरातप्त-जनविश्रान्ति-दायिनी** — She who gives peace and repose to those who are afflicted by birth, death and decrepitude
+> **जन्ममृत्यु-जरातप्त-जनविश्रान्ति-दायिनी** — She who gives peace and repose to those who are afflicted by
+birth, death and decrepitude
 
 
 ## COMMENTARIES (VRAVI)
@@ -17197,13 +21468,18 @@
 ---
 
 
-# NAME 820
+# NAME 822
 
 > सर्वोपनिष-दुद्-घुष्टा  
 > सर्वोपनिष-दुद्-घुष्टा  
-> ॥ 820 ॥
+> ॥ 822 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17218,13 +21494,18 @@
 ---
 
 
-# NAME 821
+# NAME 823
 
 > शान्त्यतीत-कलात्मिका  
 > शान्त्यतीत-कलात्मिका  
-> ॥ 821 ॥
+> ॥ 823 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17239,13 +21520,18 @@
 ---
 
 
-# NAME 822
+# NAME 824
 
 > गम्भीरा  
 > गम्भीरा  
-> ॥ 822 ॥
+> ॥ 824 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17260,13 +21546,18 @@
 ---
 
 
-# NAME 823
+# NAME 825
 
 > गगनान्तस्था  
 > गगनान्तस्था  
-> ॥ 823 ॥
+> ॥ 825 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17281,13 +21572,18 @@
 ---
 
 
-# NAME 824
+# NAME 826
 
 > गर्विता  
 > गर्विता  
-> ॥ 824 ॥
+> ॥ 826 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17302,13 +21598,18 @@
 ---
 
 
-# NAME 825
+# NAME 827
 
 > गानलोलुपा  
 > गानलोलुपा  
-> ॥ 825 ॥
+> ॥ 827 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17323,13 +21624,18 @@
 ---
 
 
-# NAME 826
+# NAME 828
 
 > कल्पना-रहिता  
 > कल्पना-रहिता  
-> ॥ 826 ॥
+> ॥ 828 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17344,13 +21650,18 @@
 ---
 
 
-# NAME 827
+# NAME 829
 
 > काष्ठाऽकान्ता  
 > काष्ठाऽकान्ता  
-> ॥ 827 ॥
+> ॥ 829 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17365,13 +21676,18 @@
 ---
 
 
-# NAME 828
+# NAME 830
 
 > कान्तार्ध-विग्रहा  
 > कान्तार्ध-विग्रहा  
-> ॥ 828 ॥
+> ॥ 830 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17386,13 +21702,18 @@
 ---
 
 
-# NAME 829
+# NAME 831
 
 > कार्यकारण-निर्मुक्ता  
 > कार्यकारण-निर्मुक्ता  
-> ॥ 829 ॥
+> ॥ 831 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17407,13 +21728,18 @@
 ---
 
 
-# NAME 830
+# NAME 832
 
 > कामकेलि-तरङ्गिता  
 > कामकेलि-तरङ्गिता  
-> ॥ 830 ॥
+> ॥ 832 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17428,13 +21754,18 @@
 ---
 
 
-# NAME 831
+# NAME 833
 
 > कनत्कनकता-टङ्का  
 > कनत्कनकता-टङ्का  
-> ॥ 831 ॥
+> ॥ 833 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17449,13 +21780,18 @@
 ---
 
 
-# NAME 832
+# NAME 834
 
 > लीला-विग्रह-धारिणी  
 > लीला-विग्रह-धारिणी  
-> ॥ 832 ॥
+> ॥ 834 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17470,13 +21806,18 @@
 ---
 
 
-# NAME 833
+# NAME 835
 
 > अजा  
 > अजा  
-> ॥ 833 ॥
+> ॥ 835 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17491,13 +21832,18 @@
 ---
 
 
-# NAME 834
+# NAME 836
 
 > क्षयविनिर्मुक्ता  
 > क्षयविनिर्मुक्ता  
-> ॥ 834 ॥
+> ॥ 836 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17512,13 +21858,18 @@
 ---
 
 
-# NAME 835
+# NAME 837
 
 > मुग्धा  
 > मुग्धा  
-> ॥ 835 ॥
+> ॥ 837 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17533,13 +21884,18 @@
 ---
 
 
-# NAME 836
+# NAME 838
 
 > क्षिप्र-प्रसादिनी  
 > क्षिप्र-प्रसादिनी  
-> ॥ 836 ॥
+> ॥ 838 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17554,13 +21910,18 @@
 ---
 
 
-# NAME 837
+# NAME 839
 
 > अन्तर्मुख-समाराध्या  
 > अन्तर्मुख-समाराध्या  
-> ॥ 837 ॥
+> ॥ 839 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17575,17 +21936,23 @@
 ---
 
 
-# NAME 838
+# NAME 840
 
 > बहिर्मुख-सुदुर्लभा  
 > बहिर्मुख-सुदुर्लभा  
-> ॥ 838 ॥
+> ॥ 840 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **बहिर्मुख-सुदुर्लभा** — She who is difficult to attain by those whose attention is directed outwards
+> **बहिर्मुख-सुदुर्लभा** — She who is difficult to attain by those whose attention is
+directed outwards
 
 
 ## COMMENTARIES (VRAVI)
@@ -17596,13 +21963,18 @@
 ---
 
 
-# NAME 839
+# NAME 841
 
 > त्रयी  
 > त्रयी  
-> ॥ 839 ॥
+> ॥ 841 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17617,13 +21989,18 @@
 ---
 
 
-# NAME 840
+# NAME 842
 
 > त्रिवर्गनिलया  
 > त्रिवर्गनिलया  
-> ॥ 840 ॥
+> ॥ 842 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17638,13 +22015,18 @@
 ---
 
 
-# NAME 841
+# NAME 843
 
 > त्रिस्था  
 > त्रिस्था  
-> ॥ 841 ॥
+> ॥ 843 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17659,13 +22041,18 @@
 ---
 
 
-# NAME 842
+# NAME 844
 
 > त्रिपुरमालिनी  
 > त्रिपुरमालिनी  
-> ॥ 842 ॥
+> ॥ 844 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17680,13 +22067,18 @@
 ---
 
 
-# NAME 843
+# NAME 845
 
 > निरामया  
 > निरामया  
-> ॥ 843 ॥
+> ॥ 845 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17701,13 +22093,18 @@
 ---
 
 
-# NAME 844
+# NAME 846
 
 > निरालम्बा  
 > निरालम्बा  
-> ॥ 844 ॥
+> ॥ 846 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17722,13 +22119,18 @@
 ---
 
 
-# NAME 845
+# NAME 847
 
 > स्वात्मारामा  
 > स्वात्मारामा  
-> ॥ 845 ॥
+> ॥ 847 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17743,13 +22145,18 @@
 ---
 
 
-# NAME 846
+# NAME 848
 
 > सुधासृतिः  
 > सुधासृतिः  
-> ॥ 846 ॥
+> ॥ 848 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17764,17 +22171,23 @@
 ---
 
 
-# NAME 847
+# NAME 849
 
 > संसारपङ्क-निर्मग्न-समुद्धरण-पण्डिता  
 > संसारपङ्क-निर्मग्न-समुद्धरण-पण्डिता  
-> ॥ 847 ॥
+> ॥ 849 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **संसारपङ्क-निर्मग्न-समुद्धरण-पण्डिता** — She who is skilled in raising those who are immersed in the mire of transmigratory life
+> **संसारपङ्क-निर्मग्न-समुद्धरण-पण्डिता** — She who is skilled in raising those who are immersed in the
+mire of transmigratory life
 
 
 ## COMMENTARIES (VRAVI)
@@ -17785,13 +22198,18 @@
 ---
 
 
-# NAME 848
+# NAME 850
 
 > यज्ञप्रिया  
 > यज्ञप्रिया  
-> ॥ 848 ॥
+> ॥ 850 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17806,13 +22224,18 @@
 ---
 
 
-# NAME 849
+# NAME 851
 
 > यज्ञकर्त्री  
 > यज्ञकर्त्री  
-> ॥ 849 ॥
+> ॥ 851 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17827,13 +22250,18 @@
 ---
 
 
-# NAME 850
+# NAME 852
 
 > यजमान-स्वरूपिणी  
 > यजमान-स्वरूपिणी  
-> ॥ 850 ॥
+> ॥ 852 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17848,13 +22276,18 @@
 ---
 
 
-# NAME 851
+# NAME 853
 
 > धर्माधारा  
 > धर्माधारा  
-> ॥ 851 ॥
+> ॥ 853 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17869,13 +22302,18 @@
 ---
 
 
-# NAME 852
+# NAME 854
 
 > धनाध्यक्षा  
 > धनाध्यक्षा  
-> ॥ 852 ॥
+> ॥ 854 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17890,13 +22328,18 @@
 ---
 
 
-# NAME 853
+# NAME 855
 
 > धनधान्य-विवर्धिनी  
 > धनधान्य-विवर्धिनी  
-> ॥ 853 ॥
+> ॥ 855 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17911,13 +22354,18 @@
 ---
 
 
-# NAME 854
+# NAME 856
 
 > विप्रप्रिया  
 > विप्रप्रिया  
-> ॥ 854 ॥
+> ॥ 856 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17932,13 +22380,18 @@
 ---
 
 
-# NAME 855
+# NAME 857
 
 > विप्ररूपा  
 > विप्ररूपा  
-> ॥ 855 ॥
+> ॥ 857 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17953,13 +22406,18 @@
 ---
 
 
-# NAME 856
+# NAME 858
 
 > विश्वभ्रमण-कारिणी  
 > विश्वभ्रमण-कारिणी  
-> ॥ 856 ॥
+> ॥ 858 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17974,13 +22432,18 @@
 ---
 
 
-# NAME 857
+# NAME 859
 
 > विश्वग्रासा  
 > विश्वग्रासा  
-> ॥ 857 ॥
+> ॥ 859 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -17995,13 +22458,18 @@
 ---
 
 
-# NAME 858
+# NAME 860
 
 > विद्रुमाभा  
 > विद्रुमाभा  
-> ॥ 858 ॥
+> ॥ 860 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18016,13 +22484,18 @@
 ---
 
 
-# NAME 859
+# NAME 861
 
 > वैष्णवी  
 > वैष्णवी  
-> ॥ 859 ॥
+> ॥ 861 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18037,13 +22510,18 @@
 ---
 
 
-# NAME 860
+# NAME 862
 
 > विष्णुरूपिणी  
 > विष्णुरूपिणी  
-> ॥ 860 ॥
+> ॥ 862 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18058,13 +22536,18 @@
 ---
 
 
-# NAME 861
+# NAME 863
 
 > अयोनिर्योनिनिलया  
 > अयोनिर्योनिनिलया  
-> ॥ 861 ॥
+> ॥ 863 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18079,13 +22562,18 @@
 ---
 
 
-# NAME 862
+# NAME 864
 
 > कूटस्था  
 > कूटस्था  
-> ॥ 862 ॥
+> ॥ 864 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18100,13 +22588,18 @@
 ---
 
 
-# NAME 863
+# NAME 865
 
 > कुलरूपिणी  
 > कुलरूपिणी  
-> ॥ 863 ॥
+> ॥ 865 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18121,13 +22614,18 @@
 ---
 
 
-# NAME 864
+# NAME 866
 
 > वीरगोष्ठीप्रिया  
 > वीरगोष्ठीप्रिया  
-> ॥ 864 ॥
+> ॥ 866 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18142,13 +22640,18 @@
 ---
 
 
-# NAME 865
+# NAME 867
 
 > वीरा  
 > वीरा  
-> ॥ 865 ॥
+> ॥ 867 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18163,13 +22666,18 @@
 ---
 
 
-# NAME 866
+# NAME 868
 
 > नैष्कर्म्या  
 > नैष्कर्म्या  
-> ॥ 866 ॥
+> ॥ 868 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18184,13 +22692,18 @@
 ---
 
 
-# NAME 867
+# NAME 869
 
 > नादरूपिणी  
 > नादरूपिणी  
-> ॥ 867 ॥
+> ॥ 869 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18205,13 +22718,18 @@
 ---
 
 
-# NAME 868
+# NAME 870
 
 > विज्ञानकलना  
 > विज्ञानकलना  
-> ॥ 868 ॥
+> ॥ 870 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18226,13 +22744,18 @@
 ---
 
 
-# NAME 869
+# NAME 871
 
 > कल्या  
 > कल्या  
-> ॥ 869 ॥
+> ॥ 871 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18247,13 +22770,18 @@
 ---
 
 
-# NAME 870
+# NAME 872
 
 > विदग्धा  
 > विदग्धा  
-> ॥ 870 ॥
+> ॥ 872 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18268,13 +22796,18 @@
 ---
 
 
-# NAME 871
+# NAME 873
 
 > बैन्दवासना  
 > बैन्दवासना  
-> ॥ 871 ॥
+> ॥ 873 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18289,13 +22822,18 @@
 ---
 
 
-# NAME 872
+# NAME 874
 
 > तत्त्वाधिका  
 > तत्त्वाधिका  
-> ॥ 872 ॥
+> ॥ 874 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18310,13 +22848,18 @@
 ---
 
 
-# NAME 873
+# NAME 875
 
 > तत्त्वमयी  
 > तत्त्वमयी  
-> ॥ 873 ॥
+> ॥ 875 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18331,13 +22874,18 @@
 ---
 
 
-# NAME 874
+# NAME 876
 
 > तत्त्वमर्थ-स्वरूपिणी  
 > तत्त्वमर्थ-स्वरूपिणी  
-> ॥ 874 ॥
+> ॥ 876 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18352,13 +22900,18 @@
 ---
 
 
-# NAME 875
+# NAME 877
 
 > सामगानप्रिया  
 > सामगानप्रिया  
-> ॥ 875 ॥
+> ॥ 877 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18373,17 +22926,23 @@
 ---
 
 
-# NAME 876
+# NAME 878
 
 > सौम्या  
 > सौम्या  
-> ॥ 876 ॥
+> ॥ 878 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **सौम्या** — She who is benign and gentle in nature; of a cool, gentle nature as the moon
+> **सौम्या** — She who is benign and gentle in nature; of a cool, gentle
+nature as the moon
 
 
 ## COMMENTARIES (VRAVI)
@@ -18394,13 +22953,18 @@
 ---
 
 
-# NAME 877
+# NAME 879
 
 > सदाशिव-कुटुम्बिनी  
 > सदाशिव-कुटुम्बिनी  
-> ॥ 877 ॥
+> ॥ 879 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18415,17 +22979,23 @@
 ---
 
 
-# NAME 878
+# NAME 880
 
 > सव्यापसव्य-मार्गस्था  
 > सव्यापसव्य-मार्गस्था  
-> ॥ 878 ॥
+> ॥ 880 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **सव्यापसव्य-मार्गस्था** — She who occupies (or can be reached by) both the left and right paths of worship
+> **सव्यापसव्य-मार्गस्था** — She who occupies (or can be reached by) both the left and
+right paths of worship
 
 
 ## COMMENTARIES (VRAVI)
@@ -18436,13 +23006,18 @@
 ---
 
 
-# NAME 879
+# NAME 881
 
 > सर्वापद्विनिवारिणी  
 > सर्वापद्विनिवारिणी  
-> ॥ 879 ॥
+> ॥ 881 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18457,13 +23032,18 @@
 ---
 
 
-# NAME 880
+# NAME 882
 
 > स्वस्था  
 > स्वस्था  
-> ॥ 880 ॥
+> ॥ 882 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18478,13 +23058,18 @@
 ---
 
 
-# NAME 881
+# NAME 883
 
 > स्वभावमधुरा  
 > स्वभावमधुरा  
-> ॥ 881 ॥
+> ॥ 883 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18499,13 +23084,18 @@
 ---
 
 
-# NAME 882
+# NAME 884
 
 > धीरा  
 > धीरा  
-> ॥ 882 ॥
+> ॥ 884 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18520,13 +23110,18 @@
 ---
 
 
-# NAME 883
+# NAME 885
 
 > धीरसमर्चिता  
 > धीरसमर्चिता  
-> ॥ 883 ॥
+> ॥ 885 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18541,13 +23136,18 @@
 ---
 
 
-# NAME 884
+# NAME 886
 
 > चैतन्यार्घ्य-समाराध्या  
 > चैतन्यार्घ्य-समाराध्या  
-> ॥ 884 ॥
+> ॥ 886 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18562,13 +23162,18 @@
 ---
 
 
-# NAME 885
+# NAME 887
 
 > चैतन्य-कुसुमप्रिया  
 > चैतन्य-कुसुमप्रिया  
-> ॥ 885 ॥
+> ॥ 887 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18583,13 +23188,18 @@
 ---
 
 
-# NAME 886
+# NAME 888
 
 > सदोदिता  
 > सदोदिता  
-> ॥ 886 ॥
+> ॥ 888 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18604,13 +23214,18 @@
 ---
 
 
-# NAME 887
+# NAME 889
 
 > सदातुष्टा  
 > सदातुष्टा  
-> ॥ 887 ॥
+> ॥ 889 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18625,13 +23240,18 @@
 ---
 
 
-# NAME 888
+# NAME 890
 
 > तरुणादित्य-पाटला  
 > तरुणादित्य-पाटला  
-> ॥ 888 ॥
+> ॥ 890 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18646,13 +23266,18 @@
 ---
 
 
-# NAME 889
+# NAME 891
 
 > दक्षिणा-दक्षिणाराध्या  
 > दक्षिणा-दक्षिणाराध्या  
-> ॥ 889 ॥
+> ॥ 891 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18667,13 +23292,18 @@
 ---
 
 
-# NAME 890
+# NAME 892
 
 > दरस्मेर-मुखाम्बुजा  
 > दरस्मेर-मुखाम्बुजा  
-> ॥ 890 ॥
+> ॥ 892 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18688,13 +23318,18 @@
 ---
 
 
-# NAME 891
+# NAME 893
 
 > कौलिनी-केवलाऽनर्घ्य-कैवल्य-पददायिनी  
 > कौलिनी-केवलाऽनर्घ्य-कैवल्य-पददायिनी  
-> ॥ 891 ॥
+> ॥ 893 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18709,13 +23344,18 @@
 ---
 
 
-# NAME 892
+# NAME 894
 
 > स्तोत्रप्रिया  
 > स्तोत्रप्रिया  
-> ॥ 892 ॥
+> ॥ 894 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18730,13 +23370,18 @@
 ---
 
 
-# NAME 893
+# NAME 895
 
 > स्तुतिमती  
 > स्तुतिमती  
-> ॥ 893 ॥
+> ॥ 895 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18751,13 +23396,18 @@
 ---
 
 
-# NAME 894
+# NAME 896
 
 > श्रुति-संस्तुत-वैभवा  
 > श्रुति-संस्तुत-वैभवा  
-> ॥ 894 ॥
+> ॥ 896 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18772,13 +23422,18 @@
 ---
 
 
-# NAME 895
+# NAME 897
 
 > मनस्विनी  
 > मनस्विनी  
-> ॥ 895 ॥
+> ॥ 897 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18793,13 +23448,18 @@
 ---
 
 
-# NAME 896
+# NAME 898
 
 > मानवती  
 > मानवती  
-> ॥ 896 ॥
+> ॥ 898 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18814,13 +23474,18 @@
 ---
 
 
-# NAME 897
+# NAME 899
 
 > महेशी  
 > महेशी  
-> ॥ 897 ॥
+> ॥ 899 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18835,13 +23500,18 @@
 ---
 
 
-# NAME 898
+# NAME 900
 
 > मङ्गलाकृतिः  
 > मङ्गलाकृतिः  
-> ॥ 898 ॥
+> ॥ 900 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18856,13 +23526,18 @@
 ---
 
 
-# NAME 899
+# NAME 901
 
 > विश्वमाता  
 > विश्वमाता  
-> ॥ 899 ॥
+> ॥ 901 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18877,13 +23552,18 @@
 ---
 
 
-# NAME 900
+# NAME 902
 
 > जगद्धात्री  
 > जगद्धात्री  
-> ॥ 900 ॥
+> ॥ 902 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18898,13 +23578,18 @@
 ---
 
 
-# NAME 901
+# NAME 903
 
 > विशालाक्षी  
 > विशालाक्षी  
-> ॥ 901 ॥
+> ॥ 903 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18919,13 +23604,18 @@
 ---
 
 
-# NAME 902
+# NAME 904
 
 > विरागिणी  
 > विरागिणी  
-> ॥ 902 ॥
+> ॥ 904 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18940,13 +23630,18 @@
 ---
 
 
-# NAME 903
+# NAME 905
 
 > प्रगल्भा  
 > प्रगल्भा  
-> ॥ 903 ॥
+> ॥ 905 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18961,13 +23656,18 @@
 ---
 
 
-# NAME 904
+# NAME 906
 
 > परमोदारा  
 > परमोदारा  
-> ॥ 904 ॥
+> ॥ 906 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -18982,13 +23682,18 @@
 ---
 
 
-# NAME 905
+# NAME 907
 
 > परामोदा  
 > परामोदा  
-> ॥ 905 ॥
+> ॥ 907 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19003,13 +23708,18 @@
 ---
 
 
-# NAME 906
+# NAME 908
 
 > मनोमयी  
 > मनोमयी  
-> ॥ 906 ॥
+> ॥ 908 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19024,13 +23734,18 @@
 ---
 
 
-# NAME 907
+# NAME 909
 
 > व्योमकेशी  
 > व्योमकेशी  
-> ॥ 907 ॥
+> ॥ 909 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19045,17 +23760,23 @@
 ---
 
 
-# NAME 908
+# NAME 910
 
 > विमानस्था  
 > विमानस्था  
-> ॥ 908 ॥
+> ॥ 910 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **विमानस्था** — She who is seated in Her celestial chariot; She who journeys in Her celestial chariot along with the gods
+> **विमानस्था** — She who is seated in Her celestial chariot; She who journeys
+in Her celestial chariot along with the gods
 
 
 ## COMMENTARIES (VRAVI)
@@ -19066,13 +23787,18 @@
 ---
 
 
-# NAME 909
+# NAME 911
 
 > वज्रिणी  
 > वज्रिणी  
-> ॥ 909 ॥
+> ॥ 911 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19087,13 +23813,18 @@
 ---
 
 
-# NAME 910
+# NAME 912
 
 > वामकेश्वरी  
 > वामकेश्वरी  
-> ॥ 910 ॥
+> ॥ 912 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19108,17 +23839,23 @@
 ---
 
 
-# NAME 911
+# NAME 913
 
 > पञ्चयज्ञ-प्रिया  
 > पञ्चयज्ञ-प्रिया  
-> ॥ 911 ॥
+> ॥ 913 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **पञ्चयज्ञ-प्रिया** — She who is fond of the five forms of sacrifices (agnihotrA, darshapUrnamAsa, chAturmAsya, goyaj~na and somayaj~na)
+> **पञ्चयज्ञ-प्रिया** — She who is fond of the five forms of sacrifices (agnihotrA,
+darshapUrnamAsa, chAturmAsya, goyaj~na and somayaj~na)
 
 
 ## COMMENTARIES (VRAVI)
@@ -19129,13 +23866,18 @@
 ---
 
 
-# NAME 912
+# NAME 914
 
 > पञ्च-प्रेत-मञ्चाधिशायिनी  
 > पञ्च-प्रेत-मञ्चाधिशायिनी  
-> ॥ 912 ॥
+> ॥ 914 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19150,13 +23892,18 @@
 ---
 
 
-# NAME 913
+# NAME 915
 
 > पञ्चमी  
 > पञ्चमी  
-> ॥ 913 ॥
+> ॥ 915 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19171,13 +23918,18 @@
 ---
 
 
-# NAME 914
+# NAME 916
 
 > पञ्चभूतेशी  
 > पञ्चभूतेशी  
-> ॥ 914 ॥
+> ॥ 916 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19192,13 +23944,18 @@
 ---
 
 
-# NAME 915
+# NAME 917
 
 > पञ्च-संख्योपचारिणी  
 > पञ्च-संख्योपचारिणी  
-> ॥ 915 ॥
+> ॥ 917 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19213,13 +23970,18 @@
 ---
 
 
-# NAME 916
+# NAME 918
 
 > शाश्वती  
 > शाश्वती  
-> ॥ 916 ॥
+> ॥ 918 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19234,13 +23996,18 @@
 ---
 
 
-# NAME 917
+# NAME 919
 
 > शाश्वतैश्वर्या  
 > शाश्वतैश्वर्या  
-> ॥ 917 ॥
+> ॥ 919 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19255,13 +24022,18 @@
 ---
 
 
-# NAME 918
+# NAME 920
 
 > शर्मदा  
 > शर्मदा  
-> ॥ 918 ॥
+> ॥ 920 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19276,13 +24048,18 @@
 ---
 
 
-# NAME 919
+# NAME 921
 
 > शम्भुमोहिनी  
 > शम्भुमोहिनी  
-> ॥ 919 ॥
+> ॥ 921 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19297,13 +24074,18 @@
 ---
 
 
-# NAME 920
+# NAME 922
 
 > धराधरसुता  
 > धराधरसुता  
-> ॥ 920 ॥
+> ॥ 922 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19318,13 +24100,18 @@
 ---
 
 
-# NAME 921
+# NAME 923
 
 > धन्या  
 > धन्या  
-> ॥ 921 ॥
+> ॥ 923 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19339,13 +24126,18 @@
 ---
 
 
-# NAME 922
+# NAME 924
 
 > धर्मिणी  
 > धर्मिणी  
-> ॥ 922 ॥
+> ॥ 924 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19360,13 +24152,18 @@
 ---
 
 
-# NAME 923
+# NAME 925
 
 > धर्मवर्धिनी  
 > धर्मवर्धिनी  
-> ॥ 923 ॥
+> ॥ 925 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19381,13 +24178,18 @@
 ---
 
 
-# NAME 924
+# NAME 926
 
 > लोकातीता  
 > लोकातीता  
-> ॥ 924 ॥
+> ॥ 926 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19402,13 +24204,18 @@
 ---
 
 
-# NAME 925
+# NAME 927
 
 > गुणातीता  
 > गुणातीता  
-> ॥ 925 ॥
+> ॥ 927 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19423,13 +24230,18 @@
 ---
 
 
-# NAME 926
+# NAME 928
 
 > सर्वातीता  
 > सर्वातीता  
-> ॥ 926 ॥
+> ॥ 928 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19444,13 +24256,18 @@
 ---
 
 
-# NAME 927
+# NAME 929
 
 > शमात्मिका  
 > शमात्मिका  
-> ॥ 927 ॥
+> ॥ 929 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19465,13 +24282,18 @@
 ---
 
 
-# NAME 928
+# NAME 930
 
 > बन्धूक-कुसुमप्रख्या  
 > बन्धूक-कुसुमप्रख्या  
-> ॥ 928 ॥
+> ॥ 930 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19486,13 +24308,18 @@
 ---
 
 
-# NAME 929
+# NAME 931
 
 > बाला  
 > बाला  
-> ॥ 929 ॥
+> ॥ 931 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19507,13 +24334,18 @@
 ---
 
 
-# NAME 930
+# NAME 932
 
 > लीलाविनोदिनी  
 > लीलाविनोदिनी  
-> ॥ 930 ॥
+> ॥ 932 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19528,13 +24360,18 @@
 ---
 
 
-# NAME 931
+# NAME 933
 
 > सुमङ्गली  
 > सुमङ्गली  
-> ॥ 931 ॥
+> ॥ 933 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19549,13 +24386,18 @@
 ---
 
 
-# NAME 932
+# NAME 934
 
 > सुखकरी  
 > सुखकरी  
-> ॥ 932 ॥
+> ॥ 934 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19570,17 +24412,23 @@
 ---
 
 
-# NAME 933
+# NAME 935
 
 > सुवेषाढ्या  
 > सुवेषाढ्या  
-> ॥ 933 ॥
+> ॥ 935 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **सुवेषाढ्या** — She who is very attractive in Her beautiful rich garments and ornaments
+> **सुवेषाढ्या** — She who is very attractive in Her beautiful rich garments
+and ornaments
 
 
 ## COMMENTARIES (VRAVI)
@@ -19591,13 +24439,18 @@
 ---
 
 
-# NAME 934
+# NAME 936
 
 > सुवासिनी  
 > सुवासिनी  
-> ॥ 934 ॥
+> ॥ 936 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19612,13 +24465,18 @@
 ---
 
 
-# NAME 935
+# NAME 937
 
 > सुवासिन्यर्चन-प्रीताऽऽशोभना  
 > सुवासिन्यर्चन-प्रीताऽऽशोभना  
-> ॥ 935 ॥
+> ॥ 937 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19633,13 +24491,18 @@
 ---
 
 
-# NAME 936
+# NAME 938
 
 > शुद्धमानसा  
 > शुद्धमानसा  
-> ॥ 936 ॥
+> ॥ 938 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19654,13 +24517,18 @@
 ---
 
 
-# NAME 937
+# NAME 939
 
 > बिन्दु-तर्पण-सन्तुष्टा  
 > बिन्दु-तर्पण-सन्तुष्टा  
-> ॥ 937 ॥
+> ॥ 939 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19675,13 +24543,18 @@
 ---
 
 
-# NAME 938
+# NAME 940
 
 > पूर्वजा  
 > पूर्वजा  
-> ॥ 938 ॥
+> ॥ 940 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19696,13 +24569,18 @@
 ---
 
 
-# NAME 939
+# NAME 941
 
 > त्रिपुराम्बिका  
 > त्रिपुराम्बिका  
-> ॥ 939 ॥
+> ॥ 941 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19717,17 +24595,25 @@
 ---
 
 
-# NAME 940
+# NAME 942
 
 > दशमुद्रा-समाराध्या  
 > दशमुद्रा-समाराध्या  
-> ॥ 940 ॥
+> ॥ 942 ॥
 
 ---
 
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
-> **दशमुद्रा-समाराध्या** — She who is worshipped by ten mudras (sarva sa~NkShobhini, sarvavidrAvinI, sarvAkarshini, sarvavashankari, sarvonmAdinI, sarvamahankusha, sarvakhechari, sarva bIja, sarva yoni, sarva trikhaNDA)
+> **दशमुद्रा-समाराध्या** — She who is worshipped by ten mudras (sarva sa~NkShobhini,
+sarvavidrAvinI, sarvAkarshini, sarvavashankari, sarvonmAdinI,
+sarvamahankusha, sarvakhechari, sarva bIja, sarva yoni,
+sarva trikhaNDA)
 
 
 ## COMMENTARIES (VRAVI)
@@ -19738,13 +24624,18 @@
 ---
 
 
-# NAME 941
+# NAME 943
 
 > त्रिपुराश्री-वशङ्करी  
 > त्रिपुराश्री-वशङ्करी  
-> ॥ 941 ॥
+> ॥ 943 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19759,13 +24650,18 @@
 ---
 
 
-# NAME 942
+# NAME 944
 
 > ज्ञानमुद्रा  
 > ज्ञानमुद्रा  
-> ॥ 942 ॥
+> ॥ 944 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19780,13 +24676,18 @@
 ---
 
 
-# NAME 943
+# NAME 945
 
 > ज्ञानगम्या  
 > ज्ञानगम्या  
-> ॥ 943 ॥
+> ॥ 945 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19801,13 +24702,18 @@
 ---
 
 
-# NAME 944
+# NAME 946
 
 > ज्ञानज्ञेय-स्वरूपिणी  
 > ज्ञानज्ञेय-स्वरूपिणी  
-> ॥ 944 ॥
+> ॥ 946 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19822,13 +24728,18 @@
 ---
 
 
-# NAME 945
+# NAME 947
 
 > योनिमुद्रा  
 > योनिमुद्रा  
-> ॥ 945 ॥
+> ॥ 947 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19843,13 +24754,18 @@
 ---
 
 
-# NAME 946
+# NAME 948
 
 > त्रिखण्डेशी  
 > त्रिखण्डेशी  
-> ॥ 946 ॥
+> ॥ 948 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19864,55 +24780,18 @@
 ---
 
 
-# NAME 947
-
-> त्रिगुणाम्बा  
-> त्रिगुणाम्बा  
-> ॥ 947 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> [Needs commentary]
-
-
-## COMMENTARIES (VRAVI)
-
-> [Needs commentary]
-
-
----
-
-
-# NAME 948
-
-> त्रिकोणगा  
-> त्रिकोणगा  
-> ॥ 948 ॥
-
----
-
-## COMMENTARIES (SANSKRITDOCUMENTS)
-
-> **त्रिकोणगा** — She who resides in the triangle
-
-
-## COMMENTARIES (VRAVI)
-
-> **त्रिकोणगा** — Trikoṇā means triangle and this nāma says that She resides in a triangle. Triangle here means the innermost triangle of Śrī Cakra, known as sarva-siddhi-pradā cakra. While performing Śrī Cakra pūja, this triangle should be facing the performer. This is the eighth āvaraṇa or covering of Śrī Cakra. This triangle and the bindu within, indicate creation. The triangle represents Śaktī and the bindu represents Śiva. This triangle is the creation of Śiva. This confirms the theory that Śiva is the creator of Śaktī. The bindu is also known as parā, the bindu tattva. The bindu exhibits a series of throbs known as spanda or divine pulsation, also known as the creative pulsation of Śiva. These divine pulsations manifest as a triangle. The triangle represents all the triads like icchā, jñāna and kriyā śaktī-s or three guṇa-s, or paśyantī, madhyamā and vaikharī, or creation, sustenance and dissolution, etc. It is said that the ‘three purā-s of bindu (representing the three sides of the triangle) wherein abides the impenetrable transcendent greatness of all devata-s. Devata-s mean the different energies that are required to keep the universe afloat. The inner most triangle gives rise to all other triangles of Śrī Cakra. It is to be observed that the bindu is the cause of only the innermost triangle and other triangles emerge from the inner most triangle. This is in confirmation of the theory that Śiva created Śaktī alone and the rest of the creation was made only by Śaktī. Śrī Cakra is nothing but a graphical expression of the theory of creation. Pure knowledge is also known as trikona. The three corners of the triangle refer to three types of manifestations, the experiment, the experience and the object of experience (nāma 254). The triangle and the bindu represent Liṅga form of Śiva. Liṅga Purāṇa (II.47.9) says ‘The pedestal of Liṅga is Goddess Umā and the Liṅga is Maheśvara Himself. By worshipping these two, the Lord and Goddess are worshipped.’ When She embraces Śiva in Her subtlest form kuṇḍalinī, She is impregnated to manifest in the form of icchā (will), jñāna (cognition) and kriyā (action) śaktī-s disturbing the equal proportion of guṇa-s, thereby causing the creation. The entire universe arises from this triangle, the cause of which is the bindu within. She is extremely happy when Her consort is worshipped (nāma 974 bindu-trarpaṇa-santuṣṭā). After all, She is Śiva-priyā (nāma 409) and Śiva-parā (nāma 410). Based on the above reasons, it has been repeatedly said that Śrī Cakra worship should be done in strict privacy. Bhāvanopaniṣad describes procedures that are to be performed through mentation (the root word of meditation). Kṛṣṇa also advocates mental worship. He says in Bhagavad Gīta (VI.25) “He should through gradual practice attain tranquillity and fixing on the Brahman through reason controlled by steadfastness, he should not think of anything else. This triangle is called Brahma Yoni by Kṛṣṇa. He says (Bhagavad Gīta XIV.3) mama yonirmahad brahmā which means that the Brahman, the total material substance is the source of birth, making possible the birth of all other creatures. In the next verse He says “Prakṛti or Nature is the conceiving mother, while I am the seedgiving father.” This is a typical example of the inner most triangle and bindu of Śrī Cakra.
-
-
----
-
-
 # NAME 949
 
-> अनघाऽद्भुत-चारित्रा  
-> अनघाऽद्भुत-चारित्रा  
+> त्रिगुणाम्बा  
+> त्रिगुणाम्बा  
 > ॥ 949 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19929,11 +24808,68 @@
 
 # NAME 950
 
-> वाञ्छितार्थ-प्रदायिनी  
-> वाञ्छितार्थ-प्रदायिनी  
+> त्रिकोणगा  
+> त्रिकोणगा  
 > ॥ 950 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> **त्रिकोणगा** — She who resides in the triangle
+
+
+## COMMENTARIES (VRAVI)
+
+> **त्रिकोणगा** — Trikoṇā means triangle and this nāma says that She resides in a triangle. Triangle here means the innermost triangle of Śrī Cakra, known as sarva-siddhi-pradā cakra. While performing Śrī Cakra pūja, this triangle should be facing the performer. This is the eighth āvaraṇa or covering of Śrī Cakra. This triangle and the bindu within, indicate creation. The triangle represents Śaktī and the bindu represents Śiva. This triangle is the creation of Śiva. This confirms the theory that Śiva is the creator of Śaktī. The bindu is also known as parā, the bindu tattva. The bindu exhibits a series of throbs known as spanda or divine pulsation, also known as the creative pulsation of Śiva. These divine pulsations manifest as a triangle. The triangle represents all the triads like icchā, jñāna and kriyā śaktī-s or three guṇa-s, or paśyantī, madhyamā and vaikharī, or creation, sustenance and dissolution, etc. It is said that the ‘three purā-s of bindu (representing the three sides of the triangle) wherein abides the impenetrable transcendent greatness of all devata-s. Devata-s mean the different energies that are required to keep the universe afloat. The inner most triangle gives rise to all other triangles of Śrī Cakra. It is to be observed that the bindu is the cause of only the innermost triangle and other triangles emerge from the inner most triangle. This is in confirmation of the theory that Śiva created Śaktī alone and the rest of the creation was made only by Śaktī. Śrī Cakra is nothing but a graphical expression of the theory of creation. Pure knowledge is also known as trikona. The three corners of the triangle refer to three types of manifestations, the experiment, the experience and the object of experience (nāma 254). The triangle and the bindu represent Liṅga form of Śiva. Liṅga Purāṇa (II.47.9) says ‘The pedestal of Liṅga is Goddess Umā and the Liṅga is Maheśvara Himself. By worshipping these two, the Lord and Goddess are worshipped.’ When She embraces Śiva in Her subtlest form kuṇḍalinī, She is impregnated to manifest in the form of icchā (will), jñāna (cognition) and kriyā (action) śaktī-s disturbing the equal proportion of guṇa-s, thereby causing the creation. The entire universe arises from this triangle, the cause of which is the bindu within. She is extremely happy when Her consort is worshipped (nāma 974 bindu-trarpaṇa-santuṣṭā). After all, She is Śiva-priyā (nāma 409) and Śiva-parā (nāma 410). Based on the above reasons, it has been repeatedly said that Śrī Cakra worship should be done in strict privacy. Bhāvanopaniṣad describes procedures that are to be performed through mentation (the root word of meditation). Kṛṣṇa also advocates mental worship. He says in Bhagavad Gīta (VI.25) “He should through gradual practice attain tranquillity and fixing on the Brahman through reason controlled by steadfastness, he should not think of anything else. This triangle is called Brahma Yoni by Kṛṣṇa. He says (Bhagavad Gīta XIV.3) mama yonirmahad brahmā which means that the Brahman, the total material substance is the source of birth, making possible the birth of all other creatures. In the next verse He says “Prakṛti or Nature is the conceiving mother, while I am the seedgiving father.” This is a typical example of the inner most triangle and bindu of Śrī Cakra.
+
+
+---
+
+
+# NAME 951
+
+> अनघाऽद्भुत-चारित्रा  
+> अनघाऽद्भुत-चारित्रा  
+> ॥ 951 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (SANSKRITDOCUMENTS)
+
+> [Needs commentary]
+
+
+## COMMENTARIES (VRAVI)
+
+> [Needs commentary]
+
+
+---
+
+
+# NAME 952
+
+> वाञ्छितार्थ-प्रदायिनी  
+> वाञ्छितार्थ-प्रदायिनी  
+> ॥ 952 ॥
+
+---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19948,13 +24884,18 @@
 ---
 
 
-# NAME 951
+# NAME 953
 
 > अभ्यासातिशय-ज्ञाता  
 > अभ्यासातिशय-ज्ञाता  
-> ॥ 951 ॥
+> ॥ 953 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19969,13 +24910,18 @@
 ---
 
 
-# NAME 952
+# NAME 954
 
 > षडध्वातीत-रूपिणी  
 > षडध्वातीत-रूपिणी  
-> ॥ 952 ॥
+> ॥ 954 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -19990,13 +24936,18 @@
 ---
 
 
-# NAME 953
+# NAME 955
 
 > अव्याज-करुणा-मूर्तिरज्ञान-ध्वान्त-दीपिका  
 > अव्याज-करुणा-मूर्तिरज्ञान-ध्वान्त-दीपिका  
-> ॥ 953 ॥
+> ॥ 955 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -20011,13 +24962,18 @@
 ---
 
 
-# NAME 954
+# NAME 956
 
 > आबाल-गोप-विदिता  
 > आबाल-गोप-विदिता  
-> ॥ 954 ॥
+> ॥ 956 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -20032,13 +24988,18 @@
 ---
 
 
-# NAME 955
+# NAME 957
 
 > सर्वानुल्लङ्घ्य-शासना  
 > सर्वानुल्लङ्घ्य-शासना  
-> ॥ 955 ॥
+> ॥ 957 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -20053,13 +25014,18 @@
 ---
 
 
-# NAME 956
+# NAME 958
 
 > श्रीचक्रराज-निलया  
 > श्रीचक्रराज-निलया  
-> ॥ 956 ॥
+> ॥ 958 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -20074,13 +25040,18 @@
 ---
 
 
-# NAME 957
+# NAME 959
 
 > श्रीमत्-त्रिपुरसुन्दरी  
 > श्रीमत्-त्रिपुरसुन्दरी  
-> ॥ 957 ॥
+> ॥ 959 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -20095,13 +25066,18 @@
 ---
 
 
-# NAME 958
+# NAME 960
 
 > श्रीशिवा  
 > श्रीशिवा  
-> ॥ 958 ॥
+> ॥ 960 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -20116,13 +25092,18 @@
 ---
 
 
-# NAME 959
+# NAME 961
 
 > शिव-शक्त्यैक्य-रूपिणी  
 > शिव-शक्त्यैक्य-रूपिणी  
-> ॥ 959 ॥
+> ॥ 961 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 
@@ -20137,13 +25118,18 @@
 ---
 
 
-# NAME 960
+# NAME 962
 
 > ललिताम्बिका  
 > ललिताम्बिका  
-> ॥ 960 ॥
+> ॥ 962 ॥
 
 ---
+
+## COMMENTARIES (ROOT)
+
+> [Needs commentary]
+
 
 ## COMMENTARIES (SANSKRITDOCUMENTS)
 

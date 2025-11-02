@@ -89,7 +89,7 @@ prompt:
 		echo "Usage: make prompt N=1  or  make prompt N=श्रीमाता"; \
 		exit 1; \
 	fi
-	npm run prompt $(N)
+	@npm run prompt $(N)
 
 # List all available names
 prompt-list:
