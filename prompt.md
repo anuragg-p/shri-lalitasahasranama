@@ -2,9 +2,13 @@
 
 ## TASK
 
-**Please analyze the Sanskrit name below and provide a complete ROOT BREAKDOWN analysis.**
+**Please analyze the Sanskrit name below from the Lalita Sahasranama and provide a complete ROOT BREAKDOWN analysis.**
 
 Break down the name into its constituent parts, identify all grammatical elements (sandhi, components, roots), and provide both literal and contextual meanings. Follow all the rules and requirements listed below.
+
+## CONTEXT
+
+This name is from the **Lalita Sahasranama** (ललिता सहस्रनाम), a sacred Hindu text containing 1000 names of the Goddess Lalita Tripurasundari. The analysis should consider the spiritual and devotional context of this text.
 
 ## OUTPUT FORMAT
 
@@ -50,7 +54,7 @@ Break down the name into its constituent parts, identify all grammatical element
 ```
 ## TASK
 
-**Please analyze the Sanskrit name below and provide a complete ROOT BREAKDOWN analysis.**
+**Please analyze the Sanskrit name below from the Lalita Sahasranama and provide a complete ROOT BREAKDOWN analysis.**
 
 Break down the name into its constituent parts, identify all grammatical elements (sandhi, components, roots), and provide both literal and contextual meanings. Follow all the rules and requirements listed below.
 
