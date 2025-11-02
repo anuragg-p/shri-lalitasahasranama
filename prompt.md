@@ -8,37 +8,26 @@ Break down the name into its constituent parts, identify all grammatical element
 
 ## OUTPUT FORMAT
 
-**You must return your response in Markdown format (.md) with the following structure:**
+**You must return your response as plain text in the following format:**
 
-1. Start with the name header: `# NAME <number>`
-2. Include the name in Devanagari and IAST (if available)
-3. Fill in the ROOT BREAKDOWN table with complete analysis
-4. Replace all placeholder text (e.g., `[root1] + [root2]`, `[morphology]`) with actual values
-5. Ensure the table is valid Markdown
-6. Provide complete information for each column: Compound, Sandhi, Components, Grammar, Literal, Contextual
+- Simple plain text lines
+- Each breakdown on its own line/row
+- No headers or markdown structure
+- Just the breakdown text itself
 
-**Return only the completed markdown content, starting from `# NAME <number>` through the filled ROOT BREAKDOWN table.**
+**Format each word breakdown as:**
+[word] -
+[breakdown explanation]
 
----
-
-# NAME <n>
-
-> [Full name in Devanagari]  
-> [IAST transliteration]  
-> ॥ <n> ॥
+**Return only the root breakdown text content (no headers, no markdown structure, just plain text breakdowns).**
 
 ---
 
-## ROOT BREAKDOWN
+## Name to analyze:
 
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| [word] | [e.g. visarga → t] | [root1] + [root2] + … | [morphology] | [word-for-word] | [in name] |
-
-> **Rules**:  
-> - `Components` = upasarga + dhātu + kṛt/taddhita + pratyaya  
-> - `Grammar` = √class-gender-case-number-form (e.g. `√1P-f-nom-sg-PPP`)  
-> - `Sandhi` = specific rule applied (or `—` if none)
+[Full name in Devanagari]  
+[IAST transliteration]  
+॥ <n> ॥
 
 ---
 
@@ -47,15 +36,18 @@ Break down the name into its constituent parts, identify all grammatical element
 1. **No compound left unbroken** — go to **dhātu level**  
 2. **Include sandhi** even if minimal  
 3. **Use IAST** for all transliteration  
-4. **All tables must be valid Markdown**  
-5. **All roots must be verifiable in standard Sanskrit grammar (Pāṇini, Siddhānta-kaumudī, etc.)**
-6. **Break down every compound word** into its constituent parts
+4. **Full breakdown must be provided in plain text format**  
+5. **Each breakdown should be on its own line/row**
+6. **All roots must be verifiable in standard Sanskrit grammar (Pāṇini, Siddhānta-kaumudī, etc.)**
+7. **Break down every compound word** into its constituent parts
+8. **Provide clear separation between different components**
+9. **Return ONLY the breakdown text - no headers, no markdown sections, just plain text**
 
 ---
 
-**EXAMPLE: NAME 1 (CORRECT & COMPLETE)**
+**EXAMPLE:**
 
-```markdown
+```
 ## TASK
 
 **Please analyze the Sanskrit name below and provide a complete ROOT BREAKDOWN analysis.**
@@ -64,19 +56,21 @@ Break down the name into its constituent parts, identify all grammatical element
 
 ---
 
-# NAME 1
+## Name to analyze:
 
-> श्रीमाता  
-> śrīmātā  
-> ॥ 1 ॥
+श्रीमाता  
+śrīmātā  
+॥ 1 ॥
 
 ---
 
-## ROOT BREAKDOWN
+Expected output:
 
-| Compound | Sandhi | Components | Grammar | Literal | Contextual |
-|----------|--------|------------|---------|---------|------------|
-| श्रीमाता | — | श्री + माता | f-nom-sg | prosperity + mother | Divine Mother of Prosperity |
+श्री -
+prefix denoting auspiciousness, prosperity
+
+माता -
+mother (from मातृ dhātu), feminine nominative singular
 
 ---
 ```
