@@ -109,23 +109,23 @@ export const CHAPTERS: Chapter[] = [
 
   {
     range: [52, 63],
-    title: "Her abode — Śrī Nagara on Mount Meru",
+    title: "Seated with Śiva, and Her abode on Mount Meru",
     summary:
-      "V. Ravi: \"With this verse [52], the physical description of Lalitai is concluded. From nāma-s 53 to 64 it is going to be the description of Śrī Nagara, the place where Lalitai lives.\" In the centre of the three peaks of Mt. Meru is a fourth, taller peak — Her palace, the cosmic seat from which She rules.",
+      "Three transitional nāmas describe Her relationship to Śiva — seated on His lap (52), one with Him (53), holding Him under Her own will (54) — and V. Ravi marks this as the close of the physical description. From nāma 55 (Sumeru-madhya-śṛṅga-sthā) the narration pivots to Her cosmic city — at the centre of Mt. Meru, ringed by oceans of nectar.",
     anchor:
-      "Nāma 53: \"From this nāma till 63, the narration of Her abode begins.\"",
+      "Nāma 54: \"With this verse, the physical description of Lalitai is concluded. From nāma-s 53 to 64 it is going to be the description of Śrī Nagara, the place where Lalitai lives.\"",
     groups: [
       {
-        range: [52, 52],
-        title: "She belongs to Śiva alone — the body concluded",
+        range: [52, 54],
+        title: "Seated with Śiva — the body concluded",
         summary:
-          "Svādhīna-vallabhā — Her consort belongs to Her alone. With this single nāma the physical description closes; the narration turns outward to Her dwelling.",
+          "Śiva-kāmeśvarāṅka-sthā (seated on Śiva-Kāmeśvara's lap), Śivā (one with Śiva), Svādhīna-vallabhā (Her consort is at Her own will). The three nāmas that close the head-to-foot description and pivot the stotra outward.",
       },
       {
-        range: [53, 63],
+        range: [55, 63],
         title: "The city on the mountain",
         summary:
-          "Mahā-padmāṭavī-saṃsthā, Sudhā-sāgara-madhya-sthā — She dwells at the centre of Mt. Meru, surrounded by oceans of nectar, the chintāmaṇi palace, the kadamba groves. The cosmic capital from which all is administered.",
+          "Sumeru-madhya-śṛṅga-sthā, Śrīman-nagara-nāyikā, Sudhā-sāgara-madhya-sthā — She dwells on the central peak of Mt. Meru, ringed by the ocean of nectar, the chintāmaṇi palace, and the kadamba groves. The cosmic capital from which all is administered.",
       },
     ],
   },

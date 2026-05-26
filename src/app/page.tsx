@@ -80,6 +80,9 @@ export default function Home() {
             <Link href="/themes" className="hover:text-[#c2410c]">
               Themes
             </Link>
+            <Link href="/practice" className="hover:text-[#c2410c]">
+              Practice
+            </Link>
             <Link href="/vravi" className="hover:text-[#c2410c]">
               V. Ravi
             </Link>

@@ -519,17 +519,89 @@ function RootBreakdown({ text }: { text: string }) {
     }
   };
 
+  // Walk a compound part down to its leaf glosses. Returns the leaves in the
+  // order they appear in the breakdown so they read like the source name.
+  const flattenToLeaves = (
+    part: string,
+  ): Array<{ part: string; meaning: string; root: string | null }> => {
+    const breakdown = lookup.get(part);
+    if (!breakdown) return [];
+    if (!breakdown.includes("_")) {
+      const rootMatch = breakdown.match(/\[(.+?)\]$/);
+      return [
+        {
+          part,
+          meaning: rootMatch
+            ? breakdown.replace(/\s*\[.+?\]$/, "").trim()
+            : breakdown,
+          root: rootMatch?.[1] ?? null,
+        },
+      ];
+    }
+    return breakdown.split("_").flatMap((p) => flattenToLeaves(p));
+  };
+
   const renderMeaning = (part: string, key: React.Key) => {
     const breakdown = lookup.get(part);
-    if (!breakdown || breakdown.includes("_")) return null;
+    if (!breakdown) return null;
+    const isCompound = breakdown.includes("_");
+    const isFocused = focusedPart === part;
 
-    // Parse: "meaning1 + meaning2 [√root]"
+    if (isCompound) {
+      // Show the compound's leaf glosses inline so the user sees meanings
+      // without having to drill in. Drill-down still works via the chip.
+      const leaves = flattenToLeaves(part);
+      if (leaves.length === 0) return null;
+
+      return (
+        <div
+          key={key}
+          className={`rounded-md border border-[#c2410c]/25 bg-[#fff3d6]/40 px-3 py-2 text-sm transition-colors ${
+            isFocused ? "bg-[#fde68a]/60" : ""
+          }`}
+        >
+          <div className="flex flex-wrap items-baseline gap-x-2">
+            <span
+              className={`font-sanskrit ${
+                isFocused
+                  ? "font-semibold text-[#7c1d1d]"
+                  : "font-semibold text-[#c2410c]"
+              }`}
+            >
+              {part}
+            </span>
+            <span className="font-sanskrit text-xs text-[#8a6a3c]">
+              = {breakdown.replace(/_/g, " + ")}
+            </span>
+          </div>
+          <div className="mt-1.5 space-y-1.5">
+            {leaves.map((leaf, idx) => (
+              <div
+                key={idx}
+                className="flex flex-wrap items-baseline gap-x-2 pl-3"
+              >
+                <span className="font-sanskrit text-[#c2410c]/85">
+                  {leaf.part}
+                </span>
+                {leaf.root && (
+                  <span className="font-sanskrit text-xs text-[#8a6a3c]">
+                    {leaf.root}
+                  </span>
+                )}
+                <span className="text-[#5a3a18]">{leaf.meaning}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      );
+    }
+
+    // Leaf: "meaning1 + meaning2 [√root]"
     const rootMatch = breakdown.match(/\[(.+?)\]$/);
     const meaningText = rootMatch
       ? breakdown.replace(/\s*\[.+?\]$/, "").trim()
       : breakdown;
     const root = rootMatch ? rootMatch[1] : null;
-    const isFocused = focusedPart === part;
 
     return (
       <div
