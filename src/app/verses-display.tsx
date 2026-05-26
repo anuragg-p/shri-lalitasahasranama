@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useRef, useEffect, useCallback } from "react";
+import React, { useState, useRef, useEffect, useCallback, useMemo } from "react";
 import useEmblaCarousel from "embla-carousel-react";
 import {
   Popover,
@@ -81,9 +81,29 @@ function parseWordsFromLine(
     // Split by spaces to get words (dashes within words are preserved)
     const words = part.split(/\s+/).filter((w) => w && w.trim());
 
+    // Track whether we are inside parens — words inside (...) are alternate readings,
+    // not actual verse words, so they should render as non-clickable text.
+    let parenDepth = 0;
+
     for (let j = 0; j < words.length; j++) {
       const word = words[j];
       if (!word) continue;
+
+      const opens = (word.match(/\(/g) ?? []).length;
+      const closes = (word.match(/\)/g) ?? []).length;
+      const wasInsideParens = parenDepth > 0;
+      parenDepth += opens - closes;
+      if (parenDepth < 0) parenDepth = 0;
+      const insideParens =
+        wasInsideParens || opens > 0 || word.includes(")");
+
+      if (insideParens) {
+        result.push({ word, isWord: false });
+        if (j < words.length - 1) {
+          result.push({ word: " ", isWord: false });
+        }
+        continue;
+      }
 
       // Remove trailing punctuation like । but keep it separate
       const match = word.match(/^(.+?)([।]*)$/);
@@ -121,6 +141,70 @@ function parseWordsFromLine(
 }
 
 /**
+ * Normalize Devanagari for fuzzy matching across commentary sources.
+ * Folds away spelling variations that don't change the underlying name:
+ *   - long/short u (रू ↔ रु)
+ *   - long/short i (ी ↔ ि) at end
+ *   - anusvāra forms (ंक ↔ ङ्क, ंग ↔ ङ्ग, ंच ↔ ञ्च, ंत ↔ न्त, ंप ↔ म्प, ंब ↔ म्ब)
+ *   - dashes, whitespace, avagraha
+ */
+function normalizeName(name: string): string {
+  return name
+    .replace(/-/g, "")
+    .replace(/\s+/g, "")
+    .replace(/ऽ/g, "")
+    // Fold long↔short vowel pairs to absorb common spelling variations
+    .replace(/ा/g, "")
+    .replace(/ू/g, "ु")
+    .replace(/ी/g, "ि")
+    .replace(/ै/g, "े")
+    .replace(/ौ/g, "ो")
+    .replace(/आ/g, "अ")
+    .replace(/ऊ/g, "उ")
+    .replace(/ई/g, "इ")
+    .replace(/ऐ/g, "ए")
+    .replace(/औ/g, "ओ")
+    .replace(/ङ्क/g, "ंक")
+    .replace(/ङ्ख/g, "ंख")
+    .replace(/ङ्ग/g, "ंग")
+    .replace(/ङ्घ/g, "ंघ")
+    .replace(/ञ्च/g, "ंच")
+    .replace(/ञ्ज/g, "ंज")
+    .replace(/ण्ट/g, "ंट")
+    .replace(/ण्ठ/g, "ंठ")
+    .replace(/ण्ड/g, "ंड")
+    .replace(/ण्ढ/g, "ंढ")
+    .replace(/न्त/g, "ंत")
+    .replace(/न्द/g, "ंद")
+    .replace(/न्ध/g, "ंध")
+    .replace(/म्प/g, "ंप")
+    .replace(/म्फ/g, "ंफ")
+    .replace(/म्ब/g, "ंब")
+    .replace(/म्भ/g, "ंभ");
+}
+
+// Build a normalized-key cache lazily per commentary source so we only compute
+// the index once per source per render rather than re-walking every lookup.
+const normalizedSourceCache = new WeakMap<
+  Record<string, string>,
+  Map<string, string>
+>();
+
+function getNormalizedIndex(
+  source: Record<string, string>,
+): Map<string, string> {
+  let index = normalizedSourceCache.get(source);
+  if (!index) {
+    index = new Map();
+    for (const key of Object.keys(source)) {
+      index.set(normalizeName(key), key);
+    }
+    normalizedSourceCache.set(source, index);
+  }
+  return index;
+}
+
+/**
  * Find commentary for a name from a specific commentary source, trying with and without dashes, and handling avagraha
  */
 function findCommentary(
@@ -133,60 +217,425 @@ function findCommentary(
   }
 
   // Try exact match first
-  if (commentarySource[name]) {
-    return commentarySource[name];
+  const exact = commentarySource[name];
+  if (exact) {
+    return exact;
   }
+
+  // Most commentary keys are stored without dashes, so use the dash-stripped form
+  // for the remaining heuristics (avagraha split, sandhi split, fuzzy match, etc).
+  const dashless = name.replace(/-/g, "");
+  if (dashless !== name) {
+    const dashlessHit = commentarySource[dashless];
+    if (dashlessHit) return dashlessHit;
+  }
+  name = dashless;
 
   // Try replacing avagraha (ऽ) with 'अ' - handles cases like "सर्वारुणाऽनवद्याङ्गी"
   if (name.includes("ऽ")) {
-    const nameWithA = name.replace(/ऽ/g, "अ");
+    const nameWithA = name.replace(/ऽ+/g, "अ");
     if (commentarySource[nameWithA]) {
       return commentarySource[nameWithA];
     }
 
-    // Also try splitting on avagraha and combining commentaries if both parts exist
-    const parts = name.split("ऽ");
-    if (parts.length === 2) {
-      const part1 = parts[0];
-      const part2 = parts[1];
-
-      if (part1 && part2) {
-        const commentary1 = commentarySource[part1];
-        const commentary2 = commentarySource[part2];
-
-        if (commentary1 && commentary2) {
-          return `${commentary1} ${commentary2}`;
-        } else if (commentary1) {
-          return commentary1;
-        } else if (commentary2) {
-          return commentary2;
+    // Split on avagraha sequences and try to assemble matching component commentaries.
+    // In Sanskrit transcription, a single avagraha (ऽ) marks an elided "अ" and a
+    // double avagraha (ऽऽ) marks an elided "आ" on the following piece.
+    const splitParts: Array<{ text: string; elided: string }> = [];
+    let cursor = 0;
+    let pendingElided = "";
+    while (cursor < name.length) {
+      const nextAvagraha = name.indexOf("ऽ", cursor);
+      if (nextAvagraha === -1) {
+        const tail = name.slice(cursor);
+        if (tail) splitParts.push({ text: tail, elided: pendingElided });
+        break;
+      }
+      const chunk = name.slice(cursor, nextAvagraha);
+      if (chunk || pendingElided) {
+        splitParts.push({ text: chunk, elided: pendingElided });
+      }
+      let count = 0;
+      cursor = nextAvagraha;
+      while (name[cursor] === "ऽ") {
+        count++;
+        cursor++;
+      }
+      pendingElided = count >= 2 ? "आ" : "अ";
+    }
+    if (splitParts.length >= 2) {
+      const entries: Array<{ key: string; text: string }> = [];
+      let succeeded = true;
+      for (let p = 0; p < splitParts.length; p++) {
+        const { text, elided } = splitParts[p]!;
+        const candidates = elided ? [elided + text, text] : [text];
+        let matched: Array<{ key: string; text: string }> | null = null;
+        for (const c of candidates) {
+          const resolved = resolveCandidate(c, commentarySource);
+          if (resolved) {
+            matched = "single" in resolved ? [resolved.single] : resolved.multi;
+            break;
+          }
         }
-
-        // Try with 'अ' added to first part
-        const part1WithA = part1 + "अ";
-        const commentary1WithA = commentarySource[part1WithA];
-        if (commentary1WithA && commentary2) {
-          return `${commentary1WithA} ${commentary2}`;
+        if (!matched) {
+          succeeded = false;
+          break;
         }
+        entries.push(...matched);
+      }
+      if (succeeded && entries.length > 0) {
+        return entries
+          .map(({ key, text }) => `${key}\n${text}`)
+          .join("\n\n");
       }
     }
   }
 
-  // Try without dashes
-  const nameWithoutDashes = name.replace(/-/g, "");
-  if (commentarySource[nameWithoutDashes]) {
-    return commentarySource[nameWithoutDashes];
-  }
-
-  // Try matching by removing dashes from both
+  // Try matching by removing dashes from existing keys (since name is already dashless)
   for (const key in commentarySource) {
-    const keyWithoutDashes = key.replace(/-/g, "");
-    if (keyWithoutDashes === nameWithoutDashes) {
+    if (key.replace(/-/g, "") === name) {
       return commentarySource[key] ?? null;
     }
   }
 
+  // Fuzzy match via Devanagari normalization (anusvāra forms, long/short vowels, avagraha)
+  const normalizedIndex = getNormalizedIndex(commentarySource);
+  const normalized = normalizeName(name);
+  const fuzzyKey = normalizedIndex.get(normalized);
+  if (fuzzyKey) {
+    return commentarySource[fuzzyKey] ?? null;
+  }
+
+  // Sandhi split: names joined by र् (e.g., निरुपाधिर्निरीश्वरा = निरुपाधिः + निरीश्वरा,
+  // महाशक्तिर्महारतिः = महाशक्तिः + महारतिः). Split at र्, replace र् with ः on the
+  // left half, and combine matching commentaries.
+  const sandhiParts = trySandhiSplit(name, commentarySource);
+  if (sandhiParts) {
+    return sandhiParts
+      .map(({ key, text }) => `${key}\n${text}`)
+      .join("\n\n");
+  }
+
   return null;
+}
+
+/**
+ * Attempt to split a sandhi-joined name into known component names.
+ * Splits on र् (re-adding ः to the left half) and recursively splits the right half.
+ * Returns null unless every resulting component is found in the commentary source.
+ */
+/**
+ * Resolve a single name candidate against a commentary source. Returns the
+ * matched key and its text — using exact match, fuzzy-normalized match, and
+ * (recursively) sandhi splits. Used inside avagraha + sandhi heuristics so they
+ * can compose with one another.
+ */
+function resolveCandidate(
+  candidate: string,
+  src: Record<string, string>,
+):
+  | { single: { key: string; text: string } }
+  | { multi: Array<{ key: string; text: string }> }
+  | null {
+  if (src[candidate]) return { single: { key: candidate, text: src[candidate]! } };
+  const idx = getNormalizedIndex(src);
+  const fuzzy = idx.get(normalizeName(candidate));
+  if (fuzzy) return { single: { key: fuzzy, text: src[fuzzy]! } };
+  const sandhi = trySandhiSplit(candidate, src);
+  if (sandhi) return { multi: sandhi };
+  return null;
+}
+
+function trySandhiSplit(
+  name: string,
+  commentarySource: Record<string, string>,
+): Array<{ key: string; text: string }> | null {
+  const tryWithLeftAndRest = (
+    left: string,
+    rest: string,
+  ): Array<{ key: string; text: string }> | null => {
+    // Left must resolve to a single known name (not itself a sandhi composite),
+    // to avoid runaway recursion across the whole word.
+    const leftKey = commentarySource[left]
+      ? left
+      : (getNormalizedIndex(commentarySource).get(normalizeName(left)) ?? null);
+    if (!leftKey) return null;
+    const leftText = commentarySource[leftKey]!;
+
+    const restResolved = resolveCandidate(rest, commentarySource);
+    if (!restResolved) return null;
+    if ("single" in restResolved) {
+      return [{ key: leftKey, text: leftText }, restResolved.single];
+    }
+    return [{ key: leftKey, text: leftText }, ...restResolved.multi];
+  };
+
+  const independentVowels = "अआइईउऊऋॠएऐओऔ";
+  const consonants = "कखगघङचछजझञटठडढणतथदधनपफबभमयरलवशषसहळक्षज्ञ";
+  // Vowel signs (matras) → corresponding independent vowel for restoring the
+  // right-hand component after sandhi (e.g. कीर्तिः + उद्दाम → कीर्तिरुद्दाम,
+  // where the independent उ became the matra ु on र).
+  const matraToIndependent: Record<string, string> = {
+    "ा": "आ", "ि": "इ", "ी": "ई", "ु": "उ", "ू": "ऊ",
+    "ृ": "ऋ", "ॄ": "ॠ", "े": "ए", "ै": "ऐ", "ो": "ओ", "ौ": "औ",
+  };
+
+  for (let i = 1; i < name.length - 1; i++) {
+    // Case 1: ः + consonant-cluster → र् + consonant
+    //   (e.g. निरुपाधिः + निरीश्वरा → निरुपाधिर्निरीश्वरा)
+    if (name[i] === "्" && name[i - 1] === "र") {
+      const split = tryWithLeftAndRest(
+        name.slice(0, i - 1) + "ः",
+        name.slice(i + 1),
+      );
+      if (split) return split;
+    }
+    // Case 2: ः + independent vowel → र + vowel
+    //   (e.g. आदिशक्तिः + अमेया → आदिशक्तिरमेया [vowel kept on right])
+    if (name[i] === "र" && independentVowels.includes(name[i + 1] ?? "")) {
+      const split = tryWithLeftAndRest(
+        name.slice(0, i) + "ः",
+        name.slice(i + 1),
+      );
+      if (split) return split;
+    }
+    // Case 3: ः + अ (inherent vowel) → र + consonant
+    //   The right word starts with अ that was absorbed into the consonant's
+    //   inherent vowel after sandhi. e.g. स्मृतिः + अनुत्तमा → स्मृतिरनुत्तमा.
+    //   Detect: a bare र (not followed by virama and not part of a cluster)
+    //   followed by a consonant — try prepending अ to the right half.
+    if (
+      name[i] === "र" &&
+      name[i + 1] !== "्" &&
+      consonants.includes(name[i + 1] ?? "") &&
+      name[i - 1] !== "्"
+    ) {
+      const split = tryWithLeftAndRest(
+        name.slice(0, i) + "ः",
+        "अ" + name.slice(i + 1),
+      );
+      if (split) return split;
+    }
+    // Case 4: ः + vowel (other than अ) → र + matra
+    //   e.g. कीर्तिः + उद्दामवैभवा → कीर्तिरुद्दामवैभवा (उ became the matra ु on र).
+    //   Detect: a bare र followed by a vowel sign — restore that matra as an
+    //   independent vowel on the right half.
+    {
+      const matra = name[i + 1];
+      if (
+        name[i] === "र" &&
+        matra &&
+        matra in matraToIndependent &&
+        name[i - 1] !== "्"
+      ) {
+        const split = tryWithLeftAndRest(
+          name.slice(0, i) + "ः",
+          matraToIndependent[matra]! + name.slice(i + 2),
+        );
+        if (split) return split;
+      }
+    }
+    // Case 5: ः + voiceless stop → sibilant + same stop
+    //   e.g. त्रिमूर्तिः + त्रिदशेश्वरी → त्रिमूर्तिस्त्रिदशेश्वरी (ः + त → स्त).
+    //   Detect a sibilant (स/श/ष) followed by virama followed by a stop,
+    //   sitting between vowel-bearing context on the left.
+    if (
+      (name[i] === "स" || name[i] === "श" || name[i] === "ष") &&
+      name[i + 1] === "्" &&
+      name[i + 2] &&
+      consonants.includes(name[i + 2]!) &&
+      i > 0 &&
+      name[i - 1] !== "्"
+    ) {
+      const split = tryWithLeftAndRest(
+        name.slice(0, i) + "ः",
+        name.slice(i + 2),
+      );
+      if (split) return split;
+    }
+  }
+  return null;
+}
+
+/**
+ * Parse root breakdown text format:
+ * Line 1: top-level split with underscores (e.g., "श्री_माता")
+ * Lines 2+: "word -> meaning [√root]" or "word -> sub1_sub2" (further split)
+ */
+function parseRootText(text: string) {
+  const lines = text.split("\n").filter((l) => l.trim());
+  if (lines.length === 0) return null;
+
+  const topLevel = lines[0]!.trim();
+  const lookup = new Map<string, string>();
+
+  for (let i = 1; i < lines.length; i++) {
+    const line = lines[i]!;
+    const arrowIdx = line.indexOf(" -> ");
+    if (arrowIdx !== -1) {
+      const key = line.substring(0, arrowIdx).trim();
+      const value = line.substring(arrowIdx + 4).trim();
+      lookup.set(key, value);
+    }
+  }
+
+  return { topLevel, lookup };
+}
+
+function RootBreakdown({ text }: { text: string }) {
+  const [drillPath, setDrillPath] = useState<string[]>([]);
+  const [focusedPart, setFocusedPart] = useState<string | null>(null);
+
+  const parsed = useMemo(() => parseRootText(text), [text]);
+
+  // Reset focus when the breakdown text changes (new word opened).
+  useEffect(() => {
+    setDrillPath([]);
+    setFocusedPart(null);
+  }, [text]);
+
+  if (!parsed) return <p className="text-[#5a3a18]">{text}</p>;
+
+  const { topLevel, lookup } = parsed;
+
+  // Determine current split string based on drill path
+  let currentSplit: string;
+  if (drillPath.length === 0) {
+    currentSplit = topLevel;
+  } else {
+    const lastWord = drillPath[drillPath.length - 1]!;
+    currentSplit = lookup.get(lastWord) || topLevel;
+  }
+
+  const parts = currentSplit.split("_");
+
+  const handlePartClick = (part: string) => {
+    const breakdown = lookup.get(part);
+    if (breakdown && breakdown.includes("_")) {
+      setDrillPath([...drillPath, part]);
+      setFocusedPart(null);
+    } else {
+      setFocusedPart((cur) => (cur === part ? null : part));
+    }
+  };
+
+  const renderMeaning = (part: string, key: React.Key) => {
+    const breakdown = lookup.get(part);
+    if (!breakdown || breakdown.includes("_")) return null;
+
+    // Parse: "meaning1 + meaning2 [√root]"
+    const rootMatch = breakdown.match(/\[(.+?)\]$/);
+    const meaningText = rootMatch
+      ? breakdown.replace(/\s*\[.+?\]$/, "").trim()
+      : breakdown;
+    const root = rootMatch ? rootMatch[1] : null;
+    const isFocused = focusedPart === part;
+
+    return (
+      <div
+        key={key}
+        className={`rounded-md text-sm transition-colors ${
+          isFocused
+            ? "border border-[#c2410c]/40 bg-[#fde68a]/60 px-3 py-2"
+            : "px-1 py-1"
+        }`}
+      >
+        <div className="flex items-baseline gap-2">
+          <span
+            className={`font-sanskrit shrink-0 ${
+              isFocused
+                ? "font-semibold text-[#7c1d1d]"
+                : "text-[#c2410c]"
+            }`}
+          >
+            {part}
+          </span>
+          {root && (
+            <span className="shrink-0 text-xs text-[#8a6a3c]">{root}</span>
+          )}
+        </div>
+        <p
+          className={`mt-0.5 ${
+            isFocused ? "text-[#2b1700]" : "text-[#5a3a18]"
+          }`}
+        >
+          {meaningText}
+        </p>
+      </div>
+    );
+  };
+
+  return (
+    <div className="space-y-3">
+      {/* Breadcrumb */}
+      {drillPath.length > 0 && (
+        <div className="flex flex-wrap items-center gap-1 text-xs">
+          <button
+            onClick={() => {
+              setDrillPath([]);
+              setFocusedPart(null);
+            }}
+            className="font-sanskrit text-[#8a6a3c] hover:text-[#c2410c]"
+          >
+            {topLevel.replace(/_/g, " · ")}
+          </button>
+          {drillPath.map((p, i) => (
+            <React.Fragment key={i}>
+              <span className="text-[#8a6a3c]/60">›</span>
+              <button
+                onClick={() => {
+                  setDrillPath(drillPath.slice(0, i + 1));
+                  setFocusedPart(null);
+                }}
+                className={`font-sanskrit ${
+                  i === drillPath.length - 1
+                    ? "font-semibold text-[#c2410c]"
+                    : "text-[#8a6a3c] hover:text-[#c2410c]"
+                }`}
+              >
+                {p}
+              </button>
+            </React.Fragment>
+          ))}
+        </div>
+      )}
+
+      {/* Split parts as clickable chips — every chip is interactive */}
+      <div className="flex flex-wrap gap-2">
+        {parts.map((part, i) => {
+          const breakdown = lookup.get(part);
+          const hasChildren = breakdown ? breakdown.includes("_") : false;
+          const isFocused = focusedPart === part;
+
+          return (
+            <button
+              key={i}
+              type="button"
+              onClick={() => handlePartClick(part)}
+              className={`font-sanskrit sticker-chip text-base ${
+                hasChildren
+                  ? "sticker-chip--compound"
+                  : isFocused
+                    ? "sticker-chip--focused"
+                    : ""
+              }`}
+            >
+              {part}
+              {hasChildren && <span className="text-xs">▸</span>}
+            </button>
+          );
+        })}
+      </div>
+
+      {/* Meanings: focused chip first, then the rest of the leaves */}
+      <div className="space-y-2 pt-1">
+        {focusedPart && renderMeaning(focusedPart, "focused")}
+        {parts
+          .filter((part) => part !== focusedPart)
+          .map((part, i) => renderMeaning(part, `leaf-${i}`))}
+      </div>
+    </div>
+  );
 }
 
 function WordPopover({
@@ -317,11 +766,6 @@ function WordPopover({
 
   const triggerRef = useRef<HTMLSpanElement>(null);
 
-  const handlePopoverClick = (e: React.MouseEvent) => {
-    e.stopPropagation();
-    onNext();
-  };
-
   // Scroll to word only when navigating from another word (not initial click)
   useEffect(() => {
     if (isOpen && shouldScroll && triggerRef.current) {
@@ -338,7 +782,7 @@ function WordPopover({
         <span
           ref={triggerRef}
           id={wordId}
-          className="cursor-pointer underline decoration-yellow-600/50 decoration-dotted underline-offset-2 transition-colors hover:text-yellow-300"
+          className="cursor-pointer underline decoration-[#c2410c]/50 decoration-dotted underline-offset-2 transition-colors hover:text-[#c2410c]"
         >
           {word}
         </span>
@@ -346,35 +790,55 @@ function WordPopover({
       <PopoverContent
         side="bottom"
         align="start"
-        className="z-50 flex max-h-[400px] w-80 max-w-[90vw] flex-col border-yellow-600/40 bg-[#2b1600] text-white/50"
-        onClick={handlePopoverClick}
+        className="paper-popover z-50 flex max-h-[480px] w-[22rem] max-w-[92vw] flex-col p-0"
       >
-        <div className="flex-shrink-0 cursor-pointer space-y-3 px-1 pt-1">
-          <h3 
-            className="font-sanskrit text-lg font-bold text-yellow-300"
+        <div className="flex-shrink-0 space-y-3 px-5 pt-4">
+          <div className="flex items-start justify-between gap-3">
+            <span className="number-pill mt-1.5">NĀMA</span>
+            <button
+              type="button"
+              onClick={(e) => {
+                e.stopPropagation();
+                onOpenChange(false);
+              }}
+              aria-label="Close"
+              className="text-[#8a6a3c] hover:text-[#2b1700]"
+            >
+              <span aria-hidden className="text-xl leading-none">×</span>
+            </button>
+          </div>
+
+          <h3
+            className="font-sanskrit cursor-pointer text-2xl font-extrabold leading-tight text-[#2b1700] hover:text-[#c2410c]"
             onClick={(e) => {
               e.stopPropagation();
-              // Switch to root tab if available and not already selected
               if (availableTabs.includes("root") && selectedTab !== "root") {
                 handleTabClick("root", e);
               }
             }}
+            title={
+              availableTabs.includes("root")
+                ? "Show root breakdown"
+                : undefined
+            }
           >
             {word}
           </h3>
 
-          {/* Tabs */}
-          <div className="-mx-1 flex border-b border-yellow-600/30 px-1">
+          {/* Tabs as pills */}
+          <div className="flex flex-wrap gap-1.5 pt-1">
             {availableTabs.map((tabName) => {
               const isSelected = selectedTab === tabName;
               return (
                 <button
                   key={tabName}
                   onClick={(e) => handleTabClick(tabName, e)}
-                  className={`px-3 py-2 text-[12px] font-medium transition-colors ${
+                  className={`pill-tab ${
                     isSelected
-                      ? "border-b-2 border-yellow-300 text-yellow-300"
-                      : "text-white/70 hover:text-white/90"
+                      ? tabName === "root"
+                        ? "pill-tab--saffron"
+                        : "pill-tab--active"
+                      : ""
                   }`}
                 >
                   {formatTabName(tabName)}
@@ -386,9 +850,9 @@ function WordPopover({
 
         {/* Carousel */}
         <div
-          className="min-h-0 flex-1 overflow-x-hidden"
+          className="min-h-0 flex-1 overflow-x-hidden px-5 pt-2"
           ref={emblaRef}
-          style={{ height: "calc(400px - 150px)" }}
+          style={{ height: "calc(480px - 200px)" }}
         >
           <div className="flex h-full">
             {availableTabs.map((tabName) => {
@@ -408,8 +872,10 @@ function WordPopover({
                       msOverflowStyle: "none",
                     }}
                   >
-                    <div className="space-y-3 py-0 text-sm leading-relaxed text-white/60">
-                      {commentary.includes("\n\n") ? (
+                    <div className="space-y-3 py-0 text-sm leading-relaxed text-[#2b1700]/85">
+                      {tabName === "root" ? (
+                        <RootBreakdown text={commentary} />
+                      ) : commentary.includes("\n\n") ? (
                         // Multiple components: each has Sanskrit name and meaning
                         commentary.split("\n\n").map((component, idx) => {
                           const lines = component.split("\n");
@@ -420,14 +886,14 @@ function WordPopover({
                               key={idx}
                               className={
                                 idx > 0
-                                  ? "border-t border-yellow-600/30 pt-2"
+                                  ? "border-t border-dashed border-[#2b1700]/15 pt-2"
                                   : ""
                               }
                             >
-                              <p className="font-sanskrit mb-1 font-medium text-yellow-300">
+                              <p className="font-sanskrit mb-1 text-base font-bold text-[#7c1d1d]">
                                 {sanskritName}
                               </p>
-                              <p className="text-white/90">{meaning}</p>
+                              <p className="text-[#2b1700]">{meaning}</p>
                             </div>
                           );
                         })
@@ -450,9 +916,21 @@ function WordPopover({
           </div>
         </div>
 
-        <p className="mt-2 flex-shrink-0 px-1 pb-0 text-xs text-white/50 italic">
-          Click to see next name
-        </p>
+        <div className="mt-2 flex flex-shrink-0 items-center justify-between gap-3 border-t-2 border-dashed border-[#2b1700]/20 px-5 py-3">
+          <p className="text-[10px] font-bold tracking-widest text-[#8a6a3c] uppercase">
+            tap a part ↑
+          </p>
+          <button
+            type="button"
+            onClick={(e) => {
+              e.stopPropagation();
+              onNext();
+            }}
+            className="btn-saffron inline-flex items-center gap-1 text-xs"
+          >
+            Next nāma →
+          </button>
+        </div>
       </PopoverContent>
     </Popover>
   );

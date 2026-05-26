@@ -1,96 +1,1001 @@
 1. श्रीमाता
-श्रीमाता -> श्री + माता -> √श्री + √मा -> glory + mother -> the glorious mother
-श्री -> श्री -> prosperity, beauty, auspiciousness
-माता -> मा -> to measure, to nourish -> mother, nurturer
+श्री_माता
+श्री -> prosperity + beauty + auspiciousness [√श्री]
+माता -> mother + nurturer + creator [√मा]
 
 2. श्रीमहाराज्ञी
-श्रीमहाराज्ञी -> श्री from √श्री prosperity + महा from √मह् great + राज्ञी from √राज् queen + prosperous great queen
-श्री -> from √श्री + prosperity + beauty + auspiciousness
-महा -> from √मह् + great + magnificent + supreme
-राज्ञी -> from √राज् + queen + sovereign + ruler
+श्री_महा_राज्ञी
+श्री -> prosperity + auspiciousness [√श्री]
+महा -> great + supreme [√मह्]
+राज्ञी -> queen + empress + sovereign [√राज्]
 
-3. श्रीमत्-सिंहासनेश्वरी
-श्री -> from √श्री + prosperity + beauty + auspiciousness
-मत् -> possessing + full of + endowed with
-सिंह -> from √सिंह् + lion + hero + powerful
-आसन -> from √आस् + seat + throne + abode
-ईश्वरी -> from √ईश् + goddess + ruler + supreme
+3. श्रीमत्सिंहासनेश्वरी
+श्रीमत्_सिंहासन_ईश्वरी
+श्रीमत् -> श्री_मत्
+श्री -> prosperity + auspiciousness [√श्री]
+मत् -> possessing + endowed with
+सिंहासन -> सिंह_आसन
+सिंह -> lion + hero + powerful [√हिंस्]
+आसन -> seat + throne + abode [√आस्]
+ईश्वरी -> goddess + ruler + supreme queen [√ईश्]
 
 4. चिदग्निकुण्डसम्भूता
-चित् -> from चित् + consciousness + awareness + pure knowledge
-अग्नि -> from √अग् + fire + blaze + divine energy
-कुण्ड -> from √कुड् + pit + well + sacred reservoir
-सम् -> completely + together + well + thoroughly
-भू -> to be + to become + to arise + to exist + to happen + to manifest + to originate
-सम्भू -> completely arisen + well manifested + thoroughly originated + fully existent
-
-सम्भूता -> she who is completely arisen + she who is well manifested + she who is thoroughly originated + she who is fully existent
+चित्_अग्निकुण्ड_सम्भूता
+चित् -> consciousness + awareness + pure knowledge [√चित्]
+अग्निकुण्ड -> अग्नि_कुण्ड
+अग्नि -> fire + blaze + divine energy [√अग्]
+कुण्ड -> pit + well + sacred reservoir [√कुण्ड्]
+सम्भूता -> सम्_भूता
+सम् -> completely + together + thoroughly
+भूता -> born + arisen + manifested [√भू]
 
 5. देवकार्यसमुद्यता
-दिव् -> to shine + to play + to be bright + to be glad
-देव -> shining one + god + deity + divine being + celestial
-कृ -> to do + to make + to perform + to cause
-कार्य -> to be done + work + duty + action + purpose + object
-देवकार्य -> work of the gods + duty of the deities + divine purpose + action for the gods
-यम् -> to raise + to lift + to hold + to extend + to exert + to prepare + to offer
-यत -> raised + lifted + held + prepared + ready + eager
-उद् -> up + upwards + out + forth
-उद्यत -> raised up + lifted up + held up + prepared + ready + eager + enterprising
-सम् -> completely + together + well + thoroughly
-समुद्यत -> fully raised + completely prepared + thoroughly ready + intent upon + eager for + manifested
-समुद्यता -> she who is fully prepared + she who is intent upon + she who is eager for + she who is manifested
-देवकार्यसमुद्यता -> she who is intent on fulfilling the wishes of the gods + she who is eager to perform divine duties + she who manifests for the purpose of the deities
+देव_कार्य_समुद्यता
+देव -> god + deity + divine being + celestial [√दिव्]
+कार्य -> work + duty + purpose + action [√कृ]
+समुद्यता -> सम्_उद्यता
+सम् -> completely + together + thoroughly
+उद्यता -> उद्_यता
+उद् -> up + upwards + forth
+यता -> raised + prepared + ready + eager [√यम्]
 
 6. उद्यद्भानुसहस्राभा
-उत् -> up + upwards + out + forth
-यम् -> to raise + to lift + to hold + to extend + to exert + to prepare + to offer
-यत -> raised + lifted + held + prepared + ready + eager
-उद्यत् (उत् + यत) -> rising + ascending + shining forth + emerging
-भानु -> sun + light + ray + luminary + brilliance
-सहस्र -> thousand + multitude + countless
-भानुसहस्र -> thousand suns + multitude of suns + countless rays
-अभ -> to shine + to radiate + to resemble + to approach
-आभ -> shining + radiance + luster + resembling
-भानुसहस्राभ -> shining like thousand suns + radiant as multitude of suns + luster of countless luminaries
-उद्यद्भानुसहस्राभा -> she who shines forth like a thousand rising suns + she whose radiance equals multitude of ascending suns + she whose luster is like countless emerging luminaries
+उद्यत्_भानु_सहस्र_आभा
+उद्यत् -> rising + ascending + emerging [√उद् + √यम्]
+भानु -> sun + light + ray + luminary [√भा]
+सहस्र -> thousand + countless + multitude
+आभा -> radiance + luster + splendor [√भा]
 
 7. चतुर्बाहुसमन्विता
+चतुर्_बाहु_समन्विता
 चतुर् -> four
-बाहु -> arm + forelimb + strength + power
-चतुर्बाहु -> four-armed + having four arms + possessing four strengths
-सम् -> together + completely + well + equally
-अनु -> after + along + according to + in conformity with
-वित -> to pervade + to distribute + to bestow + to spread + to endow
-समन्वित -> endowed with + accompanied by + connected with + possessed of
-चतुर्बाहुसमन्वित -> endowed with four arms + accompanied by four strengths + possessed of four powers
-चतुर्बाहुसमन्विता -> she who is endowed with four arms + she who possesses four strengths + she who is accompanied by four powers
+बाहु -> arm + strength + power [√बाहु]
+समन्विता -> सम्_अन्विता
+सम् -> completely + together + well
+अन्विता -> endowed with + accompanied by + possessed of [√अनु + √इ]
 
 8. रागस्वरूपपाशाढ्या
-रज् -> to color + to dye + to tinge + to be attached + to be passionate
-राग -> color + passion + attachment + love + desire + emotion + wish
+राग_स्वरूप_पाश_आढ्या
+राग -> desire + passion + attachment + love [√रञ्ज्]
+स्वरूप -> स्व_रूप
 स्व -> own + self + inherent
-रूप -> form + shape + beauty + nature + essence
-स्वरूप -> own form + true nature + essential self + inherent essence
-रागस्वरूप -> form of desire + nature of passion + essence of attachment + self of wish
-पाश -> noose + snare + bond + fetter + rope + puller
-ढ -> to cover + to hold + to carry + to possess
-ाढ्य -> rich + endowed + full + abounding + possessed of + holding
-पाशाढ्य -> endowed with noose + holding the rope + full of snares + possessing the puller
-रागस्वरूपपाश -> noose of desire + rope of passion + snare of attachment + puller of wish
-रागस्वरूपपाशाढ्य -> endowed with the noose of desire + holding the rope of passion + full of the snare of attachment + possessing the puller of wish
-रागस्वरूपपाशाढ्या -> she who holds the noose in the form of desire + she who pulls with the rope of wish + she whose iccā śakti draws devotees + she who controls desires with Her snare + she represented by the left lower arm + she as Aśvārūdā Devi
+रूप -> form + nature + essence [√रूप्]
+पाश -> noose + rope + bond + fetter [√पश्]
+आढ्या -> rich + endowed + possessing [√आढ्]
 
 9. क्रोधाकाराङ्कुशोज्ज्वला
-क्रुध् -> to be angry + to rage + to be wrathful
-क्रोध -> anger + wrath + fury + rage
-आ -> towards + up to + completely
-कृ -> to do + to make + to form + to shape
-आकार -> form + shape + appearance + aspect
-क्रोधाकार -> form of anger + shape of wrath + appearance of fury + aspect of rage
-अङ्कुश -> goad + hook + elephant hook + controller
-ओजस् -> power + strength + vigor + splendor + brilliance
-ज्वल् -> to burn + to shine + to blaze + to flame + to glow
-उज्ज्वल -> blazing + shining brightly + radiant + brilliant + glowing
-अङ्कुशोज्ज्वल -> brilliant with the goad + radiant with the hook + glowing with the controller
-क्रोधाकाराङ्कुशोज्ज्वल -> brilliant with the goad of anger + radiant in the form of wrath's hook + glowing with the controller of fury
-क्रोधाकाराङ्कुशोज्ज्वला -> she who is brilliant with the goad in the form of anger + she who shines with the hook of wrath + she who glows controlling with fury's goad + she whose jñāna śakti subdues + she represented by the left upper arm + she as Sampatkarī Devi
+क्रोध_आकार_अङ्कुश_उज्ज्वला
+क्रोध -> anger + wrath + fury [√क्रुध्]
+आकार -> form + shape + appearance [√कृ]
+अङ्कुश -> goad + hook + elephant hook + controller [√अङ्क्]
+उज्ज्वला -> blazing + shining brightly + radiant [√ज्वल्]
+
+10. मनोरूपेक्षुकोदण्डा
+मनस्_रूप_इक्षु_कोदण्ड
+मनस् -> mind + thought + intention [√मन्]
+रूप -> form + nature + appearance [√रूप्]
+इक्षु -> sugarcane [√इक्ष्]
+कोदण्ड -> bow + arc [√कुड्]
+
+11. पञ्चतन्मात्रसायका
+पञ्च_तन्मात्र_सायक
+पञ्च -> five
+तन्मात्र -> तत्_मात्र
+तत् -> that + subtle element
+मात्र -> measure + only + essence [√मा]
+सायक -> arrow + missile + dart [√सि]
+
+12. निजारुणप्रभापूरमज्जद्ब्रह्माण्डमण्डला
+निज_अरुण_प्रभा_पूर_मज्जत्_ब्रह्माण्डमण्डला
+निज -> own + innate + natural
+अरुण -> red + dawn-colored + rosy [√अर्]
+प्रभा -> radiance + light + splendor [√भा]
+पूर -> flood + stream + fullness [√पॄ]
+मज्जत् -> immersing + submerging + drowning [√मज्ज्]
+ब्रह्माण्डमण्डला -> ब्रह्माण्ड_मण्डला
+ब्रह्माण्ड -> universe + cosmic egg [√बृह्]
+मण्डला -> sphere + circle + realm [√मण्ड्]
+
+13. चम्पकाशोकपुन्नागसौगन्धिकलसत्कचा
+चम्पक_अशोक_पुन्नाग_सौगन्धिक_लसत्_कचा
+चम्पक -> champaka flower
+अशोक -> ashoka flower + sorrowless
+पुन्नाग -> punnaga flower
+सौगन्धिक -> fragrant flower + jasmine
+लसत् -> shining + adorned + beautiful [√लस्]
+कचा -> hair + tresses [√कच्]
+
+14. कुरुविन्दमणिश्रेणीकनत्कोटीरमण्डिता
+कुरुविन्द_मणि_श्रेणी_कनत्_कोटीर_मण्डिता
+कुरुविन्द -> kuruvinda ruby
+मणि -> gem + jewel + precious stone [√मण्]
+श्रेणी -> row + line + series [√श्रि]
+कनत् -> shining + gleaming + glittering [√कन्]
+कोटीर -> crown + diadem + crest
+मण्डिता -> adorned + decorated + embellished [√मण्ड्]
+
+15. अष्टमीचन्द्रविभ्राजदलिकस्थलशोभिता
+अष्टमी_चन्द्र_विभ्राजत्_अलिक_स्थल_शोभिता
+अष्टमी -> eighth day + eighth lunar phase
+चन्द्र -> moon + luminous + radiant [√चन्द्]
+विभ्राजत् -> shining forth + resplendent + radiant [√भ्राज्]
+अलिक -> forehead
+स्थल -> place + surface + region [√स्थल्]
+शोभिता -> adorned + beautified + resplendent [√शुभ्]
+
+16. मुखचन्द्रकलङ्काभमृगनाभिविशेषका
+मुख_चन्द्र_कलङ्क_आभ_मृगनाभि_विशेषक
+मुख -> face + countenance [√मुख्]
+चन्द्र -> moon + luminous [√चन्द्]
+कलङ्क -> spot + mark + blemish
+आभ -> resembling + like + radiance [√भा]
+मृगनाभि -> मृग_नाभि
+मृग -> deer + musk deer [√मृग्]
+नाभि -> navel + musk [√नभ्]
+विशेषक -> tilaka + distinguishing mark [√विश्]
+
+17. वदनस्मरमाङ्गल्यगृहतोरणचिल्लिका
+वदन_स्मर_माङ्गल्य_गृह_तोरण_चिल्लिका
+वदन -> face + countenance + mouth [√वद्]
+स्मर -> Kama + god of love + cupid [√स्मृ]
+माङ्गल्य -> auspicious + blessed + prosperous [√मङ्गल्]
+गृह -> house + abode + palace [√गृह्]
+तोरण -> archway + gateway + festoon [√तुर्]
+चिल्लिका -> eyebrow + arch
+
+18. वक्त्रलक्ष्मीपरीवाहचलन्मीनाभलोचना
+वक्त्र_लक्ष्मी_परीवाह_चलत्_मीन_आभ_लोचना
+वक्त्र -> face + countenance [√वच्]
+लक्ष्मी -> beauty + splendor + radiance [√लक्ष्]
+परीवाह -> stream + overflow + flow [√वह्]
+चलत् -> moving + gliding + flowing [√चल्]
+मीन -> fish [√मीन्]
+आभ -> resembling + like [√भा]
+लोचना -> eye + vision [√लोच्]
+
+19. नवचम्पकपुष्पाभनासादण्डविराजिता
+नव_चम्पक_पुष्प_आभ_नासा_दण्ड_विराजिता
+नव -> new + fresh + young
+चम्पक -> champaka flower
+पुष्प -> flower + blossom [√पुष्]
+आभ -> resembling + radiance [√भा]
+नासा -> nose [√नस्]
+दण्ड -> stem + staff + stalk [√दण्ड्]
+विराजिता -> resplendent + shining + adorned [√राज्]
+
+20. ताराकान्तितिरस्कारिनासाभरणभासुरा
+तारा_कान्ति_तिरस्कारि_नासा_आभरण_भासुरा
+तारा -> star + luminous body [√तॄ]
+कान्ति -> luster + beauty + radiance [√कान्त्]
+तिरस्कारि -> surpassing + excelling + outshining [√कृ]
+नासा -> nose [√नस्]
+आभरण -> ornament + jewel + decoration [√भृ]
+भासुरा -> shining + radiant + brilliant [√भास्]
+
+21. कदम्बमञ्जरीकॢप्तकर्णपूरमनोहरा
+कदम्ब_मञ्जरी_कॢप्त_कर्णपूर_मनोहरा
+कदम्ब -> kadamba flower
+मञ्जरी -> cluster + bunch + spray of flowers [√मञ्ज्]
+कॢप्त -> fashioned + arranged + made [√कॢप्]
+कर्णपूर -> कर्ण_पूर
+कर्ण -> ear [√कर्ण्]
+पूर -> ornament + filling + adornment [√पॄ]
+मनोहरा -> मनस्_हरा
+मनस् -> mind + heart [√मन्]
+हरा -> captivating + enchanting + stealing [√हृ]
+
+22. ताटङ्कयुगलीभूततपनोडुपमण्डला
+ताटङ्क_युगली_भूत_तपन_उडुप_मण्डला
+ताटङ्क -> large earring + ear ornament
+युगली -> pair + couple [√युज्]
+भूत -> become + transformed into [√भू]
+तपन -> sun + heating + burning [√तप्]
+उडुप -> moon + star-lord
+मण्डला -> disc + orb + sphere [√मण्ड्]
+
+23. पद्मरागशिलादर्शपरिभाविकपोलभूः
+पद्मराग_शिला_आदर्श_परिभावि_कपोल_भूः
+पद्मराग -> पद्म_राग
+पद्म -> lotus [√पद्]
+राग -> color + red + hue [√रञ्ज्]
+शिला -> stone + rock + gem
+आदर्श -> mirror + reflection [√दृश्]
+परिभावि -> surpassing + excelling [√भू]
+कपोल -> cheek
+भूः -> region + surface + earth [√भू]
+
+24. नवविद्रुमबिम्बश्रीन्यक्कारिरदनच्छदा
+नव_विद्रुम_बिम्ब_श्री_न्यक्कारि_रदन_छदा
+नव -> new + fresh + young
+विद्रुम -> coral + red coral
+बिम्ब -> bimba fruit + reflection + image
+श्री -> beauty + splendor [√श्री]
+न्यक्कारि -> surpassing + humbling + excelling [√कृ]
+रदन -> tooth [√रद्]
+छदा -> covering + lip [√छद्]
+
+25. शुद्धविद्याङ्कुराकारद्विजपङ्क्तिद्वयोज्ज्वला
+शुद्धविद्या_अङ्कुर_आकार_द्विज_पङ्क्ति_द्वय_उज्ज्वला
+शुद्धविद्या -> शुद्ध_विद्या
+शुद्ध -> pure + clean + unblemished [√शुध्]
+विद्या -> knowledge + learning + wisdom [√विद्]
+अङ्कुर -> sprout + bud + shoot [√अङ्क्]
+आकार -> form + shape + resemblance [√कृ]
+द्विज -> twice-born + tooth [√जन्]
+पङ्क्ति -> row + line + series [√पच्]
+द्वय -> pair + two + both
+उज्ज्वला -> radiant + brilliant + shining [√ज्वल्]
+
+26. कर्पूरवीटिकामोदसमाकर्षिदिगन्तरा
+कर्पूर_वीटिका_आमोद_समाकर्षि_दिगन्तरा
+कर्पूर -> camphor + fragrant substance
+वीटिका -> betel roll + prepared betel leaf
+आमोद -> fragrance + delight + scent [√मुद्]
+समाकर्षि -> attracting + drawing towards [√कृष्]
+दिगन्तरा -> दिक्_अन्तरा
+दिक् -> direction + quarter [√दिश्]
+अन्तरा -> all regions + entire expanse [√अन्तर्]
+
+27. निजसल्लापमाधुर्यविनिर्भर्त्सितकच्छपी
+निज_सल्लाप_माधुर्य_विनिर्भर्त्सित_कच्छपी
+निज -> own + innate + natural
+सल्लाप -> speech + conversation + discourse [√लप्]
+माधुर्य -> sweetness + melodiousness + charm [√मधु]
+विनिर्भर्त्सित -> surpassing + excelling + humbling [√भर्त्स्]
+कच्छपी -> veena of Sarasvati + stringed instrument
+
+28. मन्दस्मितप्रभापूरमज्जत्कामेशमानसा
+मन्दस्मित_प्रभा_पूर_मज्जत्_कामेश_मानसा
+मन्दस्मित -> मन्द_स्मित
+मन्द -> gentle + soft + mild
+स्मित -> smile + gentle smile [√स्मि]
+प्रभा -> radiance + light + brilliance [√भा]
+पूर -> flood + fullness + abundance [√पॄ]
+मज्जत् -> immersing + submerging [√मज्ज्]
+कामेश -> काम_ईश
+काम -> love + desire [√कम्]
+ईश -> lord + master [√ईश्]
+मानसा -> mind + heart + consciousness [√मन्]
+
+29. अनाकलितसादृश्यचिबुकश्रीविराजिता
+अनाकलित_सादृश्य_चिबुक_श्री_विराजिता
+अनाकलित -> incomparable + unmatched + beyond comparison [√कल्]
+सादृश्य -> resemblance + likeness + comparison [√दृश्]
+चिबुक -> chin
+श्री -> beauty + splendor + grace [√श्री]
+विराजिता -> resplendent + shining + adorned [√राज्]
+
+30. कामेशबद्धमाङ्गल्यसूत्रशोभितकन्धरा
+कामेश_बद्ध_माङ्गल्यसूत्र_शोभित_कन्धरा
+कामेश -> काम_ईश
+काम -> love + desire [√कम्]
+ईश -> lord + master [√ईश्]
+बद्ध -> tied + bound + fastened [√बन्ध्]
+माङ्गल्यसूत्र -> माङ्गल्य_सूत्र
+माङ्गल्य -> auspicious + sacred + blessed [√मङ्गल्]
+सूत्र -> thread + cord + string [√सिव्]
+शोभित -> adorned + beautified [√शुभ्]
+कन्धरा -> neck + throat [√कन्ध्]
+
+31. कनकाङ्गदकेयूरकमनीयभुजान्विता
+कनक_अङ्गद_केयूर_कमनीय_भुज_अन्विता
+कनक -> gold + golden [√कन्]
+अङ्गद -> bracelet + armlet [√अङ्ग्]
+केयूर -> armband + upper arm ornament
+कमनीय -> beautiful + lovely + charming [√कम्]
+भुज -> arm + hand [√भुज्]
+अन्विता -> endowed with + adorned + possessed of [√अनु + √इ]
+
+32. रत्नग्रैवेयचिन्ताकलोलमुक्ताफलान्विता
+रत्न_ग्रैवेय_चिन्ताक_लोल_मुक्ता_फल_अन्विता
+रत्न -> gem + jewel + precious stone [√रम्]
+ग्रैवेय -> necklace + neck ornament [√ग्रीवा]
+चिन्ताक -> pendant + locket [√चिन्त्]
+लोल -> dangling + swaying + moving [√लुल्]
+मुक्ता -> pearl + freed [√मुच्]
+फल -> fruit + result [√फल्]
+अन्विता -> endowed with + possessed of [√अनु + √इ]
+
+33. कामेश्वरप्रेमरत्नमणिप्रतिपणस्तनी
+कामेश्वर_प्रेम_रत्न_मणि_प्रतिपण_स्तनी
+कामेश्वर -> काम_ईश्वर
+काम -> love + desire [√कम्]
+ईश्वर -> lord + supreme ruler [√ईश्]
+प्रेम -> love + affection + devotion [√प्री]
+रत्न -> gem + jewel [√रम्]
+मणि -> gem + precious stone [√मण्]
+प्रतिपण -> exchange + barter + return gift [√पण्]
+स्तनी -> breasts + bosom
+
+34. नाभ्यालवालरोमालिलताफलकुचद्वयी
+नाभि_आलवाल_रोमालि_लता_फल_कुचद्वयी
+नाभि -> navel + center [√नभ्]
+आलवाल -> basin + depression + cavity
+रोमालि -> रोम_आलि
+रोम -> hair + body hair [√रुह्]
+आलि -> row + line + series
+लता -> creeper + vine [√लत्]
+फल -> fruit + result [√फल्]
+कुचद्वयी -> कुच_द्वयी
+कुच -> breast + bosom
+द्वयी -> pair + two [√द्वि]
+
+35. लक्ष्यरोमलताधारतासमुन्नेयमध्यमा
+लक्ष्य_रोमलता_आधारता_समुन्नेय_मध्यमा
+लक्ष्य -> barely visible + perceivable [√लक्ष्]
+रोमलता -> रोम_लता
+रोम -> hair line [√रुह्]
+लता -> creeper + vine [√लत्]
+आधारता -> support + basis [√धृ]
+समुन्नेय -> to be inferred + to be guessed [√नी]
+मध्यमा -> waist + middle + center [√मध्य]
+
+36. स्तनभारदलन्मध्यपट्टबन्धवलित्रया
+स्तन_भार_दलत्_मध्य_पट्टबन्ध_वलित्रया
+स्तन -> breast + bosom
+भार -> weight + heaviness + burden [√भृ]
+दलत् -> breaking + splitting + bursting [√दल्]
+मध्य -> waist + middle [√मध्य]
+पट्टबन्ध -> पट्ट_बन्ध
+पट्ट -> belt + band + girdle
+बन्ध -> binding + fastening + support [√बन्ध्]
+वलित्रया -> वलि_त्रय
+वलि -> fold + crease + wrinkle
+त्रय -> three + triple
+
+37. अरुणारुणकौसुम्भवस्त्रभास्वत्कटीतटी
+अरुणारुण_कौसुम्भ_वस्त्र_भास्वत्_कटी_तटी
+अरुणारुण -> अरुण_अरुण
+अरुण -> red + dawn-colored + rosy [√अर्]
+कौसुम्भ -> safflower-dyed + red dye
+वस्त्र -> garment + cloth + clothing [√वस्]
+भास्वत् -> shining + radiant + luminous [√भास्]
+कटी -> hip + waist [√कट्]
+तटी -> slope + bank + side
+
+38. रत्नकिङ्किणिकारम्यरशनादामभूषिता
+रत्न_किङ्किणिका_रम्य_रशना_दाम_भूषिता
+रत्न -> gem + jewel [√रम्]
+किङ्किणिका -> small bell + tinkling bell
+रम्य -> charming + delightful + beautiful [√रम्]
+रशना -> girdle + waist chain [√रश्]
+दाम -> garland + string + chain [√दम्]
+भूषिता -> adorned + decorated + ornamented [√भूष्]
+
+39. कामेशज्ञातसौभाग्यमार्दवोरुद्वयान्विता
+कामेश_ज्ञात_सौभाग्य_मार्दव_ऊरु_द्वय_अन्विता
+कामेश -> lord of desire + Shiva as Kameshvara [√कम् + √ईश्]
+ज्ञात -> known + perceived + appreciated [√ज्ञा]
+सौभाग्य -> good fortune + beauty + grace [√भज्]
+मार्दव -> softness + tenderness + gentleness [√मृद्]
+ऊरु -> thigh [√ऊर्]
+द्वय -> pair + two
+अन्विता -> endowed with + possessed of [√अनु + √इ]
+
+40. माणिक्यमुकुटाकारजानुद्वयविराजिता
+माणिक्य_मुकुट_आकार_जानु_द्वय_विराजिता
+माणिक्य -> ruby + precious stone
+मुकुट -> crown + crest + diadem
+आकार -> form + shape + resemblance [√कृ]
+जानु -> knee
+द्वय -> pair + two
+विराजिता -> resplendent + shining + adorned [√राज्]
+
+41. इन्द्रगोपपरिक्षिप्तस्मरतूणाभजङ्घिका
+इन्द्रगोप_परिक्षिप्त_स्मर_तूण_आभ_जङ्घिका
+इन्द्रगोप -> इन्द्र_गोप
+इन्द्र -> king of gods + chief [√इन्द्]
+गोप -> protector + tiny red insect [√गुप्]
+परिक्षिप्त -> scattered + surrounded + studded [√क्षिप्]
+स्मर -> Kama + god of love [√स्मृ]
+तूण -> quiver + arrow case
+आभ -> resembling + like [√भा]
+जङ्घिका -> calf of leg + shin
+
+42. गूढगुल्फा
+गूढ_गुल्फा
+गूढ -> hidden + concealed + subtle [√गुह्]
+गुल्फा -> ankle
+
+43. कूर्मपृष्ठजयिष्णुप्रपदान्विता
+कूर्म_पृष्ठ_जयिष्णु_प्रपद_अन्विता
+कूर्म -> tortoise + turtle [√कूर्म्]
+पृष्ठ -> back + surface + upper part [√पृष्]
+जयिष्णु -> conquering + surpassing + excelling [√जि]
+प्रपद -> forepart of foot + toes [√पद्]
+अन्विता -> endowed with + possessed of [√अनु + √इ]
+
+44. नखदीधितिसंछन्ननमज्जनतमोगुणा
+नख_दीधिति_संछन्न_नमत्_जन_तमोगुण
+नख -> nail + toenail + claw
+दीधिति -> light + ray + radiance [√दीधी]
+संछन्न -> covered + veiled + concealed [√छद्]
+नमत् -> bowing + worshipping + prostrating [√नम्]
+जन -> people + beings + devotees [√जन्]
+तमोगुण -> तमस्_गुण
+तमस् -> darkness + ignorance [√तम्]
+गुण -> quality + attribute + nature [√गुण्]
+
+45. पदद्वयप्रभाजालपराकृतसरोरुहा
+पद_द्वय_प्रभा_जाल_पराकृत_सरोरुहा
+पद -> foot + step [√पद्]
+द्वय -> pair + two
+प्रभा -> radiance + light + brilliance [√भा]
+जाल -> net + web + multitude [√जल्]
+पराकृत -> surpassed + excelled + defeated [√कृ]
+सरोरुहा -> सरस्_रुहा
+सरस् -> lake + pond [√सृ]
+रुहा -> growing + lotus [√रुह्]
+
+46. सिञ्जानमणिमञ्जीरमण्डितश्रीपदाम्बुजा
+सिञ्जान_मणि_मञ्जीर_मण्डित_श्री_पद_अम्बुजा
+सिञ्जान -> tinkling + jingling + ringing [√सिञ्ज्]
+मणि -> gem + jewel [√मण्]
+मञ्जीर -> anklet + ankle bracelet
+मण्डित -> adorned + decorated [√मण्ड्]
+श्री -> beautiful + auspicious [√श्री]
+पद -> foot [√पद्]
+अम्बुजा -> अम्बु_जा
+अम्बु -> water
+जा -> born of [√जन्]
+
+47. मरालीमन्दगमना
+मरालि_मन्द_गमना
+मरालि -> female swan + graceful bird
+मन्द -> gentle + slow + graceful
+गमना -> gait + walk + movement [√गम्]
+
+48. महालावण्यशेवधिः
+महा_लावण्य_शेवधिः
+महा -> great + supreme [√मह्]
+लावण्य -> grace + beauty + charm [√लवण]
+शेवधिः -> treasure + storehouse + repository
+
+49. सर्वारुणा
+सर्व_अरुणा
+सर्व -> all + entire + complete
+अरुणा -> red + rosy + dawn-colored [√अर्]
+
+50. अनवद्याङ्गी
+अनवद्य_अङ्गी
+अनवद्य -> faultless + blameless + perfect [√वद्]
+अङ्गी -> limbed + bodied + having form [√अङ्ग्]
+
+51. सर्वाभरणभूषिता
+सर्व_आभरण_भूषिता
+सर्व -> all + every + complete
+आभरण -> ornament + jewel + decoration [√भृ]
+भूषिता -> adorned + decorated + embellished [√भूष्]
+
+52. शिवकामेश्वराङ्कस्था
+शिव_कामेश्वर_अङ्क_स्था
+शिव -> auspicious + Shiva + blessed [√शिव्]
+कामेश्वर -> काम_ईश्वर
+काम -> love + desire [√कम्]
+ईश्वर -> lord + ruler [√ईश्]
+अङ्क -> lap + embrace + side [√अङ्क्]
+स्था -> seated + dwelling + stationed [√स्था]
+
+53. शिवा
+शिवा
+शिवा -> auspicious + benevolent + pure + blessed [√शिव्]
+
+54. स्वाधीनवल्लभा
+स्वाधीन_वल्लभा
+स्वाधीन -> स्व_अधीन
+स्व -> own + self [√स्व]
+अधीन -> subject to + dependent on + under control [√धा]
+वल्लभा -> beloved + consort + dear one [√वल्लभ्]
+
+55. सुमेरुमध्यश‍ृङ्गस्था
+सुमेरु_मध्य_शृङ्ग_स्था
+सुमेरु -> mount Meru + cosmic mountain
+मध्य -> middle + center [√मध्य]
+शृङ्ग -> peak + summit + horn [√शृङ्ग्]
+स्था -> dwelling + seated + stationed [√स्था]
+
+56. श्रीमन्नगरनायिका
+श्रीमत्_नगर_नायिका
+श्रीमत् -> glorious + prosperous + auspicious [√श्री]
+नगर -> city + capital + abode [√नग्]
+नायिका -> leader + heroine + mistress [√नी]
+
+57. चिन्तामणिगृहान्तस्था
+चिन्तामणि_गृह_अन्तस्_स्था
+चिन्तामणि -> चिन्ता_मणि
+चिन्ता -> thought + wish + desire [√चिन्त्]
+मणि -> gem + wish-fulfilling jewel [√मण्]
+गृह -> house + palace + abode [√गृह्]
+अन्तस् -> within + inside + interior [√अन्त्]
+स्था -> dwelling + abiding [√स्था]
+
+58. पञ्चब्रह्मासनस्थिता
+पञ्च_ब्रह्म_आसन_स्थिता
+पञ्च -> five
+ब्रह्म -> Brahman + supreme reality + creator [√बृह्]
+आसन -> seat + throne [√आस्]
+स्थिता -> seated + established + stationed [√स्था]
+
+59. महापद्माटवीसंस्था
+महा_पद्म_अटवी_संस्था
+महा -> great + supreme [√मह्]
+पद्म -> lotus [√पद्]
+अटवी -> forest + grove + garden
+संस्था -> dwelling + established + residing [√स्था]
+
+60. कदम्बवनवासिनी
+कदम्ब_वन_वासिनी
+कदम्ब -> kadamba tree + fragrant tree
+वन -> forest + grove + garden [√वन्]
+वासिनी -> dweller + residing in [√वस्]
+
+61. सुधासागरमध्यस्था
+सुधा_सागर_मध्य_स्था
+सुधा -> nectar + ambrosia + divine drink
+सागर -> ocean + sea [√सृ]
+मध्य -> middle + center [√मध्य]
+स्था -> dwelling + seated [√स्था]
+
+62. कामाक्षी
+काम_अक्षी
+काम -> desire + love + wish [√कम्]
+अक्षी -> eyed + having eyes [√अक्ष्]
+
+63. कामदायिनी
+काम_दायिनी
+काम -> desire + wish + love [√कम्]
+दायिनी -> giver + bestower + granter [√दा]
+
+64. देवर्षिगणसंघातस्तूयमानात्मवैभवा
+देवर्षि_गण_संघात_स्तूयमान_आत्म_वैभवा
+देवर्षि -> देव_ऋषि
+देव -> god + celestial being [√दिव्]
+ऋषि -> sage + seer + rishi [√ऋष्]
+गण -> host + assembly + group [√गण्]
+संघात -> multitude + assemblage [√हन्]
+स्तूयमान -> being praised + being extolled [√स्तु]
+आत्म -> own + self [√आत्मन्]
+वैभवा -> glory + splendor + majesty [√विभु]
+
+65. भण्डासुरवधोद्युक्तशक्तिसेनासमन्विता
+भण्डासुर_वध_उद्युक्त_शक्ति_सेना_समन्विता
+भण्डासुर -> भण्ड_असुर
+भण्ड -> jester + demon Bhanda
+असुर -> demon + anti-god [√अस्]
+वध -> slaying + killing + destruction [√वध्]
+उद्युक्त -> prepared + resolved + ready [√युज्]
+शक्ति -> power + energy + divine force [√शक्]
+सेना -> army + force + host [√सि]
+समन्विता -> endowed with + accompanied by [√अनु + √इ]
+
+66. सम्पत्करीसमारूढसिन्धुरव्रजसेविता
+सम्पत्करी_समारूढ_सिन्धुर_व्रज_सेविता
+सम्पत्करी -> Sampatkari Devi + bestower of wealth
+समारूढ -> mounted + riding upon [√रुह्]
+सिन्धुर -> elephant + mighty [√सिन्ध्]
+व्रज -> herd + multitude + group [√व्रज्]
+सेविता -> served + attended + worshipped [√सेव्]
+
+67. अश्वारूढाधिष्ठिताश्वकोटिकोटिभिरावृता
+अश्वारूढा_अधिष्ठित_अश्व_कोटिकोटि_आवृता
+अश्वारूढा -> अश्व_आरूढा
+अश्व -> horse + steed [√अश्]
+आरूढा -> mounted + riding [√रुह्]
+अधिष्ठित -> presided over + commanded [√स्था]
+कोटिकोटि -> कोटि_कोटि
+कोटि -> crore + ten million + countless
+आवृता -> surrounded + encircled + attended [√वृ]
+
+68. चक्रराजरथारूढसर्वायुधपरिष्कृता
+चक्रराज_रथ_आरूढ_सर्व_आयुध_परिष्कृता
+चक्रराज -> चक्र_राज
+चक्र -> wheel + disc + Sri Chakra [√चक्र्]
+राज -> king + chief + supreme [√राज्]
+रथ -> chariot + vehicle [√रथ्]
+आरूढ -> mounted + riding + seated upon [√रुह्]
+सर्व -> all + every
+आयुध -> weapon + armament [√युध्]
+परिष्कृता -> fully equipped + adorned + embellished [√कृ]
+
+69. गेयचक्ररथारूढमन्त्रिणीपरिसेविता
+गेयचक्र_रथ_आरूढ_मन्त्रिणी_परिसेविता
+गेयचक्र -> गेय_चक्र
+गेय -> to be sung + musical [√गै]
+चक्र -> wheel + chariot [√चक्र्]
+रथ -> chariot [√रथ्]
+आरूढ -> mounted + riding [√रुह्]
+मन्त्रिणी -> counselor + minister + Mantrini Devi [√मन्त्र्]
+परिसेविता -> served + attended by [√सेव्]
+
+70. किरिचक्ररथारूढदण्डनाथापुरस्कृता
+किरिचक्र_रथ_आरूढ_दण्डनाथा_पुरस्कृता
+किरिचक्र -> किरि_चक्र
+किरि -> boar + Varahi
+चक्र -> wheel + chariot [√चक्र्]
+रथ -> chariot [√रथ्]
+आरूढ -> mounted + riding [√रुह्]
+दण्डनाथा -> दण्ड_नाथा
+दण्ड -> staff + rod + authority [√दण्ड्]
+नाथा -> lord + commander + leader [√नाथ्]
+पुरस्कृता -> placed in front + honored + led by [√कृ]
+
+71. ज्वालामालिनिकाक्षिप्तवह्निप्राकारमध्यगा
+ज्वालामालिनिका_क्षिप्त_वह्नि_प्राकार_मध्यगा
+ज्वालामालिनिका -> ज्वाला_मालिनिका
+ज्वाला -> flame + blaze [√ज्वल्]
+मालिनिका -> garlanded + ringed + Jvalamalinika Devi
+क्षिप्त -> cast + hurled + created [√क्षिप्]
+वह्नि -> fire + flame [√वह्]
+प्राकार -> rampart + wall + enclosure [√कृ]
+मध्यगा -> dwelling in the middle [√गम्]
+
+72. भण्डसैन्यवधोद्युक्तशक्तिविक्रमहर्षिता
+भण्ड_सैन्य_वध_उद्युक्त_शक्ति_विक्रम_हर्षिता
+भण्ड -> demon Bhanda
+सैन्य -> army + forces [√सेना]
+वध -> slaying + destruction [√वध्]
+उद्युक्त -> prepared + engaged in [√युज्]
+शक्ति -> power + energy + goddess Shakti [√शक्]
+विक्रम -> valor + prowess + heroism [√क्रम्]
+हर्षिता -> delighted + pleased + gladdened [√हृष्]
+
+73. नित्यापराक्रमाटोपनिरीक्षणसमुत्सुका
+नित्या_पराक्रम_आटोप_निरीक्षण_समुत्सुका
+नित्या -> eternal goddesses + Nitya Devis
+पराक्रम -> valor + prowess + heroism [√क्रम्]
+आटोप -> display + show of power + pride
+निरीक्षण -> watching + observing + witnessing [√ईक्ष्]
+समुत्सुका -> eager + enthusiastic + delighted [√सुक्]
+
+74. भण्डपुत्रवधोद्युक्तबालाविक्रमनन्दिता
+भण्ड_पुत्र_वध_उद्युक्त_बाला_विक्रम_नन्दिता
+भण्ड -> demon Bhanda
+पुत्र -> son + offspring [√पुत्र्]
+वध -> slaying + destruction [√वध्]
+उद्युक्त -> engaged in + resolved [√युज्]
+बाला -> Bala Devi + young goddess [√बल्]
+विक्रम -> valor + prowess [√क्रम्]
+नन्दिता -> delighted + pleased + gladdened [√नन्द्]
+
+75. मन्त्रिण्यम्बाविरचितविषङ्गवधतोषिता
+मन्त्रिणी_अम्बा_विरचित_विषङ्ग_वध_तोषिता
+मन्त्रिणी -> Mantrini Devi + counselor goddess [√मन्त्र्]
+अम्बा -> mother + goddess [√अम्ब्]
+विरचित -> accomplished + carried out [√रच्]
+विषङ्ग -> demon Vishanga
+वध -> slaying + destruction [√वध्]
+तोषिता -> pleased + gratified + satisfied [√तुष्]
+
+76. विशुक्रप्राणहरणवाराहीवीर्यनन्दिता
+विशुक्र_प्राणहरण_वाराही_वीर्य_नन्दिता
+विशुक्र -> demon Vishukra
+प्राणहरण -> प्राण_हरण
+प्राण -> life + breath + vital force [√प्राण्]
+हरण -> taking + removal + destruction [√हृ]
+वाराही -> Varahi Devi + boar goddess
+वीर्य -> valor + strength + heroism [√वीर्]
+नन्दिता -> delighted + pleased [√नन्द्]
+
+77. कामेश्वरमुखालोककल्पितश्रीगणेश्वरा
+कामेश्वर_मुख_आलोक_कल्पित_श्री_गणेश्वरा
+कामेश्वर -> lord of desire + Shiva [√कम् + √ईश्]
+मुख -> face + glance [√मुख्]
+आलोक -> look + glance + sight [√लोक्]
+कल्पित -> created + fashioned + manifested [√कॢप्]
+श्री -> auspicious + glorious [√श्री]
+गणेश्वरा -> गण_ईश्वरा
+गण -> host + group [√गण्]
+ईश्वरा -> lord + ruler [√ईश्]
+
+78. महागणेशनिर्भिन्नविघ्नयन्त्रप्रहर्षिता
+महा_गणेश_निर्भिन्न_विघ्न_यन्त्र_प्रहर्षिता
+महा -> great + supreme [√मह्]
+गणेश -> गण_ईश
+गण -> host + group [√गण्]
+ईश -> lord + master [√ईश्]
+निर्भिन्न -> shattered + broken + destroyed [√भिद्]
+विघ्न -> obstacle + hindrance [√विघ्न्]
+यन्त्र -> machine + device + mystical diagram [√यम्]
+प्रहर्षिता -> greatly pleased + overjoyed [√हृष्]
+
+79. भण्डासुरेन्द्रनिर्मुक्तशस्त्रप्रत्यस्त्रवर्षिणी
+भण्डासुरेन्द्र_निर्मुक्त_शस्त्र_प्रत्यस्त्र_वर्षिणी
+भण्डासुरेन्द्र -> भण्ड_असुर_इन्द्र
+भण्ड -> demon Bhanda
+असुर -> demon [√अस्]
+इन्द्र -> chief + lord [√इन्द्]
+निर्मुक्त -> released + discharged + hurled [√मुच्]
+शस्त्र -> weapon + missile [√शस्]
+प्रत्यस्त्र -> प्रति_अस्त्र
+प्रति -> counter + against + in return
+अस्त्र -> weapon + missile [√अस्]
+वर्षिणी -> showering + raining + releasing [√वृष्]
+
+80. कराङ्गुलिनखोत्पन्ननारायणदशाकृतिः
+कर_अङ्गुलि_नख_उत्पन्न_नारायण_दश_आकृतिः
+कर -> hand + ray [√कृ]
+अङ्गुलि -> finger + digit [√अङ्गुल्]
+नख -> nail + claw
+उत्पन्न -> born + produced + created [√पद्]
+नारायण -> Vishnu + supreme protector [√नर + √अयन]
+दश -> ten
+आकृतिः -> form + incarnation + appearance [√कृ]
+
+81. महापाशुपतास्त्राग्निनिर्दग्धासुरसैनिका
+महा_पाशुपत_अस्त्र_अग्नि_निर्दग्ध_असुर_सैनिका
+महा -> great + supreme [√मह्]
+पाशुपत -> of Pashupati + Shiva's weapon
+अस्त्र -> weapon + missile [√अस्]
+अग्नि -> fire + flame [√अग्]
+निर्दग्ध -> completely burnt + reduced to ashes [√दह्]
+असुर -> demon [√अस्]
+सैनिका -> army + soldiers [√सेना]
+
+82. कामेश्वरास्त्रनिर्दग्धसभण्डासुरशून्यका
+कामेश्वर_अस्त्र_निर्दग्ध_सभण्ड_असुर_शून्यका
+कामेश्वर -> lord of desire + Kameshvara [√कम् + √ईश्]
+अस्त्र -> weapon + missile [√अस्]
+निर्दग्ध -> completely destroyed + burnt [√दह्]
+सभण्ड -> together with Bhanda
+असुर -> demon [√अस्]
+शून्यका -> rendered void + emptied + annihilated [√शून्य]
+
+83. ब्रह्मोपेन्द्रमहेन्द्रादिदेवसंस्तुतवैभवा
+ब्रह्म_उपेन्द्र_महेन्द्र_आदि_देव_संस्तुत_वैभवा
+ब्रह्म -> Brahma + creator [√बृह्]
+उपेन्द्र -> उप_इन्द्र
+उप -> near + secondary + sub
+इन्द्र -> king of gods [√इन्द्]
+महेन्द्र -> महा_इन्द्र
+महा -> great [√मह्]
+आदि -> and others + beginning with + etc
+देव -> gods + celestials [√दिव्]
+संस्तुत -> praised + extolled + hymned [√स्तु]
+वैभवा -> glory + splendor + majesty [√विभु]
+
+84. हरनेत्राग्निसंदग्धकामसञ्जीवनौषधिः
+हर_नेत्र_अग्नि_संदग्ध_काम_सञ्जीवन_औषधिः
+हर -> Shiva + destroyer [√हृ]
+नेत्र -> eye + vision [√नी]
+अग्नि -> fire + flame [√अग्]
+संदग्ध -> burnt + consumed + destroyed [√दह्]
+काम -> Kama + god of love [√कम्]
+सञ्जीवन -> reviving + restoring to life [√जीव्]
+औषधिः -> medicine + herb + remedy
+
+85. श्रीमद्वाग्भवकूटैकस्वरूपमुखपङ्कजा
+श्रीमत्_वाग्भवकूट_एक_स्वरूप_मुख_पङ्कजा
+श्रीमत् -> glorious + auspicious [√श्री]
+वाग्भवकूट -> वाक्_भव_कूट
+वाक् -> speech + word [√वच्]
+भव -> existence + origin [√भू]
+कूट -> division + section + peak [√कूट्]
+एक -> one + sole + single
+स्वरूप -> true form + essential nature [√रूप्]
+मुख -> face + mouth [√मुख्]
+पङ्कजा -> पङ्क_जा
+पङ्क -> mud + mire
+जा -> born of + lotus [√जन्]
+
+86. कण्ठाधःकटिपर्यन्तमध्यकूटस्वरूपिणी
+कण्ठ_अधः_कटि_पर्यन्त_मध्यकूट_स्वरूपिणी
+कण्ठ -> throat + neck [√कण्ठ्]
+अधः -> below + downward
+कटि -> hip + waist [√कट्]
+पर्यन्त -> up to + extending to [√अन्त्]
+मध्यकूट -> मध्य_कूट
+मध्य -> middle + center
+कूट -> division + section [√कूट्]
+स्वरूपिणी -> embodiment + having the form of [√रूप्]
+
+87. शक्तिकूटैकतापन्नकट्यधोभागधारिणी
+शक्तिकूट_एकतापन्न_कटि_अधः_भाग_धारिणी
+शक्तिकूट -> शक्ति_कूट
+शक्ति -> power + energy [√शक्]
+कूट -> division + section [√कूट्]
+एकतापन्न -> solely manifest + unified [√तप्]
+कटि -> hip + waist [√कट्]
+अधः -> below + lower part
+भाग -> part + portion + region [√भज्]
+धारिणी -> bearing + holding + supporting [√धृ]
+
+88. मूलमन्त्रात्मिका
+मूल_मन्त्र_आत्मिका
+मूल -> root + origin + fundamental [√मूल्]
+मन्त्र -> sacred syllable + mantra + prayer [√मन्]
+आत्मिका -> of the nature of + essence of [√आत्मन्]
+
+89. मूलकूटत्रयकलेवरा
+मूल_कूट_त्रय_कलेवरा
+मूल -> root + origin + fundamental [√मूल्]
+कूट -> division + section + peak [√कूट्]
+त्रय -> three + triad + triple
+कलेवरा -> body + form + embodiment
+
+90. कुलामृतैकरसिका
+कुल_अमृत_एक_रसिका
+कुल -> family + lineage + tradition [√कुल्]
+अमृत -> nectar + immortality + ambrosia [√मृ]
+एक -> sole + only + single
+रसिका -> one who relishes + connoisseur + enjoyer [√रस्]
+
+91. कुलसङ्केतपालिनी
+कुल_सङ्केत_पालिनी
+कुल -> family + tradition + lineage [√कुल्]
+सङ्केत -> code + convention + secret sign [√कित्]
+पालिनी -> protector + guardian + keeper [√पा]
+
+92. कुलाङ्गना
+कुल_अङ्गना
+कुल -> noble family + lineage + tradition [√कुल्]
+अङ्गना -> woman + lady + graceful one [√अङ्ग्]
+
+93. कुलान्तस्था
+कुल_अन्तस्_स्था
+कुल -> family + lineage + tradition [√कुल्]
+अन्तस् -> within + inside + interior
+स्था -> dwelling + abiding + established [√स्था]
+
+94. कौलिनी
+कौलिनी
+कौलिनी -> of the Kaula tradition + following Kaula path [√कुल्]
+
+95. कुलयोगिनी
+कुल_योगिनी
+कुल -> Kaula tradition + lineage [√कुल्]
+योगिनी -> female yogi + practitioner of yoga [√युज्]
+
+96. अकुला
+अ_कुला
+अ -> not + beyond + transcending
+कुला -> family + lineage + tradition [√कुल्]
+
+97. समयान्तस्था
+समय_अन्तस्_स्था
+समय -> convention + time + doctrine [√इ]
+अन्तस् -> within + inside
+स्था -> dwelling + abiding [√स्था]
+
+98. समयाचारतत्परा
+समय_आचार_तत्परा
+समय -> doctrine + convention + rule [√इ]
+आचार -> practice + conduct + observance [√चर्]
+तत्परा -> तत्_परा
+तत् -> that + devoted to
+परा -> supreme + devoted + intent upon
+
+99. मूलाधारैकनिलया
+मूलाधार_एक_निलया
+मूलाधार -> मूल_आधार
+मूल -> root + base + fundamental [√मूल्]
+आधार -> support + foundation + basis [√धृ]
+एक -> sole + only + primary
+निलया -> abode + dwelling + resting place [√ली]
+
+100. ब्रह्मग्रन्थिविभेदिनी
+ब्रह्म_ग्रन्थि_विभेदिनी
+ब्रह्म -> Brahman + creator + supreme reality [√बृह्]
+ग्रन्थि -> knot + bond + psychic blockage [√ग्रन्थ्]
+विभेदिनी -> piercer + breaker + one who splits [√भिद्]
+
+101. मणिपूरान्तरुदिता
+मणिपूर_अन्तर्_उदिता
+मणिपूर -> मणि_पूर
+मणि -> jewel + gem + bead [√मण्]
+पूर -> filling + city + abundance [√पॄ]
+अन्तर् -> within + interior + inside
+उदिता -> arisen + risen + manifested [√वद्]
+
+102. विष्णुग्रन्थिविभेदिनी
+विष्णु_ग्रन्थि_विभेदिनी
+विष्णु -> Vishnu + all-pervading one + sustainer [√विष्]
+ग्रन्थि -> knot + bond + psychic blockage [√ग्रन्थ्]
+विभेदिनी -> piercer + breaker + one who splits [√भिद्]
+
+103. आज्ञाचक्रान्तरालस्था
+आज्ञा_चक्र_अन्तराल_स्था
+आज्ञा -> command + order + authority [√ज्ञा]
+चक्र -> wheel + center + circle [√चर्]
+अन्तराल -> interior + middle + interval
+स्था -> abiding + dwelling + established [√स्था]
+
+104. रुद्रग्रन्थिविभेदिनी
+रुद्र_ग्रन्थि_विभेदिनी
+रुद्र -> Rudra + fierce one + Shiva [√रुद्]
+ग्रन्थि -> knot + bond + psychic blockage [√ग्रन्थ्]
+विभेदिनी -> piercer + breaker + one who splits [√भिद्]
+
+105. सहस्राराम्बुजारूढा
+सहस्रार_अम्बुज_आरूढा
+सहस्रार -> सहस्र_अर
+सहस्र -> thousand + countless + multitude
+अर -> spoke + petal + ray
+अम्बुज -> अम्बु_ज
+अम्बु -> water [√अम्ब्]
+ज -> born + arisen + produced [√जन्]
+आरूढा -> mounted + seated + ascended [√रुह्]
+
+106. सुधासाराभिवर्षिणी
+सुधा_सार_अभिवर्षिणी
+सुधा -> nectar + ambrosia + divine drink
+सार -> essence + flow + best part [√सृ]
+अभिवर्षिणी -> अभि_वर्षिणी
+अभि -> towards + upon + intensely
+वर्षिणी -> showering + raining + pouring [√वृष्]
+
+107. तडिल्लतासमरुचिः
+तडित्_लता_सम_रुचिः
+तडित् -> lightning + flash [√तड्]
+लता -> creeper + vine + climbing plant [√लत्]
+सम -> equal + similar + alike
+रुचिः -> radiance + splendor + luster [√रुच्]
+
+108. षट्चक्रोपरिसंस्थिता
+षट्_चक्र_उपरि_संस्थिता
+षट् -> six
+चक्र -> wheel + center + plexus [√चर्]
+उपरि -> above + upon + over
+संस्थिता -> सम्_स्थिता
+सम् -> completely + together + thoroughly
+स्थिता -> established + situated + abiding [√स्था]
+
+109. महासक्तिः
+महा_सक्तिः
+महा -> great + supreme + mighty [√मह्]
+सक्तिः -> attachment + devotion + clinging [√सञ्ज्]
+
+110. कुण्डलिनी
+कुण्डलिनी
+कुण्डलिनी -> coiled one + serpent power + spiral energy [√कुण्ड्]
+
+111. बिसतन्तुतनीयसी
+बिस_तन्तु_तनीयसी
+बिस -> lotus stalk + lotus fiber
+तन्तु -> thread + fiber + filament [√तन्]
+तनीयसी -> more subtle + finer + thinner [√तनु]
+
+112. भवानी
+भवानी
+भवानी -> consort of Bhava + Shakti of Shiva + life-giver [√भू]
+
+113. भावनागम्या
+भावना_गम्या
+भावना -> contemplation + meditation + feeling [√भू]
+गम्या -> attainable + reachable + accessible [√गम्]
+
+114. भवारण्यकुठारिका
+भव_अरण्य_कुठारिका
+भव -> existence + worldly life + becoming [√भू]
+अरण्य -> forest + wilderness [√ऋ]
+कुठारिका -> axe + hatchet + cutter [√कुठ्]
+
+115. भद्रप्रिया
+भद्र_प्रिया
+भद्र -> auspicious + good + blessed [√भन्द्]
+प्रिया -> beloved + dear + fond of [√प्री]
+
+116. भद्रमूर्तिः
+भद्र_मूर्तिः
+भद्र -> auspicious + good + blessed [√भन्द्]
+मूर्तिः -> form + embodiment + figure [√मूर्छ्]
+
+117. भक्तसौभाग्यदायिनी
+भक्त_सौभाग्य_दायिनी
+भक्त -> devotee + worshipper + devoted [√भज्]
+सौभाग्य -> good fortune + prosperity + welfare [√भज्]
+दायिनी -> giver + bestower + granter [√दा]
+
+118. भक्तिप्रिया
+भक्ति_प्रिया
+भक्ति -> devotion + worship + loving service [√भज्]
+प्रिया -> beloved + fond of + dear [√प्री]
+
+119. भक्तिगम्या
+भक्ति_गम्या
+भक्ति -> devotion + worship + loving service [√भज्]
+गम्या -> attainable + reachable + accessible [√गम्]
+
+120. भक्तिवश्या
+भक्ति_वश्या
+भक्ति -> devotion + worship + loving service [√भज्]
+वश्या -> subject to + controlled by + subdued [√वश्]

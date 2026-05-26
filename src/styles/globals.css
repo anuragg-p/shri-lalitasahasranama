@@ -6,6 +6,8 @@
 @theme {
   --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-sanskrit: var(--font-sanskrit), "Noto Sans Devanagari",
+    "Sanskrit Text", serif;
 }
 
 @theme inline {
@@ -127,4 +129,298 @@
 /* Hide scrollbar for webkit browsers */
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
+}
+
+/* ===========================================================================
+   PAPER THEME — light parchment with warm sepia ink + saffron accent
+   ===========================================================================
+   Color tokens:
+     --paper:        #f5ead0   primary cream background
+     --paper-card:   #faf2dc   slightly lighter for raised cards
+     --paper-sticky: #fde68a   yellow sticky-note
+     --ink:          #2b1700   primary text (deep sepia)
+     --ink-soft:     #5a3a18   secondary text
+     --ink-mute:     #8a6a3c   muted gray-brown
+     --saffron:      #c2410c   primary accent (warm rust-orange)
+     --saffron-soft: #f97316   hover accent
+     --maroon:       #7c1d1d   alt accent for highlights
+*/
+
+:root {
+  --paper: #f5ead0;
+  --paper-card: #faf2dc;
+  --paper-sticky: #fde68a;
+  --ink: #2b1700;
+  --ink-soft: #5a3a18;
+  --ink-mute: #8a6a3c;
+  --saffron: #c2410c;
+  --saffron-soft: #f97316;
+  --maroon: #7c1d1d;
+}
+
+/* Page background: cream + subtle paper grain + warm vignette */
+.paper-bg {
+  background-color: var(--paper);
+  background-image:
+    /* very soft inner warmth so the page isn't flat */
+    radial-gradient(
+      ellipse at 50% 0%,
+      rgba(255, 200, 100, 0.18) 0%,
+      transparent 55%
+    ),
+    /* fine paper grain (svg fractal noise, inlined) */
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.18  0 0 0 0 0.09  0 0 0 0 0  0 0 0 0.06 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+  background-size: 100% 100%, 240px 240px;
+  color: var(--ink);
+}
+
+/* Parchment panel for the verses (slightly raised card) */
+.paper-page {
+  position: relative;
+  background-color: var(--paper-card);
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='320' height='320'><filter id='p'><feTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.20  0 0 0 0 0.10  0 0 0 0 0  0 0 0 0.05 0'/></filter><rect width='100%25' height='100%25' filter='url(%23p)'/></svg>");
+  background-size: 320px 320px;
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.6) inset,
+    0 24px 50px -28px rgba(80, 40, 0, 0.4),
+    0 3px 8px rgba(120, 70, 20, 0.12);
+  border-radius: 4px;
+  color: var(--ink);
+}
+
+/* Ink-style ruled separator */
+.paper-rule {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent 0%,
+    rgba(43, 23, 0, 0.25) 20%,
+    rgba(43, 23, 0, 0.35) 50%,
+    rgba(43, 23, 0, 0.25) 80%,
+    transparent 100%
+  );
+}
+
+/* Wavy/squiggle underline accent. Use as a decoration under an element. */
+.squiggle-under {
+  position: relative;
+  display: inline-block;
+}
+.squiggle-under::after {
+  content: "";
+  position: absolute;
+  left: -2px;
+  right: -2px;
+  bottom: -10px;
+  height: 8px;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 8' preserveAspectRatio='none'><path d='M0 4 Q 10 0 20 4 T 40 4 T 60 4 T 80 4' fill='none' stroke='%23c2410c' stroke-width='2' stroke-linecap='round'/></svg>");
+  background-repeat: repeat-x;
+  background-size: 80px 8px;
+}
+
+/* Saffron highlight box behind a word (like the EasyQiz "syllabus" pill) */
+.highlight-box {
+  background-color: var(--saffron);
+  color: #fff8e1;
+  padding: 0.05em 0.25em;
+  border-radius: 4px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* Tilted yellow sticky-note card */
+.sticky-card {
+  position: relative;
+  background-color: var(--paper-sticky);
+  color: var(--ink);
+  border-radius: 4px;
+  padding: 1.5rem 1.25rem 1.25rem;
+  transform: rotate(-2deg);
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.5) inset,
+    0 10px 25px -10px rgba(80, 40, 0, 0.35),
+    0 2px 6px rgba(80, 40, 0, 0.15);
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='s'><feTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='1' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.4  0 0 0 0 0.25  0 0 0 0 0  0 0 0 0.05 0'/></filter><rect width='100%25' height='100%25' filter='url(%23s)'/></svg>");
+  background-size: 220px 220px;
+}
+
+/* Piece of tape on top of the sticky card */
+.sticky-card::before {
+  content: "";
+  position: absolute;
+  top: -10px;
+  right: 18%;
+  width: 64px;
+  height: 22px;
+  background-color: rgba(220, 160, 110, 0.55);
+  border-left: 1px solid rgba(255, 255, 255, 0.4);
+  border-right: 1px solid rgba(0, 0, 0, 0.05);
+  transform: rotate(-8deg);
+  box-shadow: 0 1px 2px rgba(80, 40, 0, 0.2);
+}
+
+/* ---------------------------------------------------------------------------
+   STICKER / INDEX-CARD primitives
+   --------------------------------------------------------------------------- */
+
+/* A thick rounded border + offset hard shadow that makes any card look like
+   a sticker tacked onto the page. Use on popover, chips, panels. */
+.sticker-card {
+  background-color: var(--paper-card);
+  color: var(--ink);
+  border: 2px solid var(--ink);
+  border-radius: 14px;
+  box-shadow: 6px 6px 0 0 var(--ink);
+}
+
+.sticker-card--saffron {
+  box-shadow: 6px 6px 0 0 var(--saffron);
+}
+
+.sticker-card--maroon {
+  box-shadow: 6px 6px 0 0 var(--maroon);
+}
+
+/* Pill tab — like the EasyQiz "All / Completed / Hosted" filter pills */
+.pill-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background-color: var(--paper-card);
+  color: var(--ink);
+  border: 2px solid var(--ink);
+  border-radius: 999px;
+  padding: 0.35rem 0.85rem;
+  font-size: 12px;
+  font-weight: 700;
+  transition: background-color 0.12s ease;
+}
+.pill-tab:hover {
+  background-color: var(--paper);
+}
+.pill-tab--active {
+  background-color: var(--ink);
+  color: var(--paper-sticky);
+}
+.pill-tab--saffron {
+  background-color: var(--saffron);
+  color: #fff8e1;
+  border-color: var(--saffron);
+}
+
+/* Sticker chip — clickable square-rounded button with chunky border */
+.sticker-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  background-color: var(--paper-card);
+  color: var(--ink);
+  border: 2px solid var(--ink);
+  border-radius: 10px;
+  padding: 0.35rem 0.7rem;
+  font-weight: 600;
+  box-shadow: 3px 3px 0 0 var(--ink);
+  transition: transform 0.1s ease, box-shadow 0.1s ease;
+}
+.sticker-chip:hover {
+  transform: translate(-1px, -1px);
+  box-shadow: 4px 4px 0 0 var(--ink);
+}
+.sticker-chip:active {
+  transform: translate(2px, 2px);
+  box-shadow: 1px 1px 0 0 var(--ink);
+}
+.sticker-chip--compound {
+  background-color: var(--saffron);
+  color: #fff8e1;
+  border-color: var(--ink);
+  box-shadow: 3px 3px 0 0 var(--ink);
+}
+.sticker-chip--focused {
+  background-color: var(--paper-sticky);
+  color: var(--ink);
+  border-color: var(--ink);
+  box-shadow: 3px 3px 0 0 var(--maroon);
+}
+
+/* The popover itself: parchment card with offset shadow */
+.paper-popover {
+  position: relative;
+  background-color: var(--paper-card);
+  color: var(--ink);
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='q'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.20  0 0 0 0 0.10  0 0 0 0 0  0 0 0 0.05 0'/></filter><rect width='100%25' height='100%25' filter='url(%23q)'/></svg>");
+  background-size: 200px 200px;
+  border: 2.5px solid var(--ink);
+  border-radius: 16px;
+  box-shadow:
+    6px 6px 0 0 var(--ink),
+    0 22px 40px -22px rgba(80, 40, 0, 0.35);
+}
+
+/* Magazine-style lede paragraph: italic, slightly larger, sepia */
+.commentary-lede {
+  font-family: var(--font-serif, Georgia, "Times New Roman", serif);
+  font-style: italic;
+  font-size: 1.125rem;
+  line-height: 1.55;
+  color: var(--ink);
+  letter-spacing: 0.005em;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px dashed rgba(43, 23, 0, 0.2);
+  margin-bottom: 0.75rem;
+}
+
+/* Drop cap on the first paragraph of a commentary body */
+.commentary-body > p:first-of-type::first-letter {
+  font-family: Georgia, "Times New Roman", serif;
+  float: left;
+  font-size: 3.4rem;
+  line-height: 0.85;
+  font-weight: 700;
+  color: var(--saffron);
+  padding: 0.35rem 0.55rem 0 0;
+  margin-top: 0.15rem;
+}
+
+/* Small "01" / "02" numerical pill used as a section badge */
+.number-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--ink);
+  color: var(--paper-sticky);
+  font-family: ui-monospace, "SFMono-Regular", Menlo, monospace;
+  font-size: 11px;
+  font-weight: 700;
+  border-radius: 6px;
+  padding: 2px 8px;
+  letter-spacing: 0.05em;
+}
+
+/* Pill button — solid saffron */
+.btn-saffron {
+  background-color: var(--saffron);
+  color: #fff8e1;
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 0.6rem 1rem;
+  transition: background-color 0.15s ease;
+}
+.btn-saffron:hover {
+  background-color: var(--saffron-soft);
+}
+
+/* Outline button on paper */
+.btn-outline {
+  background-color: var(--paper-card);
+  color: var(--ink);
+  font-weight: 600;
+  border: 2px solid var(--ink);
+  border-radius: 8px;
+  padding: calc(0.6rem - 2px) calc(1rem - 2px);
+  transition: background-color 0.15s ease;
+}
+.btn-outline:hover {
+  background-color: var(--paper);
 }
