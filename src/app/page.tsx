@@ -19,10 +19,15 @@ const COMMENTARY_ALIASES: Record<string, string | string[]> = {
   "राज्यलक्ष्मीः": "राज्यलक्ष्मी",
   "शिवशक्त्यैक्यरूपिणी": "शिवशक्तैक्यरूपिणी",
   "सुधासृतिः": "सुधास्रुतिः / सृतिः",
-  "त्रिगुणाम्बा": "त्रिगुणा",
   // Alternate traditional name spellings — sanskrit.txt uses one variant, the
   // commentaries use another. Map sanskrit.txt → commentary key.
   "बन्धुरालका": "बर्बरालका",
+  // Two adjacent nāmas concatenated in the verse text with no separating
+  // visarga/sandhi marker — the parser sees one word but the commentary keys
+  // are split. Map the concatenated form to the pair of canonical names.
+  "ब्रह्मजननी": ["ब्रह्म", "जननी"],
+  "धराधरसुता": ["धरा", "धरसुता"],
+  "त्रिगुणाम्बा": ["त्रिगुणा", "अम्बा"],
 };
 
 const loadCommentary = (filename: string): Record<string, string> => {
@@ -71,6 +76,9 @@ export default function Home() {
           <nav className="flex items-center gap-6 text-sm font-semibold text-[#2b1700]">
             <Link href="/" className="hover:text-[#c2410c]">
               Verses
+            </Link>
+            <Link href="/themes" className="hover:text-[#c2410c]">
+              Themes
             </Link>
             <Link href="/vravi" className="hover:text-[#c2410c]">
               V. Ravi
