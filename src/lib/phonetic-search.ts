@@ -12,10 +12,12 @@
  * (infix) edit distance, so "tanumadya" still finds tanumadhyā.
  */
 
+import { devanagariToIAST } from "./transliterate";
+
 export interface SearchEntry {
-  /** DOM id of the word in the verses display (word-{line}-{index}) */
+  /** Opaque id handed to onSelect (verse-word DOM id, or nāma number) */
   id: string;
-  /** The word exactly as it appears in the verse */
+  /** The name/word in Devanagari */
   devanagari: string;
   /** IAST transliteration, shown as the pronunciation */
   iast: string;
@@ -23,10 +25,33 @@ export interface SearchEntry {
   gloss: string;
   /** Precomputed folded search key */
   key: string;
+  /** Optional small label shown before the name (e.g. the nāma number) */
+  badge?: string;
 }
 
 export interface SearchResult extends SearchEntry {
   score: number;
+}
+
+/**
+ * Build search entries from the canonical ordered name list (1..1000),
+ * with the nāma number as both id and badge.
+ */
+export function buildNameEntries(
+  names: string[],
+  glossFor?: (index: number, name: string) => string,
+): SearchEntry[] {
+  return names.map((name, i) => {
+    const iast = devanagariToIAST(name);
+    return {
+      id: String(i + 1),
+      badge: String(i + 1),
+      devanagari: name,
+      iast,
+      gloss: glossFor ? glossFor(i, name) : "",
+      key: toSearchKey(iast),
+    };
+  });
 }
 
 /** Fold IAST or casually-typed romanization into a loose phonetic key. */

@@ -2,6 +2,9 @@
 
 import React, { useCallback, useEffect, useMemo, useState } from "react";
 import { RootBreakdown } from "@/components/root-breakdown";
+import NamaSearch from "@/components/nama-search";
+import { buildNameEntries } from "@/lib/phonetic-search";
+import { devanagariToIAST } from "@/lib/transliterate";
 import {
   type Card,
   type Mode,
@@ -33,6 +36,14 @@ export default function PracticeView(props: PracticeViewProps) {
   const [showExtra, setShowExtra] = useState<"none" | "root" | "vravi">("none");
   const [sessionReviews, setSessionReviews] = useState(0);
   const [sessionStartedAt] = useState(() => Date.now());
+  // Nāma opened via the phonetic search (lookup only; SRS queue untouched)
+  const [lookupNama, setLookupNama] = useState<number | null>(null);
+
+  const searchIndex = useMemo(
+    () =>
+      buildNameEntries(props.names, (i) => props.shortMeanings[i + 1] ?? ""),
+    [props.names, props.shortMeanings],
+  );
 
   // Hydrate progress from localStorage on mount.
   useEffect(() => {
@@ -94,9 +105,12 @@ export default function PracticeView(props: PracticeViewProps) {
         e.preventDefault();
         handleReveal();
       } else if (showAnswer) {
-        if (e.key === "1") handleRate(0); // Again
-        else if (e.key === "2") handleRate(3); // Hard
-        else if (e.key === "3") handleRate(4); // Good
+        if (e.key === "1")
+          handleRate(0); // Again
+        else if (e.key === "2")
+          handleRate(3); // Hard
+        else if (e.key === "3")
+          handleRate(4); // Good
         else if (e.key === "4") handleRate(5); // Easy
       }
     };
@@ -112,14 +126,29 @@ export default function PracticeView(props: PracticeViewProps) {
 
   return (
     <>
+      <div className="mb-4">
+        <NamaSearch
+          entries={searchIndex}
+          onSelect={(id) => setLookupNama(Number(id))}
+        />
+      </div>
+
+      {lookupNama !== null && (
+        <LookupCard
+          nama={lookupNama}
+          name={props.names[lookupNama - 1] ?? "?"}
+          meaning={props.shortMeanings[lookupNama] ?? ""}
+          rootText={props.rootText[lookupNama] ?? ""}
+          onClose={() => setLookupNama(null)}
+        />
+      )}
+
       <Dashboard
         summary={summary}
         sessionReviews={sessionReviews}
         sessionStartedAt={sessionStartedAt}
         progress={progress}
-        onChangeSettings={(s) =>
-          setProgress({ ...progress, settings: s })
-        }
+        onChangeSettings={(s) => setProgress({ ...progress, settings: s })}
       />
 
       {!currentCard ? (
@@ -139,6 +168,72 @@ export default function PracticeView(props: PracticeViewProps) {
         />
       )}
     </>
+  );
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Lookup card — result of a phonetic search, independent of the SRS queue
+// ─────────────────────────────────────────────────────────────────────────────
+
+function LookupCard({
+  nama,
+  name,
+  meaning,
+  rootText,
+  onClose,
+}: {
+  nama: number;
+  name: string;
+  meaning: string;
+  rootText: string;
+  onClose: () => void;
+}) {
+  const [showRoot, setShowRoot] = useState(false);
+
+  // Collapse the root breakdown when a different nāma is looked up.
+  useEffect(() => {
+    setShowRoot(false);
+  }, [nama]);
+
+  return (
+    <div className="sticker-card mb-6 p-5">
+      <div className="flex items-start justify-between gap-3">
+        <span className="number-pill mt-1">N° {nama}</span>
+        <button
+          type="button"
+          onClick={onClose}
+          aria-label="Close"
+          className="text-[#8a6a3c] hover:text-[#2b1700]"
+        >
+          <span aria-hidden className="text-xl leading-none">
+            ×
+          </span>
+        </button>
+      </div>
+      <h3 className="font-sanskrit mt-2 text-2xl leading-tight font-extrabold text-[#2b1700]">
+        {name}
+      </h3>
+      <p className="mt-1 text-sm text-[#8a6a3c] italic">
+        {devanagariToIAST(name)}
+      </p>
+      {meaning && <p className="mt-2 text-sm text-[#2b1700]/85">{meaning}</p>}
+      {rootText && (
+        <>
+          <button
+            type="button"
+            onClick={() => setShowRoot((s) => !s)}
+            className="pill-tab mt-3"
+          >
+            {showRoot ? "Hide root" : "Show root"}
+          </button>
+          {showRoot && (
+            <div className="mt-3 rounded-md border border-[#2b1700]/15 bg-[#faf2dc] p-3">
+              <RootBreakdown text={rootText} />
+            </div>
+          )}
+        </>
+      )}
+    </div>
   );
 }
 
@@ -176,7 +271,7 @@ function Dashboard({
   };
 
   return (
-    <div className="mb-6 sticker-card p-4 sm:p-5">
+    <div className="sticker-card mb-6 p-4 sm:p-5">
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
         <Stat label="Due now" value={summary.due} accent="saffron" />
         <Stat label="Learning" value={summary.learning} />
@@ -213,7 +308,9 @@ function Dashboard({
                   key={m}
                   onClick={() => toggleMode(m)}
                   className={`pill-tab ${
-                    progress.settings.modes.includes(m) ? "pill-tab--active" : ""
+                    progress.settings.modes.includes(m)
+                      ? "pill-tab--active"
+                      : ""
                   }`}
                 >
                   {MODE_LABELS[m]}
@@ -449,7 +546,7 @@ function Flashcard({
           {showExtra === "vravi" && (
             <div className="mt-4 max-h-56 overflow-y-auto rounded-md border border-[#2b1700]/15 bg-[#faf2dc] p-3 text-sm leading-relaxed text-[#2b1700]/85">
               {vraviText[card.nama] || (
-                <span className="italic text-[#8a6a3c]">
+                <span className="text-[#8a6a3c] italic">
                   No V. Ravi commentary recorded for this nāma.
                 </span>
               )}
@@ -461,7 +558,7 @@ function Flashcard({
               {rootText[card.nama] ? (
                 <RootBreakdown text={rootText[card.nama]!} />
               ) : (
-                <p className="text-sm italic text-[#8a6a3c]">
+                <p className="text-sm text-[#8a6a3c] italic">
                   No root breakdown recorded yet for this nāma.
                 </p>
               )}
@@ -551,14 +648,10 @@ function RatingButton({
   hot: string;
 }) {
   const styles: Record<typeof color, string> = {
-    maroon:
-      "bg-[#7c1d1d] text-[#fff8e1] border-[#7c1d1d] hover:bg-[#5a1414]",
-    ink:
-      "bg-[#2b1700] text-[#fde68a] border-[#2b1700] hover:bg-[#1a0f00]",
-    saffron:
-      "bg-[#c2410c] text-[#fff8e1] border-[#c2410c] hover:bg-[#a13609]",
-    paper:
-      "bg-[#faf2dc] text-[#2b1700] border-[#2b1700] hover:bg-[#fde68a]",
+    maroon: "bg-[#7c1d1d] text-[#fff8e1] border-[#7c1d1d] hover:bg-[#5a1414]",
+    ink: "bg-[#2b1700] text-[#fde68a] border-[#2b1700] hover:bg-[#1a0f00]",
+    saffron: "bg-[#c2410c] text-[#fff8e1] border-[#c2410c] hover:bg-[#a13609]",
+    paper: "bg-[#faf2dc] text-[#2b1700] border-[#2b1700] hover:bg-[#fde68a]",
   };
   return (
     <button
@@ -567,7 +660,9 @@ function RatingButton({
       className={`rounded-lg border-2 px-2 py-2.5 transition-colors ${styles[color]}`}
     >
       <div className="text-base">{label}</div>
-      <div className="font-mono text-[10px] opacity-80">{sub} · {hot}</div>
+      <div className="font-mono text-[10px] opacity-80">
+        {sub} · {hot}
+      </div>
     </button>
   );
 }
@@ -611,7 +706,7 @@ function renderPrompt(
         <p className="font-sanskrit text-2xl font-bold text-[#7c1d1d]">
           {prevName}
         </p>
-        <p className="mt-1 text-xs italic text-[#5a3a18]">{prevMeaning}</p>
+        <p className="mt-1 text-xs text-[#5a3a18] italic">{prevMeaning}</p>
       </div>
     ),
   };
@@ -686,7 +781,8 @@ function EmptyState({ progress }: { progress: Progress }) {
       <p className="text-2xl font-extrabold text-[#7c1d1d]">All caught up.</p>
       <p className="mt-2 text-sm text-[#5a3a18]">
         Nothing more is due today, and you've hit the daily-new cap. Come back
-        tomorrow — spaced repetition only works if you let the intervals breathe.
+        tomorrow — spaced repetition only works if you let the intervals
+        breathe.
       </p>
       <p className="mt-4 text-xs text-[#8a6a3c]">
         Streak: <b>{progress.stats.streakDays}</b> day

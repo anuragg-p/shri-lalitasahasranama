@@ -129,6 +129,11 @@ export default function NamaSearch({
                 }`}
               >
                 <span className="flex flex-wrap items-baseline gap-x-2">
+                  {result.badge && (
+                    <span className="font-mono text-[10px] font-bold tracking-wider text-[#8a6a3c]">
+                      {result.badge}
+                    </span>
+                  )}
                   <span className="font-sanskrit text-base font-bold text-[#2b1700]">
                     {result.devanagari}
                   </span>

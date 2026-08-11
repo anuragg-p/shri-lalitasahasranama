@@ -1,12 +1,21 @@
 "use client";
 
-import React, { useState } from "react";
+import React, {
+  useCallback,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+} from "react";
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
 } from "@/components/ui/popover";
 import { RootBreakdown } from "@/components/root-breakdown";
+import NamaSearch from "@/components/nama-search";
+import { buildNameEntries } from "@/lib/phonetic-search";
+import { devanagariToIAST } from "@/lib/transliterate";
 import type { Chapter, ThemeGroup } from "@/constants/themes";
 
 type Commentaries = Record<string, Record<string, string>>;
@@ -25,6 +34,37 @@ export default function ThemesView({
   // Two independent sets so users can drill in chapter-by-chapter.
   const [openChapters, setOpenChapters] = useState<Set<number>>(new Set());
   const [openGroups, setOpenGroups] = useState<Set<string>>(new Set());
+  // Nāma to scroll to / open after a search selection expanded its section
+  const [focusNama, setFocusNama] = useState<number | null>(null);
+
+  const searchIndex = useMemo(
+    () =>
+      buildNameEntries(
+        names,
+        (_i, name) => commentaries["Sanskrit Documents"]?.[name] ?? "",
+      ),
+    [names, commentaries],
+  );
+
+  const handleSearchSelect = useCallback(
+    (id: string) => {
+      const n = Number(id);
+      for (const [ci, chapter] of chapters.entries()) {
+        for (const [gi, group] of chapter.groups.entries()) {
+          const [start, end] = group.range;
+          if (n >= start && n <= end) {
+            setOpenChapters((prev) => new Set(prev).add(ci));
+            setOpenGroups((prev) => new Set(prev).add(`${ci}-${gi}`));
+            setFocusNama(n);
+            return;
+          }
+        }
+      }
+    },
+    [chapters],
+  );
+
+  const handleFocusConsumed = useCallback(() => setFocusNama(null), []);
 
   const toggleChapter = (idx: number) =>
     setOpenChapters((prev) => {
@@ -49,6 +89,10 @@ export default function ThemesView({
 
   return (
     <>
+      <div className="sticky top-0 z-40 -mx-2 mb-4 px-2 py-3">
+        <NamaSearch entries={searchIndex} onSelect={handleSearchSelect} />
+      </div>
+
       <div className="mb-6 flex flex-wrap items-center justify-between gap-3 border-b border-[#2b1700]/15 pb-3 text-xs font-bold tracking-widest text-[#8a6a3c] uppercase">
         <span>{chapters.length} chapters · 1000 nāmas</span>
         <button onClick={collapseAll} className="pill-tab">
@@ -72,7 +116,7 @@ export default function ThemesView({
                   {String(ci + 1).padStart(2, "0")}
                 </span>
                 <div className="flex-1">
-                  <h2 className="text-xl font-extrabold leading-tight text-[#2b1700] sm:text-2xl">
+                  <h2 className="text-xl leading-tight font-extrabold text-[#2b1700] sm:text-2xl">
                     {chapter.title}
                   </h2>
                   <p className="mt-1 text-xs font-bold tracking-widest text-[#8a6a3c] uppercase">
@@ -95,7 +139,7 @@ export default function ThemesView({
               {isOpen && (
                 <div className="mt-5 space-y-3 border-t-2 border-dashed border-[#2b1700]/20 pt-5">
                   {chapter.anchor && (
-                    <blockquote className="mb-4 border-l-2 border-[#c2410c]/60 bg-[#c2410c]/5 px-4 py-2 text-xs italic text-[#5a3a18]">
+                    <blockquote className="mb-4 border-l-2 border-[#c2410c]/60 bg-[#c2410c]/5 px-4 py-2 text-xs text-[#5a3a18] italic">
                       <span className="mr-2 font-bold tracking-widest text-[#c2410c] uppercase">
                         V. Ravi:
                       </span>
@@ -110,6 +154,8 @@ export default function ThemesView({
                       onToggle={() => toggleGroup(`${ci}-${gi}`)}
                       names={names}
                       commentaries={commentaries}
+                      focusNama={focusNama}
+                      onFocusConsumed={handleFocusConsumed}
                     />
                   ))}
                 </div>
@@ -128,12 +174,16 @@ function SubGroup({
   onToggle,
   names,
   commentaries,
+  focusNama,
+  onFocusConsumed,
 }: {
   group: ThemeGroup;
   open: boolean;
   onToggle: () => void;
   names: string[];
   commentaries: Commentaries;
+  focusNama: number | null;
+  onFocusConsumed: () => void;
 }) {
   const [start, end] = group.range;
   return (
@@ -144,12 +194,12 @@ function SubGroup({
         className="flex w-full items-start gap-3 text-left"
         aria-expanded={open}
       >
-        <span className="font-mono mt-0.5 shrink-0 text-xs font-bold tracking-wider text-[#8a6a3c]">
+        <span className="mt-0.5 shrink-0 font-mono text-xs font-bold tracking-wider text-[#8a6a3c]">
           {start}—{end}
         </span>
         <div className="flex-1">
           <h3 className="text-base font-bold text-[#2b1700]">{group.title}</h3>
-          <p className="mt-0.5 text-sm italic text-[#5a3a18]">
+          <p className="mt-0.5 text-sm text-[#5a3a18] italic">
             {group.summary}
           </p>
         </div>
@@ -175,6 +225,8 @@ function SubGroup({
                   number={nameNumber}
                   name={name}
                   commentaries={commentaries}
+                  focused={focusNama === nameNumber}
+                  onFocusConsumed={onFocusConsumed}
                 />
               );
             },
@@ -189,12 +241,29 @@ function NamaChip({
   number,
   name,
   commentaries,
+  focused = false,
+  onFocusConsumed,
 }: {
   number: number;
   name: string;
   commentaries: Commentaries;
+  focused?: boolean;
+  onFocusConsumed?: () => void;
 }) {
   const [open, setOpen] = useState(false);
+  const triggerRef = useRef<HTMLButtonElement>(null);
+
+  // When a search selection lands on this chip, scroll to it and open it.
+  useEffect(() => {
+    if (focused) {
+      triggerRef.current?.scrollIntoView({
+        behavior: "smooth",
+        block: "center",
+      });
+      setOpen(true);
+      onFocusConsumed?.();
+    }
+  }, [focused, onFocusConsumed]);
 
   const available = Object.entries(commentaries)
     .map(([source, dict]) => ({ source, text: dict[name] }))
@@ -212,6 +281,7 @@ function NamaChip({
     <Popover open={open} onOpenChange={setOpen}>
       <PopoverTrigger asChild>
         <button
+          ref={triggerRef}
           type="button"
           className="font-sanskrit sticker-chip text-base"
           title={`Nāma ${number}`}
@@ -252,8 +322,7 @@ function NamaPopoverContent({
   const [activeIdx, setActiveIdx] = useState(0);
   const active = available[activeIdx] ?? null;
 
-  const tabLabel = (source: string) =>
-    source === "root" ? "Root" : source;
+  const tabLabel = (source: string) => (source === "root" ? "Root" : source);
 
   return (
     <>
@@ -272,9 +341,14 @@ function NamaPopoverContent({
           </button>
         </div>
 
-        <h3 className="font-sanskrit text-2xl font-extrabold leading-tight text-[#2b1700]">
-          {name}
-        </h3>
+        <div>
+          <h3 className="font-sanskrit text-2xl leading-tight font-extrabold text-[#2b1700]">
+            {name}
+          </h3>
+          <p className="mt-1 text-sm text-[#8a6a3c] italic">
+            {devanagariToIAST(name)}
+          </p>
+        </div>
 
         {available.length > 0 && (
           <div className="flex flex-wrap gap-1.5 pt-1">
@@ -302,7 +376,7 @@ function NamaPopoverContent({
         style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
       >
         {!active ? (
-          <p className="italic text-[#8a6a3c]">No commentary available.</p>
+          <p className="text-[#8a6a3c] italic">No commentary available.</p>
         ) : active.source === "root" ? (
           <RootBreakdown text={active.text} />
         ) : active.text.includes("\n") ? (

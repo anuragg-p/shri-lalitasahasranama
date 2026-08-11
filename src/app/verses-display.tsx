@@ -1230,7 +1230,7 @@ export default function VersesDisplay({
   return (
     <div className="font-sanskrit mx-auto max-w-3xl text-left text-lg leading-relaxed">
       {/* Phonetic search + pronunciation toggle */}
-      <div className="sticky top-0 z-40 -mx-2 mb-8 flex items-start gap-2 bg-[#f5ead0]/90 px-2 py-3 font-sans backdrop-blur-sm">
+      <div className="sticky top-0 z-40 -mx-2 mb-8 flex items-start gap-2 px-2 py-3 font-sans">
         <div className="min-w-0 flex-1">
           <NamaSearch entries={searchIndex} onSelect={handleSearchSelect} />
         </div>
