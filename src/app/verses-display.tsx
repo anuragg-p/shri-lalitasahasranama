@@ -1,12 +1,21 @@
 "use client";
 
-import React, { useState, useRef, useEffect, useCallback, useMemo } from "react";
+import React, {
+  useState,
+  useRef,
+  useEffect,
+  useCallback,
+  useMemo,
+} from "react";
 import useEmblaCarousel from "embla-carousel-react";
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
 } from "@/components/ui/popover";
+import NamaSearch from "@/components/nama-search";
+import { devanagariToIAST } from "@/lib/transliterate";
+import { toSearchKey, type SearchEntry } from "@/lib/phonetic-search";
 
 interface VersesDisplayProps {
   sanskritText: string;
@@ -94,8 +103,7 @@ function parseWordsFromLine(
       const wasInsideParens = parenDepth > 0;
       parenDepth += opens - closes;
       if (parenDepth < 0) parenDepth = 0;
-      const insideParens =
-        wasInsideParens || opens > 0 || word.includes(")");
+      const insideParens = wasInsideParens || opens > 0 || word.includes(")");
 
       if (insideParens) {
         result.push({ word, isWord: false });
@@ -149,38 +157,40 @@ function parseWordsFromLine(
  *   - dashes, whitespace, avagraha
  */
 function normalizeName(name: string): string {
-  return name
-    .replace(/-/g, "")
-    .replace(/\s+/g, "")
-    .replace(/ऽ/g, "")
-    // Fold long↔short vowel pairs to absorb common spelling variations
-    .replace(/ा/g, "")
-    .replace(/ू/g, "ु")
-    .replace(/ी/g, "ि")
-    .replace(/ै/g, "े")
-    .replace(/ौ/g, "ो")
-    .replace(/आ/g, "अ")
-    .replace(/ऊ/g, "उ")
-    .replace(/ई/g, "इ")
-    .replace(/ऐ/g, "ए")
-    .replace(/औ/g, "ओ")
-    .replace(/ङ्क/g, "ंक")
-    .replace(/ङ्ख/g, "ंख")
-    .replace(/ङ्ग/g, "ंग")
-    .replace(/ङ्घ/g, "ंघ")
-    .replace(/ञ्च/g, "ंच")
-    .replace(/ञ्ज/g, "ंज")
-    .replace(/ण्ट/g, "ंट")
-    .replace(/ण्ठ/g, "ंठ")
-    .replace(/ण्ड/g, "ंड")
-    .replace(/ण्ढ/g, "ंढ")
-    .replace(/न्त/g, "ंत")
-    .replace(/न्द/g, "ंद")
-    .replace(/न्ध/g, "ंध")
-    .replace(/म्प/g, "ंप")
-    .replace(/म्फ/g, "ंफ")
-    .replace(/म्ब/g, "ंब")
-    .replace(/म्भ/g, "ंभ");
+  return (
+    name
+      .replace(/-/g, "")
+      .replace(/\s+/g, "")
+      .replace(/ऽ/g, "")
+      // Fold long↔short vowel pairs to absorb common spelling variations
+      .replace(/ा/g, "")
+      .replace(/ू/g, "ु")
+      .replace(/ी/g, "ि")
+      .replace(/ै/g, "े")
+      .replace(/ौ/g, "ो")
+      .replace(/आ/g, "अ")
+      .replace(/ऊ/g, "उ")
+      .replace(/ई/g, "इ")
+      .replace(/ऐ/g, "ए")
+      .replace(/औ/g, "ओ")
+      .replace(/ङ्क/g, "ंक")
+      .replace(/ङ्ख/g, "ंख")
+      .replace(/ङ्ग/g, "ंग")
+      .replace(/ङ्घ/g, "ंघ")
+      .replace(/ञ्च/g, "ंच")
+      .replace(/ञ्ज/g, "ंज")
+      .replace(/ण्ट/g, "ंट")
+      .replace(/ण्ठ/g, "ंठ")
+      .replace(/ण्ड/g, "ंड")
+      .replace(/ण्ढ/g, "ंढ")
+      .replace(/न्त/g, "ंत")
+      .replace(/न्द/g, "ंद")
+      .replace(/न्ध/g, "ंध")
+      .replace(/म्प/g, "ंप")
+      .replace(/म्फ/g, "ंफ")
+      .replace(/म्ब/g, "ंब")
+      .replace(/म्भ/g, "ंभ")
+  );
 }
 
 // Build a normalized-key cache lazily per commentary source so we only compute
@@ -284,9 +294,7 @@ function findCommentary(
         entries.push(...matched);
       }
       if (succeeded && entries.length > 0) {
-        return entries
-          .map(({ key, text }) => `${key}\n${text}`)
-          .join("\n\n");
+        return entries.map(({ key, text }) => `${key}\n${text}`).join("\n\n");
       }
     }
   }
@@ -311,9 +319,7 @@ function findCommentary(
   // left half, and combine matching commentaries.
   const sandhiParts = trySandhiSplit(name, commentarySource);
   if (sandhiParts) {
-    return sandhiParts
-      .map(({ key, text }) => `${key}\n${text}`)
-      .join("\n\n");
+    return sandhiParts.map(({ key, text }) => `${key}\n${text}`).join("\n\n");
   }
 
   return null;
@@ -337,7 +343,8 @@ function resolveCandidate(
   | { single: { key: string; text: string } }
   | { multi: Array<{ key: string; text: string }> }
   | null {
-  if (src[candidate]) return { single: { key: candidate, text: src[candidate]! } };
+  if (src[candidate])
+    return { single: { key: candidate, text: src[candidate]! } };
   const idx = getNormalizedIndex(src);
   const fuzzy = idx.get(normalizeName(candidate));
   if (fuzzy) return { single: { key: fuzzy, text: src[fuzzy]! } };
@@ -376,8 +383,17 @@ function trySandhiSplit(
   // right-hand component after sandhi (e.g. कीर्तिः + उद्दाम → कीर्तिरुद्दाम,
   // where the independent उ became the matra ु on र).
   const matraToIndependent: Record<string, string> = {
-    "ा": "आ", "ि": "इ", "ी": "ई", "ु": "उ", "ू": "ऊ",
-    "ृ": "ऋ", "ॄ": "ॠ", "े": "ए", "ै": "ऐ", "ो": "ओ", "ौ": "औ",
+    "ा": "आ",
+    "ि": "इ",
+    "ी": "ई",
+    "ु": "उ",
+    "ू": "ऊ",
+    "ृ": "ऋ",
+    "ॄ": "ॠ",
+    "े": "ए",
+    "ै": "ऐ",
+    "ो": "ओ",
+    "ौ": "औ",
   };
 
   for (let i = 1; i < name.length - 1; i++) {
@@ -615,9 +631,7 @@ function RootBreakdown({ text }: { text: string }) {
         <div className="flex items-baseline gap-2">
           <span
             className={`font-sanskrit shrink-0 ${
-              isFocused
-                ? "font-semibold text-[#7c1d1d]"
-                : "text-[#c2410c]"
+              isFocused ? "font-semibold text-[#7c1d1d]" : "text-[#c2410c]"
             }`}
           >
             {part}
@@ -876,26 +890,33 @@ function WordPopover({
               aria-label="Close"
               className="text-[#8a6a3c] hover:text-[#2b1700]"
             >
-              <span aria-hidden className="text-xl leading-none">×</span>
+              <span aria-hidden className="text-xl leading-none">
+                ×
+              </span>
             </button>
           </div>
 
-          <h3
-            className="font-sanskrit cursor-pointer text-2xl font-extrabold leading-tight text-[#2b1700] hover:text-[#c2410c]"
-            onClick={(e) => {
-              e.stopPropagation();
-              if (availableTabs.includes("root") && selectedTab !== "root") {
-                handleTabClick("root", e);
+          <div>
+            <h3
+              className="font-sanskrit cursor-pointer text-2xl leading-tight font-extrabold text-[#2b1700] hover:text-[#c2410c]"
+              onClick={(e) => {
+                e.stopPropagation();
+                if (availableTabs.includes("root") && selectedTab !== "root") {
+                  handleTabClick("root", e);
+                }
+              }}
+              title={
+                availableTabs.includes("root")
+                  ? "Show root breakdown"
+                  : undefined
               }
-            }}
-            title={
-              availableTabs.includes("root")
-                ? "Show root breakdown"
-                : undefined
-            }
-          >
-            {word}
-          </h3>
+            >
+              {word}
+            </h3>
+            <p className="mt-1 font-sans text-sm text-[#8a6a3c] italic">
+              {devanagariToIAST(word)}
+            </p>
+          </div>
 
           {/* Tabs as pills */}
           <div className="flex flex-wrap gap-1.5 pt-1">
@@ -1008,124 +1029,161 @@ function WordPopover({
   );
 }
 
+// Pattern to detect concluding line (should not be processed for word matching)
+const concludingLinePattern =
+  /एवं\s+श्रीललिता\s+देव्या\s+नाम्नां\s+साहस्रकं\s+जगुः/;
+
 export default function VersesDisplay({
   sanskritText,
   commentaries,
 }: VersesDisplayProps) {
-  const lines = sanskritText.split("\n");
+  const lines = useMemo(() => sanskritText.split("\n"), [sanskritText]);
   const [openWordId, setOpenWordId] = useState<string | null>(null);
   const [shouldScroll, setShouldScroll] = useState(false);
+  const [showPronunciation, setShowPronunciation] = useState(false);
   const [preferredCommentaryTab, setPreferredCommentaryTab] = useState<
     string | null
   >(null);
 
-  // Create a map of wordId -> commentaries by matching words to commentary names
-  const wordToCommentaryMap = new Map<
-    string,
-    {
-      word: string;
-      commentariesBySource: Record<string, string>;
-      breakdownComponents?: string[];
-    }
-  >();
+  const { wordToCommentaryMap, wordsWithCommentaries, searchIndex } =
+    useMemo(() => {
+      // Create a map of wordId -> commentaries by matching words to commentary names
+      const wordToCommentaryMap = new Map<
+        string,
+        {
+          word: string;
+          commentariesBySource: Record<string, string>;
+          breakdownComponents?: string[];
+        }
+      >();
 
-  // Pattern to detect concluding line (should not be processed for word matching)
-  const concludingLinePattern =
-    /एवं\s+श्रीललिता\s+देव्या\s+नाम्नां\s+साहस्रकं\s+जगुः/;
+      lines.forEach((line, lineIndex) => {
+        if (!line.trim()) return;
+        // Skip the concluding line for word matching
+        if (concludingLinePattern.test(line)) return;
 
-  lines.forEach((line, lineIndex) => {
-    if (!line.trim()) return;
-    // Skip the concluding line for word matching
-    if (concludingLinePattern.test(line)) return;
+        const parsed = parseWordsFromLine(line);
+        parsed.forEach((item, wordIndex) => {
+          if (item.isWord) {
+            const wordId = `word-${lineIndex}-${wordIndex}`;
 
-    const parsed = parseWordsFromLine(line);
-    parsed.forEach((item, wordIndex) => {
-      if (item.isWord) {
-        const wordId = `word-${lineIndex}-${wordIndex}`;
+            // Collect commentaries from all sources for this word
+            const commentariesBySource: Record<string, string> = {};
+            let hasAnyCommentary = false;
 
-        // Collect commentaries from all sources for this word
-        const commentariesBySource: Record<string, string> = {};
-        let hasAnyCommentary = false;
+            // If word has breakdown components, combine their commentaries with Sanskrit names
+            if (
+              item.breakdownComponents &&
+              item.breakdownComponents.length > 0
+            ) {
+              // Process each commentary source
+              for (const [sourceName, sourceCommentaries] of Object.entries(
+                commentaries,
+              )) {
+                const componentEntries: Array<{
+                  sanskrit: string;
+                  meaning: string;
+                }> = [];
+                for (const component of item.breakdownComponents) {
+                  const compCommentary = findCommentary(
+                    component,
+                    sourceCommentaries,
+                  );
+                  if (compCommentary) {
+                    componentEntries.push({
+                      sanskrit: component,
+                      meaning: compCommentary,
+                    });
+                  }
+                }
 
-        // If word has breakdown components, combine their commentaries with Sanskrit names
-        if (item.breakdownComponents && item.breakdownComponents.length > 0) {
-          // Process each commentary source
-          for (const [sourceName, sourceCommentaries] of Object.entries(
-            commentaries,
-          )) {
-            const componentEntries: Array<{
-              sanskrit: string;
-              meaning: string;
-            }> = [];
-            for (const component of item.breakdownComponents) {
-              const compCommentary = findCommentary(
-                component,
-                sourceCommentaries,
-              );
-              if (compCommentary) {
-                componentEntries.push({
-                  sanskrit: component,
-                  meaning: compCommentary,
+                if (componentEntries.length > 0) {
+                  // Format: Sanskrit name on one line, meaning below, with blank line between components
+                  const combinedCommentary = componentEntries
+                    .map((entry) => `${entry.sanskrit}\n${entry.meaning}`)
+                    .join("\n\n");
+                  commentariesBySource[sourceName] = combinedCommentary;
+                  hasAnyCommentary = true;
+                }
+              }
+
+              if (hasAnyCommentary) {
+                wordToCommentaryMap.set(wordId, {
+                  word: item.word,
+                  commentariesBySource,
+                  breakdownComponents: item.breakdownComponents,
+                });
+              }
+            } else {
+              // Regular word lookup - check all commentary sources
+              for (const [sourceName, sourceCommentaries] of Object.entries(
+                commentaries,
+              )) {
+                const commentary = findCommentary(
+                  item.word,
+                  sourceCommentaries,
+                );
+                if (commentary) {
+                  commentariesBySource[sourceName] = commentary;
+                  hasAnyCommentary = true;
+                }
+              }
+
+              if (hasAnyCommentary) {
+                wordToCommentaryMap.set(wordId, {
+                  word: item.word,
+                  commentariesBySource,
                 });
               }
             }
-
-            if (componentEntries.length > 0) {
-              // Format: Sanskrit name on one line, meaning below, with blank line between components
-              const combinedCommentary = componentEntries
-                .map((entry) => `${entry.sanskrit}\n${entry.meaning}`)
-                .join("\n\n");
-              commentariesBySource[sourceName] = combinedCommentary;
-              hasAnyCommentary = true;
-            }
           }
+        });
+      });
 
-          if (hasAnyCommentary) {
-            wordToCommentaryMap.set(wordId, {
-              word: item.word,
-              commentariesBySource,
-              breakdownComponents: item.breakdownComponents,
-            });
-          }
-        } else {
-          // Regular word lookup - check all commentary sources
-          for (const [sourceName, sourceCommentaries] of Object.entries(
-            commentaries,
-          )) {
-            const commentary = findCommentary(item.word, sourceCommentaries);
-            if (commentary) {
-              commentariesBySource[sourceName] = commentary;
-              hasAnyCommentary = true;
-            }
-          }
+      // Collect all words with commentaries for cycling functionality
+      const wordsWithCommentaries: WordWithCommentary[] = [];
+      wordToCommentaryMap.forEach((value, wordId) => {
+        const [lineIndex, wordIndex] = wordId
+          .replace("word-", "")
+          .split("-")
+          .map(Number);
+        wordsWithCommentaries.push({
+          id: wordId,
+          word: value.word,
+          lineIndex: lineIndex ?? 0,
+          wordIndex: wordIndex ?? 0,
+          commentariesBySource: value.commentariesBySource,
+          breakdownComponents: value.breakdownComponents,
+        });
+      });
 
-          if (hasAnyCommentary) {
-            wordToCommentaryMap.set(wordId, {
-              word: item.word,
-              commentariesBySource,
-            });
-          }
-        }
-      }
-    });
-  });
+      // Phonetic search index: transliterate each verse word so it can be
+      // found by typing romanized Sanskrit ("shri mata", "tanumadhya", ...)
+      const searchIndex: SearchEntry[] = wordsWithCommentaries.map((entry) => {
+        const iast = devanagariToIAST(entry.word);
+        const glossSource =
+          entry.commentariesBySource["Sanskrit Documents"] ?? "";
+        const gloss = glossSource
+          .split("\n")
+          .map((l) => l.trim())
+          .filter((l) => /[a-z]/i.test(l))
+          .join(" · ");
+        return {
+          id: entry.id,
+          devanagari: entry.word,
+          iast,
+          gloss,
+          key: toSearchKey(iast),
+        };
+      });
 
-  // Collect all words with commentaries for cycling functionality
-  const wordsWithCommentaries: WordWithCommentary[] = [];
-  wordToCommentaryMap.forEach((value, wordId) => {
-    const [lineIndex, wordIndex] = wordId
-      .replace("word-", "")
-      .split("-")
-      .map(Number);
-    wordsWithCommentaries.push({
-      id: wordId,
-      word: value.word,
-      lineIndex: lineIndex ?? 0,
-      wordIndex: wordIndex ?? 0,
-      commentariesBySource: value.commentariesBySource,
-      breakdownComponents: value.breakdownComponents,
-    });
-  });
+      return { wordToCommentaryMap, wordsWithCommentaries, searchIndex };
+    }, [lines, commentaries]);
+
+  const handleSearchSelect = useCallback((wordId: string) => {
+    setShouldScroll(true);
+    setOpenWordId(wordId);
+  }, []);
 
   const currentWordIndex = wordsWithCommentaries.findIndex(
     (w) => w.id === openWordId,
@@ -1171,6 +1229,23 @@ export default function VersesDisplay({
 
   return (
     <div className="font-sanskrit mx-auto max-w-3xl text-left text-lg leading-relaxed">
+      {/* Phonetic search + pronunciation toggle */}
+      <div className="sticky top-0 z-40 -mx-2 mb-8 flex items-start gap-2 bg-[#f5ead0]/90 px-2 py-3 font-sans backdrop-blur-sm">
+        <div className="min-w-0 flex-1">
+          <NamaSearch entries={searchIndex} onSelect={handleSearchSelect} />
+        </div>
+        <button
+          type="button"
+          onClick={() => setShowPronunciation((v) => !v)}
+          className={`pill-tab mt-1 whitespace-nowrap ${
+            showPronunciation ? "pill-tab--saffron" : ""
+          }`}
+          title="Show pronunciation under each line"
+        >
+          Pronunciation
+        </button>
+      </div>
+
       {/* Render regular verses */}
       {regularLines.map((line: string, lineIndex: number) => {
         // Handle empty lines - add more spacing between verses
@@ -1187,40 +1262,56 @@ export default function VersesDisplay({
         // Add more margin after verse numbers to create space between verses
         const marginClass = hasVerseNumber ? "mb-8" : "mb-2";
 
-        return (
-          <p key={lineIndex} className={marginClass}>
-            {parsed.map((item, wordIndex) => {
-              if (item.isWord) {
-                const wordId = `word-${lineIndex}-${wordIndex}`;
-                // Find commentary by name matching using the map
-                const wordEntry = wordToCommentaryMap.get(wordId);
+        // Romanized rendering of the line, minus [breakdown](n) annotations
+        const pronunciationLine = showPronunciation
+          ? devanagariToIAST(line.replace(/\s*\[[^\]]+\](?:\s*\(\d+\))?/g, ""))
+          : null;
 
-                if (wordEntry) {
+        return (
+          <React.Fragment key={lineIndex}>
+            <p className={pronunciationLine ? "mb-1" : marginClass}>
+              {parsed.map((item, wordIndex) => {
+                if (item.isWord) {
+                  const wordId = `word-${lineIndex}-${wordIndex}`;
+                  // Find commentary by name matching using the map
+                  const wordEntry = wordToCommentaryMap.get(wordId);
+
+                  if (wordEntry) {
+                    return (
+                      <WordPopover
+                        key={`${lineIndex}-${wordIndex}`}
+                        word={wordEntry.word}
+                        wordId={wordId}
+                        commentariesBySource={wordEntry.commentariesBySource}
+                        isOpen={openWordId === wordId}
+                        onOpenChange={(open) => {
+                          handleWordOpenChange(wordId, open);
+                        }}
+                        onNext={handleNextWord}
+                        shouldScroll={shouldScroll && openWordId === wordId}
+                        preferredTab={preferredCommentaryTab}
+                        onTabChange={setPreferredCommentaryTab}
+                      />
+                    );
+                  }
+                  // No commentary, render as normal text
                   return (
-                    <WordPopover
-                      key={`${lineIndex}-${wordIndex}`}
-                      word={wordEntry.word}
-                      wordId={wordId}
-                      commentariesBySource={wordEntry.commentariesBySource}
-                      isOpen={openWordId === wordId}
-                      onOpenChange={(open) => {
-                        handleWordOpenChange(wordId, open);
-                      }}
-                      onNext={handleNextWord}
-                      shouldScroll={shouldScroll && openWordId === wordId}
-                      preferredTab={preferredCommentaryTab}
-                      onTabChange={setPreferredCommentaryTab}
-                    />
+                    <span key={`${lineIndex}-${wordIndex}`}>{item.word}</span>
                   );
                 }
-                // No commentary, render as normal text
                 return (
                   <span key={`${lineIndex}-${wordIndex}`}>{item.word}</span>
                 );
-              }
-              return <span key={`${lineIndex}-${wordIndex}`}>{item.word}</span>;
-            })}
-          </p>
+              })}
+            </p>
+            {pronunciationLine && (
+              <p
+                className={`${marginClass} font-sans text-[13px] tracking-wide text-[#8a6a3c]`}
+              >
+                {pronunciationLine}
+              </p>
+            )}
+          </React.Fragment>
         );
       })}
 
